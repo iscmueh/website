@@ -1,0 +1,209 @@
+<<<<<<< HEAD
+######################## default configuration ####################
+baseURL = "http://examplesite.org"
+title = "ISCM | University of Economics Ho Chi Minh"
+theme = "iscm-website"
+themesDir = "../.."
+# post pagination
+=======
+baseURL = "https://iscm.netlify.app/"
+disableLanguages = []
+disqusShortname = "educenter"
+>>>>>>> 81b8f86760b62a84d3d2f533d1c1d49b89a35f1d
+paginate = "6"
+summaryLength = "10"
+theme = "iscmueh.github.io"
+themesDir = "../.."
+title = "ISCM | Institute of Smart City and Management"
+[Languages.en]
+contentDir = "content/english"
+copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+home = "Home"
+languageCode = "en-us"
+languageName = "En"
+weight = 1
+[[Languages.en.menu.footer]]
+name = "teacher"
+url = "teacher"
+[[Languages.en.menu.footer]]
+name = "notice"
+url = "notice"
+[[Languages.en.menu.footer]]
+name = "event"
+url = "event"
+[[Languages.en.menu.footer]]
+name = "scholarship"
+url = "scholarship"
+[[Languages.en.menu.footer]]
+name = "research"
+url = "research"
+[[Languages.en.menu.main]]
+name = "About"
+url = "about"
+weight = 1
+[[Languages.en.menu.main]]
+name = "course"
+url = "course"
+weight = 2
+[[Languages.en.menu.main]]
+hasChildren = true
+name = "Pages"
+weight = 3
+[[Languages.en.menu.main]]
+name = "teacher"
+parent = "Pages"
+url = "teacher"
+[[Languages.en.menu.main]]
+name = "notice"
+parent = "Pages"
+url = "notice"
+[[Languages.en.menu.main]]
+name = "event"
+parent = "Pages"
+url = "event"
+[[Languages.en.menu.main]]
+name = "scholarship"
+parent = "Pages"
+url = "scholarship"
+[[Languages.en.menu.main]]
+name = "research"
+parent = "Pages"
+url = "research"
+[[Languages.en.menu.main]]
+name = "blog"
+url = "blog"
+weight = 4
+[[Languages.en.menu.main]]
+name = "Contact"
+url = "contact"
+weight = 5
+[Languages.fr]
+contentDir = "content/french"
+copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+home = "Accueil"
+languageCode = "fr-fr"
+languageName = "Fr"
+weight = 2
+[[Languages.fr.menu.footer]]
+name = "teacher"
+url = "teacher"
+[[Languages.fr.menu.footer]]
+name = "notice"
+url = "notice"
+[[Languages.fr.menu.footer]]
+name = "event"
+url = "event"
+[[Languages.fr.menu.footer]]
+name = "scholarship"
+url = "scholarship"
+[[Languages.fr.menu.footer]]
+name = "research"
+url = "research"
+[[Languages.fr.menu.main]]
+name = "À propos"
+url = "about"
+weight = 1
+[[Languages.fr.menu.main]]
+name = "Cours"
+url = "course"
+weight = 2
+[[Languages.fr.menu.main]]
+hasChildren = true
+name = "Pages"
+weight = 3
+[[Languages.fr.menu.main]]
+name = "teacher"
+parent = "Pages"
+url = "teacher"
+[[Languages.fr.menu.main]]
+name = "notice"
+parent = "Pages"
+url = "notice"
+[[Languages.fr.menu.main]]
+name = "Évènement"
+parent = "Pages"
+url = "event"
+[[Languages.fr.menu.main]]
+name = "Cursus"
+parent = "Pages"
+url = "scholarship"
+[[Languages.fr.menu.main]]
+name = "research"
+parent = "Pages"
+url = "research"
+[[Languages.fr.menu.main]]
+name = "blog"
+url = "blog"
+weight = 4
+[[Languages.fr.menu.main]]
+name = "Contact"
+url = "contact"
+weight = 5
+[params]
+address = "9567 Turner Trace Apt. BC C3G8A4"
+author = "Themefisher"
+contact_form_action = "#"
+description = "This is meta description"
+email = "info@educenter.com"
+google_analitycs_id = ""
+logo = "images/logo.png"
+mobile = "+211234565523"
+top_header = true
+[params.cookies]
+enable = true
+expire_days = 2
+[params.map]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/animate/animate.css"
+[[params.plugins.css]]
+link = "plugins/venobox/venobox.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/venobox/venobox.min.js"
+[[params.plugins.js]]
+link = "plugins/filterizr/jquery.filterizr.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/gmap.js"
+[params.preloader]
+enable = true
+preloader = "images/preloader.gif"
+[params.subscription]
+enable = true
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+[[params.social]]
+icon = "ti-facebook"
+link = "#"
+title = "facebook"
+[[params.social]]
+icon = "ti-twitter-alt"
+link = "#"
+title = "twitter"
+[[params.social]]
+icon = "ti-instagram"
+link = "#"
+title = "instagram"
+[[params.social]]
+icon = "ti-github"
+link = "#"
+title = "github"
+[[params.social]]
+icon = "ti-linkedin"
+link = "#"
+title = "linkedin"
