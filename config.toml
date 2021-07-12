@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://localhost:1313/"
+baseURL = "https://iscmueh.github.io/"
 title = "ISCM"
 #theme = "iscmueh.github.io"
 #themesDir = ".."
