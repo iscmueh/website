@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://iscmueh.github.io/"
-title = "ISCM"
+title = "Institute of Smart City & Management"
 #theme = "iscmueh.github.io"
 #themesDir = ".."
 # post pagination
@@ -8,7 +8,7 @@ paginate = "6"
 # post excerpt
 summaryLength = "10"
 # disqus short name
-disqusShortname = "educenter" # get your shortname form here : https://disqus.com
+disqusShortname = "iscmueh" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
 
@@ -44,14 +44,14 @@ link = "plugins/google-map/gmap.js"
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/logoiscm.png"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "ISCM"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@educenter.com"
+address = "232/6 Võ Thị Sáu, P. Võ Thị Sáu, Quận 3"
+mobile = "028.39309589 - 028.39309269"
+email = "iscm@ueh.edu.vn"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -75,8 +75,8 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "10.782734"
+map_longitude = "106.685605"
 map_marker = "images/marker.png" # marker size 37*55 px
 
 # cookies
@@ -119,7 +119,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)"
 
 
 
@@ -143,8 +143,8 @@ hasChildren = true
 
   [[Languages.en.menu.main]]
   parent = "Pages"
-  name = "teacher"
-  url = "teacher"
+  name = "team"
+  url = "team"
 
   [[Languages.en.menu.main]]
   parent = "Pages"
@@ -167,21 +167,55 @@ hasChildren = true
   url = "research"
 
 [[Languages.en.menu.main]]
-name = "blog"
-url = "blog"
 weight = 4
+name = "Resources"
+hasChildren = true
+
+    [[Languages.en.menu.main]]
+    parent = "Pages"
+    name = "team"
+    url = "team"
+
+    [[Languages.en.menu.main]]
+    parent = "Pages"
+    name = "notice"
+    url = "notice"
+
+    [[Languages.en.menu.main]]
+    parent = "Pages"
+    name = "event"
+    url = "event"
+
+    [[Languages.en.menu.main]]
+    parent = "Pages"
+    name = "scholarship"
+    url = "scholarship"
+
+    [[Languages.en.menu.main]]
+    parent = "Pages"
+    name = "research"
+    url = "research"
+
+#[[Languages.en.menu.main]]
+#name = "blog"
+#url = "blog"
+#weight = 4
+[[Languages.en.menu.main]]
+name = "StudioLAB"
+url = "studiolab"
+weight = 5
 
 [[Languages.en.menu.main]]
 name = "Contact"
 url = "contact"
-weight = 5
+weight = 6
 
 
 # footer menu
 
 [[Languages.en.menu.footer]]
-name = "teacher"
-url = "teacher"
+name = "team"
+url = "team"
 
 [[Languages.en.menu.footer]]
 name = "notice"
@@ -209,7 +243,7 @@ contentDir = "content/french"
 weight = 2
 home = "Accueil"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2021 ISCM [themefisher](https://themefisher.com)"
 
 
 

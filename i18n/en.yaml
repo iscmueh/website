@@ -75,12 +75,12 @@
 
 - id: join
   translation: Join
-  
+
 - id: enter_email
   translation: Enter your email…
 
 - id: company
-  translation: company
+  translation: ISCM
 
 - id: links
   translation: links
