@@ -1,0 +1,110 @@
+- id: read_more
+  translation: Đọc Thêm
+
+- id: contact_form
+  translation: Form Liên Hệ
+
+- id: send
+  translation: Gửi
+
+- id: contact_info
+  translation: Thông Tin Liên Hệ
+
+- id: subscribe_newsletter
+  translation: Đăng Ký Nhận Tin
+
+- id: subscribe
+  translation: Đăng Ký
+
+- id: contact_us
+  translation: Liên Hệ
+
+- id: latest_article
+  translation: Bài đăng mới
+
+- id: categories
+  translation: Danh Mục
+
+- id: tags
+  translation: Tags
+
+- id: see_all
+  translation: Xem Toàn Bộ
+
+- id: apply_now
+  translation: Đăng Ký
+
+- id: posted_by
+  translation: Đăng Bởi
+
+- id: date
+  translation: Ngày
+
+- id: time
+  translation: Thời Gian
+
+- id: category
+  translation: Danh Mục
+
+- id: related_course
+  translation: Các Khóa Học Liên Quan
+
+- id: duration
+  translation: Thời Gian
+
+- id: weekly
+  translation: Hàng Tuần
+
+- id: fee
+  translation: Mức Phí
+
+- id: teacher
+  translation: Giảng Viên
+
+- id: location
+  translation: Địa Điểm
+
+- id: entry_fee
+  translation: Mức Phí Đầu Vào
+
+- id: event_speaker
+  translation: Diễn Giả
+
+- id: more_event
+  translation: Các Sự Kiện Khác
+
+- id: join
+  translation: Tham Gia
+
+- id: enter_email
+  translation: Nhập Email của bạn…
+
+- id: company
+  translation: ISCM
+
+- id: links
+  translation: Liên Kết
+
+- id: courses
+  translation: Khóa Học
+
+- id: new_notice
+  translation: nouvelle notice
+
+- id: call
+  translation: Điện Thoại
+
+- id: email
+  translation: Email
+
+- id: all
+  translation: Toàn Bộ
+
+- id: interest
+  translation: RÉSUMÉ DES ACTIVITÉS/INTÉRÊTS
+
+- id: our_teachers
+  translation: Nos enseignants
+
+- id: download
+  translation: Tải Về

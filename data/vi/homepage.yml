@@ -4,36 +4,36 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Together, let make our cities smart, more livable, and green"
-      content : "Institute of Smart City and Management (ISCM) is a research institute belong to the School of Technology and Design (STD) of the University of Economics Ho Chi Minh (UEH). Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling"
+    - title : "Cùng nhau xây dựng một thành phố thông minh, xanh, và đáng sống"
+      content : "Viện Đô Thị Thông Minh và Quản Lý (ISCM) là một viện nghiên cứu thuộc Trường Kĩ Thuật và Thiết Kế (STD) của Trường Đại Học Kinh Tế Hồ Chí Minh (UEH). ISCM tổ chức các hoạt động nghiên cứu và đào tạo dựa trên các nền tảng liên kết và tích hợp các ứng dụng tiên tiến và thông minh trong nhiều lĩnh vực như Kiến Trúc, Công Nghệ, Kĩ Thuật, và Mô Hình."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
-        enable : false
-  #      label : "Apply now"
-  #      link : "contact"
+        enable : true
+        label : "Đăng ký"
+        link : "contact"
 
     # slider item loop
-    # - title : "Your bright future is our mission"
+    # - title : "Votre brillant avenir est notre mission"
     #   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
     #   animation_in : "left"
     #   animation_out : "right"
     #   # available animation : left, right, up, down
     #   button:
     #     enable : true
-    #     label : "Apply now"
+    #     label : "Đăng ký"
     #     link : "contact"
 
     # slider item loop
-    # - title : "Your bright future is our mission"
+    # - title : "Votre brillant avenir est notre mission"
     #   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
     #   animation_in : "left"
     #   animation_out : "right"
     #   # available animation : left, right, up, down
     #   button:
     #     enable : true
-    #     label : "Apply now"
+    #     label : "Đăng ký"
     #     link : "contact"
 
 
@@ -43,22 +43,22 @@ banner_feature:
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
-    - name : "Scholorship News"
+    - name : "Học bổng"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
     # feature item loop
-    - name : "Our Notice Board"
+    - name : "Thông báo"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
     # feature item loop
-    - name : "Our Achievements"
+    - name : "Thành tựu"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
     # feature item loop
-    - name : "Admission Now"
+    - name : "Nhận học"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
@@ -66,29 +66,29 @@ banner_feature:
 ############################## about ##################################
 about:
   enable : true
-  title : "About ISCM"
+  title : "Giới thiệu về ISCM"
   image : "images/about/about-us.jpg"
-  content : "Institute of Smart City and Management (ISCM) is a research institute belong to the School of Technology and Design (STD) of the University of Economics Ho Chi Minh (UEH). Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling."
+  content : "Institute of Smart City and Management (ISCM) is a research institute belong to the School of Technology and Design (STD) of the University of Economics Ho Chi Minh (UEH). Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling. "
   button:
     enable : true
-    label : "Learn more"
+    label : "Tìm hiểu thêm"
     link : "about"
 
 
 ############################# Course ################################
 course:
   enable : true
-  title : "Our Course"
+  title : "Khóa học"
   # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Click to Join the Advance Workshop"
-  title : "Training In Advannce Networking"
+  subtitle : "Cliquez pour vous joindre à l’atelier avancé"
+  title : "Apprentissage en réseautique avancée"
   button:
     enable : true
-    label : "join now"
+    label : "Tham gia"
     link : "contact"
 
 
@@ -104,7 +104,7 @@ success_story:
 
 
 
-  Dr. Tu-Anh Trinh - Director "
+  Dr. Tu-Anh Trinh - Director"
   # video link
   video_link : "https://www.youtube.com/watch?v=sqwcbOpMhnA"
 
@@ -112,7 +112,7 @@ success_story:
 ############################# event ################################
 event:
   enable : true
-  title : "Upcoming Events"
+  title : "Sự kiện sắm tới"
   # event item comes from "content/**/event" folder.
 
 
@@ -121,19 +121,19 @@ event:
 #   enable : true
 #   funfact_item:
 #     # funfact item loop
-#     - name : "TEACHERS"
+#     - name : "ENSEIGNANTS"
 #       count : "60"
 #
 #     # funfact item loop
-#     - name : "COURSES"
+#     - name : "COURS"
 #       count : "50"
 #
 #     # funfact item loop
-#     - name : "STUDENTS"
+#     - name : "ÉTUDIANTS"
 #       count : "1000"
 #
 #     # funfact item loop
-#     - name : "SATISFIED CLIENT"
+#     - name : "CLIENTS SATISFAITS"
 #       count : "1400"
 
 # funfact is for about page
@@ -143,5 +143,5 @@ event:
 ############################# blog ################################
 blog:
   enable : true
-  title : "Latest News"
+  title : "Tin tức mới"
   # blog item comes from "content/**/blog" folder.

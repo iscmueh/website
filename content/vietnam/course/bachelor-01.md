@@ -1,5 +1,5 @@
 ---
-title: "JavaScript"
+title: "Kiến Trúc và Thiết Kế Đô Thị Thông Minh"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -7,17 +7,17 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # course thumbnail
-image: "images/courses/course-4.jpg"
+image: "images/courses/course-1.jpg"
 # taxonomy
-category: "Programming"
+category: "under-graduate"
 # teacher
-teacher: "Devid Luis"
+#teacher: "Clark Malik"
 # duration
-duration: "06 mois"
+duration : "3.5 - 5 years"
 # weekly
-weekly: "03 heures"
+#weekly : "03 hours"
 # course fee
-fee: "À partir de 699$"
+#fee : "From: $699"
 # apply url
 apply_url : "#"
 # type
@@ -25,7 +25,7 @@ type: "course"
 ---
 
 
-### À propos du cours
+### About Course
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
@@ -38,7 +38,10 @@ consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porr
 ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
 labore et dolore magnam aliquam quaerat voluptatem.</p>
 
-### Prérequis
+
+{{< youtube id="on_ZGjx4p5U" title="Kiến Trúc và Thiết Kế Đô Thị Thông Minh" >}}
+
+### Requirements
 
 
 
@@ -48,7 +51,7 @@ labore et dolore magnam aliquam quaerat voluptatem.</p>
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 
-### Comment postuler
+### How to Apply
 
 * Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
 * Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
@@ -57,7 +60,7 @@ labore et dolore magnam aliquam quaerat voluptatem.</p>
 * Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
 
 
-### Frais et financement
+### Fees and Funding
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea

@@ -50,7 +50,7 @@ description = "This is meta description"
 author = "ISCM"
 # contact info
 address = "232/6 Võ Thị Sáu, P. Võ Thị Sáu, Quận 3"
-mobile = "028.39309589 - 028.39309269"
+mobile = "+84-28-3930-9589/ +84-28-3930-9269"
 email = "iscm@ueh.edu.vn"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
@@ -88,27 +88,27 @@ expire_days = 2
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/ISCM.UEH"
 
-[[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# title = "twitter"
+# icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+# link = "#"
 
-[[params.social]]
-title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# title = "instagram"
+# icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+# link = "#"
 
 [[params.social]]
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://github.com/iscmueh"
 
 [[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/company/iscm-ueh"
 
 
 ################################### English language #####################################
@@ -236,89 +236,99 @@ url = "research"
 
 
 ################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
+[Languages.vi]
+languageName = "Vi"
+languageCode = "vi-vi"
+contentDir = "content/vietnam"
 weight = 2
-home = "Accueil"
+home = "Trang Chủ"
 # copyright
-copyright = "Copyright &copy; 2021 ISCM [themefisher](https://themefisher.com)"
+copyright = "Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021"
 
 
 
 ################### French navigation ####################
 
 # main menu
-[[Languages.fr.menu.main]]
-name = "À propos"
+[[Languages.vi.menu.main]]
+name = "Giới Thiệu"
 url = "about"
 weight = 1
 
-[[Languages.fr.menu.main]]
-name = "Cours"
+[[Languages.vi.menu.main]]
+name = "Khóa Học"
 url = "course"
 weight = 2
 
-[[Languages.fr.menu.main]]
+[[Languages.vi.menu.main]]
 weight = 3
-name = "Pages"
+name = "Mục"
 hasChildren = true
 
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "teacher"
-  url = "teacher"
+  [[Languages.vi.menu.main]]
+  parent = "Mục"
+  name = "Nhân Sự"
+  url = "team"
 
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "notice"
+  [[Languages.vi.menu.main]]
+  parent = "Mục"
+  name = "Thông Báo"
   url = "notice"
 
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "Évènement"
+  [[Languages.vi.menu.main]]
+  parent = "Mục"
+  name = "Sự Kiện"
   url = "event"
 
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "Cursus"
+  [[Languages.vi.menu.main]]
+  parent = "Mục"
+  name = "Học Bổng"
   url = "scholarship"
 
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "research"
+  [[Languages.vi.menu.main]]
+  parent = "Mục"
+  name = "Nghiên Cứu"
   url = "research"
 
-[[Languages.fr.menu.main]]
-name = "blog"
-url = "blog"
+# [[Languages.vi.menu.main]]
+# name = "blog"
+# url = "blog"
+# weight = 4
+
+[[Languages.vi.menu.main]]
+name = "Tài Nguyên"
+url = "resources"
 weight = 4
 
-[[Languages.fr.menu.main]]
-name = "Contact"
-url = "contact"
+[[Languages.vi.menu.main]]
+name = "StudioLAB"
+url = "resources"
 weight = 5
+
+[[Languages.vi.menu.main]]
+name = "Liên Hệ"
+url = "contact"
+weight = 6
 
 
 # footer menu
 
-[[Languages.fr.menu.footer]]
-name = "teacher"
-url = "teacher"
+[[Languages.vi.menu.footer]]
+name = "team"
+url = "team"
 
-[[Languages.fr.menu.footer]]
+[[Languages.vi.menu.footer]]
 name = "notice"
 url = "notice"
 
-[[Languages.fr.menu.footer]]
+[[Languages.vi.menu.footer]]
 name = "event"
 url = "event"
 
-[[Languages.fr.menu.footer]]
+[[Languages.vi.menu.footer]]
 name = "scholarship"
 url = "scholarship"
 
-[[Languages.fr.menu.footer]]
+[[Languages.vi.menu.footer]]
 name = "research"
 url = "research"

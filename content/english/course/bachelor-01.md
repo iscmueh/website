@@ -38,6 +38,10 @@ consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porr
 ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
 labore et dolore magnam aliquam quaerat voluptatem.</p>
 
+
+{{< youtube id="on_ZGjx4p5U" title="Smart Urban Architecture and Design" >}}
+
+
 ### Requirements
 
 
