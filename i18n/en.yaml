@@ -61,6 +61,10 @@
 - id: teacher
   translation: teacher
 
+- id: team
+  translation: team
+
+
 - id: location
   translation: location
 
@@ -105,6 +109,9 @@
 
 - id: our_teachers
   translation: Our Teachers
+
+- id: our_team
+  translation: Our Team
 
 - id: download
   translation: Download

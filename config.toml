@@ -134,67 +134,53 @@ weight = 1
 [[Languages.en.menu.main]]
 name = "course"
 url = "course"
-weight = 2
+weight = 3
 
 [[Languages.en.menu.main]]
-weight = 3
+weight = 5
 name = "Pages"
 hasChildren = true
 
   [[Languages.en.menu.main]]
   parent = "Pages"
-  name = "team"
-  url = "team"
+  weight = 5
+  name = "Resources"
+  url = "resources"
 
   [[Languages.en.menu.main]]
   parent = "Pages"
+  weight = 1
   name = "notice"
   url = "notice"
 
   [[Languages.en.menu.main]]
   parent = "Pages"
+  weight = 2
   name = "event"
   url = "event"
 
   [[Languages.en.menu.main]]
   parent = "Pages"
+  weight = 3
   name = "scholarship"
   url = "scholarship"
 
   [[Languages.en.menu.main]]
   parent = "Pages"
+  weight = 4
   name = "research"
   url = "research"
 
+  [[Languages.en.menu.main]]
+  parent = "Pages"
+  weight = 6
+  name = "Recruitment"
+  url = "recruit"
+
 [[Languages.en.menu.main]]
-weight = 4
-name = "Resources"
-hasChildren = true
-
-    [[Languages.en.menu.main]]
-    parent = "Pages"
-    name = "team"
-    url = "team"
-
-    [[Languages.en.menu.main]]
-    parent = "Pages"
-    name = "notice"
-    url = "notice"
-
-    [[Languages.en.menu.main]]
-    parent = "Pages"
-    name = "event"
-    url = "event"
-
-    [[Languages.en.menu.main]]
-    parent = "Pages"
-    name = "scholarship"
-    url = "scholarship"
-
-    [[Languages.en.menu.main]]
-    parent = "Pages"
-    name = "research"
-    url = "research"
+weight = 2
+name = "Team"
+url = "team"
 
 #[[Languages.en.menu.main]]
 #name = "blog"
@@ -203,7 +189,7 @@ hasChildren = true
 [[Languages.en.menu.main]]
 name = "StudioLAB"
 url = "studiolab"
-weight = 5
+weight = 4
 
 [[Languages.en.menu.main]]
 name = "Contact"
@@ -256,54 +242,68 @@ url = "about"
 weight = 1
 
 [[Languages.vi.menu.main]]
-name = "Khóa Học"
-url = "course"
+name = "Nhân Sự"
+url = "team"
 weight = 2
 
 [[Languages.vi.menu.main]]
+name = "Khóa Học"
+url = "course"
 weight = 3
+
+[[Languages.vi.menu.main]]
+name = "StudioLAB"
+url = "resources"
+weight = 4
+
+[[Languages.vi.menu.main]]
+weight = 5
 name = "Mục"
 hasChildren = true
 
   [[Languages.vi.menu.main]]
   parent = "Mục"
-  name = "Nhân Sự"
-  url = "team"
-
-  [[Languages.vi.menu.main]]
-  parent = "Mục"
+  weight = 1
   name = "Thông Báo"
   url = "notice"
 
   [[Languages.vi.menu.main]]
   parent = "Mục"
+  weight = 2
   name = "Sự Kiện"
   url = "event"
 
   [[Languages.vi.menu.main]]
   parent = "Mục"
+  weight = 3
   name = "Học Bổng"
   url = "scholarship"
 
   [[Languages.vi.menu.main]]
   parent = "Mục"
+  weight = 4
   name = "Nghiên Cứu"
   url = "research"
+
+  [[Languages.vi.menu.main]]
+  parent = "Mục"
+  weight = 5
+  name = "Tài Nguyên"
+  url = "resources"
+
+  [[Languages.vi.menu.main]]
+  parent = "Mục"
+  weight = 6
+  name = "Tuyển Dụng"
+  url = "recruit"
+
 
 # [[Languages.vi.menu.main]]
 # name = "blog"
 # url = "blog"
 # weight = 4
 
-[[Languages.vi.menu.main]]
-name = "Tài Nguyên"
-url = "resources"
-weight = 4
 
-[[Languages.vi.menu.main]]
-name = "StudioLAB"
-url = "resources"
-weight = 5
 
 [[Languages.vi.menu.main]]
 name = "Liên Hệ"
@@ -314,21 +314,21 @@ weight = 6
 # footer menu
 
 [[Languages.vi.menu.footer]]
-name = "team"
+name = "Nhân Sự"
 url = "team"
 
 [[Languages.vi.menu.footer]]
-name = "notice"
+name = "Bảng Tin"
 url = "notice"
 
 [[Languages.vi.menu.footer]]
-name = "event"
+name = "Sự Kiện"
 url = "event"
 
 [[Languages.vi.menu.footer]]
-name = "scholarship"
+name = "Học Bổng"
 url = "scholarship"
 
 [[Languages.vi.menu.footer]]
-name = "research"
+name = "Nghiên Cứu"
 url = "research"
