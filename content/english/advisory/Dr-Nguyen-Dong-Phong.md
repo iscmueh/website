@@ -1,5 +1,5 @@
 ---
-title: "Dr. Nguyen Dong Phong"
+title: "Prof. Nguyen Dong Phong"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
