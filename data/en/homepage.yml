@@ -43,26 +43,35 @@ banner_feature:
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
-    - name : "Scholorship News"
+    - name : "Scholarship News"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
-
+      content : "CLICK HERE for learning a wide range of scholarships and financial supports being offerred for students enrolling undergraduate and post-graduate education programs with ISCM and the UEH"
+      link  : "scholarship"
     # feature item loop
     - name : "Our Notice Board"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
-
+      content : "Our institute frequently co-organizes international webinars and workshops with partnering universities and academic institutions as well as holds activities locally to promote technologies and frontier researchs on smart urban planning and design."
+      link  : "notice"
     # feature item loop
     - name : "Our Achievements"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
-
+      link  : "archivement"
     # feature item loop
     - name : "Admission Now"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
-
-
+      content : "CLICK HERE for learning and applying for currenlly openning programs and courses. "
+      link  : "admission"
+    # feature item loop
+    - name : "Academic Network"
+      icon : "ti-world" # icon pack : https://themify.me/themify-icons
+      content : "Proudly having an international network of academia, ISCM can offer students opportunities to learn and be co-supervised by professors and researchers from world reputatable universities. Students can earn their dual degrees with ISCM and our partnering universities."
+      link  : "network"
+    # feature item loop
+    - name : "Consultancy Services"
+      icon : "ti-new-window" # icon pack : https://themify.me/themify-icons
+      content : "We offer NGOs, Goverments, and Private Business Entities consultancy services on some key areas of smart urban planning and management such as Asset Management, Traffic Safety and Engineering, Technical Due Diligence, and Data Analytics and Solutions."
+      link  : "consultancy"
 ############################## about ##################################
 about:
   enable : true

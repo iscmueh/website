@@ -204,8 +204,8 @@ hasChildren = true
   [[Languages.en.menu.main]]
   parent = "Pages"
   weight = 2
-  name = "Consulting"
-  url = "consulting"
+  name = "Consultancy"
+  url = "consultancy"
 
   [[Languages.en.menu.main]]
   parent = "Pages"
@@ -221,7 +221,7 @@ hasChildren = true
   [[Languages.en.menu.main]]
   parent = "Pages"
   weight = 4
-  name = "Thư Viện"
+  name = "Library"
   url = "library"
 
   [[Languages.en.menu.main]]
