@@ -64,6 +64,9 @@
 - id: team
   translation: team
 
+- id: advisory
+  translation: advisory
+
 
 - id: location
   translation: location

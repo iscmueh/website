@@ -177,11 +177,18 @@ hasChildren = true
   name = "Recruitment"
   url = "recruit"
 
+
 [[Languages.en.menu.main]]
 weight = 2
 name = "Team"
+# hasChildren = true
 url = "team"
 
+  # [[Languages.en.menu.main]]
+  # parent = "Team"
+  # weight = 1
+  # name = "Advisory Board"
+  # url = "advisory"
 #[[Languages.en.menu.main]]
 #name = "blog"
 #url = "blog"
