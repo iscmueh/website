@@ -8,7 +8,7 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 # teacher portrait
 image: "images/team/AdvisoryBoard/park.png"
 # course
-course: "Advisory Board"
+course: "Chairman, J. Mediator and Former Vice Minister of Industry of Korea."
 # biography
 bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 # interest
@@ -52,6 +52,8 @@ contact:
 
 # type
 type: "teacher"
+
+weight: 3
 ---
 
 ### À propos de moi

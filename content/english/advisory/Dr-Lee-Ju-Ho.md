@@ -8,7 +8,7 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 # teacher portrait
 image: "images/team/AdvisoryBoard/leejuho.jpg"
 # course
-course: "Advisory Board"
+course: "Chairman, Education Commission AISA, Former Minister of Education of Korea"
 # biography
 bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 # interest
@@ -52,6 +52,8 @@ contact:
 
 # type
 type: "teacher"
+
+weight: 5
 ---
 
 ### À propos de moi

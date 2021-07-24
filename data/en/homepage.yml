@@ -4,37 +4,37 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Together, let make our cities smart, more livable, and green"
+    - title : "Smart cities are livable cities"
       content : "Institute of Smart City and Management (ISCM) is a research institute belong to the School of Technology and Design (STD) of the University of Economics Ho Chi Minh (UEH). Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : false
-  #      label : "Apply now"
-  #      link : "contact"
+        label : "Apply now"
+        link : "contact"
 
     # slider item loop
-    # - title : "Your bright future is our mission"
-    #   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
-    #   animation_in : "left"
-    #   animation_out : "right"
-    #   # available animation : left, right, up, down
-    #   button:
-    #     enable : true
-    #     label : "Apply now"
-    #     link : "contact"
+    - title : "Smart cities are cities of hopes and opportunities"
+      content : "Institute of Smart City and Management (ISCM) is a research institute belong to the School of Technology and Design (STD) of the University of Economics Ho Chi Minh (UEH). Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : false
+        label : "Apply now"
+        link : "contact"
 
     # slider item loop
-    # - title : "Your bright future is our mission"
-    #   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
-    #   animation_in : "left"
-    #   animation_out : "right"
-    #   # available animation : left, right, up, down
-    #   button:
-    #     enable : true
-    #     label : "Apply now"
-    #     link : "contact"
+    - title : "Smart cities are cities of optimal blends of arts and technologies"
+      content : "Institute of Smart City and Management (ISCM) is a research institute belong to the School of Technology and Design (STD) of the University of Economics Ho Chi Minh (UEH). Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : false
+        label : "Apply now"
+        link : "contact"
 
 
 ############################### Banner feature ###############################

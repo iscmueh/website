@@ -167,12 +167,11 @@ hasChildren = true
    name = "Advisory Board"
    url = "advisory"
 
-
-   [[Languages.en.menu.main]]
-   parent = "People"
-   weight = 2
-   name = "Leaders"
-   url = "leaders"
+#   [[Languages.en.menu.main]]
+#   parent = "People"
+#   weight = 2
+#   name = "Leaders"
+#   url = "leaders"
 
 
    [[Languages.en.menu.main]]
