@@ -91,14 +91,14 @@ course:
   # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
-cta:
-  enable : true
-  subtitle : "Click to Join the Advance Workshop"
-  title : "Training In Advannce Networking"
-  button:
-    enable : true
-    label : "join now"
-    link : "contact"
+# cta:
+#   enable : true
+#   subtitle : "Click to Join the Advance Workshop"
+#   title : "Training In Advannce Networking"
+#   button:
+#     enable : true
+#     label : "join now"
+#     link : "contact"
 
 
 ######################## Success story #############################

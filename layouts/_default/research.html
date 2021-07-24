@@ -2,6 +2,6 @@
   <img class="card-img-top rounded-0" src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
   <div class="card-body">
     <h4 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-    <p class="card-text">{{ .Summary | truncate 100 }}</p>
+    <p class="card-text">{{ .Summary | truncate 150 }}</p>
   </div>
 </div>

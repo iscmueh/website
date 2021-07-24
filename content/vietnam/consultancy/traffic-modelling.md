@@ -1,5 +1,5 @@
 ---
-title: "Traffic Modelling"
+title: "Lập Mô Hình Giao Thông"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -7,9 +7,14 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # Research image
-image: "images/research/research-5.jpg"
+image: "images/consultancy/traffic-safety-02.jpg"
 # type
 type: "research"
+
+summary: "Xây dựng các mô hình giao thông từ vi mô đến vĩ mô, tính toán bài toán đầu tư lớn tuyến hay giao thông qua mô hình VISIM, VISUM và Agent Based Modelling."
+
+weight: 5
+
 ---
 
 ### About Research

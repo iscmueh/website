@@ -1,5 +1,5 @@
 ---
-title: "Technical Due Diligence"
+title: "Đánh Giá Kĩ Thuật"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -7,9 +7,13 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # Research image
-image: "images/research/research-2.jpg"
+image: "images/consultancy/tdd-01.jpg"
 # type
 type: "research"
+
+summary: "Giúp nhà đầu tư đánh giá kĩ thuật các hệ thống tòa nhà và hệ thống công trình kĩ thuật."
+
+weight: 3
 ---
 
 ### About Research

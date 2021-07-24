@@ -289,7 +289,7 @@ weight = 1
 
 [[Languages.vi.menu.main]]
 name = "Tin & Sự Kiện"
-url = "team"
+url = "event"
 weight = 2
 
 [[Languages.vi.menu.main]]

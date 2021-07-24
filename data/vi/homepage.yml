@@ -92,14 +92,14 @@ course:
   # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
-cta:
-  enable : true
-  subtitle : "Cliquez pour vous joindre à l’atelier avancé"
-  title : "Apprentissage en réseautique avancée"
-  button:
-    enable : true
-    label : "Tham gia"
-    link : "contact"
+# cta:
+#   enable : true
+#   subtitle : "Cliquez pour vous joindre à l’atelier avancé"
+#   title : "Apprentissage en réseautique avancée"
+#   button:
+#     enable : true
+#     label : "Tham gia"
+#     link : "contact"
 
 
 ######################## Success story #############################

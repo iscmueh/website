@@ -1,5 +1,5 @@
 ---
-title: "Spatial Analysis"
+title: "Phân Tích Không Gian Địa Lý"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -7,9 +7,13 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # Research image
-image: "images/research/research-6.jpg"
+image: "images/consultancy/spatialgis-01.jpg"
 # type
 type: "research"
+
+summary: "Xử dụng các công cụ phân tích không gian trên nền tảng GIS và toán thống kê kết hợp với xử lý dư liệu."
+
+weight: 2
 ---
 
 ### About Research
