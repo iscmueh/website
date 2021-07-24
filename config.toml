@@ -368,7 +368,7 @@ hasChildren = true
   parent = "Mục"
   weight = 2
   name = "Tư Vấn"
-  url = "consulting"
+  url = "consultancy"
 
   [[Languages.vi.menu.main]]
   parent = "Mục"
