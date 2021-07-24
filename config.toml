@@ -176,9 +176,15 @@ hasChildren = true
 
    [[Languages.en.menu.main]]
    parent = "People"
-   weight = 3
+   weight = 2
    name = "Members"
    url = "members"
+
+   [[Languages.en.menu.main]]
+   parent = "People"
+   weight = 3
+   name = "Adjunct Professors"
+   url = "adjunctprofessors"
 
 
    [[Languages.en.menu.main]]
@@ -298,7 +304,7 @@ weight = 4
 
 [[Languages.vi.menu.main]]
 name = "StudioLAB"
-url = "resources"
+url = "../studiolab"
 weight = 5
 
 [[Languages.vi.menu.main]]
@@ -313,19 +319,26 @@ hasChildren = true
   name = "Ban Cố Vấn"
   url = "advisory"
 
+  #
+  # [[Languages.vi.menu.main]]
+  # parent = "Nhân Sự"
+  # weight = 2
+  # name = "Lãnh Đạo"
+  # url = "leaders"
+  #
 
   [[Languages.vi.menu.main]]
   parent = "Nhân Sự"
   weight = 2
-  name = "Lãnh Đạo"
-  url = "leaders"
-
+  name = "Thành Viên"
+  url = "members"
 
   [[Languages.vi.menu.main]]
   parent = "Nhân Sự"
   weight = 3
-  name = "Thành Viên"
-  url = "members"
+  name = "Giáo Sư Trợ Giảng"
+  url = "adjunctprofessors"
+
 
 
   [[Languages.vi.menu.main]]

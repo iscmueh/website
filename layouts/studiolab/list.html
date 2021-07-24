@@ -1,0 +1,332 @@
+{{ define "main" }}
+<style>
+  #gallery {
+     line-height:0;
+     -webkit-column-count:5; /* split it into 5 columns */
+     -webkit-column-gap:5px; /* give it a 5px gap between columns */
+     -moz-column-count:5;
+     -moz-column-gap:5px;
+     column-count:5;
+     column-gap:5px;
+  }
+
+  #gallery img {
+     width: 100% !important;
+     height: auto !important;
+     margin-bottom:5px; /* to match column gap */
+     filter: grayscale(100%);
+     transition: filter 2s;
+
+  }
+
+
+  @media (max-width: 1200px) {
+     #gallery {
+      -moz-column-count:    4;
+      -webkit-column-count: 4;
+      column-count:         4;
+     }
+  }
+  @media (max-width: 1000px) {
+     #gallery {
+      -moz-column-count:    3;
+      -webkit-column-count: 3;
+      column-count:         3;
+     }
+  }
+
+  @media (max-width: 800px) {
+     #gallery {
+      -moz-column-count:    2;
+      -webkit-column-count: 2;
+      column-count:         2;
+     }
+  }
+
+  @media (max-width: 400px) {
+     #gallery {
+      -moz-column-count:    1;
+      -webkit-column-count: 1;
+      column-count:         1;
+     }
+  }
+
+#gallery img:hover {
+   filter:none;
+}
+
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  vertical-align: middle;
+}
+
+/* Position the image container (needed to position the left and right arrows) */
+.container {
+  position: relative;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+  cursor: pointer;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 40%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* Container for image text */
+.caption-container {
+  text-align: center;
+  background-color: #222;
+  padding: 2px 16px;
+  color: white;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Six columns side by side */
+.column {
+  float: left;
+  width: 16.66%;
+}
+
+/* Add a transparency effect for thumnbail images */
+.demo {
+  opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+  opacity: 1;
+}
+
+
+
+
+</style>
+<!-- research -->
+<section class="section">
+  <div class="container">
+
+  </div>
+</section>
+<!-- /research -->
+
+
+<head>
+ <meta charset="utf-8">
+
+ <title>Image Gallery</title>
+ <meta name="description" content="Responsive Image Gallery">
+ <meta name="author" content="Tim Wells">
+
+ <style type="text/css">
+ </style>
+</head>
+
+
+<body>
+
+<h2 style="text-align:center">Slideshow Gallery</h2>
+
+<div class="container">
+  <div class="mySlides">
+    <div class="numbertext">1 / 9</div>
+    <img src="/images/studiolab/3dP.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">2 / 9</div>
+    <img src="/images/studiolab/Book.JPG" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">3 / 9</div>
+    <img src="/images/studiolab/lego.JPG" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">4 / 9</div>
+    <img src="/images/studiolab/StudioLab1.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">5 / 9</div>
+    <img src="/images/studiolab/USIM.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">6 / 9</div>
+    <img src="/images/studiolab/VR1.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">7 / 9</div>
+    <img src="/images/studiolab/DevelopmentProgram.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">8 / 9</div>
+    <img src="/images/studiolab/OurVision.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">9 / 9</div>
+    <img src="/images/studiolab/002-ISCM-1.JPG" style="width:100%">
+  </div>
+
+  <a class="prev" onclick="plusSlides(-1)">❮</a>
+  <a class="next" onclick="plusSlides(1)">❯</a>
+
+  <div class="caption-container">
+    <p id="caption"></p>
+  </div>
+
+  <div class="row">
+    <div class="column">
+      <img class="demo cursor" src="/images/studiolab/3dP.jpg" style="width:80%" onclick="currentSlide(1)" alt="Studio Lab">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/images/studiolab/Book.JPG" style="width:110%" onclick="currentSlide(2)" alt="Studio Lab">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/images/studiolab/lego.JPG" style="width:50%" onclick="currentSlide(3)" alt="Studio Lab">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/images/studiolab/StudioLab1.jpg" style="width:120%" onclick="currentSlide(4)" alt="Studio Lab">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/images/studiolab/USIM.jpg" style="width:80%" onclick="currentSlide(5)" alt="Studio Lab">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/images/studiolab/VR1.jpg" style="width:80%" onclick="currentSlide(6)" alt="Studio Lab">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/images/studiolab/DevelopmentProgram.jpg" style="width:90%" onclick="currentSlide(6)" alt="Studio Lab">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/images/studiolab/OurVision.jpg" style="width:100%" onclick="currentSlide(6)" alt="Studio Lab">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/images/studiolab/002-ISCM-1.JPG" style="width:100%" onclick="currentSlide(6)" alt="Studio Lab">
+    </div>
+  </div>
+</div>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("demo");
+  var captionText = document.getElementById("caption");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+  captionText.innerHTML = dots[slideIndex-1].alt;
+}
+</script>
+
+</body>
+
+
+
+
+
+
+<body>
+
+  <h2 style="text-align:center">StudioLAB</h2>
+
+ <include src="./header.html"></include>
+ <head>
+   <link rel="import" href="/header.html">
+ </head>
+
+<div id="gallery">
+
+  <img src="/images/studiolab/3dP.jpg">
+  <img src="/images/studiolab/Book.JPG">
+  <img src="/images/studiolab/lego.JPG">
+   <img src="/images/studiolab/StudioLab1.jpg">
+   <img src="/images/studiolab/USIM.jpg">
+   <img src="/images/studiolab/VR1.jpg">
+   <img src="/images/studiolab/DevelopmentProgram.jpg">
+  <img src="/images/studiolab/OurVision.jpg">
+   <img src="/images/studiolab/002-ISCM-1.JPG">
+
+ </div>
+</body>
+
+
+
+
+{{ end }}
