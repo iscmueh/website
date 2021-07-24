@@ -46,7 +46,7 @@ link = "plugins/google-map/gmap.js"
 [params]
 logo = "images/logoiscm.png"
 # Meta data
-description = "This is meta description"
+description = "Institute of Smart City and Management, University of Economics Ho Chi Minh"
 author = "ISCM"
 # contact info
 address = "232/6 Võ Thị Sáu, P. Võ Thị Sáu, Quận 3"
@@ -237,10 +237,10 @@ hasChildren = true
 
 
 
-[[Languages.en.menu.main]]
-name = "Contact"
-url = "contact"
-weight = 8
+# [[Languages.en.menu.main]]
+# name = "Contact"
+# url = "contact"
+# weight = 8
 
 
 # footer menu
@@ -396,11 +396,11 @@ hasChildren = true
 # weight = 4
 
 
-
-[[Languages.vi.menu.main]]
-name = "Liên Hệ"
-url = "contact"
-weight = 8
+#
+# [[Languages.vi.menu.main]]
+# name = "Liên Hệ"
+# url = "contact"
+# weight = 8
 
 
 # footer menu

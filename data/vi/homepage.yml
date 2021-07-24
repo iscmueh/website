@@ -77,7 +77,7 @@ banner_feature:
 about:
   enable : true
   title : "Giới thiệu về ISCM"
-  image : "images/about/about-us.jpg"
+  image : "images/about/about-page.jpg"
   content : "Institute of Smart City and Management (ISCM) is a research institute belong to the School of Technology and Design (STD) of the University of Economics Ho Chi Minh (UEH). Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling. "
   button:
     enable : true
@@ -151,7 +151,7 @@ event:
 
 
 ############################# blog ################################
-blog:
-  enable : true
-  title : "Tin tức mới"
+# blog:
+#   enable : true
+#   title : "Tin tức mới"
   # blog item comes from "content/**/blog" folder.
