@@ -45,11 +45,13 @@ weight: 3
 * System Engineering
 * Project Management
 
-### Qualifications
-* Doctor of Philosophy in Engineering, Kyoto University, Japan (2009)
-* Master of Engineering, Asian Institute of Technology (AIT), Thailand (2004)
-* Bachelor of Art in Linguistic (major English), College of Foreign Language, National University of Vietnam, Hanoi (2002)
-* Bachelor of Engineering, Construction Engineering and Management, University of Transport and Communication, Hanoi (2000)
+### Academic and Research Profile
+* Research Associate at [Institute of Infrastructure and Construction Management (IBI)](https://ibi.ethz.ch/), [Swisss Federal Institute of Technology (ETH Zurich)](https://ethz.ch/en.html) - (2010-2016)
+* Postdoc Researcher, [Prof. Kiyoyuki Kaito Lab](http://www.infra-assetmetrics.com/), Frontier Research Center for Global Young Researchers, Gradude School of Engineering, [Osaka University](https://www.osaka-u.ac.jp/) (2009-2010)
+* Doctor of Philosophy in Engineering, [Kyoto University](https://www.kyoto-u.ac.jp/en), Japan (2006-2009)
+* [Master of Engineering, Asian Institute of Technology (AIT)](https://www.ait.ac.th/), Thailand (2002-2004)
+* Bachelor of Art in Linguistic (major English), [University of Languages and International Studies](http://en.ulis.vnu.edu.vn/), National University of Vietnam, Hanoi (1998-2002)
+* Bachelor of Engineering, Construction Engineering and Management, [University of Transport and Communication](http://en.utc.edu.vn/), Hanoi (1995-2000)
 
 ### International Experiences
 * **Arcadis Philippins Inc.**
@@ -60,7 +62,7 @@ weight: 3
     - 20 MLD Desalination Water Treatment Plant in Cebu
     - Technical Due Diligence and Cost Due Diligence for various high rise buildings and industrial facilities in Vietnam and the Philippines.
   - Procurement specialist (ABD, WB, and FIDIC) for Design & Building and EPC projects.
-* **Technical Advisor for [EMAPTA](http://www.emapta.com) and [ASQ Vietnam](https://asq.vn)**
+* **Business and Engineering Advisor for [EMAPTA](http://www.emapta.com) and [ASQ Vietnam](https://asq.vn)**
 * **GHD Ply Ltd. (2016-2019)**
   * Project Manager & Procurement Specialist of 900 MLD Lamesa Water Treatment Plant (Design and Build)
   * Project Manager of Plant Audit and Asset Management project for various pump stations and reservoirs in Metro Manila.
