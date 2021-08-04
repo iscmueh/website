@@ -1,5 +1,5 @@
 ---
-title: Thiết kế đô thị tầm nhìn vững chắc cho đô thị bền vững
+title: Sustainable Urban Design
 author: ISCM
 publishDate: "2021-04-04T06:20:42.481Z"
 bg_image: "images/backgrounds/page-title.jpg"
@@ -14,26 +14,27 @@ image: /images/events/the-imperative-of-healthy-city-design.png
 
 ***Ngày 25/3, tại Hồ Chí Minh, Viện Đô thị thông minh và Quản lý hợp tác cùng B+H đã tổ chức buổi webinar chủ đề: “A new understanding of the imperative of healthy city design”. Buổi webinar nằm trong khuôn khổ chuỗi sự kiện Smart City 2021 của Viện Đô thị thông minh và Quản lý, Đại học Kinh tế TP. Hồ Chí Minh.***
 
-Những thách thức mới trong thời đại mới
 
-Thế kỷ 21 sẽ là một trong những thời kì quan trong nhất của lịch sử loài người vì tất cả những thách thức mà chúng ta phải đối mặt từ bước nhảy vọt đáng kinh ngạc về công nghệ và những thách thức đô thị trong một thế giới đô thị hóa và toàn cầu hóa nhanh chóng.
+New challenges in the new age
 
-Tại buổi webinar, các chuyên gia đã đề ra 3 nhân tố ảnh hưởng mạnh nhất trong việc kiến tạo nên các thành phố tương lai, đó là: sự biến đổi khí hậu, sự quy hoạch và cách mạng công nghệ. Những nhân tố kể đến này buộc chúng ta phải có một tầm nhìn hiện đại để xây dựng nên các thành phố có khả năng phục hồi và miễn dịch với các cú sốc về sự thay đổi toàn cầu.
+The 21st century will be one of those times. The most important thing in human history is that because of all the challenges that we face from the incredible leap forward in technology and urban challenges in a rapidly urbanized and globalized world.
+
+At the webinar, experts said.a The three most influential factors in shaping future cities are: climate change, planning and technological revolution. These factors force us to have a modern vision to build cities that are resilient.And immune to the shocks of global change.
 
 ![](/images/0723_bh_webinar_pic_1.jpg)
 
-Trong buổi phát biểu, TS. Trịnh Tú Anh, Viện trưởng Viện Đô thị thông minh và Quản lý đã đề cập đến câu chuyện thành phố tương lai của chúng ta sẽ như thế nào và đâu là đô thị kiểu mẫu cho tương lai. Để giải đáp câu hỏi này, các chuyên gia đã cùng nhau chia sẻ quan điểm của mình.
+In the speech, Dr. Trinh Tu Anh, president of the Institute for Intelligent Urban and Management, mentioned the story of how our future city will be and what is the model city for the future. To answer this question, experts shared their views together.
 
-Một trong những yếu tố quan trọng hàng đầu là “con người”. Các chuyên gia cho rằng nguyên tắc để kiến tạo các thành phố là phải đáp ứng được nhu cầu cơ bản của cộng đồng dân cư như chỗ ở, giáo dục, công việc, tính di động,... Vì vậy, để tạo nên một đô thị đáng sống, trước hết các nhu cầu của con người cũng như sự gắn kết của cộng đồng cần phải đáp ứng.
+One of the most important factors is "people." Experts say the principle of creating cities is to meet the basic needs of the community such as housing, education, work, mobility, etc. So, to make a city worth living, first of all, The needs of the people and the unity of the community must be met.
 
-Những kiến tạo dự án kiểu mẫu cho tương lai
+Model projects for the future
 
-Tại buổi webinar lần này, các chuyên gia cũng đã cùng nhau phân tích về những dự án đô thị kiểu mẫu dành cho tương lai như dự án Hamlet Waterfront, đạt giải nhất cuộc thi Rethinking the Future, ACD Awards, 2018.
+At this webinar, experts also analyzed together on future-type urban projects such as Hamlet Waterfront, which won the top prize at the Resting the Future, ACD Awards, 2018.
 
-Ngoài ra, một trong những dự án được bàn luận sôi nổi nhất là Tam Da Smart City. Dự án được phát triển với tầm nhìn tập trung vào 3 yếu tố chính: innovation (sự đổi mới), sustainability (tính bền vững), resilience (tính phục hồi).
+In addition, one of the most discussed projects is Tam Da Smart City. The project was developed with a vision that focuses on three main elements: innovation, sustainability, and resiliency.
 
-Nếu như trước đây, các khu quy hoạch thường được xây dựng theo xu thế chỉ đáp ứng được một mục đích nhất định thì có thể thấy điểm mới của dự án lần này là một khu phức hợp đáp ứng đầy đủ các nhu cầu cần thiết về văn phòng, nơi ở, giải trí và sinh hoạt,...Bên cạnh đó, các khu phức hợp không chỉ đáp ứng được nhu cầu của con người mà còn khuyến khích con người thay đổi phương thức di chuyển, giảm tắc nghẽn giao thông và tạo ra không gian xanh, nâng cao chất lượng đời sống dân cư nơi đây.
+If planning zones were built in the past to meet only one purpose, the new point of this project could be seen as a complex that meets all the needs of offices, places, entertainment and living conditions, etc., in addition to that, complexes. It not only meets people's needs, but it also encourages people to change their mode of mobility, reduce traffic congestion and create green spaces, improve the quality of their lives.
 
-Công nghệ, khí hậu, và sự quy hoạch của con người thật sự đã tác động mạnh mẽ đến đời sống chúng ta, đặc biệt là hậu đại dịch Covid-19. Đó vừa là thách thức vừa là cơ hội để chúng ta cùng nhau kiến tạo nên những đô thị thân thiện nói riêng và thế giới bền vững nói chung.
+Technology, climate, and human planning have really had a huge impact on our lives, especially after the Covid-19 pandemic. It's both a challenge and an opportunity for us to work together to create cities that are, in particular, friendly and sustainable in the world as a whole.
 
 <!--EndFragment-->
