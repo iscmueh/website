@@ -17,7 +17,7 @@ interest: ["Phát triển bền vững đô thị","Hành vi xã hội và sự 
 # contact info
 contact:
   # contact item loop
-  - name : "•	nguyenthingoc@ueh.edu.vn"
+  - name : "nguyenthingoc@ueh.edu.vn"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
     link : "mail.google.com"
 
