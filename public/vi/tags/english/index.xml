@@ -7,7 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
+<<<<<<< HEAD
     <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate><atom:link href="https://iscmueh.github.io/vi/tags/english/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
+    
+	<atom:link href="https://iscmueh.github.io/vi/tags/english/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+>>>>>>> 08294b43b990d767cea3fa979277aa73d01fb1d8
     <item>
       <title>Dioramas de boîtes coupées élégantes</title>
       <link>https://iscmueh.github.io/vi/blog/blog-post-5/</link>
@@ -18,4 +26,8 @@
     </item>
     
   </channel>
+<<<<<<< HEAD
 </rss>
+=======
+</rss>
+>>>>>>> 08294b43b990d767cea3fa979277aa73d01fb1d8

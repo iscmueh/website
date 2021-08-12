@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="vi-vi"><head>
+  <meta charset="utf-8">
+  <title>Kiến Trúc và Thiết Kế Đô Thị Thông Minh</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description"
+    content="Institute of Smart City and Management, University of Economics Ho Chi Minh">
+  
+  <meta name="author" content="ISCM">
+  <meta name="generator" content="Hugo 0.85.0" />
+  <!-- multilingual SEO optimizations -->
+  
+  
+  <link rel="alternate" hreflang="en" href="https://iscmueh.github.io/course_undergraduate/bachelor-01/">
+  
+  <link rel="alternate" hreflang="vi" href="https://iscmueh.github.io/vi/course_undergraduate/bachelor-01/">
+  
+  
+
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://iscmueh.github.io/plugins/bootstrap/bootstrap.min.css">
+  
+  <link rel="stylesheet" href="https://iscmueh.github.io/plugins/slick/slick.css">
+  
+  <link rel="stylesheet" href="https://iscmueh.github.io/plugins/animate/animate.css">
+  
+  <link rel="stylesheet" href="https://iscmueh.github.io/plugins/venobox/venobox.css">
+  
+  <link rel="stylesheet" href="https://iscmueh.github.io/plugins/themify-icons/themify-icons.css">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="https://iscmueh.github.io/scss/style.css" media="screen">
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="https://iscmueh.github.io/images/favicon.png" type="image/x-icon">
+  <link rel="icon" href="https://iscmueh.github.io/images/favicon.png" type="image/x-icon">
+
+</head><body>
+<!-- preloader start -->
+<div class="preloader">
+  
+  <img src="https://iscmueh.github.io/images/preloader.gif" alt="preloader">
+  
+</div>
+<!-- preloader end -->
+
+<header class="fixed-top header">
+  
+  
+  <div class="top-header py-2 bg-white">
+    <div class="container">
+      <div class="row no-gutters align-items-center">
+        <div class="col-lg-4 text-center text-lg-left">
+          <ul class="list-inline">
+            
+            <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="https://www.facebook.com/ISCM.UEH"><i class="ti-facebook"></i></a></li>
+            
+            <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="https://github.com/iscmueh"><i class="ti-github"></i></a></li>
+            
+            <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="https://www.linkedin.com/company/iscm-ueh"><i class="ti-linkedin"></i></a></li>
+            
+          </ul>
+        </div>
+        <div class="col-lg-8 text-center text-lg-right">
+          <ul class="list-inline">
+            <li class="list-inline-item">
+              <a class="text-color mr-3" href="tel:&#43;84-28-3930-9589/%20&#43;84-28-3930-9269"><strong>ĐIỆN THOẠI : </strong> &#43;84-28-3930-9589/ &#43;84-28-3930-9269</a></li>
+            <li class="list-inline-item">
+              <a class="text-color" href="mailto:iscm@ueh.edu.vn"><strong>EMAIL : </strong> iscm@ueh.edu.vn</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+  <div class="navigation w-100  top-hider ">
+    <div class="container">
+      <nav class="navbar navbar-expand-lg navbar-dark p-0">
+        <a class="navbar-brand" href="/vi"><img class="img-fluid"
+            src="https://iscmueh.github.io/images/logoiscm.png" alt="Institute of Smart City &amp; Management"></a>
+        <button class="navbar-toggler rounded-0" type="button" data-toggle="collapse" data-target="#navigation"
+          aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse text-center" id="navigation">
+          <ul class="navbar-nav ml-auto">
+           
+            
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://iscmueh.github.io/vi/about">Giới Thiệu</a>
+            </li>
+            
+            
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://iscmueh.github.io/vi/event">Tin &amp; Sự Kiện</a>
+            </li>
+            
+            
+            
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown">
+                Giáo Dục
+              </a>
+              <div class="dropdown-menu">
+                
+                <a class="dropdown-item" href="https://iscmueh.github.io/vi/course_undergraduate">Đại Học</a>
+                
+                <a class="dropdown-item" href="https://iscmueh.github.io/vi/course_graduate">Cao Học</a>
+                
+              </div>
+            </li>
+            
+            
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://iscmueh.github.io/vi/research">R&amp;D</a>
+            </li>
+            
+            
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://iscmueh.github.io/studiolab">StudioLAB</a>
+            </li>
+            
+            
+            
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown">
+                Nhân Sự
+              </a>
+              <div class="dropdown-menu">
+                
+                <a class="dropdown-item" href="https://iscmueh.github.io/vi/advisory">Ban Cố Vấn</a>
+                
+                <a class="dropdown-item" href="https://iscmueh.github.io/vi/members">Thành Viên</a>
+                
+                <a class="dropdown-item" href="https://iscmueh.github.io/vi/adjunctprofessors">Giáo Sư Trợ Giảng</a>
+                
+                <a class="dropdown-item" href="https://iscmueh.github.io/vi/network">Mạng Lưới</a>
+                
+              </div>
+            </li>
+            
+            
+            
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown">
+                Mục
+              </a>
+              <div class="dropdown-menu">
+                
+                <a class="dropdown-item" href="https://iscmueh.github.io/vi/notice">Thông Báo</a>
+                
+                <a class="dropdown-item" href="https://iscmueh.github.io/vi/consultancy">Tư Vấn</a>
+                
+                <a class="dropdown-item" href="https://iscmueh.github.io/vi/scholarship">Học Bổng</a>
+                
+                <a class="dropdown-item" href="https://iscmueh.github.io/vi/library">Thư Viện</a>
+                
+                <a class="dropdown-item" href="https://iscmueh.github.io/vi/recruit">Tuyển Dụng</a>
+                
+              </div>
+            </li>
+            
+            
+          </ul>
+
+          
+          
+          <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
+            
+            
+            
+            
+            
+            
+            
+            
+            <option id="en" value="https://iscmueh.github.io/course_undergraduate/bachelor-01/">En</option>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <option id="vi" value="https://iscmueh.github.io/vi/course_undergraduate/bachelor-01/" selected>Vi
+            </option>
+            
+            
+            
+            
+          </select>
+          
+        </div>
+      </nav>
+    </div>
+  </div>
+</header>
+
+
+	
+<section class="page-title-section overlay" style="background-image: url('/images/backgrounds/page-title.jpg'),url('/images/backgrounds/page-title.jpg');" >
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <ul class="list-inline custom-breadcrumb">
+          <li class="list-inline-item h2"><a class="text-primary font-secondary" href="https://iscmueh.github.io/">Trang Chủ</a></li>
+          <li class="list-inline-item h5"><i class="ti-angle-right text-white"></i></li>
+          <li class="list-inline-item text-white h3 font-secondary">Kiến Trúc và Thiết Kế Đô Thị Thông Minh</li>
+        </ul>
+        <p class="text-lighten"></p>
+      </div>
+    </div>
+  </div>
+</section>
+	
+
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 mb-4">
+        
+        <img style="height: 500px;width: 100%;object-fit: cover;" src="/images/courses/course-1.jpg"
+          class="img-fluid w-100">
+      </div>
+    </div>
+    
+    <div class="row align-items-center mb-5">
+      <div class="col-xl-3 order-1 col-sm-6 mb-4 mb-xl-0">
+        <h2>Kiến Trúc và Thiết Kế Đô Thị Thông Minh</h2>
+      </div>
+      <div class="col-xl-6 order-sm-3 order-xl-2 col-12 order-2">
+        <ul class="list-inline text-xl-center">
+          <li class="list-inline-item mr-4 mb-3 mb-sm-0">
+            <div class="d-flex align-items-center">
+              <i class="ti-calendar text-primary icon-md mr-2"></i>
+              <div class="text-left">
+                <h6 class="mb-0">THỜI GIAN</h6>
+                <p class="mb-0">3.5 - 5 years</p>
+              </div>
+            </div>
+          </li>
+          <li class="list-inline-item mr-4 mb-3 mb-sm-0">
+            <div class="d-flex align-items-center">
+              <i class="ti-timer text-primary icon-md mr-2"></i>
+              <div class="text-left">
+                <h6 class="mb-0">HÀNG TUẦN</h6>
+                <p class="mb-0"></p>
+              </div>
+            </div>
+          </li>
+          <li class="list-inline-item mr-4 mb-3 mb-sm-0">
+            <div class="d-flex align-items-center">
+              <i class="ti-wallet text-primary icon-md mr-2"></i>
+              <div class="text-left">
+                <h6 class="mb-0">MỨC PHÍ</h6>
+                <p class="mb-0"></p>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="col-xl-3 text-sm-right text-left order-sm-2 order-3 order-xl-3 col-sm-6 mb-4 mb-xl-0">
+        <a href="#" class="btn btn-primary">Đăng Ký</a>
+      </div>
+      
+      <div class="col-12 mt-4 order-4">
+        <div class="border-bottom border-primary"></div>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-12 mb-4 content">
+        <h3 id="giới-thiệu-chung">Giới Thiệu Chung</h3>
+<p>Chương trình đào tạo ngành Kiến trúc đô thị, chuyên ngành Architectural and Urban Design inclusive Smart City cung cấp các kiến thức chuyên ngành Kiến trúc và Thiết kế đô thị, đặc biệt về Đô thị thông minh. Sinh viên được đào tạo để tham gia vào các dự án phát triển, quy hoạch, thiết kế đô thị, thiết kế kiến trúc và cảnh quan, ứng dụng công nghệ và tích hợp để phát triển, quy hoạch và thiết kế đô thị thông minh hướng tới phát triển bền vững. Chuyên ngành đòi hỏi khả năng tư duy sáng tạo, kỹ năng tổng hợp và trình độ quốc tế để phối hợp nhiều lĩnh vực khác nhau như kiến trúc, cảnh quan, giao thông và kỹ thuật hạ tầng, kinh tế, xã hội, môi trường và công nghệ. Sau khi tốt nghiệp, sinh viên có khả năng làm việc tại các đơn vị công, tư, quốc tế, các tổ chức phi chính phủ, quản lý nhà nước trong lĩnh vực phát triển, quy hoạch, xây dựng và thiết kế kiến trúc, đô thị và đô thị thông minh&hellip;</p>
+<p>Ngoài ra, sau khi tốt nghiệp chương trình đại học, sinh viên có thể tiếp tục học thêm 2 năm thạc sỹ và sẽ được cấp song bằng thạc sỹ và bằng Kiến trúc sư là chương trình hướng tới kiểm định theo tiêu chuẩn ASIIN, châu Âu.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/on_ZGjx4p5U" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="Kiến Trúc và Thiết Kế Đô Thị Thông Minh"></iframe>
+</div>
+
+<h3 id="đặc-điểm-nổi-bật">Đặc điểm nổi bật:</h3>
+<ul>
+<li>
+<p>Chương trình tạo nên một công dân toàn cầu thông thạo kiến thức về thiết kế, quy hoạch phát triển đô thị và thiết kế đô thị theo chuẩn quốc tế, sử dụng tiếng Anh thành thạo làm cơ sở cho quá trình học tập suốt đời của sinh viên.</p>
+</li>
+<li>
+<p>Chương trình tích hợp đa ngành như môi trường, nghệ thuật, kỹ thuật, quy hoạch, chính sách công, &hellip;thông qua các trải nghiệm đa dạng từ bài giảng, seminar, đến xưởng thiết kế/thực hành, StudioLab hiện đại, tham quan thực tế&hellip; Một số môn học sẽ do các giáo sư, chuyên gia trong và ngoài nước giảng dạy.</p>
+</li>
+<li>
+<p>Các đồ án, môn học được thiết kế dựa trên nghiên cứu giải quyết các vấn đề thực tế (do các cơ quan quản lý nhà nước, công ty tư nhân trong và ngoài nước đặt hàng)
+Chương trình học tích hợp ứng dụng và sử dụng các công nghệ hiện đại: VR, AR, 3D Printing, mô phỏng đô thị&hellip; vào thiết kế, quy hoạch và thực hiện</p>
+</li>
+<li>
+<p>Sử dụng hệ thống phòng StudioLab đô thị thông minh hiện đại</p>
+</li>
+<li>
+<p>Có chương trình liên kết mạnh và đa dạng với các trường quốc tế từ các nước Bỉ, Hàn Quốc, Hà Lan, New Zeland, Úc, Pháp, Thái Lan, Myanmar, Ấn Độ…
+Phù hợp với nhiều định hướng khác nhau của sinh viên, đề cao đạo đức nghề nghiệp, trí tuệ liêm chính và trách nhiệm xã hội của con người hiện đại trong kỷ nguyên mới.</p>
+</li>
+</ul>
+<h3 id="điều-kiện-đăng-kí">Điều kiện đăng kí:</h3>
+<ul>
+<li>Tuyển sinh các khối: A00; A01; D01; V00 (Riêng khối V môn Vẽ không nhân hệ số)</li>
+<li>Không tổ chức thi môn năng khiếu. Môn năng khiếu sẽ được đào tạo sau khi nhập học.</li>
+</ul>
+<h3 id="yêu-cầu-ngôn-ngữ">Yêu cầu ngôn ngữ:</h3>
+<p>Việt/Anh</p>
+
+      </div>
+      
+      <div class="col-12">
+        <h5 class="mb-3">Giảng Viên</h5>
+        
+        <div class="border-bottom border-primary mt-4"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<section class="section pt-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="section-title">Các Khóa Học Liên Quan</h2>
+      </div>
+    </div>
+    <div class="row">
+      
+      
+      
+      <div class="col-lg-4 col-sm-6 mb-5">
+        <div class="card p-0 border-primary rounded-0 hover-shadow">
+  <img class="card-img-top rounded-0" src="/images/courses/course-2.jpg" alt="Master Degree on Smart &amp; Resilience Urban Planning and Management">
+  <div class="card-body">
+    <ul class="list-inline mb-2">
+      <li class="list-inline-item"><i class="ti-calendar"></i> 2 years</li>
+      <li class="list-inline-item"><i class="ti-bookmark-alt"></i> post-graduate</li>
+    </ul>
+    <h4 class="card-title"><a href="https://iscmueh.github.io/vi/course/master-01/">Master Degree on Smart &amp; Resilience Urban Planning and Management</a></h4>
+    <p class="card-text mb-4"></p>
+    <a href="https://iscmueh.github.io/vi/course/master-01/" class="btn btn-primary btn-sm">Đăng Ký</a>
+  </div>
+</div>
+      </div>
+      
+      <div class="col-lg-4 col-sm-6 mb-5">
+        <div class="card p-0 border-primary rounded-0 hover-shadow">
+  <img class="card-img-top rounded-0" src="/images/courses/course-2.jpg" alt="Master Degree on Smart &amp; Resilience Urban Planning and Management">
+  <div class="card-body">
+    <ul class="list-inline mb-2">
+      <li class="list-inline-item"><i class="ti-calendar"></i> 2 years</li>
+      <li class="list-inline-item"><i class="ti-bookmark-alt"></i> post-graduate</li>
+    </ul>
+    <h4 class="card-title"><a href="https://iscmueh.github.io/vi/course_graduate/master-01/">Master Degree on Smart &amp; Resilience Urban Planning and Management</a></h4>
+    <p class="card-text mb-4"></p>
+    <a href="https://iscmueh.github.io/vi/course_graduate/master-01/" class="btn btn-primary btn-sm">Đăng Ký</a>
+  </div>
+</div>
+      </div>
+      
+    </div>
+  </div>
+</section>
+
+
+
+<footer>
+  
+  
+  
+  <div class="footer bg-footer section border-bottom">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-4 col-sm-8 mb-5 mb-lg-0">
+          
+          <a class="logo-footer" href="/vi"><img class="img-fluid mb-4" src="https://iscmueh.github.io/images/logoiscm.png" alt="Institute of Smart City &amp; Management"></a>
+          <ul class="list-unstyled">
+            <li class="mb-4">232/6 Võ Thị Sáu, P. Võ Thị Sáu, Quận 3</li>
+            <li class="mb-4"><a href="mailto:iscm@ueh.edu.vn">iscm@ueh.edu.vn</a></li>
+            <li class="mb-4">+84-28-3930-9589/ +84-28-3930-9269</li>
+          </ul>
+        </div>
+        
+        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
+          <h4 class="text-white mb-5 text-uppercase">ISCM</h4>
+          <ul class="list-unstyled">
+            
+            
+            <li class="mb-3"><a class="text-color" href="https://iscmueh.github.io/vi/about">Giới Thiệu</a></li>
+            
+            
+            
+            <li class="mb-3"><a class="text-color" href="https://iscmueh.github.io/vi/event">Tin &amp; Sự Kiện</a></li>
+            
+            
+            
+            
+            
+            <li class="mb-3"><a class="text-color" href="https://iscmueh.github.io/vi/research">R&amp;D</a></li>
+            
+            
+            
+            <li class="mb-3"><a class="text-color" href="https://iscmueh.github.io/studiolab">StudioLAB</a></li>
+            
+            
+            
+            
+            
+            
+          </ul>
+        </div>
+        
+        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
+          <h4 class="text-white mb-5 text-uppercase">Liên Kết</h4>
+          <ul class="list-unstyled">
+            
+            <li class="mb-3"><a class="text-color" href="https://iscmueh.github.io/vi/notice">Bảng Tin</a></li>
+            
+            <li class="mb-3"><a class="text-color" href="https://iscmueh.github.io/vi/scholarship">Học Bổng</a></li>
+            
+            <li class="mb-3"><a class="text-color" href="https://iscmueh.github.io/vi/research">Nghiên Cứu</a></li>
+            
+            <li class="mb-3"><a class="text-color" href="https://iscmueh.github.io/vi/team">Nhân Sự</a></li>
+            
+            <li class="mb-3"><a class="text-color" href="https://iscmueh.github.io/vi/event">Sự Kiện</a></li>
+            
+          </ul>
+        </div>
+        
+        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
+          <h4 class="text-white mb-5 text-uppercase">Khóa Học</h4>
+          <ul class="list-unstyled">
+            
+            <li class="mb-3"><a class="text-color" href="https://iscmueh.github.io/vi/course/bachelor-01/">Kiến Trúc và Thiết Kế Đô Thị Thông Minh</a></li>
+            
+            <li class="mb-3"><a class="text-color" href="https://iscmueh.github.io/vi/course_undergraduate/bachelor-01/">Kiến Trúc và Thiết Kế Đô Thị Thông Minh</a></li>
+            
+            <li class="mb-3"><a class="text-color" href="https://iscmueh.github.io/vi/course/master-01/">Master Degree on Smart &amp; Resilience Urban Planning and Management</a></li>
+            
+            <li class="mb-3"><a class="text-color" href="https://iscmueh.github.io/vi/course_graduate/master-01/">Master Degree on Smart &amp; Resilience Urban Planning and Management</a></li>
+            
+          </ul>
+        </div>
+        
+        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
+          <h4 class="text-white mb-5 text-uppercase">Tin Tức</h4>
+          <ul class="list-unstyled">
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="copyright py-4 bg-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-7 text-sm-left text-center">
+          <p class="mb-0">Bản Quyền của <a href="https://iscm.ueh.edu.vn">ISCM</a> 2021</p>
+        </div>
+        <div class="col-sm-5 text-sm-right text-center">
+          <ul class="list-inline">
+            
+            <li class="list-inline-item"><a class="d-inline-block p-2" href="https://www.facebook.com/ISCM.UEH"><i class="ti-facebook text-primary"></i></a></li>
+            
+            <li class="list-inline-item"><a class="d-inline-block p-2" href="https://github.com/iscmueh"><i class="ti-github text-primary"></i></a></li>
+            
+            <li class="list-inline-item"><a class="d-inline-block p-2" href="https://www.linkedin.com/company/iscm-ueh"><i class="ti-linkedin text-primary"></i></a></li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+<!-- Google Map API -->
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"></script>
+
+
+<!-- JS Plugins -->
+
+<script src="https://iscmueh.github.io/plugins/jQuery/jquery.min.js"></script>
+
+<script src="https://iscmueh.github.io/plugins/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://iscmueh.github.io/plugins/slick/slick.min.js"></script>
+
+<script src="https://iscmueh.github.io/plugins/venobox/venobox.min.js"></script>
+
+<script src="https://iscmueh.github.io/plugins/filterizr/jquery.filterizr.min.js"></script>
+
+<script src="https://iscmueh.github.io/plugins/google-map/gmap.js"></script>
+
+
+<!-- Main Script -->
+
+<script src="https://iscmueh.github.io/js/script.min.js"></script>
+
+<!-- google analitycs -->
+
+
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+<div id="js-cookie-box" class="cookie-box cookie-box-hide">
+	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-sm btn-outline-primary ml-2">I Accept</span>
+</div>
+<script>
+	(function ($) {
+		const cookieBox = document.getElementById('js-cookie-box');
+		const cookieButton = document.getElementById('js-cookie-button');
+		if (!Cookies.get('cookie-box')) {
+			cookieBox.classList.remove('cookie-box-hide');
+			cookieButton.onclick = function () {
+				Cookies.set('cookie-box', true, {
+					expires:  2 
+				});
+				cookieBox.classList.add('cookie-box-hide');
+			};
+		}
+	})(jQuery);
+</script>
+
+
+<style>
+.cookie-box {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 9999;
+  padding: 1rem 2rem;
+  background: rgb(71, 71, 71);
+  transition: all .75s cubic-bezier(.19, 1, .22, 1);
+  color: #fdfdfd;
+}
+
+.cookie-box-hide {
+  display: none;
+}
+</style>
+
+</body>
+
+</html>
