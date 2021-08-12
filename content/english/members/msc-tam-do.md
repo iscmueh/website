@@ -1,26 +1,25 @@
 ---
-title: "B.Sc. An Le"
+title: "M.Sc Tam Do"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "."
 # teacher portrait
-image: "images/team/TAN.JPG"
+image: "images/team/Tam.png"
 # course
-course: "Research Assistant, data programer, and Vietnam-Korean Coordinator"
+course: "Lecturer – Urban planning"
 position: ""
 # biograph
-bio: "Before joining ISCM, An had one year working as a developer for a well-known Japanese corporation, and a Vietnamese start-up developing enterprise. During this time, he had published two significant works: interactive digital signage and an education website. Currently, he is the youngest IT-Researcher at ISCM, mainly in charge of a platform for Interactive Simulation of
-pedestrian behaviour from the viewpoint of urban design towards walkability. He is also a postgraduate in Urban Design and Smart City at National Seoul University to reinforce his knowledge. An always brings his best-offering as a core member in performing in-depth research for Smart City development."
+bio: "Graduated from Vietnamese German University as a Master of Science and is currently working as Urban designer at B+H Architects company. Joined ISCM as collaborator in research and lecturer. Always want to contribute to developing a good society, better quality of life for Vietnamese people. Having interest in Smart and Sustainable City, City Marketing, develop open space and green space, develop space for pedestrians and cyclists."
 # interest
-interest: ["Machine Learning","Artificial Intelligence", "Computer Vision", "Agent Based Modelling"]
+interest: ["City Marketing","Smart City","Sustainable Urban Development"]
 # contact info
 contact:
   # contact item loop
-  - name : "anlpt@ueh.edu.vn"
+  - name : "tam.do_phuc@bharchitects.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "iscm@ueh.edu.vn"
+    link : "mail.google.com"
 
   # contact item loop
   - name : "+84-28-3930-9589/ +84-28-3930-9269"
@@ -54,14 +53,18 @@ contact:
 
 # type
 type: "teacher"
-weight: 12
+weight: 4
 ---
 
 ### Courses
-* Phân tích dữ liệu đô thị 
-* Công cụ số hóa và dữ liệu lớn 
-* Hệ thống thông tin địa lý
-* Đô thị thông minh và cải tiến đô thị
+*	Smart Urban Design
+*	Urban Planning
+*	New urban Economics and city marketing
+
 
 ### Qualifications
-
+*	Collaborator in Research at Institute of Smart City and Management (ISCM-UEH) 
+*	Master of Science in Sustainable Urban Development at Vietnamese Germane University (VGU) 
+*	Regional and Urban Planning Engineer at Ton Duc Thang University (TDTU) 
+*	Urban designer at B+H Architects
+*	Urban and Landscape designer at Lascal

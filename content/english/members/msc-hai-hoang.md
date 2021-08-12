@@ -1,26 +1,25 @@
 ---
-title: "B.Sc. An Le"
+title: "MSc. Hai Hoang"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "."
 # teacher portrait
-image: "images/team/TAN.JPG"
+image: "images/team/Hai.JPG"
 # course
-course: "Research Assistant, data programer, and Vietnam-Korean Coordinator"
+course: "Architect Scientist"
 position: ""
 # biograph
-bio: "Before joining ISCM, An had one year working as a developer for a well-known Japanese corporation, and a Vietnamese start-up developing enterprise. During this time, he had published two significant works: interactive digital signage and an education website. Currently, he is the youngest IT-Researcher at ISCM, mainly in charge of a platform for Interactive Simulation of
-pedestrian behaviour from the viewpoint of urban design towards walkability. He is also a postgraduate in Urban Design and Smart City at National Seoul University to reinforce his knowledge. An always brings his best-offering as a core member in performing in-depth research for Smart City development."
+bio: "Hai Hoang is an Architect Scientist, working to fuse Architecture, Cities and Technology. He oversees the integration of diverse decentralized stakeholders. His belief is win-win scenarios, where all disciplines gain benefits based on trust, knowledge and sharing. That drives Hai forward with his daily tasks as contributor for better communities"
 # interest
-interest: ["Machine Learning","Artificial Intelligence", "Computer Vision", "Agent Based Modelling"]
+interest: ["Urban Design","Architecture"]
 # contact info
 contact:
   # contact item loop
-  - name : "anlpt@ueh.edu.vn"
+  - name : "hai.hoanglenam@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "iscm@ueh.edu.vn"
+    link : "https://github.com/Hai-Hoang-88"
 
   # contact item loop
   - name : "+84-28-3930-9589/ +84-28-3930-9269"
@@ -54,14 +53,18 @@ contact:
 
 # type
 type: "teacher"
-weight: 12
+weight: 4
 ---
 
 ### Courses
-* Phân tích dữ liệu đô thị 
-* Công cụ số hóa và dữ liệu lớn 
-* Hệ thống thông tin địa lý
-* Đô thị thông minh và cải tiến đô thị
+*	Basic StudioLab 2
 
 ### Qualifications
+*	Master of Science , Architecture, Tampere University of Technology (2013-2019)
+*	Erasmus Exchange Programme, Computational Design and Construction, ICD, University of Stuttgart, (2015)
+*	Bachelor of Architecture, Ho Chi Minh University of Architecture (2006-2011)
+*	Architect, SAMY ARKITEHDIT, Finland (2018-2019)
+*	Summer Architect, ARCHIMG, Germany (2015-2016)
+
+
 

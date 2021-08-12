@@ -18,9 +18,9 @@ interest: ["Machine Learning","Artificial Intelligence", "Computer Vision", "Age
 # contact info
 contact:
   # contact item loop
-  - name : "iscm@ueh.edu.vn"
+  - name : "anlpt@ueh.edu.vn"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "iscm@ueh.edu.vn"
+    link : "mail.google.com"
 
   # contact item loop
   - name : "+84-28-3930-9589/ +84-28-3930-9269"
@@ -58,14 +58,10 @@ weight: 12
 ---
 
 ### Courses
-* Urban Resilience and Risk Assessment
-* Data Analytics and Solutions for Architect and Urban Planner
-* Asset Management for Buildings and Engineering Systems
-* System Engineering
-* Project Management
+* Urban Data Analytics
+* Digital tools & Big data
+* Geographic Information System
+* Smart City and Urban Intervention
 
 ### Qualifications
-* Doctor of Philosophy in Engineering, Kyoto University, Japan (2009)
-* Master of Engineering, Asian Institute of Technology (AIT), Thailand (2004)
-* Bachelor of Art in Linguistic (major English), College of Foreign Language, National University of Vietnam, Hanoi (2002)
-* Bachelor of Engineering, Construction Engineering and Management, University of Transport and Communication, Hanoi (2000)
+
