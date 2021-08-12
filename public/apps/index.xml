@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apps on Institute of Smart City &amp; Management</title>
+    <link>https://iscmueh.github.io/apps/</link>
+    <description>Recent content in Apps on Institute of Smart City &amp; Management</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate><atom:link href="https://iscmueh.github.io/apps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Warehouse Fitout Cost</title>
+      <link>https://iscmueh.github.io/apps/fitoutcost/</link>
+      <pubDate>Sat, 19 Oct 2019 11:08:22 +0800</pubDate>
+      
+      <guid>https://iscmueh.github.io/apps/fitoutcost/</guid>
+      <description>Open the Apps</description>
+    </item>
+    
+    <item>
+      <title>Weibull Models</title>
+      <link>https://iscmueh.github.io/apps/weibulllcc/</link>
+      <pubDate>Sat, 19 Oct 2019 11:08:22 +0800</pubDate>
+      
+      <guid>https://iscmueh.github.io/apps/weibulllcc/</guid>
+      <description>Open the Apps</description>
+    </item>
+    
+  </channel>
+</rss>

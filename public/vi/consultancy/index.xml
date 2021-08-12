@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dịch Vụ Tư Vấn on Institute of Smart City &amp; Management</title>
+    <link>https://iscmueh.github.io/vi/consultancy/</link>
+    <description>Recent content in Dịch Vụ Tư Vấn on Institute of Smart City &amp; Management</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi-vi</language>
+    <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate><atom:link href="https://iscmueh.github.io/vi/consultancy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quản Lý Tài Sản</title>
+      <link>https://iscmueh.github.io/vi/consultancy/assetmanagement/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/consultancy/assetmanagement/</guid>
+      <description>Tối ưu hóa hệ thống quản lý bằng các mô hình toán thống kê cao cấp, giúp chủ đầu tư tiết kiệm chi phí vận hành.</description>
+    </item>
+    
+    <item>
+      <title>Phân Tích Không Gian Địa Lý</title>
+      <link>https://iscmueh.github.io/vi/consultancy/spatial-analysis/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/consultancy/spatial-analysis/</guid>
+      <description>Xử dụng các công cụ phân tích không gian trên nền tảng GIS và toán thống kê kết hợp với xử lý dư liệu.</description>
+    </item>
+    
+    <item>
+      <title>Đánh Giá Kĩ Thuật</title>
+      <link>https://iscmueh.github.io/vi/consultancy/tdd/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/consultancy/tdd/</guid>
+      <description>Giúp nhà đầu tư đánh giá kĩ thuật các hệ thống tòa nhà và hệ thống công trình kĩ thuật.</description>
+    </item>
+    
+    <item>
+      <title>Đánh Giá Tác Động Giao Thông (TIA)</title>
+      <link>https://iscmueh.github.io/vi/consultancy/traffic-impact-assessment/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/consultancy/traffic-impact-assessment/</guid>
+      <description>Phân tích kĩ thuật và đánh giá tác động về giao thông liên quan tới các dự án xây dựng đô thị và cơ sở hạ tầng.</description>
+    </item>
+    
+    <item>
+      <title>Lập Mô Hình Giao Thông</title>
+      <link>https://iscmueh.github.io/vi/consultancy/traffic-modelling/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/consultancy/traffic-modelling/</guid>
+      <description>Xây dựng các mô hình giao thông từ vi mô đến vĩ mô, tính toán bài toán đầu tư lớn tuyến hay giao thông qua mô hình VISIM, VISUM và Agent Based Modelling.</description>
+    </item>
+    
+    <item>
+      <title>An Toàn Giao Thông</title>
+      <link>https://iscmueh.github.io/vi/consultancy/traffic-safety/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/consultancy/traffic-safety/</guid>
+      <description>Phân tích và đánh giá hành vi của người tham gia giao thông. Các rủi do dẫn đến tai nạn và đề xuất biện pháp giảm thiểu tai nạn và rủi do.</description>
+    </item>
+    
+  </channel>
+</rss>
