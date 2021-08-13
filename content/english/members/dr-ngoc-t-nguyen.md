@@ -63,7 +63,8 @@ weight: 4
 *	Environmental Data Processing Methods
 
 
-### Qualifications
+
+### Academic and Research Profile
 *	Lecturer, Faculty of Environment,  VNUHCM – University of Science, Vietnam (2018-2020)
 *	Doctor of Engineering, Urban Environmental Studies, Nagoya University, Japan (2015-2018)
 *	Researcher and Associate Lecturer, Faculty of Environment,  VNUHCM – University of Science, Vietnam (2013-2015)
@@ -71,3 +72,8 @@ weight: 4
 *	Researcher and Assistant Lecturer, Faculty of Environment,  VNUHCM – University of Science, Vietnam (2010-2013)
 *	Bachelor of Science, Environmental Science, VNUHCM – University of Science, Vietnam (2006-2010)
 
+### International Experiences
+*	Doctor of Engineering, Urban Environmental Studies, Nagoya University, Japan (2015-2018)
+
+### Professional Memberships
+* Eastern Asia Society of Transport Studies (EASTS)

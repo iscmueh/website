@@ -57,11 +57,13 @@ type: "teacher"
 weight: 12
 ---
 
-### Courses
+### Giảng Dạy
 * Phân tích dữ liệu đô thị 
 * Công cụ số hóa và dữ liệu lớn 
 * Hệ thống thông tin địa lý
 * Đô thị thông minh và cải tiến đô thị
 
-### Qualifications
+### Tiểu Sử Nghiên Cứu
+
+### Kinh Nghiệm Quốc Tế
 

@@ -56,15 +56,17 @@ type: "teacher"
 weight: 4
 ---
 
-### Courses
+### Giảng Dạy
 *	Thiết kế đô thị thông minh
 *	Quy hoạch đô thị
 *	Kinh tế đô thị mới và Marketing Thành phố
 
 
-### Qualifications
+### Tiểu Sử Nghiên Cứu
 *	Cộng tác viên nghiên cứu tại Viện Đô thị thông minh & Quản lý (ISCM-UEH) 
 *	Thạc sĩ nghiên cứu Phát triển đô thị bền vững tại Đại học Việt Đức (VGU) 
 *	Kỹ sư Quy hoạch vùng và đô thị tại Đại học Tôn Đức Thắng (TDTU) 
+
+### Kinh Nghiệm Quốc Tế
 *	Urban designer tại Công ty B+H Architects
 *	Urban and Landscape designer tại Công ty Lascal

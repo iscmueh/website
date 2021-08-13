@@ -63,5 +63,5 @@ weight: 12
 * Geographic Information System
 * Smart City and Urban Intervention
 
-### Qualifications
 
+### Academic and Research Profile

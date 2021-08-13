@@ -63,7 +63,8 @@ weight: 4
 * System Engineering
 * Project Management
 
-### Qualifications
+
+### Academic and Research Profile
 * Doctor of Philosophy in Engineering, Kyoto University, Japan (2009)
 * Master of Engineering, Asian Institute of Technology (AIT), Thailand (2004)
 * Bachelor of Art in Linguistic (major English), College of Foreign Language, National University of Vietnam, Hanoi (2002)

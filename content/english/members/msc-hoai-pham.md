@@ -68,8 +68,16 @@ weight: 10
 * System Engineering
 * Project Management
 
-### Qualifications
-* Doctor of Philosophy in Engineering, Kyoto University, Japan (2009)
-* Master of Engineering, Asian Institute of Technology (AIT), Thailand (2004)
-* Bachelor of Art in Linguistic (major English), College of Foreign Language, National University of Vietnam, Hanoi (2002)
-* Bachelor of Engineering, Construction Engineering and Management, University of Transport and Communication, Hanoi (2000)
+
+### Academic and Research Profile
+*	Doctoral student in Transportation Sciences, Hasselt University (Belgium) (2020-2024)
+*	Master of Transportation Sciences, Hasselt University (Belgium) (2017-2019)
+*	Bachelor of Business Administration, Vietnam Aviation Academy (2010-2014)
+
+### International Experiences
+*	Viags Tan Son Nhat (2016-2017)
+Payment officer
+*	Hoa Sao Group (2015)
+Supervisor for Vietjet Air call center
+*	Jetstar Pacific Airlines (2014-2015) 
+

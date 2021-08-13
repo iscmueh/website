@@ -62,9 +62,11 @@ weight: 4
 *	New urban Economics and city marketing
 
 
-### Qualifications
+### Academic and Research Profile
 *	Collaborator in Research at Institute of Smart City and Management (ISCM-UEH) 
 *	Master of Science in Sustainable Urban Development at Vietnamese Germane University (VGU) 
 *	Regional and Urban Planning Engineer at Ton Duc Thang University (TDTU) 
+
+### International Experiences
 *	Urban designer at B+H Architects
 *	Urban and Landscape designer at Lascal

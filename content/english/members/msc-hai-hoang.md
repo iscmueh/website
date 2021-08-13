@@ -59,10 +59,13 @@ weight: 4
 ### Courses
 *	Basic StudioLab 2
 
-### Qualifications
+
+### Academic and Research Profile
 *	Master of Science , Architecture, Tampere University of Technology (2013-2019)
 *	Erasmus Exchange Programme, Computational Design and Construction, ICD, University of Stuttgart, (2015)
 *	Bachelor of Architecture, Ho Chi Minh University of Architecture (2006-2011)
+
+### International Experiences
 *	Architect, SAMY ARKITEHDIT, Finland (2018-2019)
 *	Summer Architect, ARCHIMG, Germany (2015-2016)
 

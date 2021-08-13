@@ -57,15 +57,16 @@ type: "teacher"
 weight: 14
 ---
 
-### Courses
+### Giảng Dạy
 * Urban Resilience and Risk Assessment
 * Data Analytics and Solutions for Architect and Urban Planner
 * Asset Management for Buildings and Engineering Systems
 * System Engineering
 * Project Management
 
-### Qualifications
+### Tiểu Sử Nghiên Cứu
 * Doctor of Philosophy in Engineering, Kyoto University, Japan (2009)
 * Master of Engineering, Asian Institute of Technology (AIT), Thailand (2004)
 * Bachelor of Art in Linguistic (major English), College of Foreign Language, National University of Vietnam, Hanoi (2002)
 * Bachelor of Engineering, Construction Engineering and Management, University of Transport and Communication, Hanoi (2000)
+### Kinh Nghiệm Quốc Tế
