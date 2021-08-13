@@ -41,6 +41,9 @@ After graduating, learners receive dual degrees:
 
 <!--EndFragment-->
 
+{{< youtube id="NrtYcJBrxaU" title="Smart Urban Architecture and Design" >}}
+
+
 ### Advantage
 *	Obtain dual master's degrees from two universities, in two different fields with time efficiency and affordable costs;
 *	Gain integrated competences in urban innovation management;

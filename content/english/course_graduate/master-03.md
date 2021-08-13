@@ -38,8 +38,7 @@ After graduating, learners receive dual degrees:
 -	Executive Master of Public Management, majoring in Smart City and Innovation Management awarded by University of Economics Ho Chi Minh City;
 -	Master of Human Ecology and Technology awarded by Handong Global University (Korea).
 
-Duration: 2 years (03 semesters at UEH, 01 semester at HGU).
-
+{{< youtube id="NrtYcJBrxaU" title="Smart Urban Architecture and Design" >}}
 
 <!--EndFragment-->
 

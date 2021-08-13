@@ -1,13 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Institute of Smart City &amp; Management</title>
+    <title>Our Graduate Courses on Institute of Smart City &amp; Management</title>
     <link>https://iscmueh.github.io/course_graduate/</link>
-    <description>Recent content on Institute of Smart City &amp; Management</description>
+    <description>Recent content in Our Graduate Courses on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
     <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate><atom:link href="https://iscmueh.github.io/course_graduate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dual Master’s Degree ( Executive Master of Public Management and Master of Human Ecology and Technology)</title>
+      <link>https://iscmueh.github.io/course_graduate/master-03/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://iscmueh.github.io/course_graduate/master-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Master’s Degrees (Executive Master of Public Management and Transportation Sciences)</title>
+      <link>https://iscmueh.github.io/course_graduate/master-04/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://iscmueh.github.io/course_graduate/master-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Executive Master of Public Management (Smart City and Innovation Management)</title>
+      <link>https://iscmueh.github.io/course_graduate/master-02/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://iscmueh.github.io/course_graduate/master-02/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Master Degree on Smart &amp; Resilience Urban Planning and Management</title>
       <link>https://iscmueh.github.io/course_graduate/master-01/</link>
