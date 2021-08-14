@@ -59,5 +59,3 @@ After graduating, learners receive dual degrees:
 *	Candidates: gradutates from universities around the world
 *	Entrance exam: English, GMAT and interview
 
-
-### Contents of An Entrance Examination

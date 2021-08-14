@@ -60,5 +60,3 @@ Equal conditions:
 *	Candidates have work experience from the government agencies, NGOs, NPOs, companies in the fields of urban planning and design, urban management and development, traportation and infrastructure planning, project management, real estate development, architecture, and environmental development;
 
 *	Entrance exam: English, GMAT and interview.
-
-### Contents of An Entrance Examination
