@@ -954,19 +954,6 @@
     <loc>https://iscmueh.github.io/course_graduate/master-02/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://iscmueh.github.io/course/master-01/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/course/master-01/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/course/master-01/"
-                />
-  </url><url>
     <loc>https://iscmueh.github.io/course_undergraduate/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -980,19 +967,6 @@
                 href="https://iscmueh.github.io/course_undergraduate/"
                 />
   </url><url>
-    <loc>https://iscmueh.github.io/course/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/course/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/course/"
-                />
-  </url><url>
     <loc>https://iscmueh.github.io/course_graduate/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -1004,19 +978,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://iscmueh.github.io/course_graduate/"
-                />
-  </url><url>
-    <loc>https://iscmueh.github.io/course/bachelor-01/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/course/bachelor-01/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/course/bachelor-01/"
                 />
   </url><url>
     <loc>https://iscmueh.github.io/apps/</loc>
@@ -1206,6 +1167,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://iscmueh.github.io/notice/"
+                />
+  </url><url>
+    <loc>https://iscmueh.github.io/course/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/course/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/course/"
                 />
   </url><url>
     <loc>https://iscmueh.github.io/teacher/</loc>
