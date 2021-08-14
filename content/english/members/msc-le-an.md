@@ -62,3 +62,7 @@ weight: 12
 * Digital tools & Big data
 * Geographic Information System
 * Smart City and Urban Intervention
+
+### Academic and Research Profile
+* Bachelor of Science in Advanced Program in Computer Sciece (2014-2019), Vietnam National University Ho Chi Minh City - University of Science, Ho Chi Minh
+* Studying about Master of Smart City Engineering, Seoul National University(SNU)(2020-2022), South Korea.

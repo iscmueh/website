@@ -22,7 +22,7 @@ duration : "3.5 - 5 years"
 apply_url : "#"
 # type
 type: "course"
-
+courseStuctureImage: "images/courses/structure/bachelor.jpg"
 summary: " "
 
 ---

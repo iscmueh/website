@@ -64,6 +64,6 @@ weight: 12
 * Đô thị thông minh và cải tiến đô thị
 
 ### Tiểu Sử Nghiên Cứu
-
-### Kinh Nghiệm Quốc Tế
+* Cử nhân tại trường Đại Học Khoa Học Tự Nhiên tp. Hồ Chí Minh (2014-2019)
+* Hiện tại đang học Thạc Sĩ tại trường Đại Học Quốc Gia Seoul (SNU), Hàn Quốc (2020-2022)
 

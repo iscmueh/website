@@ -73,13 +73,4 @@ weight: 2
 * 	BA Philosophy at KULeuven (1977)
 * 	Civil engineering at KULeuven (1976)
 
-<<<<<<< HEAD
 ### [Click HERE for Publication](https://documentserver.uhasselt.be/cris/rp/rp03105;jsessionid=9239716EE0C82C579448DBAC8321F7D6)
-=======
-
-### Academic and Research Profile
-* Doctor of Philosophy in Engineering, Kyoto University, Japan (2009)
-* Master of Engineering, Asian Institute of Technology (AIT), Thailand (2004)
-* Bachelor of Art in Linguistic (major English), College of Foreign Language, National University of Vietnam, Hanoi (2002)
-* Bachelor of Engineering, Construction Engineering and Management, University of Transport and Communication, Hanoi (2000)
->>>>>>> f6fd342f587306e0867d7e64a4f7a41bc78f285e
