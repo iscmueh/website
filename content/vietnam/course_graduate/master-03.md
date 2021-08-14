@@ -22,7 +22,7 @@ duration : "2 years (03 semesters at UEH, 01 semester at HGU)."
 apply_url : "#"
 # type
 type: "course"
-courseStuctureImage: "images/courses/structure/master-HGU.jpg"
+courseStuctureImage: "images/courses/structure/master-HGU.png"
 summary: " "
 
 ---
