@@ -7,5 +7,59 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright><atom:link href="https://iscmueh.github.io/vi/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2.	UEH: Zero Waste University</title>
+      <link>https://iscmueh.github.io/vi/research/zero-waste/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/research/zero-waste/</guid>
+      <description>This project aims to deploy sustainable waste management to the University of Economics Ho Chi Minh City (UEH).</description>
+    </item>
+    
+    <item>
+      <title>AR Wish Tree</title>
+      <link>https://iscmueh.github.io/vi/research/ar-wish-tree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/research/ar-wish-tree/</guid>
+      <description>ISCM-UEH collaborates with VNUHCM – University of Science, ABB Research (Sweden), and Zeta Motion Co.</description>
+    </item>
+    
+    <item>
+      <title>City Branding: A Case Study in Ho Chi Minh City</title>
+      <link>https://iscmueh.github.io/vi/research/city-branding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/research/city-branding/</guid>
+      <description>Cities compete among others in the context of globalization. ISCM-UEH is working to make a marketing plan for Ho Chi Minh City that focuses on a smart city&amp;rsquo;s issues.</description>
+    </item>
+    
+    <item>
+      <title>Fostering Applied Science Incubator in Vinh Long</title>
+      <link>https://iscmueh.github.io/vi/research/fostering-applied/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/research/fostering-applied/</guid>
+      <description>ISCM-UEH is developing a smart traffic safety education program that engages the participation of students, teachers, and parents.</description>
+    </item>
+    
+    <item>
+      <title>Route2School: Smart Traffic Safety Education Program</title>
+      <link>https://iscmueh.github.io/vi/research/route-2-school/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/research/route-2-school/</guid>
+      <description>ISCM-UEH is developing a smart traffic safety education program that engages the participation of students, teachers, and parents.</description>
+    </item>
+    
+    <item>
+      <title>Smart Tourism</title>
+      <link>https://iscmueh.github.io/vi/research/smart-tourism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/research/smart-tourism/</guid>
+      <description>This project aims to promote the 178 proposed attractive tourism destinations of Ho Chi Minh city and encourage community participation in the local tourism&amp;rsquo;s activities.</description>
+    </item>
+    
   </channel>
 </rss>

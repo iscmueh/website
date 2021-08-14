@@ -3,7 +3,7 @@ title: INTERNATIONAL DESIGN COMPETITION SMARTCITY+
 author: Hoangoanh
 publishDate: "2021-04-04T05:50:50.544Z"
 bg_image: "images/backgrounds/page-title.jpg"
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : " "
 # Event image
 location: "ISCM, Ho Chi Minh City, Vietnam"
 image: "images/events/2021-international-design-competition-smartcity.jpg"

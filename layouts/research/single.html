@@ -9,12 +9,12 @@
       </div>
       <!-- research image -->
       <div class="col-12 mb-4">
-        <img style="height: 500px;width: 100%;object-fit: cover;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
+        <img style="height: 500px;width: 100%;object-fit: contain;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
       </div>
     </div>
     <!-- research details -->
     <div class="row">
-      <div class="col-12 mb-50 content">
+      <div class="text-justify col-12 mb-50 content">
         {{ .Content }}
       </div>
     </div>

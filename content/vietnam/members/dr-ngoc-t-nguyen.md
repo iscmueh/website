@@ -57,21 +57,31 @@ weight: 4
 ---
 
 ### Giảng Dạy
-*	Environmental and Economic Policy
-*	Environmental Economic
-*	Environmental Management 
-*	Environmental Data Processing Methods
+
+* Chính sách kinh tế và môi trường
+* Kinh tế môi trường
+* Quản lý môi trường
+* Xử lý dữ liệu môi trường
 
 
-### Tiểu Sử Nghiên Cứu
-*	Giảng Viên, Khoa Môi Trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2018-2020)
-*	Tiến Sĩ Kỹ Thuật, Môi Trường Đô Thị, Đại Học Nagoya, Nhật Bản (2015-2018)
-*	Nghiên Cứu Viên và Giảng Viên, Khoa Môi Trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2013-2015)
-*	Thạc Sĩ Khoa Học, Quản Lý Môi Trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2011-2013)
-*	Nghiên Cứu Viên và Trợ Giảng, Khoa Môi Trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2010-2013)
-*	Cử Nhân Khoa Học, Khoa Học Môi Trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2006-2010)
+### Tiểu Sử Nghiên Cứu và Học Thuật
+* Giảng Viên, Khoa Môi Trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2018-2020)
+* Tiến Sĩ Kỹ Thuật, Môi Trường Đô Thị, Đại Học Nagoya, Nhật Bản (2015-2018)
+* Nghiên Cứu Viên và Giảng Viên, Khoa Môi Trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2013-2015)
+* Thạc Sĩ Khoa Học, Quản Lý Môi Trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2011-2013)
+* Nghiên Cứu Viên và Trợ Giảng, Khoa Môi Trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2010-2013)
+* Cử Nhân Khoa Học, Khoa Học Môi Trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2006-2010)
+
+
+### Kinh Nghiệm Quốc Tế
+* Thực tập nghiên cứu toàn cầu, Viện Nghiên Cứu JICA, Cơ Quan Hợp Tác Quốc Tế Nhật Bản (2016)
+* Chương trình nghiên cứu quốc tế: Nước, Năng Lượng và Phát Triển Bền Vững, Palawan, Philippines (2016)
+* Trao đổi khoa học trong giới trẻ Nhật Bản và Châu Á, Đại học Phủ Osaka, Nhật Bản (2015)
+* Chương trình nghiên cứu và tập huấn quốc tế: Nước và Năng Lượng cho Đông Nam Á, Đại học Quốc Gia Đài Loan (2011)
 
 
 ### Thành Viên Hiệp Hội Nghiên Cứu
+* Hiệp Hội Nghiên Cứu Giao Thông Đông Á (EASTS)
 
-*Hiệp Hội Nghiên Cứu Giao Thông Đông Á (EASTS)
+
+### [Bấm vào ĐÂY để xem các bài báo](https://scholar.google.com/citations?user=ssVKhcMAAAAJ&hl=vi)

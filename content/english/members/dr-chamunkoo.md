@@ -1,5 +1,5 @@
 ---
-title: "Dr. Chamun Koo"
+title: "Prof. Chamun Koo"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -11,11 +11,9 @@ image: "images/team/DrKoo.jpg"
 course: "Senior Lecturer, Smart Urban Design and Planning"
 position: ""
 # biograph
-bio: "Professor Rob Cuyvers was an urban planner in the City of Mechelen, Belgium and a senior advisor for private companies and the Flemish government. He successfully managed large, complex urban projects in a regional or urban context. He was responsible for teams and budgets, and for formulating objectives and achieving goals (e.g. Lamot-site Mechelen, Park Spoor Noord Antwerp, Spatial Structure Plan Antwerp). He built up experience with participation processes and co-creation involving different actors, such as inhabitants, economic actors, planners, social actors and policy makers.
-He was Director of the research group Mobility and Environment of the University College PHL and Head of the department of Architecture, Interior Architecture and Arts at the University College PHL. He was Dean of the Faculty of Architecture and arts at Hasselt University, and promoter of different international and
-community projects. He was member of the jury of a lot of awards, competitions and selections (e.g. for the Flemish Governmental Architect)."
+bio: "Prof. Chamun Koo is a Dean of the School of Urban Environment Engineering, Handong Global University. He is a director of East-Sea Rim Research Institute of Economy and Culture. He also teachs at the Graduate School of International Development and Entreprenuership."
 # interest
-interest: ["Urban Design","Architecture"]
+interest: ["Urban And Regional Planning","Housing Policies","Environment Polices","Industrial Polices"]
 # contact info
 contact:
   # contact item loop
@@ -58,15 +56,28 @@ type: "teacher"
 weight: 6
 ---
 
-### Courses
-* Urban Resilience and Risk Assessment
-* Data Analytics and Solutions for Architect and Urban Planner
-* Asset Management for Buildings and Engineering Systems
-* System Engineering
-* Project Management
+### Academic and Research Profile
+* Director, East-Sea Rim Research Institute of Economy and Culture (2005 – Now)
+* Chief Editor, Hwan Dong Hae Review: Far East Regional Studies (2005 – Now)
+* Director, Urban Environment Project Team, UNESCO UNITWIN, Handong Global (1998 - Now)
+* Professor/Dean, School of Spatial Environment System Engineering, Handong Global University (1995 – Now)
+* Ph.D. (Uran Planning & Development) University of Southern California (1989)
+* M.C.R.P. (Urban & Regional Planning) Iowa State University (1985)
+* National Engineering Certificate, Construction Work (1980)
+* National Engineering Certificate, Architectural Structure (1980)
+* B.S.(Architecture) College of Engineering, Seoul National University (1980)
 
+<<<<<<< HEAD
+### International Experiences
+* Vice Director, Pohang City Regeneration Project Committee, Korea (2017 – Now)
+* Housing Planning and Economic Analyst, City of Los Angeles (1991 – 1995)
+* Assistant City Planner, City of Los Angeles (1990 – 1991)
+* Project Manager, Extra Builders, Inc. (1989 – 1990)
+* Planning Intern, Los Angeles Neighborhood Housing Services (1987 – 1988)
+=======
 ### Academic and Research Profile
 * Doctor of Philosophy in Engineering, Kyoto University, Japan (2009)
 * Master of Engineering, Asian Institute of Technology (AIT), Thailand (2004)
 * Bachelor of Art in Linguistic (major English), College of Foreign Language, National University of Vietnam, Hanoi (2002)
 * Bachelor of Engineering, Construction Engineering and Management, University of Transport and Communication, Hanoi (2000)
+>>>>>>> f6fd342f587306e0867d7e64a4f7a41bc78f285e

@@ -8,12 +8,12 @@ description : "."
 # teacher portrait
 image: "images/team/DrDucksu.jpg"
 # course
-course: "Senior Lecturer, Smart Urban Design and Planning"
+course: "Professor in Urban Planning and Design"
 position: ""
 # biograph
-bio: "Dr. Seo Ducksu is a professor of Handong Global University and an urbanist who is leading creative urban projects and studies around the world. He was educated at Handong Global University for an architecture bachelor degree, Harvard University for an urban design master degree, and received a PH.D. in urban planning from Seoul National University. He has experienced professional design and planning projects in renowned institutes of multiple countries. Partnering with NIBC Global Institute and ISCM (Institute of Smart City and Management), he is enthusiastically involved in innovative urban planning projects and regional studies based on the sustainable city paradigm around emerging world cities."
+bio: ""
 # interest
-interest: ["Urban Design","Architecture"]
+interest: ["Urban Planning and Design","Smart City Development", "Housing Studies", "Social Network Analysis and Mobility ","International Development and Global Citizenship Education" ]
 # contact info
 contact:
   # contact item loop
@@ -56,15 +56,19 @@ type: "teacher"
 weight: 3
 ---
 
-### Courses
-* Urban Resilience and Risk Assessment
-* Data Analytics and Solutions for Architect and Urban Planner
-* Asset Management for Buildings and Engineering Systems
-* System Engineering
-* Project Management
+### Academic and Research Profile
+* Professor at Handong Global University, South Korea (2019 – Now)
+* Head of NIBC Global Institute, Vietnam (2015-Now)
+* Ph.D. in Urban Planning and Design, Seoul National University, South Korea
+* Master of Landscape in Urban Design: Harvard University, USA
+* Bachelor of Architecture and Urban Planning, Handong Global University, South Korea 
 
-### Qualifications
-* Doctor of Philosophy in Engineering, Kyoto University, Japan (2009)
-* Master of Engineering, Asian Institute of Technology (AIT), Thailand (2004)
-* Bachelor of Art in Linguistic (major English), College of Foreign Language, National University of Vietnam, Hanoi (2002)
-* Bachelor of Engineering, Construction Engineering and Management, University of Transport and Communication, Hanoi (2000)
+
+### International Experiences
+* Advisor, UN Academic Impact, Korea (2016 – Now)
+* Advisor, UN Habitat, Korea (2016 – Now)
+* Project Director, ADU Group, Vietnam (2012 – 2015)
+* Urban Designer and Planner, SERA Architects, USA (2011 – 2012)
+
+### [Click HERE for Publication](https://scholar.google.co.kr/citations?user=7mawbTAAAAAJ&hl=en)‬ 
+

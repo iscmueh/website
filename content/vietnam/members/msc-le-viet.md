@@ -1,5 +1,5 @@
 ---
-title: "B.E. Le Viet"
+title: "Cử Nhân Lê Quốc Việt"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,12 +8,12 @@ description : "."
 # teacher portrait
 image: "images/team/LV.jpg"
 # course
-course: "Research Assistant & Studio Lab Manager"
+course: "Trợ Lý Nghiên Cứu và Quản Lý Studio Lab"
 position: ""
 # biograph
-bio: "Le Quoc Viet is Studio-Lab Manager at ISCM, where he responsible for the orchestration and implementation of all Studio-Lab activities and process, especially those related to simulation technology. He graduated from Ton Duc Thang university, with bachelor degrees in Urban Planning in 2017. After graduation, Viet developed a strong sense of technology application in architecture and urban design. In addition to his role as studiolab administrator, Viet has also expanded his work into other design-related activities in ISCM including digital and printed publication design, 3D model design, … Computer is both his vocation and avocation."
+bio: "Kỹ sư quy hoạch đô thị với kỹ năng tốt về tư duy và đồ họa. Tìm kiếm vị trí làm việc tại các đơn vị hoạt động trong lĩnh vực thiết kế, quy hoạch đô thị thông minh, nơi có thể ứng dụng và phát triển các kiến thức chuyên ngành quy hoạch và các công nghệ ứng dụng liên quan."
 # interest
-interest: ["Urban Design", "Augmeted Reality", "3D Printing", "Agent Based Modelling"]
+interest: ["Thiết Kế Đô Thị", "Augmeted Reality", "3D Printing", "Agent Based Modelling"]
 # contact info
 contact:
   # contact item loop
@@ -56,16 +56,8 @@ type: "teacher"
 weight: 11
 ---
 
-### Courses
-* Urban Resilience and Risk Assessment
-* Data Analytics and Solutions for Architect and Urban Planner
-* Asset Management for Buildings and Engineering Systems
-* System Engineering
-* Project Management
+### Tiểu Sử Nghiên Cứu và Học Thuật
+* Cử Nhân Kỹ Thuật, Quy Hoạch Đo Thị, Đại học Tôn Đức Thắng (2017)
 
-### Tiểu Sử Nghiên Cứu
-* Doctor of Philosophy in Engineering, Kyoto University, Japan (2009)
-* Master of Engineering, Asian Institute of Technology (AIT), Thailand (2004)
-* Bachelor of Art in Linguistic (major English), College of Foreign Language, National University of Vietnam, Hanoi (2002)
-* Bachelor of Engineering, Construction Engineering and Management, University of Transport and Communication, Hanoi (2000)
 ### Kinh Nghiệm Quốc Tế
+* Chương trình trao đổi ERAMUS+ ngành Kiến trúc, Đại học Hasselt, Vương quốc Bỉ (2017)

@@ -38,6 +38,8 @@ After graduation, learners are equipped with logical thinking, knowledge and ski
 The program focuses on the application of smart technology on urban innovation management towards sustainable development, and integrated planning considering environmental concerns.
 
 <!--EndFragment-->
+{{< youtube id="NrtYcJBrxaU" title="Smart Urban Architecture and Design" >}}
+
 
 ### Advantage
 

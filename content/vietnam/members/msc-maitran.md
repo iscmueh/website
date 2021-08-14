@@ -8,17 +8,16 @@ description : "."
 # teacher portrait
 image: "images/team/MAI.JPG"
 # course
-course: "Operations Manager"
+course: "Smart design Lecturer - Operations Manager"
 position: ""
 # biograph
-bio: "M.Arch Tran Thi Quynh Mai is an Operation Manager at ISCM. She graduated from University of Architecture Ho Chi Minh city with master degree in Architecture (2013). After graduation, she has worked for Ton Duc Thang university as well as Architectural lecturer in 6 years. She is currently doing her PhD in Architecture at Hasselt University, Belgium. Her interests in research focuses on architecture and urban fields especially smart design, urban design, landscape
-architecture, sustainable development and smart city."
+bio: "M.Arch Tran Thi Quynh Mai is an Operation Manager at ISCM. She graduated from University of Architecture Ho Chi Minh city with master degree in Architecture (2013). After graduation, she has worked for Ton Duc Thang university as well as Architectural lecturer in 6 years. Her interests in research focuses on architecture and urban fields especially smart design, urban design, landscape architecture, sustainable development and smart city."
 # interest
-interest: ["Machine Learning","Artificial Intelligence", "Computer Vision", "Agent Based Modelling"]
+interest: ["Sustainable development","Heritage Conservation", "Smart design"]
 # contact info
 contact:
   # contact item loop
-  - name : "iscm@ueh.edu.vn"
+  - name : "ttqmai@ueh.edu.vn"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
     link : "iscm@ueh.edu.vn"
 
@@ -57,18 +56,17 @@ type: "teacher"
 weight: 13
 ---
 
-### Giảng Dạy
-* Urban Resilience and Risk Assessment
-* Data Analytics and Solutions for Architect and Urban Planner
-* Asset Management for Buildings and Engineering Systems
-* System Engineering
-* Project Management
+### Courses
+* Building Construction/Structure
+* Theories of Architectural Design
+* Design Studios
+* International design Studios
+* Urban planning and housing
 
-### Tiểu Sử Nghiên Cứu
-* Doctor of Philosophy in Engineering, Kyoto University, Japan (2009)
-* Master of Engineering, Asian Institute of Technology (AIT), Thailand (2004)
-* Bachelor of Art in Linguistic (major English), College of Foreign Language, National University of Vietnam, Hanoi (2002)
-* Bachelor of Engineering, Construction Engineering and Management, University of Transport and Communication, Hanoi (2000)
 
-### Kinh Nghiệm Quốc Tế
+### International Experiences
+* Instructor in International design Studios in Thailand (2018), Myanmar (2019), Vietnam (2016, 2017, 2018, 2019, 2020)
+* Lecturer exchange in Hasselt University, Belgium on March, 2018
+* Member of Women in Transport Leadership (WiTL)
+* Member of Lens
 

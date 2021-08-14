@@ -39,6 +39,7 @@ weight: 3
 
 
 ### Giảng Dạy
+
 * Sự bền vững và ứng phó của đô thị và đánh giá rủi do
 * Phân tích dữ liệu cho ngành kiến trúc, xây dựng, giao thông, và qui hoạch đô thị
 * Quản lý tài sản cơ sở hạ tầng cho các tòa nhà và hệ thống kĩ thuật

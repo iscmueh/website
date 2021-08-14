@@ -4,47 +4,27 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "."
+description : ""
 # teacher portrait
 image: "images/team/DrToKien.jpg"
 # course
 course: "Senior Lecturer, Smart Urban Design and Planning"
-position: ""
+position: "Director"
 # biograph
-bio: "Dr. TO Kien is a Tokyo-based Senior Planner and Manager. Before joining industry in 2017, he was senior researcher and lecturer in Urban Planning and Design with over 20 year academic track record and strong focus on Asia. Trained and worked in Japan, Germany, Vietnam and Singapore, he has researched and published extensively on various sustainability topics, including smart and innovative city, participatory community design, urban livability, historical conservation, aging and creativity. He gained wide-ranging empirical knowledge through field-based research and projects across Asia. He received many awards and appreciation, and delivers talks internationally. Although active abroad, Kien maintains tight connection with his homeland Vietnam, where he led several well regarded projects, judges competitions and awards, and receives media interviews widely."
-# interest
-interest: ["Urban Design","Architecture"]
+bio: "A Senior Researcher, Educator and Practitioner in Sustainable Urban Planning, Urban Design and Architecture, with 20+ year research-teaching-practice track at various international universities and companies, focusing on emergent Asian cities. A creative thinker, problem solver, social activist and change agent, who can work efficiently both in team and individually. Taught various modules, coordinated courses, conducted a vast portfolio of academic and action research toward implementation, and gained empirical knowledge through extensive fieldwork, interaction and collaboration with communities towards sustainability. Led a number of researches and quality publications, and delivered talks at numerous international venues. Won various grants, fellowships and awards, co-founded groups and co-lead them efficiently. Well connected in the Asian region as well as globally."
+
 # contact info
 contact:
   # contact item loop
   - name : "iscm@ueh.edu.vn"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "iscm@ueh.edu.vn"
+    link : "mailto:namlt@ueh.edu.vn"
 
+  # contact item loop
   # contact item loop
   - name : "+84-28-3930-9589/ +84-28-3930-9269"
-    icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+120345876"
-
-  # contact item loop
-  # - name : "Clark Malik"
-  #   icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
-
-  # contact item loop
-  # - name : "Clark Malik"
-  #   icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
-
-  # contact item loop
-  # - name : "Clark Malik"
-  #   icon : "ti-skype" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
-
-  # contact item loop
-  # - name : "clarkmalik.com"
-  #   icon : "ti-world" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
+    icon : "ti-world" # icon pack : https://themify.me/themify-icons
+    link : "https://namkyodai.github.io"
 
   # contact item loop
   # - name : "1313 Boulevard Cremazie,Quebec"
@@ -53,19 +33,40 @@ contact:
 
 # type
 type: "teacher"
-weight: 4
+weight: 3
 ---
 
-### Courses
-* Urban Resilience and Risk Assessment
-* Data Analytics and Solutions for Architect and Urban Planner
-* Asset Management for Buildings and Engineering Systems
-* System Engineering
-* Project Management
 
+### Courses
+* History of Architecture and Urbanism
+* Urban anthropoly: How to fosster civic engagement
+* Architecture StudioLab 2: commercial building
+* Landscape Design StudioLab
+* Smart Urban Design StudioLab
+* Architecture StudioLab 1
+* Advanced International Urban Development
+* Theory of Urban Structure
 
 ### Academic and Research Profile
-* Doctor of Philosophy in Engineering, Kyoto University, Japan (2009)
-* Master of Engineering, Asian Institute of Technology (AIT), Thailand (2004)
-* Bachelor of Art in Linguistic (major English), College of Foreign Language, National University of Vietnam, Hanoi (2002)
-* Bachelor of Engineering, Construction Engineering and Management, University of Transport and Communication, Hanoi (2000)
+* Adjunct Assistant Professor, Singapore University of Technology and Design (SUTD) (2016-2017) 
+* Senior Research Scientist, SUTD (Fall 2014, dual appointment: Senior Teaching Fellow) (2011-2016)
+* Postdoctoral Research Fellow (2 years), hosted by Kyushu University, funded by JSPS. 2009 -2011
+* Guest Associate Professor and Course Coordinator (3 months), Kyushu University (2009)
+* Postdoctoral Research Fellow - Guest Scholar (7 months), funded by Konosuke Matsushita Memorial Foundation, hosted by Kumamoto University, Japan 2008
+* PhD of Architecture, Kumamoto University, Japan 2008
+* Master of Architecture in Urban Design, Berlin-Weissensee Arts Academy (KHB), Germany 2000
+* Bachelor of Architecture and Planning (with highest distinction)National University of Civil Engineering in Hanoi, Vietnam 1996
+
+### International Experiences
+* Senior Planner & Project Manager, Eight-Japan Engineering Consultants Inc. (EJEC) (2017-now) 
+
+### Awards
+* Asian Townscape Award (for Tam Thanh Community Art Village, as Project Co-director) (2017)
+* Humanitarian Award (Student Achievement, as Co-mentor), HCM Community Design, by SUTD (2016)
+* Second Runner-up - Create4good Challenge (as Co-mentor) (www.create4good.sg, SMU-SUTD) (2016)
+* â€˜Best Paper of Sessionâ€™ and â€˜Best Presentation of Sessionâ€™ Awards,at the First ISHED International Conference, Tongji University, China (2012)
+* Excellent Social Contribution Award by Vietnamese Embassy in Japan (2011)
+* Excellent Social Contribution Award by Vietnamese Embassy in Germany (1998)
+* VIFOTEC Technical Invention Award by Vietnamese Government (1996)
+
+### [Click HERE for Publication](https://www.researchgate.net/profile/Kien-To)

@@ -62,6 +62,3 @@ weight: 12
 * Digital tools & Big data
 * Geographic Information System
 * Smart City and Urban Intervention
-
-
-### Academic and Research Profile
