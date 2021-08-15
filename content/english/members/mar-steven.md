@@ -56,8 +56,8 @@ weight: 15
 ---
 
 ### Academic and Research Profile
-* Guest lecturer design / academic staff member at University of Hasselt, BE (2018 â€“ Now)
+* Guest lecturer design / academic staff member at University of Hasselt, BE (2018 - Now)
 * MA Urban Design and Spatial Planning at KU Leuven (2007)
-* BA after BA Landscape Development at University College Ghent â€“ KASK (2004)
-* BA Garden and Landscape Architecture at University College Ghent â€“ KASK (2003)
+* BA after BA Landscape Development at University College Ghent, KASK (2004)
+* BA Garden and Landscape Architecture at University College Ghent, KASK (2003)
 

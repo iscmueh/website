@@ -55,17 +55,9 @@ type: "teacher"
 weight: 15
 ---
 
-### Academic and Research Profile
-* Guest lecturer design / academic staff member at University of Hasselt, BE (2018 â€“ Now)
+#### Academic and Research Profile
+* Guest lecturer design / academic staff member at University of Hasselt, BE (2018 - Now)
 * MA Urban Design and Spatial Planning at KU Leuven (2007)
-* BA after BA Landscape Development at University College Ghent â€“ KASK (2004)
-* BA Garden and Landscape Architecture at University College Ghent â€“ KASK (2003)
+* BA after BA Landscape Development at University College Ghent, KASK (2004)
+* BA Garden and Landscape Architecture at University College Ghent, KASK (2003)
 
-<<<<<<< HEAD
-=======
-### Academic and Research Profile
-* Doctor of Philosophy in Engineering, Kyoto University, Japan (2009)
-* Master of Engineering, Asian Institute of Technology (AIT), Thailand (2004)
-* Bachelor of Art in Linguistic (major English), College of Foreign Language, National University of Vietnam, Hanoi (2002)
-* Bachelor of Engineering, Construction Engineering and Management, University of Transport and Communication, Hanoi (2000)
->>>>>>> f6fd342f587306e0867d7e64a4f7a41bc78f285e

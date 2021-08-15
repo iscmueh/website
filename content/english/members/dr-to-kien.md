@@ -49,13 +49,13 @@ weight: 3
 
 ### Academic and Research Profile
 * Adjunct Assistant Professor, Singapore University of Technology and Design (SUTD) (2016-2017) 
-* Senior Research Scientist, SUTD (Fall 2014, dual appointment: Senior Teaching Fellow) (2011-2016)
-* Postdoctoral Research Fellow (2 years), hosted by Kyushu University, funded by JSPS. 2009 -2011
-* Guest Associate Professor and Course Coordinator (3 months), Kyushu University (2009)
-* Postdoctoral Research Fellow - Guest Scholar (7 months), funded by Konosuke Matsushita Memorial Foundation, hosted by Kumamoto University, Japan 2008
-* PhD of Architecture, Kumamoto University, Japan 2008
-* Master of Architecture in Urban Design, Berlin-Weissensee Arts Academy (KHB), Germany 2000
-* Bachelor of Architecture and Planning (with highest distinction)National University of Civil Engineering in Hanoi, Vietnam 1996
+* Senior Research Scientist, SUTD (2011-2016)
+* Postdoctoral Research Fellow, Kyushu University (2009 -2011)
+* Guest Associate Professor and Course Coordinator, Kyushu University (2009)
+* Postdoctoral Research Fellow - Guest Scholar, Kumamoto University, Japan (2008)
+* PhD of Architecture, Kumamoto University, Japan (2008)
+* Master of Architecture in Urban Design, Berlin-Weissensee Arts Academy (KHB), Germany (2000)
+* Bachelor of Architecture and Planning, National University of Civil Engineering, Vietnam (1996)
 
 ### International Experiences
 * Senior Planner & Project Manager, Eight-Japan Engineering Consultants Inc. (EJEC) (2017-now) 
@@ -64,7 +64,7 @@ weight: 3
 * Asian Townscape Award (for Tam Thanh Community Art Village, as Project Co-director) (2017)
 * Humanitarian Award (Student Achievement, as Co-mentor), HCM Community Design, by SUTD (2016)
 * Second Runner-up - Create4good Challenge (as Co-mentor) (www.create4good.sg, SMU-SUTD) (2016)
-* â€˜Best Paper of Sessionâ€™ and â€˜Best Presentation of Sessionâ€™ Awards,at the First ISHED International Conference, Tongji University, China (2012)
+* Best Paper of Session and Best Presentation of Session Awards,at the First ISHED International Conference, Tongji University, China (2012)
 * Excellent Social Contribution Award by Vietnamese Embassy in Japan (2011)
 * Excellent Social Contribution Award by Vietnamese Embassy in Germany (1998)
 * VIFOTEC Technical Invention Award by Vietnamese Government (1996)

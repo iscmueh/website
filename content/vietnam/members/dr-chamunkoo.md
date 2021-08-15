@@ -67,17 +67,9 @@ weight: 6
 * National Engineering Certificate, Architectural Structure (1980)
 * B.S.(Architecture) College of Engineering, Seoul National University (1980)
 
-<<<<<<< HEAD
 ### International Experiences
 * Vice Director, Pohang City Regeneration Project Committee, Korea (2017 – Now)
 * Housing Planning and Economic Analyst, City of Los Angeles (1991 – 1995)
 * Assistant City Planner, City of Los Angeles (1990 – 1991)
 * Project Manager, Extra Builders, Inc. (1989 – 1990)
 * Planning Intern, Los Angeles Neighborhood Housing Services (1987 – 1988)
-=======
-### Academic and Research Profile
-* Doctor of Philosophy in Engineering, Kyoto University, Japan (2009)
-* Master of Engineering, Asian Institute of Technology (AIT), Thailand (2004)
-* Bachelor of Art in Linguistic (major English), College of Foreign Language, National University of Vietnam, Hanoi (2002)
-* Bachelor of Engineering, Construction Engineering and Management, University of Transport and Communication, Hanoi (2000)
->>>>>>> f6fd342f587306e0867d7e64a4f7a41bc78f285e
