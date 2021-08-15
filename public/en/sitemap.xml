@@ -152,30 +152,6 @@
                 href="https://iscmueh.github.io/members/dr-ducsu-seo/"
                 />
   </url><url>
-    <loc>https://iscmueh.github.io/members/dr-nam-le/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/members/dr-nam-le/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/members/dr-nam-le/"
-                />
-  </url><url>
-    <loc>https://iscmueh.github.io/members/dr-ngoc-t-nguyen/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/members/dr-ngoc-t-nguyen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/members/dr-ngoc-t-nguyen/"
-                />
-  </url><url>
     <loc>https://iscmueh.github.io/advisory/dr-park-young-june/</loc>
     <xhtml:link
                 rel="alternate"
@@ -186,18 +162,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://iscmueh.github.io/advisory/dr-park-young-june/"
-                />
-  </url><url>
-    <loc>https://iscmueh.github.io/members/dr-to-kien/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/members/dr-to-kien/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/members/dr-to-kien/"
                 />
   </url><url>
     <loc>https://iscmueh.github.io/consultancy/traffic-impact-assessment/</loc>
@@ -238,28 +202,16 @@
                 href="https://iscmueh.github.io/advisory/dr-khuat-viet-hung/"
                 />
   </url><url>
-    <loc>https://iscmueh.github.io/members/msc-tam-do/</loc>
+    <loc>https://iscmueh.github.io/members/dr-nam-le/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://iscmueh.github.io/vi/members/msc-tam-do/"
+                href="https://iscmueh.github.io/vi/members/dr-nam-le/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iscmueh.github.io/members/msc-tam-do/"
-                />
-  </url><url>
-    <loc>https://iscmueh.github.io/members/msc-hai-hoang/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/members/msc-hai-hoang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/members/msc-hai-hoang/"
+                href="https://iscmueh.github.io/members/dr-nam-le/"
                 />
   </url><url>
     <loc>https://iscmueh.github.io/network/politech-minalo/</loc>
@@ -300,6 +252,18 @@
                 href="https://iscmueh.github.io/advisory/dr-lee-ju-ho/"
                 />
   </url><url>
+    <loc>https://iscmueh.github.io/members/dr-chamunkoo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/members/dr-chamunkoo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/members/dr-chamunkoo/"
+                />
+  </url><url>
     <loc>https://iscmueh.github.io/network/thekie/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -338,6 +302,18 @@
                 href="https://iscmueh.github.io/adjunctprofessors/prof-elena-marchigiani/"
                 />
   </url><url>
+    <loc>https://iscmueh.github.io/members/dr-to-kien/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/members/dr-to-kien/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/members/dr-to-kien/"
+                />
+  </url><url>
     <loc>https://iscmueh.github.io/adjunctprofessors/prof-katharinanord/</loc>
     <xhtml:link
                 rel="alternate"
@@ -348,18 +324,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://iscmueh.github.io/adjunctprofessors/prof-katharinanord/"
-                />
-  </url><url>
-    <loc>https://iscmueh.github.io/members/dr-chamunkoo/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/members/dr-chamunkoo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/members/dr-chamunkoo/"
                 />
   </url><url>
     <loc>https://iscmueh.github.io/adjunctprofessors/prof-lee-youngsang/</loc>
@@ -399,6 +363,18 @@
                 href="https://iscmueh.github.io/network/kbet/"
                 />
   </url><url>
+    <loc>https://iscmueh.github.io/members/dr-ngoc-t-nguyen/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/members/dr-ngoc-t-nguyen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/members/dr-ngoc-t-nguyen/"
+                />
+  </url><url>
     <loc>https://iscmueh.github.io/network/iotlink/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -410,6 +386,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://iscmueh.github.io/network/iotlink/"
+                />
+  </url><url>
+    <loc>https://iscmueh.github.io/members/msc-maitran/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/members/msc-maitran/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/members/msc-maitran/"
                 />
   </url><url>
     <loc>https://iscmueh.github.io/network/hteglobal/</loc>
@@ -425,6 +413,18 @@
                 href="https://iscmueh.github.io/network/hteglobal/"
                 />
   </url><url>
+    <loc>https://iscmueh.github.io/members/msc-hoai-pham/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/members/msc-hoai-pham/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/members/msc-hoai-pham/"
+                />
+  </url><url>
     <loc>https://iscmueh.github.io/network/bharchitect/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -438,16 +438,16 @@
                 href="https://iscmueh.github.io/network/bharchitect/"
                 />
   </url><url>
-    <loc>https://iscmueh.github.io/members/msc-hoai-pham/</loc>
+    <loc>https://iscmueh.github.io/members/msc-le-viet/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://iscmueh.github.io/vi/members/msc-hoai-pham/"
+                href="https://iscmueh.github.io/vi/members/msc-le-viet/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iscmueh.github.io/members/msc-hoai-pham/"
+                href="https://iscmueh.github.io/members/msc-le-viet/"
                 />
   </url><url>
     <loc>https://iscmueh.github.io/network/omgeving/</loc>
@@ -463,16 +463,16 @@
                 href="https://iscmueh.github.io/network/omgeving/"
                 />
   </url><url>
-    <loc>https://iscmueh.github.io/members/msc-le-viet/</loc>
+    <loc>https://iscmueh.github.io/members/mar-steven/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://iscmueh.github.io/vi/members/msc-le-viet/"
+                href="https://iscmueh.github.io/vi/members/mar-steven/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iscmueh.github.io/members/msc-le-viet/"
+                href="https://iscmueh.github.io/members/mar-steven/"
                 />
   </url><url>
     <loc>https://iscmueh.github.io/network/unai/</loc>
@@ -488,30 +488,6 @@
                 href="https://iscmueh.github.io/network/unai/"
                 />
   </url><url>
-    <loc>https://iscmueh.github.io/members/msc-le-an/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/members/msc-le-an/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/members/msc-le-an/"
-                />
-  </url><url>
-    <loc>https://iscmueh.github.io/members/msc-maitran/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/members/msc-maitran/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/members/msc-maitran/"
-                />
-  </url><url>
     <loc>https://iscmueh.github.io/members/msc-hanhan/</loc>
     <xhtml:link
                 rel="alternate"
@@ -524,16 +500,40 @@
                 href="https://iscmueh.github.io/members/msc-hanhan/"
                 />
   </url><url>
-    <loc>https://iscmueh.github.io/members/mar-steven/</loc>
+    <loc>https://iscmueh.github.io/members/msc-le-an/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://iscmueh.github.io/vi/members/mar-steven/"
+                href="https://iscmueh.github.io/vi/members/msc-le-an/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iscmueh.github.io/members/mar-steven/"
+                href="https://iscmueh.github.io/members/msc-le-an/"
+                />
+  </url><url>
+    <loc>https://iscmueh.github.io/members/msc-tam-do/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/members/msc-tam-do/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/members/msc-tam-do/"
+                />
+  </url><url>
+    <loc>https://iscmueh.github.io/members/msc-hai-hoang/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/members/msc-hai-hoang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/members/msc-hai-hoang/"
                 />
   </url><url>
     <loc>https://iscmueh.github.io/members/mar-thangtrinh/</loc>
