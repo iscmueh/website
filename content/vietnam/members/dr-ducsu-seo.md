@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/DrDucksu.jpg"
 # course
-course: "Professor in Urban Planning and Design"
+course: "International Coordinator"
 position: ""
 # biograph
 bio: ""
