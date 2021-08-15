@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/LV.jpg"
 # course
-course: "Trợ Lý Nghiên Cứu và Quản Lý Studio Lab"
+course: "Quản Lý StudioLab"
 position: ""
 # biograph
 bio: "Kỹ sư quy hoạch đô thị với kỹ năng tốt về tư duy và đồ họa. Tìm kiếm vị trí làm việc tại các đơn vị hoạt động trong lĩnh vực thiết kế, quy hoạch đô thị thông minh, nơi có thể ứng dụng và phát triển các kiến thức chuyên ngành quy hoạch và các công nghệ ứng dụng liên quan."

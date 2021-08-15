@@ -1,5 +1,5 @@
 ---
-title: "Dual Master’s Degrees (Executive Master of Public Management and Transportation Sciences)"
+title: "Master of Smart City and Innovation Management, Master of Transportation Sciences"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -50,7 +50,7 @@ After graduating, learners receive dual degrees:
 *	Multidisciplinary integration such as transportation, engineering, planning, public policy, etc. through lectures, seminars, workshops, field visits;
 *	Projects and subjects are designed based on real problems and solutions (ordered by the state management agencies, domestic and foreign private companies), and taught by domestic and international professors, lecturers and experts;
 *	Application of advancded technology solutions (VR, AR, 3D Printing, urban simulation, etc.) to design, planning and implementation;
-*	Use modern smart city Studio-Lab.
+*	Use modern smart city StudioLab.
 
 
 
@@ -59,3 +59,6 @@ After graduating, learners receive dual degrees:
 *	Candidates: gradutates from universities around the world
 *	Entrance exam: English, GMAT and interview
 
+### [Click HERE for more Details](https://www.ueh.edu.vn/dao-tao/thac-si-tien-si/thac-si-dieu-hanh-cao-cap-emba/quan-ly-do-thi-thong-minh-va-sang-tao/?fbclid=IwAR09xSUOK2WxPuLZdZ4whONMLsnSDkAyvQqkoX0iioGizyCGdkdtBUqgig4)
+
+### Program structure 

@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/MAI.JPG"
 # course
-course: "Smart design Lecturer - Operations Manager"
+course: "Operation Manager"
 position: ""
 # biograph
 bio: "M.Arch Tran Thi Quynh Mai is an Operation Manager at ISCM. She graduated from University of Architecture Ho Chi Minh city with master degree in Architecture (2013). After graduation, she has worked for Ton Duc Thang university as well as Architectural lecturer in 6 years. Her interests in research focuses on architecture and urban fields especially smart design, urban design, landscape architecture, sustainable development and smart city."

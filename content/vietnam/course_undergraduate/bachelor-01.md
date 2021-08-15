@@ -58,3 +58,8 @@ Phù hợp với nhiều định hướng khác nhau của sinh viên, đề cao
 ### Yêu cầu ngôn ngữ:
 
 Việt/Anh
+
+### [Bấm vào đây để xem chi tiết](https://www.ueh.edu.vn/dao-tao/dai-hoc-chinh-quy/cu-nhan-chinh-quy-chuan/kien-truc-va-thiet-ke-do-thi-thong-minh/?fbclid=IwAR2NpSrtyKgf7cPVM--jJOa42jbvd-inHWMR1ULdk9jFbr3KvYR_8rTCuDU)
+
+
+### Cấu Trúc Chương Trình

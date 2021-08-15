@@ -8,7 +8,7 @@ description : ""
 # teacher portrait
 image: "images/team/NAMLE.jpg"
 # course
-course: "Senior Lecturer and Data Scientist - Urban Resilience and Risk"
+course: "Senior Lecturer"
 position: "Director"
 # biograph
 bio: "I am interested in applied mathematics, statistics, and operations research for optimal management and development of intervention strategies for buildings, infrastructure, and engineering systems."

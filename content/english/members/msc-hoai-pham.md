@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/TRI.jpg"
 # course
-course: "Research Assistant and Program Coordinator"
+course: "Lecturer"
 position: ""
 # biograph
 bio: "M.Sc Pham Nguyen Hoai is currently a Research Coordinator at ISCM. He firstly started his career in aviation industry

@@ -8,7 +8,7 @@ description : ""
 # teacher portrait
 image: "images/team/DrToKien.jpg"
 # course
-course: "Senior Lecturer, Smart Urban Design and Planning"
+course: "Giảng viên cao cấp"
 position: "Director"
 # biograph
 bio: "A Senior Researcher, Educator and Practitioner in Sustainable Urban Planning, Urban Design and Architecture, with 20+ year research-teaching-practice track at various international universities and companies, focusing on emergent Asian cities. A creative thinker, problem solver, social activist and change agent, who can work efficiently both in team and individually. Taught various modules, coordinated courses, conducted a vast portfolio of academic and action research toward implementation, and gained empirical knowledge through extensive fieldwork, interaction and collaboration with communities towards sustainability. Led a number of researches and quality publications, and delivered talks at numerous international venues. Won various grants, fellowships and awards, co-founded groups and co-lead them efficiently. Well connected in the Asian region as well as globally."

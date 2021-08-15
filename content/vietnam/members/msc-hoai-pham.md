@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/TRI.jpg"
 # course
-course: "Giảng Viên, Giao Thông Thông Minh"
+course: "Giảng viên"
 position: ""
 # biograph
 bio: "Nghiên cứu và giảng dạy: Giao thông thông minh; Tâm lý học giao thông; Thiết kế/quy hoạch giao thông công cộng, giao thông không động cơ; Kinh tế vận tải hàng không; Chính sách và quản lý đô thị."

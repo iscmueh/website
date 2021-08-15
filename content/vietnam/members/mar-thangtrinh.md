@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/Thang.jpg"
 # course
-course: "Lecturer"
+course: "Giảng viên"
 position: ""
 # interest
 interest: ["Urban design"]

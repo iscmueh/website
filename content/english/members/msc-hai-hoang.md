@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/Hai.JPG"
 # course
-course: "Architect Scientist"
+course: "Lecturer"
 position: ""
 # biograph
 bio: "Hai Hoang is an Architect Scientist, working to fuse Architecture, Cities and Technology. He oversees the integration of diverse decentralized stakeholders. His belief is win-win scenarios, where all disciplines gain benefits based on trust, knowledge and sharing. That drives Hai forward with his daily tasks as contributor for better communities"

@@ -42,7 +42,7 @@ After graduation, students have competence to work for public or private, intern
 *	Multi-sectoral integrated approach from the fields of environment, art, engineering, planning, public policy, etc. and gain diverse experiences from lectures, seminars, field visits, etc. Some subjects will be taught by international professors, lectureres and experts;
 *	Drawings and courses are designed based on research to solve practical problems (ordered by state management agencies, domestic and foreign private companies);
 *	Applications of advancded technologies: VR, AR, 3D printing, urban simulation, etc.;
-*	Using the modern smart urban studio-lab;
+*	Using the modern smart urban studioLab;
 *	Comprehensive cooperation with international university partners from Belgium, Korea, the Netherlands, New Zeland, Australia, France, Thailand, Myanmar, India etc;
 *	Enhance work ethic, integrity, and social responsibility.
 
@@ -52,3 +52,8 @@ After graduation, students have competence to work for public or private, intern
 * Admission of blocks: A00; A01; D01; V00 (in addition to the V-block without multiplier)
 
 * No aptitude tests. Talent subject will be trained after entry into Squeeze.
+
+### [Click HERE for more Details](https://www.ueh.edu.vn/dao-tao/dai-hoc-chinh-quy/cu-nhan-chinh-quy-chuan/kien-truc-va-thiet-ke-do-thi-thong-minh/?fbclid=IwAR2NpSrtyKgf7cPVM--jJOa42jbvd-inHWMR1ULdk9jFbr3KvYR_8rTCuDU)
+
+
+### Program structure 

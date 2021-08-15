@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/StevenPetit.jpg"
 # course
-course: "Lecturer, Architect"
+course: "Giảng viên"
 position: ""
 # biograph
 bio: ""

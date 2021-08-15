@@ -49,7 +49,7 @@ logo = "images/logoiscm.png"
 description = "Institute of Smart City and Management, University of Economics Ho Chi Minh"
 author = "ISCM"
 # contact info
-address = "232/6 Võ Thị Sáu, P. Võ Thị Sáu, Quận 3"
+address = "232/6 Vo Thi Sau Str, District 3, Ho Chi Minh City"
 mobile = "+84-28-3930-9589/ +84-28-3930-9269"
 email = "iscm@ueh.edu.vn"
 # contact form action
@@ -58,7 +58,7 @@ contact_form_action = "#" # contact form works with https://formspree.io
 google_analitycs_id = "" # your id
 # top header
 top_header = true
-
+ueh_logo = "images/ueh-logo.png"
 # Preloader
 [params.preloader]
 enable = true
@@ -228,6 +228,12 @@ hasChildren = true
   weight = 3
   name = "scholarship"
   url = "scholarship"
+
+  [[Languages.en.menu.main]]
+  parent = "Pages"
+  weight = 4
+  name = "Partner"
+  url = "partner"
 
   # [[Languages.en.menu.main]]
   # parent = "Pages"
@@ -404,6 +410,11 @@ hasChildren = true
   name = "Thư Viện"
   url = "library"
 
+  [[Languages.vi.menu.main]]
+  parent = "Mục"
+  weight = 3
+  name = "Tuyển dụng"
+  url = "partner"
 
   [[Languages.vi.menu.main]]
   parent = "Mục"
