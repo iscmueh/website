@@ -17,14 +17,15 @@ interest: ["Urban Design","Architecture"]
 # contact info
 contact:
   # contact item loop
-  - name : "hai.hoanglenam@gmail.com"
+  - name : "iscm@ueh.edu.vn"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "https://github.com/Hai-Hoang-88"
+    link : "iscm@ueh.edu.vn"
 
   # contact item loop
   - name : "+84-28-3930-9589/ +84-28-3930-9269"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
     link : "tel:+120345876"
+
 
   # contact item loop
   # - name : "Clark Malik"

@@ -12,7 +12,7 @@ course: "Strategy Advisor, RMS Consulting, Former Vice Minister of ICT of Korea.
 # biography
 bio: ""
 # interest
-interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
+interest: [""]
 # contact info
 contact:
   # contact item loop

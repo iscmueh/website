@@ -12,7 +12,7 @@ course: "Chairman, J. Mediator and Former Vice Minister of Industry of Korea."
 # biography
 bio: ""
 # interest
-interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
+interest: [" "]
 # contact info
 contact:
   # contact item loop

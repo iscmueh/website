@@ -14,7 +14,7 @@ course: "Chairman, University Council, University of Economics Ho Chi Minh"
 # biography
 bio: ""
 # interest
-interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
+interest: [""]
 # contact info
 contact:
   # contact item loop

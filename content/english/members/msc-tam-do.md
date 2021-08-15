@@ -17,9 +17,9 @@ interest: ["City Marketing","Smart City","Sustainable Urban Development"]
 # contact info
 contact:
   # contact item loop
-  - name : "tam.do_phuc@bharchitects.com"
+  - name : "iscm@ueh.edu.vn"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mail.google.com"
+    link : "iscm@ueh.edu.vn"
 
   # contact item loop
   - name : "+84-28-3930-9589/ +84-28-3930-9269"

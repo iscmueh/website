@@ -12,7 +12,7 @@ course: "Executive Vice Chairman, National Traffic Safety Committee of Vietnam"
 # biography
 bio: ""
 # interest
-interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
+interest: [""]
 # contact info
 contact:
   # contact item loop

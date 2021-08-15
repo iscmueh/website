@@ -12,7 +12,7 @@ course: "Chairman, Education Commission AISA, Former Minister of Education of Ko
 # biography
 bio: ""
 # interest
-interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
+interest: [""]
 # contact info
 contact:
   # contact item loop

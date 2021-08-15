@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/DrDucksu.jpg"
 # course
-course: "Phân tích viên quốc tế"
+course: "Điều phối viên quốc tế"
 position: ""
 # biograph
 bio: ""
