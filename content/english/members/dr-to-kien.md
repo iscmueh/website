@@ -16,7 +16,7 @@ bio: "A Senior Researcher, Educator and Practitioner in Sustainable Urban Planni
 # contact info
 contact:
   # contact item loop
-  - name : "iscm@ueh.edu.vn"
+  - name : "tokien@ueh.edu.vn"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
     link : "mailto:namlt@ueh.edu.vn"
 
@@ -33,7 +33,7 @@ contact:
 
 # type
 type: "teacher"
-weight: 3
+weight: 6
 ---
 
 

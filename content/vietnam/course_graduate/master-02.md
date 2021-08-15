@@ -1,5 +1,5 @@
 ---
-title: "Executive Master of Public Management (Smart City and Innovation Management)"
+title: "Executive Master of Smart City and Innovation Management"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image

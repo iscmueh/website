@@ -1,5 +1,5 @@
 ---
-title: "Architectural and Urban Design for Inclusive Smart City"
+title: "Architectural and Urban Design Inclusive Smart City"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -30,7 +30,7 @@ summary: " "
 
 ### About Course
 
-The program, following Europe standard, provides expertise with integration of international knowledge and skills from various fields such as landscape architecture, transportation and infrastructure, economics, society, environment and technology to the field of architectural and urban design for inclusive smart city.
+The program, following international standard, provides expertise with integration of international knowledge and skills from various fields such as landscape architecture, transportation and infrastructure, economics, society, environment and technology to the field of architectural and urban design for inclusive smart city.
 
 After graduation, students have competence to work for public or private, international, NGOs, state agencies. To develop professional capacity, students could follow a master's degree program  for two years to obtain a master's degree and an architect's degree.
 
