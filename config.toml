@@ -150,7 +150,7 @@ weight = 3
   weight = 1
   name="Undergraduate"
   url="course_undergraduate"
-  
+
   [[Languages.en.menu.main]]
   parent="Education"
   weight = 2
@@ -203,11 +203,11 @@ hasChildren = true
    url = "adjunctprofessors"
 
 
-   [[Languages.en.menu.main]]
-   parent = "People"
-   weight = 4
-   name = "Network"
-   url = "network"
+#   [[Languages.en.menu.main]]
+#   parent = "People"
+#   weight = 4
+#   name = "Network"
+#   url = "network"
 
 
 
@@ -323,7 +323,7 @@ weight = 3
   weight=1
   name="Đại Học"
   url="course_undergraduate"
-  
+
   [[Languages.vi.menu.main]]
   parent="Giáo Dục"
   weight=2
@@ -369,16 +369,16 @@ hasChildren = true
   [[Languages.vi.menu.main]]
   parent = "Nhân Sự"
   weight = 3
-  name = "Adjunct Professors"
+  name = "Giáo Sư Thỉnh Giảng"
   url = "adjunctprofessors"
 
 
 
-  [[Languages.vi.menu.main]]
-  parent = "Nhân Sự"
-  weight = 4
-  name = "Mạng Lưới"
-  url = "network"
+#  [[Languages.vi.menu.main]]
+#  parent = "Nhân Sự"
+#  weight = 4
+#  name = "Mạng Lưới"
+#  url = "network"
 
 
 
@@ -417,13 +417,13 @@ hasChildren = true
 
   [[Languages.vi.menu.main]]
   parent = "Mục"
-  weight = 3
-  name = "Tuyển dụng"
+  weight = 5
+  name = "Đối Tác"
   url = "partner"
 
   [[Languages.vi.menu.main]]
   parent = "Mục"
-  weight = 5
+  weight = 6
   name = "Tuyển Dụng"
   url = "recruit"
 

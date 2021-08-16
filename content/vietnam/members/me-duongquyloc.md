@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/DQL.jpg"
 # course
-course: "Giảng viên"
+course: "Giảng Viên"
 position: ""
 # biograph
 bio: ""

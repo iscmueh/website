@@ -1,5 +1,5 @@
 ---
-title: "M.Arch Trinh Quoc Thang"
+title: "Thạc Sĩ, KTS Trịnh Quốc Thắng"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/Thang.jpg"
 # course
-course: "Giảng viên"
+course: "Giảng Viên"
 position: ""
 # interest
 interest: ["Urban design"]
@@ -59,4 +59,3 @@ weight: 16
 ### Academic and Research Profile
 * Master, KU Leuven University, Belgium (2017)
 * Bachelor, University of Architecture Ho Chi Minh city & KU Leuven University (2016)
-

@@ -14,14 +14,9 @@ Established in May 2020, Institute of Smart City and Management (ISCM) is positi
 ISCM facilitates partnerships by building extensive local and international networks among research organizations, government authorities, companies, and communities. With a highly motivated and dynamic team that includes professors, experts, and researchers from different backgrounds, generations, and nationalities, we strive to create collective efforts to enhance the smartness, resilience, and sustainability of our cities.
 
 
-
-
 ### Vision
 
 Institute of Smart City and Management (2020 - 2025)/School of Design and Planning (2025 and forward) will be a leading institution/School by enhancing the quality of urban life towards sustainable and smart community development through international integrated education system, in-depth research and problem-solving projects.
-
-
-
 
 
 ### Mission

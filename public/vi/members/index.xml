@@ -6,9 +6,13 @@
     <description>Recent content in Nhân Sự on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
-    <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright><atom:link href="https://iscmueh.github.io/vi/members/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
+    
+	<atom:link href="https://iscmueh.github.io/vi/members/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>Dr. Trinh Tu Anh</title>
+      <title>Tiến Sĩ. Trịnh Tú Anh</title>
       <link>https://iscmueh.github.io/vi/members/dr-trinh-tu-anh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -17,7 +21,7 @@
     </item>
     
     <item>
-      <title>Prof. Rob Cuyvers</title>
+      <title>Giáo Sư, Tiến Sĩ. Rob Cuyvers</title>
       <link>https://iscmueh.github.io/vi/members/dr-rob/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -26,7 +30,7 @@
     </item>
     
     <item>
-      <title>Dr. Ducksu Seo</title>
+      <title>Tiến Si. Ducksu Seo</title>
       <link>https://iscmueh.github.io/vi/members/dr-ducsu-seo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -44,7 +48,7 @@
     </item>
     
     <item>
-      <title>Prof. Chamun Koo</title>
+      <title>Giáo Sư, Tiến Sĩ. Chamun Koo</title>
       <link>https://iscmueh.github.io/vi/members/dr-chamunkoo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -53,7 +57,7 @@
     </item>
     
     <item>
-      <title>Dr. To Kien</title>
+      <title>Tiến Sĩ, KTS. Tô Kiên</title>
       <link>https://iscmueh.github.io/vi/members/dr-to-kien/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -98,7 +102,7 @@
     </item>
     
     <item>
-      <title>M.Arch. Steven Petit</title>
+      <title>Thạc Sĩ, KTS. Steven Petit</title>
       <link>https://iscmueh.github.io/vi/members/mar-steven/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -143,7 +147,7 @@
     </item>
     
     <item>
-      <title>M.Arch Trinh Quoc Thang</title>
+      <title>Thạc Sĩ, KTS Trịnh Quốc Thắng</title>
       <link>https://iscmueh.github.io/vi/members/mar-thangtrinh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -161,7 +165,7 @@
     </item>
     
     <item>
-      <title>Pham Hoa Anh Dao</title>
+      <title>Phạm Hoa Anh Đào</title>
       <link>https://iscmueh.github.io/vi/members/intern-dao-pham/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

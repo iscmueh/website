@@ -1,5 +1,5 @@
 ---
-title: "M.Arch. Steven Petit"
+title: "Thạc Sĩ, KTS. Steven Petit"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/StevenPetit.jpg"
 # course
-course: "Giảng viên"
+course: "Giảng Viên"
 position: ""
 # biograph
 bio: ""
@@ -60,4 +60,3 @@ weight: 11
 * MA Urban Design and Spatial Planning at KU Leuven (2007)
 * BA after BA Landscape Development at University College Ghent, KASK (2004)
 * BA Garden and Landscape Architecture at University College Ghent, KASK (2003)
-

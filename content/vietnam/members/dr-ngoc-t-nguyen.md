@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/Ngoc.jpg"
 # course
-course: "Nghiên cứu viên"
+course: "Nghiên Cứu Viên"
 position: ""
 # biograph
 bio: "TS. Nguyễn Thị Ngọc tập trung nghiên cứu về hành vi và các thách thức cho sự phát triển bền vững khu vực đô thị. Hiện tại, cô đang thực hiện các nghiên cứu về hành vi di chuyển và giáo dục môi trường."

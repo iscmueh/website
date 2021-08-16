@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/Hai.JPG"
 # course
-course: "Giảng viên"
+course: "Giảng Viên"
 position: ""
 # biograph
 bio: "Tốt nghiệp kiến trúc truyền thông tại Hồ Chi Minh, Hải Hoàng có cơ hội được học hỏi, trao đổi và làm việc tại Châu Âu gần 10 năm. Với nền mòng văn hóa Việt Nam, kết hợp sự phát triển bền vững trong kiến trúc và đô thị bắc Âu và sự chính xác khoa học, tiên tiến của nền công nghiệp Đức đã thôi thúc Hải Hoàng đi tìm những giá trị để đóng góp cho cộng đồng"
@@ -67,6 +67,3 @@ weight: 15
 ### Kinh Nghiệm Quốc Tế
 *	Kiến trúc sư, Samy arkitehdit, Phần Lan (2018-2019)
 *	Kiến trúc sư, Archimg, Đức (2015-2016)
-
-
-

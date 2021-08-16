@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
-    <lastBuildDate>Tue, 06 Jul 2021 15:27:17 +0600</lastBuildDate><atom:link href="https://iscmueh.github.io/vi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jul 2021 15:27:17 +0600</lastBuildDate>
+    
+	<atom:link href="https://iscmueh.github.io/vi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Handong Global University</title>
       <link>https://iscmueh.github.io/vi/partner/handong-global-uni/</link>
@@ -27,21 +31,21 @@
     </item>
     
     <item>
-      <title>Dr. Trinh Tu Anh</title>
-      <link>https://iscmueh.github.io/vi/members/dr-trinh-tu-anh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/members/dr-trinh-tu-anh/</guid>
-      <description>Courses  New urban Economics and city marketing Urban Policy Smart Urban Design StudioLab The measurement of urban smartness and urban sustainability Sustainable City and Community Land-use and transportation City Project  Academic and Research Profile  Director, Institute of Smart City and Management, University of Economics HCMC, Present Head, Planning Department, Ton Duc Thang University - Civil Engineering Faculty, 2014-Present Visiting Lecturer, University of Economics Ho Chi Minh City, 2014 - Present Visiting Lecturer, Hochiminh city Open University, 2007 - Present Model Transport Specialist, Vietnamese – Germany University, 2015 -2016 Investigator, HCMC Department of Science and Technology (DoST), 2015 - 2016 Doctor of Engineering, Hasselt University, Belgium, 2008 -2013 Certificate of Blekinge university of technology, Sweden, 2007 - 2008 Master of Engineering, Asian Institute of Technology, international institution based in Bangkok, Thailand 2001 - 2003 Bachelor of Engineering, Transport - Economics Department, University of Transport and Communication, Vietnam 1995 - 2000  Professional Memberships  LENS (Learning Network on Sustainability) WiTL (Woman in Transport Leadership Workshop) RTIRN (Road Traffic Injuries Research Network) UEM Network (Urban Environmental Management Network) EASTS (Eastern Asia Society for Transportation Studies) TSSV (Transportation Studies Society of Vietnam) ISSOT (International Student Network on Transport Research)  Click HERE for Publication </description>
-    </item>
-    
-    <item>
       <title>Prof. Nguyen Dong Phong</title>
       <link>https://iscmueh.github.io/vi/advisory/dr-nguyen-dong-phong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/advisory/dr-nguyen-dong-phong/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Tiến Sĩ. Trịnh Tú Anh</title>
+      <link>https://iscmueh.github.io/vi/members/dr-trinh-tu-anh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/members/dr-trinh-tu-anh/</guid>
+      <description>Courses  New urban Economics and city marketing Urban Policy Smart Urban Design StudioLab The measurement of urban smartness and urban sustainability Sustainable City and Community Land-use and transportation City Project  Academic and Research Profile  Director, Institute of Smart City and Management, University of Economics HCMC, Present Head, Planning Department, Ton Duc Thang University - Civil Engineering Faculty, 2014-Present Visiting Lecturer, University of Economics Ho Chi Minh City, 2014 - Present Visiting Lecturer, Hochiminh city Open University, 2007 - Present Model Transport Specialist, Vietnamese – Germany University, 2015 -2016 Investigator, HCMC Department of Science and Technology (DoST), 2015 - 2016 Doctor of Engineering, Hasselt University, Belgium, 2008 -2013 Certificate of Blekinge university of technology, Sweden, 2007 - 2008 Master of Engineering, Asian Institute of Technology, international institution based in Bangkok, Thailand 2001 - 2003 Bachelor of Engineering, Transport - Economics Department, University of Transport and Communication, Vietnam 1995 - 2000  Professional Memberships  LENS (Learning Network on Sustainability) WiTL (Woman in Transport Leadership Workshop) RTIRN (Road Traffic Injuries Research Network) UEM Network (Urban Environmental Management Network) EASTS (Eastern Asia Society for Transportation Studies) TSSV (Transportation Studies Society of Vietnam) ISSOT (International Student Network on Transport Research)  Click HERE for Publication </description>
     </item>
     
     <item>
@@ -72,7 +76,7 @@
     </item>
     
     <item>
-      <title>Prof. Rob Cuyvers</title>
+      <title>Giáo Sư, Tiến Sĩ. Rob Cuyvers</title>
       <link>https://iscmueh.github.io/vi/members/dr-rob/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -99,21 +103,21 @@
     </item>
     
     <item>
-      <title>Dr. Ducksu Seo</title>
-      <link>https://iscmueh.github.io/vi/members/dr-ducsu-seo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/members/dr-ducsu-seo/</guid>
-      <description>Academic and Research Profile  Professor at Handong Global University, South Korea (2019 – Now) Head of NIBC Global Institute, Vietnam (2015-Now) Ph.</description>
-    </item>
-    
-    <item>
       <title>Dr. Park Young June</title>
       <link>https://iscmueh.github.io/vi/advisory/dr-park-young-june/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/advisory/dr-park-young-june/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Tiến Si. Ducksu Seo</title>
+      <link>https://iscmueh.github.io/vi/members/dr-ducsu-seo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/members/dr-ducsu-seo/</guid>
+      <description>Academic and Research Profile  Professor at Handong Global University, South Korea (2019 – Now) Head of NIBC Global Institute, Vietnam (2015-Now) Ph.</description>
     </item>
     
     <item>
@@ -180,7 +184,7 @@
     </item>
     
     <item>
-      <title>Prof. Chamun Koo</title>
+      <title>Giáo Sư, Tiến Sĩ. Chamun Koo</title>
       <link>https://iscmueh.github.io/vi/members/dr-chamunkoo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -216,15 +220,6 @@
     </item>
     
     <item>
-      <title>Dr. To Kien</title>
-      <link>https://iscmueh.github.io/vi/members/dr-to-kien/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/members/dr-to-kien/</guid>
-      <description>Courses  History of Architecture and Urbanism Urban anthropoly: How to fosster civic engagement Architecture StudioLab 2: commercial building Landscape Design StudioLab Smart Urban Design StudioLab Architecture StudioLab 1 Advanced International Urban Development Theory of Urban Structure  Academic and Research Profile  Adjunct Assistant Professor, Singapore University of Technology and Design (SUTD) (2016-2017) Senior Research Scientist, SUTD (2011-2016) Postdoctoral Research Fellow, Kyushu University (2009 -2011) Guest Associate Professor and Course Coordinator, Kyushu University (2009) Postdoctoral Research Fellow - Guest Scholar, Kumamoto University, Japan (2008) PhD of Architecture, Kumamoto University, Japan (2008) Master of Architecture in Urban Design, Berlin-Weissensee Arts Academy (KHB), Germany (2000) Bachelor of Architecture and Planning, National University of Civil Engineering, Vietnam (1996)  International Experiences  Senior Planner &amp;amp; Project Manager, Eight-Japan Engineering Consultants Inc.</description>
-    </item>
-    
-    <item>
       <title>Prof. Catharina Nord</title>
       <link>https://iscmueh.github.io/vi/adjunctprofessors/prof-katharinanord/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -249,6 +244,15 @@
       
       <guid>https://iscmueh.github.io/vi/adjunctprofessors/prof-youngsang-kwon/</guid>
       <description>Academic and Research Profile  Associate Professor of the Department of Civil and Environmental Engineering (Urban design major), Seoul National University (2014 – Now) Visiting Scholar (University of California, Berkeley) (2017-2018) Assistant Professor of the Department of Architecture and Urban Design (Urban design major), Incheon National University (2012 – 2014) Lecturer at Ton Duc Thang University, Vietnam (2015 – Now) Senior Researcher at AURI (Architecture and Urban Research Institute), Director of the National Hanok (Korean traditional housing) Center (2007 – 2012) Researcher at KRIHS (Korean Research Institute for Human Settlement) Urban Planning Division (2005 – 2007) Ph.</description>
+    </item>
+    
+    <item>
+      <title>Tiến Sĩ, KTS. Tô Kiên</title>
+      <link>https://iscmueh.github.io/vi/members/dr-to-kien/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/members/dr-to-kien/</guid>
+      <description>Courses  History of Architecture and Urbanism Urban anthropoly: How to fosster civic engagement Architecture StudioLab 2: commercial building Landscape Design StudioLab Smart Urban Design StudioLab Architecture StudioLab 1 Advanced International Urban Development Theory of Urban Structure  Academic and Research Profile  Adjunct Assistant Professor, Singapore University of Technology and Design (SUTD) (2016-2017) Senior Research Scientist, SUTD (2011-2016) Postdoctoral Research Fellow, Kyushu University (2009 -2011) Guest Associate Professor and Course Coordinator, Kyushu University (2009) Postdoctoral Research Fellow - Guest Scholar, Kumamoto University, Japan (2008) PhD of Architecture, Kumamoto University, Japan (2008) Master of Architecture in Urban Design, Berlin-Weissensee Arts Academy (KHB), Germany (2000) Bachelor of Architecture and Planning, National University of Civil Engineering, Vietnam (1996)  International Experiences  Senior Planner &amp;amp; Project Manager, Eight-Japan Engineering Consultants Inc.</description>
     </item>
     
     <item>
@@ -333,7 +337,7 @@
     </item>
     
     <item>
-      <title>M.Arch. Steven Petit</title>
+      <title>Thạc Sĩ, KTS. Steven Petit</title>
       <link>https://iscmueh.github.io/vi/members/mar-steven/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -396,7 +400,7 @@
     </item>
     
     <item>
-      <title>M.Arch Trinh Quoc Thang</title>
+      <title>Thạc Sĩ, KTS Trịnh Quốc Thắng</title>
       <link>https://iscmueh.github.io/vi/members/mar-thangtrinh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -414,7 +418,7 @@
     </item>
     
     <item>
-      <title>Pham Hoa Anh Dao</title>
+      <title>Phạm Hoa Anh Đào</title>
       <link>https://iscmueh.github.io/vi/members/intern-dao-pham/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -591,7 +595,7 @@
       
       <guid>https://iscmueh.github.io/vi/event/2021-international-design-competition-smartcity/</guid>
       <description>About Event ____________
-Tiếp nối thành công rực rỡ của cuộc thi thiết kế online quốc tế lần thứ 1 trong năm 2019 với chủ đề “Future City: Smart design for the post-pandemic world&amp;quot;, cuộc thi thường niên do Viện Đô thị thông minh và quản lý - ĐH Kinh tế TP.</description>
+Tiếp nối thành công rực rỡ của cuộc thi thiết kế online quốc tế lần thứ 1 trong năm 2019 với chủ đề “Future City: Smart design for the post-pandemic world&amp;rdquo;, cuộc thi thường niên do Viện Đô thị thông minh và quản lý - ĐH Kinh tế TP.</description>
     </item>
     
     <item>

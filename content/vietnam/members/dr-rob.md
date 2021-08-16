@@ -1,5 +1,5 @@
 ---
-title: "Prof. Rob Cuyvers"
+title: "Giáo Sư, Tiến Sĩ. Rob Cuyvers"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/ProfCuyvers.jpg"
 # course
-course: "Giãng viên cao cấp"
+course: "Giãng Viên Cao Cấp"
 position: ""
 # biograph
 bio: "Professor Rob Cuyvers was an urban planner in the City of Mechelen, Belgium and a senior advisor for private companies and the Flemish government. He successfully managed large, complex urban projects in a regional or urban context. He was responsible for teams and budgets, and for formulating objectives and achieving goals (e.g. Lamot-site Mechelen, Park Spoor Noord Antwerp, Spatial Structure Plan Antwerp). He built up experience with participation processes and co-creation involving different actors, such as inhabitants, economic actors, planners, social actors and policy makers.
@@ -63,7 +63,7 @@ weight: 2
 * 	President PXL-MAD, School of arts (2013 – 2019)
 * 	Dean of the Faculty of Architecture and arts (2013 – 2018)
 * 	President of research group Arck and MAD-research (2004 – 2013)
-* 	Head of the department of Architecture, Interior architecture and Arts at the University College PHL (2004 – 2013) 
+* 	Head of the department of Architecture, Interior architecture and Arts at the University College PHL (2004 – 2013)
 * 	President of the Media, Arts and Design-faculty (2009 – 2012)
 * 	Director Research group Mobility and Environment University College PHL (2001 – 2004)
 * 	Guest lecturer “Hogeschool voor Verkeerskunde” (1999 – 2000)

@@ -1,5 +1,5 @@
 ---
-title: "Prof. Chamun Koo"
+title: "Giáo Sư, Tiến Sĩ. Chamun Koo"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/DrKoo.jpg"
 # course
-course: "Giảng viên cao cấp"
+course: "Giảng Viên Cao Cấp"
 position: ""
 # biograph
 bio: "Prof. Chamun Koo is a Dean of the School of Urban Environment Engineering, Handong Global University. He is a director of East-Sea Rim Research Institute of Economy and Culture. He also teachs at the Graduate School of International Development and Entreprenuership."

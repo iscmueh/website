@@ -1,5 +1,5 @@
 ---
-title: "Dr. Ducksu Seo"
+title: "Tiến Si. Ducksu Seo"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/DrDucksu.jpg"
 # course
-course: "Điều phối viên quốc tế"
+course: "Điều Phối Viên Quốc Tế"
 position: ""
 # biograph
 bio: ""
@@ -61,7 +61,7 @@ weight: 3
 * Head of NIBC Global Institute, Vietnam (2015-Now)
 * Ph.D. in Urban Planning and Design, Seoul National University, South Korea
 * Master of Landscape in Urban Design: Harvard University, USA
-* Bachelor of Architecture and Urban Planning, Handong Global University, South Korea 
+* Bachelor of Architecture and Urban Planning, Handong Global University, South Korea
 
 
 ### International Experiences
@@ -70,5 +70,4 @@ weight: 3
 * Project Director, ADU Group, Vietnam (2012 – 2015)
 * Urban Designer and Planner, SERA Architects, USA (2011 – 2012)
 
-### [Click HERE for Publication](https://scholar.google.co.kr/citations?user=7mawbTAAAAAJ&hl=en)‬ 
-
+### [Click HERE for Publication](https://scholar.google.co.kr/citations?user=7mawbTAAAAAJ&hl=en)‬

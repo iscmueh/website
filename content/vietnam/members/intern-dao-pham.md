@@ -1,5 +1,5 @@
 ---
-title: "Pham Hoa Anh Dao"
+title: "Phạm Hoa Anh Đào"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/Pham_Hoa_Anh_Dao.JPG"
 # course
-course: "Intern"
+course: "Thực Tập Sinh"
 position: ""
 # biograph
 bio: ""
