@@ -78,7 +78,7 @@ about:
   enable : true
   title : "Giới thiệu về ISCM"
   image : "images/about/about-page.jpg"
-  content : "Institute of Smart City and Management (ISCM) is a research institute belong to the School of Technology and Design (STD) of the University of Economics Ho Chi Minh (UEH). Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling. "
+  content : "Viện Đô Thị Thông Minh và Quản Lý (ISCM) là một Viện nghiên cứu thuộc Trường Công Nghệ và Thiết Kế (STD) thuộc hệ thống trường Đại Học Kinh Tế Thành Phố Hồ Chí Minh (UEH). Nghiên cứu và giảng dạy của ISCM được xây dựng trên nền tảng tích hợp các ứng dụng công nghệ trong nhiều lĩnh vực như thiết kế đô thị, thiết kế cảnh quan, giao thông, quản lý cơ sở hạ tầng và các mô hình quản lý và toán tối ưu nhằm xây dựng và phát triển các đô thị thông minh, xanh, và bền vững. "
   button:
     enable : true
     label : "Tìm hiểu thêm"
@@ -107,14 +107,13 @@ success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
   title : ""
-  content : "At ISCM *Smart City* is not about a destination, it is about a longlife journey. As cities are considered as organisms with full of cealess activities. In these activities, urban problems may emerge. To effectively address these problems, we shall prioritize them, optimally allocate our limited resources and apply appropriate technological and managerial approaches to develop better and smarter solutions.
+  content : "Một thành phố Thông Minh là một thành phố tràn đầy năng lượng và sức sống. Thành phố đó không chỉ là nơi ở của cư dân hay là một điểm đến của du khách hay của nhà đầu tư, thành phố đó với bản chất nội tại là một thực thể sống, là cả một hành trình sống động.
 
+  Trong sự chuyển động và tiến hóa của chính nó, sẽ luôn xuất hiện các vấn đề hay những hiện tượng gây tác hại, làm mất đi tính cân bằng và bền vững. Để thành phố chuyển động đúng theo trục bền vững, các nguồn lực hữu hạn và giải pháp cần được triển khai, huy động, và phân bổ một cách khoa học và tối ưu.
 
-  With modern tools and applications being developed, it is now time to integrate and optimize them to address specific problems in a smart and integrated approach. ISCM's vision to be the frontier institute in Vietnam and SEA region on providing such optimal and integrated approach.
+  ISCM, với sứ mệnh về giáo dục và nghiên cứu trong lĩnh vực thiết kế và quản lý đô thị, đã đang và sẽ tiếp cận các phương pháp tích hợp các lĩnh vực như thiết kế đô thị, giao thông, quản lý cơ sở hạn tầng dựa trên nền tảng công nghệ và sự phát triển xanh và bền vững.
 
-
-
-  Dr. Tu-Anh Trinh - Director"
+  Giám Đốc Viện. Tiến Sĩ Trịnh Tú Anh"
   # video link
   video_link : "https://www.youtube.com/watch?v=sqwcbOpMhnA"
 

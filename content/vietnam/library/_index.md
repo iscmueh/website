@@ -6,11 +6,11 @@ bg_image: "images/backgrounds/page-title.jpg"
 # about image
 image: "images/studiolab/book.jpg"
 # meta description
-description : "A collection of reading materials, standard templates of ISCM and UEH for students and researchers. "
+description : "Trang này tập hợp các đầu sách hay trong ngành và các hướng dẫn cụ thể cho giảng viện, sinh viên và nhà nghiên cứu của ISCM khi làm đề tài nghiên cứu, đề tài tốt nghiệp.  "
 ---
 
-#### UEH and ISCM Templates
-- Thesis
-- Presentation
+#### MẪU LUẬN VĂN CỦA TRƯỜNG VÀ CỦA VIỆN
+- Luận Văn
+- Báo Cáo Powerpoint
 
-#### BOOKS
+#### SÁCH HAY

@@ -1,5 +1,5 @@
 ---
-title: "Master of Smart City and Innovation Management, Master of Transportation Sciences"
+title: "Thạc Sĩ Quản Lý Đô Thị Thông Minh và Kĩ Thuật Giao Thông"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -9,11 +9,11 @@ description : ""
 # course thumbnail
 image: "images/courses/course-transport.jpg"
 # taxonomy
-category: "post-graduate"
+category: "Thạc Sĩ"
 # teacher
 #teacher: "Clark Malik"
 # duration
-duration : "2 years (03 semesters at UEH, 01 semester at UH)."
+duration : "2 năm (03 học kĩ tại UEH, 1 học kì tại Bỉ)."
 # weekly
 #weekly : "03 hours"
 # course fee
@@ -61,4 +61,4 @@ After graduating, learners receive dual degrees:
 
 ### [Click HERE for more Details](https://www.ueh.edu.vn/dao-tao/thac-si-tien-si/thac-si-dieu-hanh-cao-cap-emba/quan-ly-do-thi-thong-minh-va-sang-tao/?fbclid=IwAR09xSUOK2WxPuLZdZ4whONMLsnSDkAyvQqkoX0iioGizyCGdkdtBUqgig4)
 
-### Program structure 
+### Program structure

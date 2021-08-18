@@ -1,5 +1,5 @@
 ---
-title: "Master of Smart City and Innovation Management"
+title: "Thạc Sĩ Quản Lý Đô Thị Thông Minh và Sáng Tạo"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -9,11 +9,11 @@ description : ""
 # course thumbnail
 image: "images/courses/course-smartcity.jpg"
 # taxonomy
-category: "post-graduate"
+category: "Thạc Sĩ"
 # teacher
 #teacher: "Clark Malik"
 # duration
-duration : "2 years"
+duration : "2 năm"
 # weekly
 #weekly : "03 hours"
 # course fee
@@ -33,7 +33,7 @@ summary: " "
 ### About Course
 
 <!--StartFragment-->
-The program provides with deep expertise and competence to master the areas of management, science and technology regarding integrated solutions in urban planning and design for smart city. 
+The program provides with deep expertise and competence to master the areas of management, science and technology regarding integrated solutions in urban planning and design for smart city.
 
 After graduation, learners are equipped with logical thinking, knowledge and skills of sound management and science, high-level expertise and good practical skills. They have the ability to do independent scientific studies, be creative and give effective solutions for urban issues interms of management, science, and technology towards a smart city to fulfill the progress of the socio-economic condition.
 
@@ -65,4 +65,4 @@ Equal conditions:
 
 ### [Click HERE for more Details](https://www.ueh.edu.vn/dao-tao/thac-si-tien-si/thac-si-dieu-hanh-cao-cap-emba/quan-ly-do-thi-thong-minh-va-sang-tao/?fbclid=IwAR09xSUOK2WxPuLZdZ4whONMLsnSDkAyvQqkoX0iioGizyCGdkdtBUqgig4)
 
-### Program structure 
+### Program structure
