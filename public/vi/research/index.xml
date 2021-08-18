@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nghiên Cứu on Institute of Smart City &amp; Management</title>
+    <title>Nghiên Cứ và Phát Triển on Institute of Smart City &amp; Management</title>
     <link>https://iscmueh.github.io/vi/research/</link>
-    <description>Recent content in Nghiên Cứu on Institute of Smart City &amp; Management</description>
+    <description>Recent content in Nghiên Cứ và Phát Triển on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
-    <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright><atom:link href="https://iscmueh.github.io/vi/research/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2.	UEH: Zero Waste University</title>
-      <link>https://iscmueh.github.io/vi/research/zero-waste/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/research/zero-waste/</guid>
-      <description>This project aims to deploy sustainable waste management to the University of Economics Ho Chi Minh City (UEH).</description>
-    </item>
+    <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
+    
+	<atom:link href="https://iscmueh.github.io/vi/research/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>AR Wish Tree</title>
@@ -31,16 +26,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/research/city-branding/</guid>
-      <description>Cities compete among others in the context of globalization. ISCM-UEH is working to make a marketing plan for Ho Chi Minh City that focuses on a smart city&amp;rsquo;s issues.</description>
+      <description>Cities compete among others in the context of globalization. ISCM-UEH is working to make a marketing plan for Ho Chi Minh City that focuses on a smart city&#39;s issues.</description>
     </item>
     
     <item>
       <title>Fostering Applied Science Incubator in Vinh Long</title>
-      <link>https://iscmueh.github.io/vi/research/fostering-applied/</link>
+      <link>https://iscmueh.github.io/vi/research/fostering-applied-science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://iscmueh.github.io/vi/research/fostering-applied/</guid>
-      <description>ISCM-UEH is developing a smart traffic safety education program that engages the participation of students, teachers, and parents.</description>
+      <guid>https://iscmueh.github.io/vi/research/fostering-applied-science/</guid>
+      <description>ISCM-UEH and the Institute of Innovation-UEH collaborate with local and international partners to foster local applied science development.</description>
     </item>
     
     <item>
@@ -58,7 +53,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/research/smart-tourism/</guid>
-      <description>This project aims to promote the 178 proposed attractive tourism destinations of Ho Chi Minh city and encourage community participation in the local tourism&amp;rsquo;s activities.</description>
+      <description>This project aims to promote the 178 proposed attractive tourism destinations of Ho Chi Minh city and encourage community participation in the local tourism&#39;s activities.</description>
+    </item>
+    
+    <item>
+      <title>UEH: Zero Waste University</title>
+      <link>https://iscmueh.github.io/vi/research/zero-waste/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/research/zero-waste/</guid>
+      <description>This project aims to deploy sustainable waste management to the University of Economics Ho Chi Minh City (UEH).</description>
     </item>
     
   </channel>

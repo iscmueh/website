@@ -1045,6 +1045,21 @@
   </url>
   
   <url>
+    <loc>https://iscmueh.github.io/course_undergraduate/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/course_undergraduate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/course_undergraduate/"
+                />
+  </url>
+  
+  <url>
     <loc>https://iscmueh.github.io/partner/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -1071,6 +1086,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://iscmueh.github.io/consultancy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://iscmueh.github.io/course_graduate/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/course_graduate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/course_graduate/"
                 />
   </url>
   
@@ -1131,36 +1161,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://iscmueh.github.io/network/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://iscmueh.github.io/course_undergraduate/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/course_undergraduate/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/course_undergraduate/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://iscmueh.github.io/course_graduate/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/course_graduate/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/course_graduate/"
                 />
   </url>
   
@@ -1231,6 +1231,16 @@
   
   <url>
     <loc>https://iscmueh.github.io/research/ar-wish-tree/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/research/ar-wish-tree/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/research/ar-wish-tree/"
+                />
   </url>
   
   <url>
@@ -1249,6 +1259,16 @@
   
   <url>
     <loc>https://iscmueh.github.io/research/city-branding/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/research/city-branding/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/research/city-branding/"
+                />
   </url>
   
   <url>
@@ -1295,6 +1315,16 @@
   
   <url>
     <loc>https://iscmueh.github.io/research/fostering-applied-science/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/research/fostering-applied-science/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/research/fostering-applied-science/"
+                />
   </url>
   
   <url>
@@ -1465,10 +1495,30 @@
   
   <url>
     <loc>https://iscmueh.github.io/research/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/research/"
+                />
   </url>
   
   <url>
     <loc>https://iscmueh.github.io/research/route-2-school/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/research/route-2-school/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/research/route-2-school/"
+                />
   </url>
   
   <url>
@@ -1487,6 +1537,16 @@
   
   <url>
     <loc>https://iscmueh.github.io/research/smart-tourism/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/research/smart-tourism/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/research/smart-tourism/"
+                />
   </url>
   
   <url>
@@ -1505,6 +1565,16 @@
   
   <url>
     <loc>https://iscmueh.github.io/research/zero-waste/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/research/zero-waste/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/research/zero-waste/"
+                />
   </url>
   
   <url>

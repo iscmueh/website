@@ -562,16 +562,7 @@
     </item>
     
     <item>
-      <title>Master of Smart City and Innovation Management</title>
-      <link>https://iscmueh.github.io/vi/course_graduate/master-02/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/course_graduate/master-02/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Master of Smart City and Innovation Management, Master of Human Ecology and Technology</title>
+      <title>Thạc Sĩ Quản Lý Sáng Tạo, Kĩ Thuật và Sinh Thái Học</title>
       <link>https://iscmueh.github.io/vi/course_graduate/master-03/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
@@ -580,11 +571,20 @@
     </item>
     
     <item>
-      <title>Master of Smart City and Innovation Management, Master of Transportation Sciences</title>
+      <title>Thạc Sĩ Quản Lý Đô Thị Thông Minh và Kĩ Thuật Giao Thông</title>
       <link>https://iscmueh.github.io/vi/course_graduate/master-04/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
       <guid>https://iscmueh.github.io/vi/course_graduate/master-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thạc Sĩ Quản Lý Đô Thị Thông Minh và Sáng Tạo</title>
+      <link>https://iscmueh.github.io/vi/course_graduate/master-02/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/course_graduate/master-02/</guid>
       <description></description>
     </item>
     
@@ -605,6 +605,24 @@ Tiếp nối thành công rực rỡ của cuộc thi thiết kế online quốc
       
       <guid>https://iscmueh.github.io/vi/teacher/alex-rook/</guid>
       <description>À propos de moi Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>AR Wish Tree</title>
+      <link>https://iscmueh.github.io/vi/research/ar-wish-tree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/research/ar-wish-tree/</guid>
+      <description>ISCM-UEH collaborates with VNUHCM – University of Science, ABB Research (Sweden), and Zeta Motion Co.</description>
+    </item>
+    
+    <item>
+      <title>City Branding: A Case Study in Ho Chi Minh City</title>
+      <link>https://iscmueh.github.io/vi/research/city-branding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/research/city-branding/</guid>
+      <description>Cities compete among others in the context of globalization. ISCM-UEH is working to make a marketing plan for Ho Chi Minh City that focuses on a smart city&#39;s issues.</description>
     </item>
     
     <item>
@@ -662,6 +680,15 @@ Tiếp nối thành công rực rỡ của cuộc thi thiết kế online quốc
     </item>
     
     <item>
+      <title>Fostering Applied Science Incubator in Vinh Long</title>
+      <link>https://iscmueh.github.io/vi/research/fostering-applied-science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/research/fostering-applied-science/</guid>
+      <description>ISCM-UEH and the Institute of Innovation-UEH collaborate with local and international partners to foster local applied science development.</description>
+    </item>
+    
+    <item>
       <title>Jacke Mastio</title>
       <link>https://iscmueh.github.io/vi/teacher/jacke-mastio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -689,12 +716,39 @@ Tiếp nối thành công rực rỡ của cuộc thi thiết kế online quốc
     </item>
     
     <item>
+      <title>Route2School: Smart Traffic Safety Education Program</title>
+      <link>https://iscmueh.github.io/vi/research/route-2-school/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/research/route-2-school/</guid>
+      <description>ISCM-UEH is developing a smart traffic safety education program that engages the participation of students, teachers, and parents.</description>
+    </item>
+    
+    <item>
+      <title>Smart Tourism</title>
+      <link>https://iscmueh.github.io/vi/research/smart-tourism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/research/smart-tourism/</guid>
+      <description>This project aims to promote the 178 proposed attractive tourism destinations of Ho Chi Minh city and encourage community participation in the local tourism&#39;s activities.</description>
+    </item>
+    
+    <item>
       <title>UEH Cấp 170 Học Bổng Cho Sinh Viên Quốc Tế</title>
       <link>https://iscmueh.github.io/vi/scholarship/scholarship-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/scholarship/scholarship-1/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>UEH: Zero Waste University</title>
+      <link>https://iscmueh.github.io/vi/research/zero-waste/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/research/zero-waste/</guid>
+      <description>This project aims to deploy sustainable waste management to the University of Economics Ho Chi Minh City (UEH).</description>
     </item>
     
     <item>
