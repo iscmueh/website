@@ -337,7 +337,7 @@ weight = 4
 
 [[Languages.vi.menu.main]]
 name = "StudioLAB"
-url = "../studiolab"
+url = "vi/studiolab"
 weight = 5
 
 [[Languages.vi.menu.main]]
