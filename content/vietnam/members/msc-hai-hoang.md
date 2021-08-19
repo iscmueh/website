@@ -13,18 +13,28 @@ position: ""
 # biograph
 bio: "Tốt nghiệp kiến trúc truyền thông tại Hồ Chi Minh, Hải Hoàng có cơ hội được học hỏi, trao đổi và làm việc tại Châu Âu gần 10 năm. Với nền mòng văn hóa Việt Nam, kết hợp sự phát triển bền vững trong kiến trúc và đô thị bắc Âu và sự chính xác khoa học, tiên tiến của nền công nghiệp Đức đã thôi thúc Hải Hoàng đi tìm những giá trị để đóng góp cho cộng đồng"
 # interest
-interest: ["Urban Design","Architecture"]
+interest: ["Urban Design","Architecture, BIM","Automation, Robotic","Economic"]
 # contact info
 contact:
   # contact item loop
   - name : "hai.hoanglenam@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "https://github.com/Hai-Hoang-88"
-
+    link : "mailto:hai.hoanglenam@gmail.com"
+    
+  # contact item loop ti-linkedin
+  - name : "linkedin.com/hai-hoang"
+    icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
+    link : "https://www.linkedin.com/in/hai-hoang-55555c"
+  
+  # contact item loop github
+  - name : "github.com/Hai-Hoang"
+    icon : "ti-world" # icon pack : https://themify.me/themify-icons
+    link : "https://github.com/Hai-Hoang-88"  
+    
   # contact item loop
   - name : "+84-28-3930-9589/ +84-28-3930-9269"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+120345876"
+    link : "#"
 
   # contact item loop
   # - name : "Clark Malik"
