@@ -161,6 +161,21 @@ weight = 3
 name = "R&D"
 url = "research"
 weight = 4
+hasChildren = true
+
+  [[Languages.en.menu.main]]
+  parent ="R&D"
+  name = "Research"
+  url = "research"
+  weight = 1
+
+  [[Languages.en.menu.main]]
+  parent ="R&D"
+  name = "Competitive"
+  url = "competitive"
+  weight = 2
+
+  
 
 #[[Languages.en.menu.main]]
 #name = "blog"
@@ -334,6 +349,19 @@ weight = 3
 name = "R&D"
 url = "research"
 weight = 4
+
+  [[Languages.vi.menu.main]]
+  parent ="R&D"
+  name = "Nghiên Cứu"
+  url = "research"
+  weight = 1
+
+  [[Languages.vi.menu.main]]
+  parent ="R&D"
+  name = "Cuộc thi"
+  url = "competitive"
+  weight = 2
+
 
 [[Languages.vi.menu.main]]
 name = "StudioLAB"
