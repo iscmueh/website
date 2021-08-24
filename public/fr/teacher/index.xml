@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nos cours on Institute of Smart City &amp; Management</title>
+    <link>https://iscmueh.github.io/fr/teacher/</link>
+    <description>Recent content in Nos cours on Institute of Smart City &amp; Management</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Copyright &amp;copy; 2021 ISCM [themefisher](https://themefisher.com)</copyright>
+    
+	<atom:link href="https://iscmueh.github.io/fr/teacher/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alex Rook</title>
+      <link>https://iscmueh.github.io/fr/teacher/alex-rook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/fr/teacher/alex-rook/</guid>
+      <description>À propos de moi Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Clark Malik</title>
+      <link>https://iscmueh.github.io/fr/teacher/clark-malik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/fr/teacher/clark-malik/</guid>
+      <description>À propos de moi Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Devid Luis</title>
+      <link>https://iscmueh.github.io/fr/teacher/devid-luis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/fr/teacher/devid-luis/</guid>
+      <description>À propos de moi Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Duis Rio</title>
+      <link>https://iscmueh.github.io/fr/teacher/duis-rio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/fr/teacher/duis-rio/</guid>
+      <description>À propos de moi Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Jacke Mastio</title>
+      <link>https://iscmueh.github.io/fr/teacher/jacke-mastio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/fr/teacher/jacke-mastio/</guid>
+      <description>À propos de moi Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Zim Cook</title>
+      <link>https://iscmueh.github.io/fr/teacher/zim-cook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/fr/teacher/zim-cook/</guid>
+      <description>À propos de moi Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>
