@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
-    <lastBuildDate>Tue, 06 Jul 2021 15:27:17 +0600</lastBuildDate>
-    
-	<atom:link href="https://iscmueh.github.io/vi/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 06 Jul 2021 15:27:17 +0600</lastBuildDate><atom:link href="https://iscmueh.github.io/vi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Handong Global University</title>
       <link>https://iscmueh.github.io/vi/partner/handong-global-uni/</link>
@@ -595,7 +591,7 @@
       
       <guid>https://iscmueh.github.io/vi/event/2021-international-design-competition-smartcity/</guid>
       <description>About Event ____________
-Tiếp nối thành công rực rỡ của cuộc thi thiết kế online quốc tế lần thứ 1 trong năm 2019 với chủ đề “Future City: Smart design for the post-pandemic world&amp;rdquo;, cuộc thi thường niên do Viện Đô thị thông minh và quản lý - ĐH Kinh tế TP.</description>
+Tiếp nối thành công rực rỡ của cuộc thi thiết kế online quốc tế lần thứ 1 trong năm 2019 với chủ đề “Future City: Smart design for the post-pandemic world&amp;quot;, cuộc thi thường niên do Viện Đô thị thông minh và quản lý - ĐH Kinh tế TP.</description>
     </item>
     
     <item>
@@ -622,7 +618,7 @@ Tiếp nối thành công rực rỡ của cuộc thi thiết kế online quốc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/research/city-branding/</guid>
-      <description>Cities compete among others in the context of globalization. ISCM-UEH is working to make a marketing plan for Ho Chi Minh City that focuses on a smart city&#39;s issues.</description>
+      <description>Cities compete among others in the context of globalization. ISCM-UEH is working to make a marketing plan for Ho Chi Minh City that focuses on a smart city&amp;rsquo;s issues.</description>
     </item>
     
     <item>
@@ -726,11 +722,20 @@ Tiếp nối thành công rực rỡ của cuộc thi thiết kế online quốc
     
     <item>
       <title>Smart Tourism</title>
+      <link>https://iscmueh.github.io/vi/competitive/smart-tourism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/competitive/smart-tourism/</guid>
+      <description>This project aims to promote the 178 proposed attractive tourism destinations of Ho Chi Minh city and encourage community participation in the local tourism&amp;rsquo;s activities.</description>
+    </item>
+    
+    <item>
+      <title>Smart Tourism</title>
       <link>https://iscmueh.github.io/vi/research/smart-tourism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/research/smart-tourism/</guid>
-      <description>This project aims to promote the 178 proposed attractive tourism destinations of Ho Chi Minh city and encourage community participation in the local tourism&#39;s activities.</description>
+      <description>This project aims to promote the 178 proposed attractive tourism destinations of Ho Chi Minh city and encourage community participation in the local tourism&amp;rsquo;s activities.</description>
     </item>
     
     <item>
@@ -740,6 +745,15 @@ Tiếp nối thành công rực rỡ của cuộc thi thiết kế online quốc
       
       <guid>https://iscmueh.github.io/vi/scholarship/scholarship-1/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>UEH: Zero Waste University</title>
+      <link>https://iscmueh.github.io/vi/competitive/zero-waste/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/competitive/zero-waste/</guid>
+      <description>This project aims to deploy sustainable waste management to the University of Economics Ho Chi Minh City (UEH).</description>
     </item>
     
     <item>

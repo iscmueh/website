@@ -6,10 +6,6 @@
     <description>Recent content in Library on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
-    <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
-    
-	<atom:link href="https://iscmueh.github.io/vi/library/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright><atom:link href="https://iscmueh.github.io/vi/library/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
