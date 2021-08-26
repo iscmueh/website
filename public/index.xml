@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
-    <lastBuildDate>Tue, 06 Jul 2021 15:27:17 +0600</lastBuildDate>
-    
-	<atom:link href="https://iscmueh.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 06 Jul 2021 15:27:17 +0600</lastBuildDate><atom:link href="https://iscmueh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Asset Management</title>
       <link>https://iscmueh.github.io/consultancy/assetmanagement/</link>
@@ -49,6 +45,15 @@
     </item>
     
     <item>
+      <title>The 2nd International Design Competition: SMART CITY&#43; </title>
+      <link>https://iscmueh.github.io/competitive/smartcityplus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/competitive/smartcityplus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>UEH to provide 170 scholarships for foreign students</title>
       <link>https://iscmueh.github.io/scholarship/scholarship-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -81,6 +86,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/advisory/dr-hyung-tae-gun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future City: Smart Design for Post-Pandemic World</title>
+      <link>https://iscmueh.github.io/competitive/futurecity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/competitive/futurecity/</guid>
       <description></description>
     </item>
     
@@ -576,7 +590,7 @@
       <pubDate>Wed, 23 Sep 2020 07:00:12 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/event/sustainable-transport-safety/</guid>
-      <description>Transport safety has always been a thorny issue that accounts for the majority of society&#39;s concern, especially with the continued proliferation of private vehicles day by day.</description>
+      <description>Transport safety has always been a thorny issue that accounts for the majority of society&amp;rsquo;s concern, especially with the continued proliferation of private vehicles day by day.</description>
     </item>
     
     <item>
@@ -675,7 +689,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/research/city-branding/</guid>
-      <description>Cities compete among others in the context of globalization. ISCM-UEH is working to make a marketing plan for Ho Chi Minh City that focuses on a smart city&#39;s issues.</description>
+      <description>Cities compete among others in the context of globalization. ISCM-UEH is working to make a marketing plan for Ho Chi Minh City that focuses on a smart city&amp;rsquo;s issues.</description>
     </item>
     
     <item>
@@ -774,7 +788,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/research/smart-tourism/</guid>
-      <description>This project aims to promote the 178 proposed attractive tourism destinations of Ho Chi Minh city and encourage community participation in the local tourism&#39;s activities.</description>
+      <description>This project aims to promote the 178 proposed attractive tourism destinations of Ho Chi Minh city and encourage community participation in the local tourism&amp;rsquo;s activities.</description>
     </item>
     
     <item>
