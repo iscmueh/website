@@ -53,13 +53,9 @@ The program focuses on the application of smart technology on urban innovation m
 
 ### Requirements
 
-
-
 Candidates applying for examinations must satisfy the following conditions:
 
-Equal conditions:
-
-*	Candidates have work experience from the government agencies, NGOs, NPOs, companies in the fields of urban planning and design, urban management and development, traportation and infrastructure planning, project management, real estate development, architecture, and environmental development;
+*	Candidates have work experience from the government agencies, NGOs, NPOs, companies in the fields of urban planning and design, urban management and development, traportation and infrastructure planning, project management, real estate development, architecture, and environmental development.
 
 *	Entrance exam: English, GMAT and interview.
 

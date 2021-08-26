@@ -32,11 +32,11 @@ summary: " "
 
 <!--StartFragment-->
 
-The program provides the students with expertise and ability to master the fields of smart city (planning, design, management), creative management, simulation, technology and human ecology.
+The program provides the students with expertise and ability to master the fields of smart city (planning, design, management), creative management, simulation, transportation sciences.
 
 After graduating, learners receive dual degrees:
--	Executive Master of Public Management, majoring in Smart City and Innovation Management awarded by University of Economics Ho Chi Minh City;
--	Master of Transportation Sciences awarded by Hasselt University (Belgium).
+*	thành  Master of Smart City and Innovation Management awarded by University of Economics Ho Chi Minh City;
+*	Master of Transportation Sciences awarded by Hasselt University (Belgium).
 
 
 <!--EndFragment-->
@@ -56,7 +56,8 @@ After graduating, learners receive dual degrees:
 
 ### Requirements
 
-*	Candidates: gradutates from universities around the world
+*	Candidates: gradutates from universities around the world.
+
 *	Entrance exam: English, GMAT and interview
 
 ### [Click HERE for more Details](https://www.ueh.edu.vn/dao-tao/thac-si-tien-si/thac-si-dieu-hanh-cao-cap-emba/quan-ly-do-thi-thong-minh-va-sang-tao/?fbclid=IwAR09xSUOK2WxPuLZdZ4whONMLsnSDkAyvQqkoX0iioGizyCGdkdtBUqgig4)
