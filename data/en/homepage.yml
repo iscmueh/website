@@ -5,7 +5,7 @@ slider:
   slider_item:
     # slider item loop
     - title : "Smart cities are livable cities"
-      content : "Institute of Smart City and Management (ISCM) is a research institute belong to the School of Technology and Design (STD) of the University of Economics Ho Chi Minh (UEH). Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling"
+      content : "Institute of Smart City and Management (ISCM) is a research institute belong to the University of Economics Ho Chi Minh (UEH). Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -16,7 +16,7 @@ slider:
 
     # slider item loop
     - title : "Smart cities are cities of hopes and opportunities"
-      content : "Institute of Smart City and Management (ISCM) is a research institute belong to the School of Technology and Design (STD) of the University of Economics Ho Chi Minh (UEH). Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling"
+      content : "Institute of Smart City and Management (ISCM) is a research institute belong to the University of Economics Ho Chi Minh (UEH). Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -27,7 +27,7 @@ slider:
 
     # slider item loop
     - title : "Smart cities are cities of optimal blends of arts and technologies"
-      content : "Institute of Smart City and Management (ISCM) is a research institute belong to the School of Technology and Design (STD) of the University of Economics Ho Chi Minh (UEH). Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling"
+      content : "Institute of Smart City and Management (ISCM) is a research institute belong to the the University of Economics Ho Chi Minh (UEH). Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down

@@ -6,14 +6,18 @@
     <description>Recent content in Nghiên Cứ và Phát Triển on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
-    <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright><atom:link href="https://iscmueh.github.io/vi/competitive/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
+    
+	<atom:link href="https://iscmueh.github.io/vi/competitive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Smart Tourism</title>
       <link>https://iscmueh.github.io/vi/competitive/smart-tourism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/competitive/smart-tourism/</guid>
-      <description>This project aims to promote the 178 proposed attractive tourism destinations of Ho Chi Minh city and encourage community participation in the local tourism&amp;rsquo;s activities.</description>
+      <description>This project aims to promote the 178 proposed attractive tourism destinations of Ho Chi Minh city and encourage community participation in the local tourism&#39;s activities.</description>
     </item>
     
     <item>

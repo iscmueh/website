@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # about image
 image: "images/about/about-page.jpg"
 # meta description
-description : " Viện Đô Thị Thông Minh và Quản Lý (ISCM) là một Viện nghiên cứu thuộc Trường Công Nghệ và Thiết Kế (STD) thuộc hệ thống trường Đại Học Kinh Tế Thành Phố Hồ Chí Minh (UEH). Nghiên cứu và giảng dạy của ISCM được xây dựng trên nền tảng tích hợp các ứng dụng công nghệ trong nhiều lĩnh vực như thiết kế đô thị, thiết kế cảnh quan, giao thông, quản lý cơ sở hạ tầng và các mô hình quản lý và toán tối ưu nhằm xây dựng và phát triển các đô thị thông minh, xanh, và bền vững."
+description : " Viện Đô Thị Thông Minh và Quản Lý (ISCM) là một Viện nghiên cứu thuộc Trường Đại Học Kinh Tế Thành Phố Hồ Chí Minh (UEH). Nghiên cứu và giảng dạy của ISCM được xây dựng trên nền tảng tích hợp các ứng dụng công nghệ trong nhiều lĩnh vực như thiết kế đô thị, thiết kế cảnh quan, giao thông, quản lý cơ sở hạ tầng và các mô hình quản lý và toán tối ưu nhằm xây dựng và phát triển các đô thị thông minh, xanh, và bền vững."
 ---
 
 ### Tóm Tắt
