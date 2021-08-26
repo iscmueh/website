@@ -171,8 +171,8 @@ hasChildren = true
 
   [[Languages.en.menu.main]]
   parent ="R&D"
-  name = "Competitive"
-  url = "competitive"
+  name = "Competition"
+  url = "competition"
   weight = 2
 
   
@@ -359,7 +359,7 @@ weight = 4
   [[Languages.vi.menu.main]]
   parent ="R&D"
   name = "Cuộc thi"
-  url = "competitive"
+  url = "competition"
   weight = 2
 
 
