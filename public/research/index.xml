@@ -6,11 +6,7 @@
     <description>Recent content in Research &amp; Development on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
-    
-	<atom:link href="https://iscmueh.github.io/research/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright><atom:link href="https://iscmueh.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AR Wish Tree</title>
       <link>https://iscmueh.github.io/research/ar-wish-tree/</link>
@@ -26,7 +22,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/research/city-branding/</guid>
-      <description>Cities compete among others in the context of globalization. ISCM-UEH is working to make a marketing plan for Ho Chi Minh City that focuses on a smart city&#39;s issues.</description>
+      <description>Cities compete among others in the context of globalization. ISCM-UEH is working to make a marketing plan for Ho Chi Minh City that focuses on a smart city&amp;rsquo;s issues.</description>
     </item>
     
     <item>
@@ -53,7 +49,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/research/smart-tourism/</guid>
-      <description>This project aims to promote the 178 proposed attractive tourism destinations of Ho Chi Minh city and encourage community participation in the local tourism&#39;s activities.</description>
+      <description>This project aims to promote the 178 proposed attractive tourism destinations of Ho Chi Minh city and encourage community participation in the local tourism&amp;rsquo;s activities.</description>
     </item>
     
     <item>

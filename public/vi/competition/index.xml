@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Competitive on Institute of Smart City &amp; Management</title>
+    <link>https://iscmueh.github.io/vi/competition/</link>
+    <description>Recent content in Competitive on Institute of Smart City &amp; Management</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi-vi</language>
+    <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright><atom:link href="https://iscmueh.github.io/vi/competition/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The 2nd International Design Competition: SMART CITY&#43; </title>
+      <link>https://iscmueh.github.io/vi/competition/smartcityplus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/competition/smartcityplus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future City: Smart Design for Post-Pandemic World</title>
+      <link>https://iscmueh.github.io/vi/competition/futurecity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/competition/futurecity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ArtTech Fusion for Future Smart</title>
+      <link>https://iscmueh.github.io/vi/competition/arttechfusion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/competition/arttechfusion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

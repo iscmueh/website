@@ -6,11 +6,7 @@
     <description>Recent content in People on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
-    
-	<atom:link href="https://iscmueh.github.io/people/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright><atom:link href="https://iscmueh.github.io/people/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>People</title>
       <link>https://iscmueh.github.io/people/advisory/</link>
