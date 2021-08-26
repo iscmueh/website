@@ -6,7 +6,11 @@
     <description>Recent content in Competitive on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright><atom:link href="https://iscmueh.github.io/competitive/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
+    
+	<atom:link href="https://iscmueh.github.io/competitive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>The 2nd International Design Competition: SMART CITY&#43; </title>
       <link>https://iscmueh.github.io/competitive/smartcityplus/</link>
