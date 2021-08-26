@@ -5,7 +5,7 @@ slider:
   slider_item:
     # slider item loop
     - title : "Cùng nhau xây dựng một thành phố thông minh, xanh, và đáng sống"
-      content : "Viện Đô Thị Thông Minh và Quản Lý (ISCM) là một viện nghiên cứu thuộc Trường Kĩ Thuật và Thiết Kế (STD) của Trường Đại Học Kinh Tế Hồ Chí Minh (UEH). ISCM tổ chức các hoạt động nghiên cứu và đào tạo dựa trên các nền tảng liên kết và tích hợp các ứng dụng tiên tiến và thông minh trong nhiều lĩnh vực như Kiến Trúc, Công Nghệ, Kĩ Thuật, và Mô Hình."
+      content : "Viện Đô Thị Thông Minh và Quản Lý (ISCM) là một viện nghiên cứu thuộc Trường Trường Đại Học Kinh Tế Hồ Chí Minh (UEH). ISCM tổ chức các hoạt động nghiên cứu và đào tạo dựa trên các nền tảng liên kết và tích hợp các ứng dụng tiên tiến và thông minh trong nhiều lĩnh vực như Kiến Trúc, Công Nghệ, Kĩ Thuật, và Mô Hình."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -16,7 +16,7 @@ slider:
 
     # slider item loop
     - title : "Thành phố thông minh là thành phố của hội nhập và cơ hội phát triển"
-      content : "Viện Đô Thị Thông Minh và Quản Lý (ISCM) là một viện nghiên cứu thuộc Trường Kĩ Thuật và Thiết Kế (STD) của Trường Đại Học Kinh Tế Hồ Chí Minh (UEH). ISCM tổ chức các hoạt động nghiên cứu và đào tạo dựa trên các nền tảng liên kết và tích hợp các ứng dụng tiên tiến và thông minh trong nhiều lĩnh vực như Kiến Trúc, Công Nghệ, Kĩ Thuật, và Mô Hình."
+      content : "Viện Đô Thị Thông Minh và Quản Lý (ISCM) là một viện nghiên cứu thuộc Trường Đại Học Kinh Tế Hồ Chí Minh (UEH). ISCM tổ chức các hoạt động nghiên cứu và đào tạo dựa trên các nền tảng liên kết và tích hợp các ứng dụng tiên tiến và thông minh trong nhiều lĩnh vực như Kiến Trúc, Công Nghệ, Kĩ Thuật, và Mô Hình."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -26,7 +26,7 @@ slider:
 
     # slider item loop
     - title : "Thành phố thông minh là thành phố của sự giao thoa tối ưu giữa công nghệ và nghệ thuật"
-      content : "Viện Đô Thị Thông Minh và Quản Lý (ISCM) là một viện nghiên cứu thuộc Trường Kĩ Thuật và Thiết Kế (STD) của Trường Đại Học Kinh Tế Hồ Chí Minh (UEH). ISCM tổ chức các hoạt động nghiên cứu và đào tạo dựa trên các nền tảng liên kết và tích hợp các ứng dụng tiên tiến và thông minh trong nhiều lĩnh vực như Kiến Trúc, Công Nghệ, Kĩ Thuật, và Mô Hình."
+      content : "Viện Đô Thị Thông Minh và Quản Lý (ISCM) là một viện nghiên cứu thuộc Trường Đại Học Kinh Tế Hồ Chí Minh (UEH). ISCM tổ chức các hoạt động nghiên cứu và đào tạo dựa trên các nền tảng liên kết và tích hợp các ứng dụng tiên tiến và thông minh trong nhiều lĩnh vực như Kiến Trúc, Công Nghệ, Kĩ Thuật, và Mô Hình."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
