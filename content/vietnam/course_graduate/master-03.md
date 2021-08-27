@@ -1,5 +1,5 @@
 ---
-title: "Thạc Sĩ Quản Lý Sáng Tạo, Kĩ Thuật và Sinh Thái Học"
+title: "Thạc Sĩ Quản Lý Đô Thị Thông Minh và Sáng Tạo, Thạc sĩ Công Nghệ và Sinh Thái Học Con Người"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image

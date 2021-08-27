@@ -924,6 +924,19 @@
                 href="https://iscmueh.github.io/vi/network/"
                 />
   </url><url>
+    <loc>https://iscmueh.github.io/vi/course_graduate/master-02/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/course_graduate/master-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/course_graduate/master-02/"
+                />
+  </url><url>
     <loc>https://iscmueh.github.io/vi/course_graduate/master-03/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -948,19 +961,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://iscmueh.github.io/vi/course_graduate/master-04/"
-                />
-  </url><url>
-    <loc>https://iscmueh.github.io/vi/course_graduate/master-02/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/course_graduate/master-02/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/course_graduate/master-02/"
                 />
   </url><url>
     <loc>https://iscmueh.github.io/vi/course_undergraduate/</loc>
