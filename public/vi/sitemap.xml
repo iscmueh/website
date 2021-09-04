@@ -90,6 +90,18 @@
                 href="https://iscmueh.github.io/vi/consultancy/spatial-analysis/"
                 />
   </url><url>
+    <loc>https://iscmueh.github.io/vi/competition/futurecity/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/competition/futurecity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/competition/futurecity/"
+                />
+  </url><url>
     <loc>https://iscmueh.github.io/vi/advisory/dr-hyung-tae-gun/</loc>
     <xhtml:link
                 rel="alternate"
@@ -102,16 +114,16 @@
                 href="https://iscmueh.github.io/vi/advisory/dr-hyung-tae-gun/"
                 />
   </url><url>
-    <loc>https://iscmueh.github.io/vi/competition/futurecity/</loc>
+    <loc>https://iscmueh.github.io/vi/activities/arttech/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iscmueh.github.io/competition/futurecity/"
+                href="https://iscmueh.github.io/activities/arttech/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://iscmueh.github.io/vi/competition/futurecity/"
+                href="https://iscmueh.github.io/vi/activities/arttech/"
                 />
   </url><url>
     <loc>https://iscmueh.github.io/vi/members/dr-rob/</loc>
@@ -151,8 +163,6 @@
                 hreflang="vi"
                 href="https://iscmueh.github.io/vi/consultancy/tdd/"
                 />
-  </url><url>
-    <loc>https://iscmueh.github.io/vi/competition/arttechfusion/</loc>
   </url><url>
     <loc>https://iscmueh.github.io/vi/advisory/dr-park-young-june/</loc>
     <xhtml:link
@@ -1000,6 +1010,18 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://iscmueh.github.io/vi/event/2021-international-design-competition-smartcity/"
+                />
+  </url><url>
+    <loc>https://iscmueh.github.io/vi/activities/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/activities/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/activities/"
                 />
   </url><url>
     <loc>https://iscmueh.github.io/vi/teacher/alex-rook/</loc>

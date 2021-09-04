@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/ProfCuyvers.jpg"
 # course
-course: "Giãng Viên Cao Cấp"
+course: "Senior Lecturer"
 position: ""
 # biograph
 bio: "Professor Rob Cuyvers was an urban planner in the City of Mechelen, Belgium and a senior advisor for private companies and the Flemish government. He successfully managed large, complex urban projects in a regional or urban context. He was responsible for teams and budgets, and for formulating objectives and achieving goals (e.g. Lamot-site Mechelen, Park Spoor Noord Antwerp, Spatial Structure Plan Antwerp). He built up experience with participation processes and co-creation involving different actors, such as inhabitants, economic actors, planners, social actors and policy makers.

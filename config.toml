@@ -175,6 +175,11 @@ hasChildren = true
   url = "competition"
   weight = 2
 
+  [[Languages.en.menu.main]]
+  parent ="R&D"
+  name = "Other activities"
+  url = "activities"
+  weight = 2
   
 
 #[[Languages.en.menu.main]]
@@ -362,6 +367,12 @@ weight = 4
   url = "competition"
   weight = 2
 
+  [[Languages.vi.menu.main]]
+  parent ="R&D"
+  name = "Các hoạt động khác"
+  url = "activities"
+  weight = 3
+  
 
 [[Languages.vi.menu.main]]
 name = "StudioLAB"
@@ -397,7 +408,7 @@ hasChildren = true
   [[Languages.vi.menu.main]]
   parent = "Nhân Sự"
   weight = 3
-  name = "Giáo Sư Thỉnh Giảng"
+  name = "Adjunct Professors"
   url = "adjunctprofessors"
 
 

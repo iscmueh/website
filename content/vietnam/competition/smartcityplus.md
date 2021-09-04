@@ -25,3 +25,5 @@ contact: ""
 
 weight: 1
 ---
+
+### [Guideline](https://namkyodai.github.io/publication/)
