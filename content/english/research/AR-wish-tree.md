@@ -28,3 +28,5 @@ Project advisors: Prof. Minh-Triet Tran ( VNUHCM-US), Dr. Tu-Anh Trinh (UEH Univ
 Industrial partner: Zetamotion Co., UK (Dr. Huy Phan, Dr. Anh Nguyen, Dr. Luan Duong)
 
 #### [Link for Google Play](https://play.google.com/store/apps/details?id=com.UEH.Wishairer&fbclid=IwAR3EjktsryWWdGEk3cu_1Cj26a5N_7hvo_HsdMt2krxfG4IfELdd8Md0zHM)
+
+#### [Or you can download directly in here](https://drive.google.com/file/d/1D2IgzW1TtHlWYYHK35c9okgGLylm855t/view?usp=sharing)
