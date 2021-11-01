@@ -1,5 +1,5 @@
 ---
-title: "Smart Tourism"
+title: "Du Lịch Thông Minh"
 author: iscm
 bg_image: "images/backgrounds/page-title.jpg"
 description : " "
@@ -7,5 +7,4 @@ description : " "
 image: "images/research/smart-tourism.jpg"
 ---
 
-This project aims to promote the 178 proposed attractive tourism destinations of Ho Chi Minh city and encourage community participation in the local tourism's activities. ISCM-UEH is developing an integrated digital platform to enhance tourist and local people's experiences in a walkable environment. The platform includes smart travel apps, walk incentives, and a database system. It serves to connect stakeholders and communities in smart tourism designing and planning.
-
+Dự án này nhằm quảng bá 178 điểm đến du lịch hấp dẫn được đề xuất của thành phố Hồ Chí Minh và khuyến khích sự tham gia của cộng đồng vào các hoạt động du lịch của thành phố. ISCM-UEH đang phát triển một nền tảng kỹ thuật tích hợp để nâng cao trải nghiệm của khách du lịch và người dân địa phương trong một không gian đi bộ. Nền tảng này bao gồm các ứng dụng du lịch thông minh, khuyến khích đi bộ và hệ thống cơ sở dữ liệu. Nền tảng sẽ phục vụ để kết nối các bên liên quan và cộng đồng trong thiết kế và quy hoạch du lịch thông minh.

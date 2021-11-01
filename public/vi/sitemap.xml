@@ -314,18 +314,6 @@
                 href="https://iscmueh.github.io/vi/partner/thekie/"
                 />
   </url><url>
-    <loc>https://iscmueh.github.io/vi/adjunctprofessors/prof-elena-marchigiani/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/adjunctprofessors/prof-elena-marchigiani/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/adjunctprofessors/prof-elena-marchigiani/"
-                />
-  </url><url>
     <loc>https://iscmueh.github.io/vi/adjunctprofessors/prof-katharinanord/</loc>
     <xhtml:link
                 rel="alternate"
@@ -360,6 +348,18 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://iscmueh.github.io/vi/adjunctprofessors/prof-youngsang-kwon/"
+                />
+  </url><url>
+    <loc>https://iscmueh.github.io/vi/adjunctprofessors/prof-elena-marchigiani/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/adjunctprofessors/prof-elena-marchigiani/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/adjunctprofessors/prof-elena-marchigiani/"
                 />
   </url><url>
     <loc>https://iscmueh.github.io/vi/members/dr-to-kien/</loc>
@@ -1036,18 +1036,6 @@
                 href="https://iscmueh.github.io/vi/teacher/alex-rook/"
                 />
   </url><url>
-    <loc>https://iscmueh.github.io/vi/research/ar-wish-tree/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/research/ar-wish-tree/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/research/ar-wish-tree/"
-                />
-  </url><url>
     <loc>https://iscmueh.github.io/vi/author/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1070,18 +1058,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://iscmueh.github.io/vi/advisory/"
-                />
-  </url><url>
-    <loc>https://iscmueh.github.io/vi/research/city-branding/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/research/city-branding/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/research/city-branding/"
                 />
   </url><url>
     <loc>https://iscmueh.github.io/vi/teacher/clark-malik/</loc>
@@ -1108,6 +1084,18 @@
                 href="https://iscmueh.github.io/vi/competition/"
                 />
   </url><url>
+    <loc>https://iscmueh.github.io/vi/research/ar-wish-tree/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/research/ar-wish-tree/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/research/ar-wish-tree/"
+                />
+  </url><url>
     <loc>https://iscmueh.github.io/vi/teacher/devid-luis/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1126,6 +1114,18 @@
   </url><url>
     <loc>https://iscmueh.github.io/vi/team/dr-park-young-june/</loc>
   </url><url>
+    <loc>https://iscmueh.github.io/vi/research/smart-tourism/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/research/smart-tourism/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/research/smart-tourism/"
+                />
+  </url><url>
     <loc>https://iscmueh.github.io/vi/teacher/duis-rio/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1136,18 +1136,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://iscmueh.github.io/vi/teacher/duis-rio/"
-                />
-  </url><url>
-    <loc>https://iscmueh.github.io/vi/research/fostering-applied-science/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/research/fostering-applied-science/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/research/fostering-applied-science/"
                 />
   </url><url>
     <loc>https://iscmueh.github.io/vi/adjunctprofessors/</loc>
@@ -1306,6 +1294,18 @@
                 href="https://iscmueh.github.io/vi/members/"
                 />
   </url><url>
+    <loc>https://iscmueh.github.io/vi/research/fostering-applied-science/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/research/fostering-applied-science/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/research/fostering-applied-science/"
+                />
+  </url><url>
     <loc>https://iscmueh.github.io/vi/studiolab/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1328,18 +1328,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://iscmueh.github.io/vi/research/route-2-school/"
-                />
-  </url><url>
-    <loc>https://iscmueh.github.io/vi/research/smart-tourism/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/research/smart-tourism/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/research/smart-tourism/"
                 />
   </url><url>
     <loc>https://iscmueh.github.io/vi/notice/</loc>
@@ -1388,6 +1376,18 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://iscmueh.github.io/vi/research/zero-waste/"
+                />
+  </url><url>
+    <loc>https://iscmueh.github.io/vi/research/city-branding/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/research/city-branding/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/research/city-branding/"
                 />
   </url><url>
     <loc>https://iscmueh.github.io/vi/teacher/zim-cook/</loc>

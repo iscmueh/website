@@ -1,5 +1,5 @@
 ---
-title: "M. Arch. Mai Tran"
+title: "ThS. KTS Trần Thị Quỳnh Mai"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,12 +8,12 @@ description : "."
 # teacher portrait
 image: "images/team/MAI.JPG"
 # course
-course: "Quản Lý Điều Hành"
+course: "Quản Lý Hành Chính"
 position: ""
 # biograph
-bio: "M.Arch Tran Thi Quynh Mai is an Operation Manager at ISCM. She graduated from University of Architecture Ho Chi Minh city with master degree in Architecture (2013). After graduation, she has worked for Ton Duc Thang university as well as Architectural lecturer in 6 years. Her interests in research focuses on architecture and urban fields especially smart design, urban design, landscape architecture, sustainable development and smart city."
+bio: "ThS.KTS Trần Thị Quỳnh Mai là giảng viên, quản lý hành chính tại ISCM. Cô tốt nghiệp thạc sĩ kiến trúc tại trường ĐH. Kiến trúc TP.HCM năm 2013. Cô đã có hơn 6 năm kinh nghiệm giảng dạy ngành Kiến trúc tại trường ĐH. Tôn Đức Thắng. Lĩnh vực nghiên cứu tập trung vào lĩnh vực kiến trúc và đô thị, đặc biệt là thiết kế thông minh, thiết kế đô thị, phát triển bền vững và đô thị thông minh. "
 # interest
-interest: ["Sustainable development","Heritage Conservation", "Smart design"]
+interest: ["Phát triển bền vững","Bảo tồn di sản", "Thiết kế thông minh"]
 # contact info
 contact:
   # contact item loop
@@ -56,16 +56,16 @@ type: "teacher"
 weight: 8
 ---
 
-### Courses
-* Building Construction/Structure
-* Theories of Architectural Design
-* Design Studios
-* International design Studios
-* Urban planning and housing
+### Giảng Dạy
+* Cấu tạo kiến trúc
+* Đồ án kiến trúc
+* Đồ án quốc tế
+* Quy hoạch đô thị và nhà ở
 
 
-### International Experiences
-* Instructor in International design Studios in Thailand (2018), Myanmar (2019), Vietnam (2016, 2017, 2018, 2019, 2020)
-* Lecturer exchange in Hasselt University, Belgium on March, 2018
-* Member of Women in Transport Leadership (WiTL)
-* Member of Lens
+
+### Kinh Nghiệm Quốc Tế
+* Hướng dẫn các đồ án quốc tế tại Thái Lan (2018), Myanmar (2019), Việt Nam (từ 2016 – 2020)
+* Tham gia trao đổi giảng viên tại ĐH Hasselt (Bỉ) vào tháng 3/2018
+* Thành viên của hội Women in Transport Leadership (WiTL)
+* Thành viên của Lens

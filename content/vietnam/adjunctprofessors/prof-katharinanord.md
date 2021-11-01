@@ -1,5 +1,5 @@
 ---
-title: "Prof. Catharina Nord"
+title: "GS. Catharina Nord"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -13,7 +13,7 @@ position: ""
 # biograph
 bio: ""
 # interest
-interest: ["Ethnographic research","Architecture and urban planning for ageing","International architectural and urban design issues"]
+interest: ["Nghiên cứu dân chủng học "," Kiến trúc và quy hoạch đô thị cho sự già hóa"," Các vấn đề kiến trúc và thiết kế đô thị quốc tế"]
 # contact info
 contact:
   # contact item loop
@@ -55,28 +55,27 @@ contact:
 type: "teacher"
 weight: 6
 ---
-### Courses
-* Research Methodology
-* Spatial Planning
-* Urban Design
+### Giảng Dạy
+* Phương pháp nghiên cứu khoa học
+* Quy hoạch không gian
+* Thiết kế đô thị
 
-### Academic and Research Profile
-* Professor, Dep. of Spatial Planning, Blekinge Institute of Technology, BTH (2016 – Now)
-* Advisor at UN Academic Impact, Korea (2016 – Now)
-* Senior Lecturer, NISAL, Linköping University (2011 - 2016)
-* Assistant Professor, NISAL, Linköping University (2007 – 2010)
-* Associate professor KTH (2009)
-* Research Fellow, Medical Architecture Research Unit, London South Bank University (2006)
-* Research Fellow, Built Environment Analysis, KTH (2004 – 2005)
-* PhD, Built Environment Analysis, KTH (2004)
-* Doctoral student, Dept. of Infrastructure, Built Environment Analysis, KTH (1990 – 2003)
-* Master in Architecture KTH (1990)
-
-
-### Current Projects
-* CollAGE. Collaboratively developing age-friendly communities with municipality eldercare, spatial planning and Senior Citizens’ Councils. A research programme 2021-2027 funded by Forte.
-* Spatial strategies in residential care in the time of corona. Staff perspectives and the everyday life of older residents. Two-year project 20121-2023. funded by Kamprad Family Trust.
-* What places? What ageing? Ageing‐in‐place in contemporary African urbanities; the cases of Namibia and Uganda. A three year project funded by Jubileumsfonden.
+### Tiểu Sử Nghiên Cứu và Học Thuật
+* Giáo sư, Bộ môn Quy Hoạch Không Gian, Viện Kỹ Thuật Blekinge, BTH (2016 - Hiện tại)
+* Cố vấn tại UN Academic Impact, Hàn Quốc (2016 - HIện tại)
+* Giảng viên cao cấp, NISAL, Đại học Linköping (2011 - 2016)
+* Trợ lý giáo sư, NISAL, Đại học Linköping (2007 - 2010)
+* Phó giáo sư KTH (2009)
+* Nghiên cứu viên, Đơn vị Nghiên cứu Kiến trúc Y tế, Đại học London South Bank (2006)
+* Nghiên cứu viên, Phân tích Môi trường Xây dựng, KTH (2004 - 2005)
+* Tiến sĩ, Phân tích Môi trường Xây dựng, KTH (2004)
+* Nghiên cứu sinh tiến sĩ, Khoa Cơ sở hạ tầng, Phân tích Môi trường Xây dựng, KTH (1990 - 2003)
+* Thạc sĩ Kiến trúc KTH (1990)
 
 
-### [Click HERE for Publication](https://www.bth.se/eng/staff/catharina-nord-cnx/)
+### Các Dự Án Đang Thực Hiện
+* CollAGE. Hợp tác phát triển các cộng đồng thân thiện lứa tuổi với dịch vụ chăm sóc người già ở đô thị, quy hoạch không gian và Hội Người cao tuổi. Chương trình nghiên cứu do Forte tài trợ (2021-2027).
+* Các chiến lược không gian chăm sóc dân cư trong thời điểm dịch Corona. Vấn đề của người đi làm và cuộc sống hàng ngày của người cao tuổi. Dự án kéo dài trong 2 năm 20121-2023 và được tài trợ bởi Kamprad Family Trust.
+* What places? What ageing? Ageing‐in‐place: Già hóa ở các khu vực thành thị châu Phi; trường hợp ở Namibia và Uganda. Dự án kéo dài 3 năm do Jubileumsfonden tài trợ.
+
+### [Bấm vào ĐÂY để xem các bài báo](https://www.bth.se/eng/staff/catharina-nord-cnx/)

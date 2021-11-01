@@ -1,5 +1,5 @@
 ---
-title: "ME. Loc Duong Quy"
+title: "ThS. Dương Quý Lộc"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -55,6 +55,7 @@ type: "teacher"
 weight: 17
 ---
 
-### Qualifications
-* Master of Engineering, Urban and Transportation planning, Kongju National University, Korea (2019)
-* Bachelor, Urban planning, Ton Duc Thang University, Vietnam (2017)
+### Tiểu Sử Nghiên Cứu và Học Thuật
+
+* Thạc sĩ kỹ thuật, Quy hoạch giao thôn và đô thị, Đại học QUốc gia Kongju, Hàn Quốc (2019)
+* Cử nhân, Quy hoạch đô thị, Đại học Tôn Đức Thắng, Việt Nam (2017)

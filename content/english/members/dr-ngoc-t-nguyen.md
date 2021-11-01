@@ -41,12 +41,12 @@ weight: 7
 ### Courses
 * Environmental and Economic Policy
 * Environmental Economic
-* Environmental Management 
+* Environmental Management
 * Environmental Data Processing Methods
 
 
 ### Academic and Research Profile
-* Lecturer, Faculty of Environment,  VNUHCM – University of Science, Vietnam (2018-2020)
+* Researcher, Institute of Smart City and Management,  University of Economics Ho Chi Minh City, Vietnam (since 2021)
 * Doctor of Engineering, Urban Environmental Studies, Nagoya University, Japan (2015-2018)
 * Researcher and Associate Lecturer, Faculty of Environment,  VNUHCM – University of Science, Vietnam (2013-2015)
 * Master of Science, Environmental Management, VNUHCM – University of Science, Vietnam (2011-2013)
@@ -54,13 +54,13 @@ weight: 7
 * Bachelor of Science, Environmental Science, VNUHCM – University of Science, Vietnam (2006-2010)
 
 ### International Experiences
-* Global Research Internship, JICA Research Institute, Japan International Cooperation Agency,Japan (2016)
+* Global Research Internship, JICA Research Institute, Japan International Cooperation Agency, Japan (2016)
 * International Study Tour: Water, Energy and Sustainable Development, Palawan, Philippines (2016)
 * Japan-Asia Youth Exchange in Science, Osaka Prefecture University, Japan (2015)
 * International Training and Research Program: Energy and Water for Southeast Asia, National Taiwan University, Taiwan (2011)
 
 
-### Professional Memberships 
+### Professional Memberships
 * Eastern Asia Society of Transport Studies (EASTS)
 
 

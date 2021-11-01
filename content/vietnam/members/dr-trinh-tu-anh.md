@@ -1,5 +1,5 @@
 ---
-title: "Tiến Sĩ. Trịnh Tú Anh"
+title: "TS. Trịnh Tú Anh"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -9,9 +9,9 @@ description : ""
 image: "images/team/TuA.jpg"
 # course
 course: "Viện Trưởng"
-position: "Director"
+position: "Viện Trưởng"
 # biograph
-bio: "Dr. Tu Anh Trinh is a director of Institute of Smart City and Management (ISCM), University of Economics Ho Chi Minh since May 2020. She has built up the academic career as a lecturer and a dean in faculties of many national countries over 20 years. She is a guest lecturer, supervisor, reviewer for master and Phd students in international universities such as Trieste University, Hasselt University, Thammasat University, Handong Global University, etc. She is also a co-chair of the 1st International Conference on Sustainable Development Civil, Urban and Transportation Engineering (CUTE-2016), the 1st Aviation Future: Challenge and Solution 2020 (AFCS2020), and a key organizer and editor of the CUTE-2018. She has worked as a specialist and team leader in local and international research and projects on smart city, urban and transportation planning, road safety, project management, transport economics, public transport, aviation operation, and Social and Environment Impact Assessment (SEIA). She has published scientific papers on her fields in multiple journals and proceedings of academic and press conferences for her academic excellence."
+bio: " TS. Trịnh Tú Anh là Viện trưởng Viện Đô Thị Thông Minh và Quản Lý (ISCM), Đại học Kinh Tế TP. Hồ Chí Minh (UEH) từ tháng 5 năm 2020. Cô đã xây dựng sự nghiệp học thuật của mình như là giảng viên và trưởng khoa của nhiều trường đại học trong hơn 20 năm. Cô cũng được mời giảng dạy và hướng dẫn sinh viên thạc sĩ, tiến sĩ tại các trường đại học trong nước và quốc tế như Đại học Trieste, Đại học Hasselt, Đại học Thammasat, Đại học Toàn Cầu Handong,... Cô đồng chủ trì Hội Nghị Quốc Tế lần 1 về Phát Triển Bền Vững trong Kỹ Thuật Dân Dụng, Kỹ Thuật Giao Thông và Đô Thị (CUTE-2016), Hội Nghị Tương Lai Hàng Không lần 1: Thách Thức và Giải Pháp 2020 (AFCS2020), và là nhà tổ chức cũng như biên tập của CUTE-2018. Cô là một chuyên gia và lãnh đạo nhóm trong các nghiên cứu, dự án quốc tế và địa phương về thành phố thông minh, quy hoạch giao thông và đô thị, an toàn giao thông, quản lý dự án, kinh tế giao thông, giao thông công cộng, hoạt động hàng không, và Đánh Giá Tác Động Môi Trường và Xã Hội (SEIA). Cô đã xuất bản nhiều bài báo khoa học trong các tạp chí, kỷ yếu hội nghị trong các lĩnh vực nghiên cứu chuyên sâu của mình."
 
 # contact info
 contact:
@@ -37,35 +37,36 @@ weight: 1
 ---
 
 
-### Courses
-* New urban Economics and city marketing
-* Urban Policy
-* Smart Urban Design StudioLab
-* The measurement of urban smartness and urban sustainability
-* Sustainable City and Community
-* Land-use and transportation
-* City Project
+### Giảng Dạy
+* Kinh tế đô thị mới và tiếp thị thành phố
+* Đồ án thiết kế đô thị thông minh
+* Quản lý đô thị
+* Thành phố thông minh
+* An toàn đường bộ
+* Giao thông và sử dụng đất
+* Hoạt động hàng không
 
-### Academic and Research Profile
-* Director, Institute of Smart City and Management, University of Economics HCMC, Present
-* Head, Planning Department, Ton Duc Thang University - Civil Engineering Faculty, 2014-Present
-* Visiting Lecturer, University of Economics Ho Chi Minh City, 2014 - Present
-* Visiting Lecturer, Hochiminh city Open University, 2007 - Present
-* Model Transport Specialist, Vietnamese – Germany University, 2015 -2016
-* Investigator, HCMC Department of Science and Technology (DoST), 2015 - 2016
-* Doctor of Engineering, Hasselt University, Belgium, 2008 -2013
-* Certificate of Blekinge university of technology, Sweden, 2007 - 2008
-* Master of Engineering, Asian Institute of Technology, international institution based in Bangkok, Thailand 2001 - 2003
-* Bachelor of Engineering, Transport - Economics Department, University of Transport and Communication, Vietnam 1995 - 2000
 
-### Professional Memberships
+### Tiểu Sử Học Thuật
+* Tiến sĩ kỹ thuật, Giao thông, Đại học Hasselt , Bỉ, 2008 -2013
+* Thạc sĩ kỹ thuật, Giao thông, Viện Công Nghệ Á Châu, Thái Lan, 2001 - 2003
+* Cử nhân kỹ thuật, Giao thông - Bộ môn Kinh Tế, Đại học Giao Thông Vận Tải, Việt Nam, 1996 - 2000
 
-* LENS (Learning Network on Sustainability)
-* WiTL (Woman in Transport Leadership Workshop)
-* RTIRN (Road Traffic Injuries Research Network)
-* UEM Network (Urban Environmental Management Network)
-* EASTS (Eastern Asia Society for Transportation Studies)
-* TSSV (Transportation Studies Society of Vietnam)
-* ISSOT (International Student Network on Transport Research)
+### Kinh Nghiệm
+* Viện trưởng, Viện Đô Thị Thông Minh và Quản Lý, Đại học Kinh Tế TP. Hồ Chí Minh, 2020 - hiện tại
+* Trưởng Bộ môn Quy Hoạch, Đại học Tôn Đức Thắng, 2014 - 2020
+* Trưởng Khoa Hàng Không, Học Viện Hàng Không Việt Nam, 2007 – 2013
+* Giảng viên, Đại học Giao Thông Vận Tải, 2003- 2007
+* Trợ Giảng, 2000 – 2001
 
-### [Click HERE for Publication](https://scholar.google.com.vn/citations?hl=en&user=aaTLa1UAAAAJ&view_op=list_works&sortby=pubdate)
+### Thành Viên Hiệp Hội Nghiên Cứu
+
+* Mạng Lưới học về Sự Bền Vững (LENS)
+* Hội Thảo Phụ Nữ trong Khả Năng Lãnh Đạo trong Giao Thông (WiTL)
+* Mạng Lưới Nghiên Cứu Tai Nạn Giao Thông Đường Bộ (RTIRN)
+* Mạng Lưới Quản Lý Môi Trường Đô Thị (UEM Network)
+* Hiệp Hội Nghiên Cứu Giao Thông Đông Á (EASTS)
+* Hiệp Hội Nghiên Cứu Giao Thông Việt Nam (TSSV)
+* Mạng Lưới Sinh Viên Quốc Tế trong Nghiên Cứu Giao Thông (ISSOT)
+
+### [Bấm vào ĐÂY để xem các bài báo](https://scholar.google.com.vn/citations?hl=en&user=aaTLa1UAAAAJ&view_op=list_works&sortby=pubdate)

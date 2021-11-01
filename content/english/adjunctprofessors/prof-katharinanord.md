@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/AdjunctProfs/nord.JPG"
 # course
-course: "Professor in Spatial Planning/ Architect SAR/MSA"
+course: ""
 position: ""
 # biograph
 bio: ""

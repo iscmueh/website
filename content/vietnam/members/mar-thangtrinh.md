@@ -1,5 +1,5 @@
 ---
-title: "Thạc Sĩ, KTS Trịnh Quốc Thắng"
+title: "ThS Trịnh Quốc Thắng"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -55,7 +55,6 @@ type: "teacher"
 weight: 16
 ---
 
-
-### Academic and Research Profile
-* Master, KU Leuven University, Belgium (2017)
-* Bachelor, University of Architecture Ho Chi Minh city & KU Leuven University (2016)
+### Tiểu Sử Nghiên Cứu và Học Thuật
+* Thạc sĩ, Đại học KU Leuven, Bỉ (2017)
+* Cử nhân, Đại học Kiến Trúc TP. Hồ Chí Minh và Đại học KU Leuven, Bỉ (2016)
