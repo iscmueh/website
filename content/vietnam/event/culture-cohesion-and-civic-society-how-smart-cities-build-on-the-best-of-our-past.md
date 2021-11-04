@@ -1,16 +1,16 @@
 ---
 title: "Culture, Cohesion and Civic Society: How Smart Cities Build on the Best of Our Past?"
 author: lptan
-publishDate: "2020-12-28T03:57:57.606Z"
+publishDate: "2021-12-21T09:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 location: "ISCM, Ho Chi Minh City, Vietnam"
 image: /images/events/culture-cohesion-and-civic-society.jpg
 ---
 ### About Event
 
-On December 21st, 2020, the webinar “Culture, Cohesion and Civic Society: How Smart Cities Build on the Best of Our Past?” was successfully held by UEH-ISCM and its partners: UN-Habitat, Portland University, University of Groningen, HCMC Department of Urban Planning and Architecture, and Vienam German University. This webinar is on the line of SMARTCITY+ Rehabilitation and Reintegration Program of ISCM Event Series 2021. 
+Vào ngày 21 tháng 12 năm 2020, webina “Culture, Cohesion and Civic Society: How Smart Cities Build on the Best of Our Past?” đã được tổ chức thành công bởi UEH-ISCM và các đối tác: UN-Habitat, Đại học Portland, Đại học Groningen, Sở Quy hoạch và Kiến trúc Đô thị TP.HCM, và Đại học Việt Đức. Webina này nằm trong chuỗi các Chương trình phục hồi và tái hòa nhập SMARTCITY + của Chuỗi sự kiện ISCM 2021.
 
-Smart cities are often cast as the bridge to modernity; when our cities will be hyper connected and data-driven in design and function. The webinar explores how the preservation of socio-cultural assets of the past is foundational for social cohesion and success, reflecting on three cases: Ho Chi Minh City and Hanoi (Vietnam), Amsterdam (Netherlands) and Portland (USA) with shared experience from national and international experts.
+Thành phố thông minh thường được coi là cầu nối cho sự hiện đại; khi các thành phố của chúng ta được kết nối dựa trên dữ liệu trong thiết kế và chức năng. Webina khám phá cách thức bảo tồn các tài sản văn hóa xã hội của quá khứ là nền tảng cho sự gắn kết và thành công của xã hội, phản ánh về 3 trường hợp: Thành phố Hồ Chí Minh và Hà Nội (Việt Nam), Amsterdam (Hà Lan) và Portland (Hoa Kỳ) với kinh nghiệm được chia sẻ từ các chuyên gia trong nước và quốc tế.
 
 
 Bây giờ bạn có thể truy cập vào toàn bộ webinar trực tuyến:

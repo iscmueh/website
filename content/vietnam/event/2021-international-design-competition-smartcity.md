@@ -1,7 +1,7 @@
 ---
 title: INTERNATIONAL DESIGN COMPETITION SMARTCITY+
 author: ISCM
-publishDate: "2019-01-01T00:00:00Z"
+publishDate: "2021-08-31T09:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # Event image

@@ -1,7 +1,7 @@
 ---
 title: "INTERNATIONAL SUMMER DESIGN CAMP 2021: Smart Design City for Zero Carbon Emission"
 author: ISCM
-publishDate: "2021-06-19T13:01:44.148Z"
+publishDate: "2021-06-07T00:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description: ""
 location: "ISCM, Ho Chi Minh City, Vietnam"

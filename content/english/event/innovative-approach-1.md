@@ -1,7 +1,7 @@
 ---
 title: INNOVATIVE APPROACH
 author: ISCM
-publishDate: "2020-09-24T07:00:00.000Z"
+publishDate: "2020-09-24T15:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description: " "
 location: "ISCM, Ho Chi Minh City, Vietnam"

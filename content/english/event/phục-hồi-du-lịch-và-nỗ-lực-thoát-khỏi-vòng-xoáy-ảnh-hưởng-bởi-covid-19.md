@@ -1,7 +1,7 @@
 ---
 title: Recovery of travel and efforts to escape from the whirlwind influenced by Covid-19
 author: ISCM
-publishDate: "2021-03-12T15:48:02.524Z"
+publishDate: "2021-03-01T09:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description: " "
 location: "ISCM, Ho Chi Minh City, Vietnam"

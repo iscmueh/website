@@ -1,7 +1,7 @@
 ---
 title: Phục hồi du lịch và nỗ lực thoát khỏi vòng xoáy ảnh hưởng bởi Covid-19
 author: ISCM
-publishDate: "2021-03-12T15:48:02.524Z"
+publishDate: "2021-03-01T09:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description: " "
 image: /images/events/Covid-19.jpg

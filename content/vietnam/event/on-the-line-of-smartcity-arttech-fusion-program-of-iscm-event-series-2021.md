@@ -1,7 +1,7 @@
 ---
 title: On the line of SMARTCITY+ Arttech Fusion Program of ISCM Event Series 2021
 author: ISCM
-publishDate: "2021-01-10T21:21:00.000Z"
+publishDate: "2021-01-13T07:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description: " "
 location: "ISCM, Ho Chi Minh City, Vietnam"
