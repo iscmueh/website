@@ -486,6 +486,18 @@
                 href="https://iscmueh.github.io/members/msc-le-viet/"
                 />
   </url><url>
+    <loc>https://iscmueh.github.io/members/phuong-dung/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/members/phuong-dung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/members/phuong-dung/"
+                />
+  </url><url>
     <loc>https://iscmueh.github.io/partner/omgeving/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -607,18 +619,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://iscmueh.github.io/members/me-duongquyloc/"
-                />
-  </url><url>
-    <loc>https://iscmueh.github.io/members/intern-dao-pham/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/members/intern-dao-pham/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/members/intern-dao-pham/"
                 />
   </url><url>
     <loc>https://iscmueh.github.io/</loc>
