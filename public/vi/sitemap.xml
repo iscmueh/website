@@ -474,18 +474,6 @@
                 href="https://iscmueh.github.io/vi/members/msc-le-viet/"
                 />
   </url><url>
-    <loc>https://iscmueh.github.io/vi/members/phuong-dung/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/members/phuong-dung/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/members/phuong-dung/"
-                />
-  </url><url>
     <loc>https://iscmueh.github.io/vi/partner/omgeving/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -509,6 +497,18 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://iscmueh.github.io/vi/members/mar-steven/"
+                />
+  </url><url>
+    <loc>https://iscmueh.github.io/vi/members/msc-tam-do/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/members/msc-tam-do/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/members/msc-tam-do/"
                 />
   </url><url>
     <loc>https://iscmueh.github.io/vi/network/unai/</loc>
@@ -549,6 +549,18 @@
                 href="https://iscmueh.github.io/vi/members/msc-hanhan/"
                 />
   </url><url>
+    <loc>https://iscmueh.github.io/vi/members/me-duongquyloc/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iscmueh.github.io/members/me-duongquyloc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://iscmueh.github.io/vi/members/me-duongquyloc/"
+                />
+  </url><url>
     <loc>https://iscmueh.github.io/vi/members/msc-le-an/</loc>
     <xhtml:link
                 rel="alternate"
@@ -561,16 +573,16 @@
                 href="https://iscmueh.github.io/vi/members/msc-le-an/"
                 />
   </url><url>
-    <loc>https://iscmueh.github.io/vi/members/msc-tam-do/</loc>
+    <loc>https://iscmueh.github.io/vi/members/phuong-dung/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iscmueh.github.io/members/msc-tam-do/"
+                href="https://iscmueh.github.io/members/phuong-dung/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://iscmueh.github.io/vi/members/msc-tam-do/"
+                href="https://iscmueh.github.io/vi/members/phuong-dung/"
                 />
   </url><url>
     <loc>https://iscmueh.github.io/vi/members/msc-hai-hoang/</loc>
@@ -595,18 +607,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://iscmueh.github.io/vi/members/mar-thangtrinh/"
-                />
-  </url><url>
-    <loc>https://iscmueh.github.io/vi/members/me-duongquyloc/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iscmueh.github.io/members/me-duongquyloc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://iscmueh.github.io/vi/members/me-duongquyloc/"
                 />
   </url><url>
     <loc>https://iscmueh.github.io/vi/</loc>

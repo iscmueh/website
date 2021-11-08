@@ -33,7 +33,7 @@ contact:
 
 # type
 type: "teacher"
-weight: 10
+weight: 14
 ---
 
 ### Tiểu sử học thuật
