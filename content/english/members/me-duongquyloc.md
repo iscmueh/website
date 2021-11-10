@@ -52,11 +52,7 @@ contact:
 
 # type
 type: "teacher"
-<<<<<<< HEAD
-weight: 14
-=======
 weight: 12
->>>>>>> 6b83279024089181f90b75a17063d4cea38f804e
 ---
 
 ### Academic and Research Profile
