@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
-    <lastBuildDate>Tue, 06 Jul 2021 15:27:17 +0600</lastBuildDate><atom:link href="https://iscmueh.github.io/vi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Nov 2021 19:00:00 +0000</lastBuildDate><atom:link href="https://iscmueh.github.io/vi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Handong Global University</title>
       <link>https://iscmueh.github.io/vi/partner/handong-global-uni/</link>
@@ -59,7 +59,7 @@
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
       <guid>https://iscmueh.github.io/vi/consultancy/spatial-analysis/</guid>
-      <description>Xử dụng các công cụ phân tích không gian trên nền tảng GIS và toán thống kê kết hợp với xử lý dư liệu.</description>
+      <description>Phân tích và trực quan hóa không gian sử dụng nền tảng GIS, các mô hình thống kê và các công cụ để quy hoạch và quản lý đô thị.</description>
     </item>
     
     <item>
@@ -378,6 +378,15 @@
     </item>
     
     <item>
+      <title>ME. Loc Duong Quy</title>
+      <link>https://iscmueh.github.io/vi/members/me-duongquyloc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/members/me-duongquyloc/</guid>
+      <description>Qualifications  Master of Engineering, Urban and Transportation planning, Kongju National University, Korea (2019) Bachelor, Urban planning, Ton Duc Thang University, Vietnam (2017)  </description>
+    </item>
+    
+    <item>
       <title>Thạc sĩ Đỗ Lê Phúc Tâm</title>
       <link>https://iscmueh.github.io/vi/members/msc-tam-do/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -405,21 +414,49 @@
     </item>
     
     <item>
-      <title>ME. Loc Duong Quy</title>
-      <link>https://iscmueh.github.io/vi/members/me-duongquyloc/</link>
+      <title>Lê Trung Bá Văn</title>
+      <link>https://iscmueh.github.io/vi/members/intern-le-trung-ba-van/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://iscmueh.github.io/vi/members/me-duongquyloc/</guid>
-      <description>Qualifications  Master of Engineering, Urban and Transportation planning, Kongju National University, Korea (2019) Bachelor, Urban planning, Ton Duc Thang University, Vietnam (2017)  </description>
+      <guid>https://iscmueh.github.io/vi/members/intern-le-trung-ba-van/</guid>
+      <description>Chịu trách nhiệm phụ trách quản lý nội dung (bao gồm viết nội dung, trình bày nội dung,…) trên các kênh mạng xã hội.</description>
     </item>
     
     <item>
-      <title>Pham Hoa Anh Dao</title>
-      <link>https://iscmueh.github.io/vi/members/intern-dao-pham/</link>
+      <title>Hoàng Văn Long</title>
+      <link>https://iscmueh.github.io/vi/members/intern-hoang-van-long/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://iscmueh.github.io/vi/members/intern-dao-pham/</guid>
-      <description></description>
+      <guid>https://iscmueh.github.io/vi/members/intern-hoang-van-long/</guid>
+      <description>Chịu trách nhiệm phụ trách quản lý nội dung (bao gồm viết nội dung, trình bày nội dung,…) trên các kênh mạng xã hội.</description>
+    </item>
+    
+    <item>
+      <title>Nguyễn Anh Quân</title>
+      <link>https://iscmueh.github.io/vi/members/intern-nguyen-anh-quan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/members/intern-nguyen-anh-quan/</guid>
+      <description>Chịu trách nhiệm thực hiện thiết kế chương trình hỗ trợ dạy học qua Adobe Captive.</description>
+    </item>
+    
+    <item>
+      <title>ORIENTATION DAY - CHÀO MỪNG KHÓA THẠC SỸ ĐIỀU HÀNH CAO CẤP - QUẢN LÝ ĐÔ THỊ THÔNG MINH VÀ SÁNG TẠO ĐẦU TIÊN CỦA ISCM</title>
+      <link>https://iscmueh.github.io/vi/event/2021-masterorientation-day-vn/</link>
+      <pubDate>Tue, 09 Nov 2021 19:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/event/2021-masterorientation-day-vn/</guid>
+      <description>____________
+Viện Đô thị thông minh và Quản lý (ISCM) rất vui và chào đón thế hệ người học đồng kiến tạo đầu tiên của khóa Thạc sỹ Điều hành cao cấp - Quản lý Đô thị thông minh và Sáng tạo (Executive Master of Smart City and Innovation Management) năm 2021</description>
+    </item>
+    
+    <item>
+      <title>Tư vấn tuyển sinh</title>
+      <link>https://iscmueh.github.io/vi/event/tu-van-tuyen-sinh-vn/</link>
+      <pubDate>Mon, 16 Aug 2021 15:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/event/tu-van-tuyen-sinh-vn/</guid>
+      <description>About Event Chọn ngành là việc không dễ dàng đối với các bạn học sinh và các bậc phụ huynh.</description>
     </item>
     
     <item>

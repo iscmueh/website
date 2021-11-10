@@ -16,21 +16,24 @@ summary: "Giúp nhà đầu tư đánh giá kĩ thuật các hệ thống tòa n
 weight: 3
 ---
 
-We provide Technical Due Diligence (TDD) services that involve a process of systematic review, analysis, and discovery of the conditions of assets from various viewpoints such as architectural, constructional, structural, MEP, fire safety and external façade checking.
+Chúng tôi cung cấp các dịch vụ thẩm định kỹ thuật chuyên sâu (Technical Due Diligence - TDD) bao gồm quá trình xem xét, phân tích và khám phá một cách có hệ thống các điều kiện của tài sản từ nhiều góc độ khác nhau như kiểm tra kiến ​​trúc, xây dựng, kết cấu, MEP, an toàn cháy nổ và mặt tiền bên ngoài.
 
-The TDD services also consists of a review and analysis of cost estimation for short, medium, or long-term preventive intervention program. We utilize experience and knowledge of asset management in the context of TDD to provide optimal set of advices regarding future investment on the assets. All identified defects are being assessed as per their seriousness and are being added with a qualified investment costs estimation for their removal. Our company owns a rich set of cost database on investment projects both locally and globally, thus we will be able to provide Clients accurate cost estimation for TDD services through a rigorous benchmarking process.
+Các dịch vụ TDD cũng bao gồm việc xem xét và phân tích ước tính chi phí cho chương trình can thiệp phòng ngừa ngắn hạn, trung hạn hoặc dài hạn. Chúng tôi sử dụng kinh nghiệm và kiến ​​thức về quản lý tài sản dựa trên bối cảnh của TDD để đưa ra bộ lời khuyên tối ưu liên quan đến việc đầu tư vào tài sản trong tương lai. Tất cả các thiếu/sai sót sẽ được đánh giá dựa trên mức độ nghiêm trọng của chúng và được bổ sung với ước tính chi phí đầu tư đủ điều kiện để loại bỏ chúng. Chúng tôi sở hữu một bộ cơ sở dữ liệu chi phí phong phú về các dự án đầu tư cả trong nước và toàn cầu, do đó chúng tôi sẽ có thể cung cấp cho khách hàng ước tính chi phí chính xác cho các dịch vụ TDD thông qua một quy trình đo điểm chuẩn nghiêm ngặt.
 
-TDD can also cover a building review from legal point of view (building conformity with valid construction standards). This is being provided by creating a summary and analyses of the most important issued permits including identification of possible neglects or related risks. Our services may also include assessment of environmental risks, Environmental Due Diligence. This is being provided by commenting the project in terms of possible site contamination risks and environmental impacts assessed on the basis of available documentation.
+TDD cũng có thể bao gồm việc đánh giá tòa nhà từ quan điểm pháp lý (tòa nhà phù hợp với các tiêu chuẩn xây dựng hợp lệ). Điều này được cung cấp bằng cách tạo ra một bản tóm tắt và phân tích các giấy phép quan trọng nhất đã được cấp bao gồm xác định các trường hợp bỏ qua hoặc rủi ro liên quan có thể xảy ra. Các dịch vụ của chúng tôi cũng có thể bao gồm đánh giá rủi ro môi trường, phân tích môi trường chuyên sâu. Điều này được cung cấp bằng cách tham vấn dự án về các nguy cơ ô nhiễm tại địa điểm có thể xảy ra và các tác động môi trường được đánh giá trên cơ sở các tài liệu có sẵn.
 
-Technical audit can further control actual measurements of lease or other areas and revise related contracts and guarantees. Technical audit / feasibility study can be also conducted during the Project preparation phase based on the evaluation of Project documentation and other available documents.
+Kiểm toán kỹ thuật có thể kiểm soát thêm các phép đo thực tế của việc cho thuê hoặc các khu vực khác và sửa đổi các hợp đồng và bảo hành liên quan. Đánh giá kỹ thuật / nghiên cứu khả thi cũng có thể được tiến hành trong giai đoạn chuẩn bị dự án dựa trên việc đánh giá tài liệu dự án và các tài liệu sẵn có khác. 
+
 
 ![](/images/consultancy/tdd.png)
 
-The benefits of having us to provide TDD services to you includes, but not limited, to the followings
--	Gaining a good perception on the physical condition states of the assets and the overall deficiencies compared to the intended design;
--	Establishing a set of Level of Services that assets are required to provide adequately for their intended use;
--	Estimating a high level Cost Estimate for a Preventive Intervention Program
--	Providing a level of security and protection for investors regarding acquisition or investment on assets;
--	Providing a certain level of confident on asset pricing for allocation of risk or price negotiations.
+Các lợi ích của việc chúng tôi cung cấp dịch vụ TDD cho bạn bao gồm nhưng không giới hạn ở những điều sau:
+
+- Có được nhận thức tốt về tình trạng vật lý của tài sản và các khiếm khuyết tổng thể so với thiết kế dự kiến;
+- Thiết lập các mức độ Dịch vụ mà các tài sản được yêu cầu cung cấp đầy đủ cho mục đích sử dụng của chúng;
+- Ước tính Chi phí ở mức cao cho Chương trình Can thiệp Phòng ngừa (Preventive Intervention Program)
+- Cung cấp mức độ an toàn và bảo vệ cho các nhà đầu tư liên quan đến việc mua lại hoặc đầu tư vào tài sản;
+- Cung cấp các mức độ về định giá tài sản để phân bổ rủi ro hoặc đàm phán giá. 
+
 
 ![](/images/consultancy/pic05.jpg)

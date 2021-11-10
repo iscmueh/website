@@ -9,7 +9,7 @@
       </div>
       <!-- event image -->
       <div class="col-12 mb-4">
-        <img style="height: 500px;width: 100%;object-fit: cover;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
+        <img style="height: auto;width: auto;object-fit: contain;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
       </div>
     </div>
     <!-- event info -->
@@ -69,7 +69,7 @@
       </div>
     </div>
     <!-- event speakers -->
-    <div class="row">
+    <!-- <div class="row">
       <div class="col-12">
         <h3 class="mb-4">{{ i18n "event_speaker"}}</h3>
       </div>
@@ -83,7 +83,7 @@
             {{ .designation }}
           </div>
         </div>
-      </div>
+      </div> -->
       {{ end }}
       <!-- border -->
       <div class="col-12 mt-4 order-4">

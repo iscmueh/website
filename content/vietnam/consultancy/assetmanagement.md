@@ -17,38 +17,38 @@ weight: 1
 ---
 
 
-> **Asset Management is the optimal allocation of the scarce budget between the new arrangement of asset and rehabilitation, maintenance of the existing assets to maximize the value of the stock of assets and to realize the maximum outcomes for the stakeholders.**
+> **Quản lý tài sản là việc phân bổ ngân sách có hạn một cách tối ưu, hiệu quả giữa việc phân phối tài sản mới và khôi phục, duy trì tài sản hiện có để tối đa hóa giá trị của tài sản và đạt được kết quả tốt nhất cho các bên liên quan.**
 
-We are capable of providing asset management services for various types of engineering and infrastructure systems such as water and waste water utilities (Water Treatment Plants, Pump Stations, and Pipeline), mechanical and electrical assets of industrial plants, bridge and pavement systems, and building assets.
+Chúng tôi cung cấp dịch vụ này cho nhiều loại hệ thống kỹ thuật và cơ sở hạ tầng khác nhau như các tiện ích cấp nước và thoát nước (Nhà máy xử lý nước, Trạm bơm và đường ống), hệ thống điện của các nhà máy công nghiệp, hệ thống cầu, vỉa hè và các tiện ích của các toà nhà.
 
-**Our services encompasses**
+**Dịch vụ của chúng tôi bao gồm:**
+- Kiểm tra, giám sát tài sản để nắm bắt tình trạng vật chất và tình trạng hoạt động của tài sản.
+- Phát triển hệ thống phân cấp và phân loại tài sản.
+- Chuẩn bị kế hoạch chi tiết và khung chiến lược cho các tổ chức nhằm thiết lập quản lý tài sản tổng hợp dài hạn.
+- Nghiên cứu độ tin cậy và mô hình hóa dựa trên cả phương pháp tiếp cận định tính và định lượng.
+- Phân tích Weibull và Mô hình Markove.
+- Phân tích cây sai phạm (Fault Tree Analysis - FTA), cây sự kiện (Event tree), phân tích Bow-tie và sơ đồ khối độ tin cậy (Reliability Block Diagram - RBD).
+- Dự đoán và lập mô hình suy giảm dựa trên dữ liệu lịch sử, kiểm tra và giám sát.
+- Ước tính chi phí vòng đời và tính toán Lợi tức đầu tư.
+- Xác định chương trình can thiệp dự phòng tối ưu. 
+- Kiểm toán năng lượng.
 
--	Asset inspection and monitoring for capturing physical condition and operational condition of assets.
--	Development of asset hierarchy and classification.
--	Preparation of blue-print and strategic framework for organizations aiming to establish a long-term integrated asset management.
--	Reliability study and modelling based on both qualitative and quantitative approaches.
-- Weibull analysis and Markove Modelling.
--	Fault Tree, Event Tree, Bowtie, and Reliability Block Diagram (RBD) analysis.
--	Deterioration prediction and modelling based on historical, inspection and monitoring data.
--	Life cycle cost estimation and calculation of Return on Investment.
--	Determination of optimal preventive intervention programs.
--	Energy audit.
+Chúng tôi cam kết áp dụng các tiêu chuẩn quản lý tài sản hiện đại (ví dụ: FMEA, ISO 55000/01/02) để thực hiện các giải pháp tốt nhất và tối ưu nhằm giữ và duy trì tài sản của bạn trong điều kiện tốt và không ngừng cung cấp các mức độ dịch vụ phù hợp. 
 
-We are fully committed to apply the state-of-the-art asset management standards (e.g. FMEA, ISO 55000/01/02) to realize the best and optimal solutions for keeping and maintaining your assets in good conditions and constantly provide adequate level of services.
 
 | ![](/images/consultancy/iso55000.png)|![](/images/consultancy/iam_pomplus.jpg)
 |:---:|:---:|
 
-**Modern asset management for engineering systems shares similar concepts and modelling approaches of financial engineering. Thus, it is important for asset management engineers and specialists to comprehend the underlying models led to deterioration based on statistical and probabilistic approaches and models of life cycle costing for determination of optimal preventive intervention strategies.**
+**Phương thức quản lý tài sản hiện đại cho các hệ thống kỹ thuật dựa trên các concept và cách tiếp cận mô hình tương tự của kỹ thuật tài chính. Do đó, điều quan trọng là các kỹ sư và chuyên gia quản lý tài sản phải hiểu được các mô hình cơ bản dẫn đến sự suy thoái dựa trên các phương pháp tiếp cận thống kê và xác suất và phương pháp chi phí vòng đời sản phẩm (life cycle costing) để xác định các chiến lược can thiệp phòng ngừa tối ưu.**
 
 ![](/images/consultancy/weibullplot.png)
 
-**We are capable of providing asset management services for various types of engineering and infrastructure systems such as water and wastewater utilities, mechanical and electrical assets of industrial plants, bridge and pavement systems, and building assets.**
+**Chúng tôi có khả năng cung cấp dịch vụ quản lý tài sản cho nhiều loại hệ thống kỹ thuật và cơ sở hạ tầng khác nhau như các tiện ích cấp nước và thoát nước, tài sản cơ điện của các nhà máy công nghiệp, hệ thống cầu và vỉa hè, và tài sản của tòa nhà.**
 
 | ![](/images/consultancy/cs.jpg)|![](/images/consultancy/05-FMEA.jpg)
 |:---:|:---:|
 
 
-**We are fully committed to apply the state-of-the-art asset management standards (e.g. FMEA, ISO55000/01/02) to realize the best and optimal solutions for keeping and maintaining your assets in good conditions and constantly provide adequate level of services.**
+**Chúng tôi cam kết áp dụng các tiêu chuẩn quản lý tài sản hiện đại (ví dụ: FMEA, ISO 55000/01/02) để thực hiện các giải pháp tốt nhất và tối ưu nhằm giữ và duy trì tài sản của bạn trong điều kiện tốt và không ngừng cung cấp các mức độ dịch vụ phù hợp.**
 
 ![](/images/fta02.png)

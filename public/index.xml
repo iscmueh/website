@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
-    <lastBuildDate>Tue, 06 Jul 2021 15:27:17 +0600</lastBuildDate><atom:link href="https://iscmueh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Nov 2021 19:00:00 +0000</lastBuildDate><atom:link href="https://iscmueh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Asset Management</title>
       <link>https://iscmueh.github.io/consultancy/assetmanagement/</link>
@@ -396,6 +396,15 @@
     </item>
     
     <item>
+      <title>ME. Loc Duong Quy</title>
+      <link>https://iscmueh.github.io/members/me-duongquyloc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/members/me-duongquyloc/</guid>
+      <description>Academic and Research Profile  Master of Engineering, Urban and Transportation planning, Kongju National University, Korea (2019) Bachelor, Urban planning, Ton Duc Thang University, Vietnam (2017)  </description>
+    </item>
+    
+    <item>
       <title>MSc. Hai Hoang</title>
       <link>https://iscmueh.github.io/members/msc-hai-hoang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -414,21 +423,49 @@
     </item>
     
     <item>
-      <title>ME. Loc Duong Quy</title>
-      <link>https://iscmueh.github.io/members/me-duongquyloc/</link>
+      <title>Intern.  Le Trung Ba Van (Ivan)</title>
+      <link>https://iscmueh.github.io/members/intern-le-trung-ba-van/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://iscmueh.github.io/members/me-duongquyloc/</guid>
-      <description>Academic and Research Profile  Master of Engineering, Urban and Transportation planning, Kongju National University, Korea (2019) Bachelor, Urban planning, Ton Duc Thang University, Vietnam (2017)  </description>
+      <guid>https://iscmueh.github.io/members/intern-le-trung-ba-van/</guid>
+      <description>Marketing intern In charge of content management (including content writing, content presentation, etc) on social media channels.</description>
     </item>
     
     <item>
-      <title>Pham Hoa Anh Dao</title>
-      <link>https://iscmueh.github.io/members/intern-dao-pham/</link>
+      <title>Intern.  Hoang Van Long</title>
+      <link>https://iscmueh.github.io/members/intern-hoang-van-long/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://iscmueh.github.io/members/intern-dao-pham/</guid>
-      <description></description>
+      <guid>https://iscmueh.github.io/members/intern-hoang-van-long/</guid>
+      <description>In charge of content management (including content writing, content presentation, etc) on social media channels.</description>
+    </item>
+    
+    <item>
+      <title>Intern Nguyen Anh Quan</title>
+      <link>https://iscmueh.github.io/members/intern-nguyen-anh-quan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/members/intern-nguyen-anh-quan/</guid>
+      <description>In charge of creating education platform through Adobe Captive for the Institute.</description>
+    </item>
+    
+    <item>
+      <title>ORIENTATION DAY - MASTER OF SMART CITY AND INNOVATION MANAGMENT</title>
+      <link>https://iscmueh.github.io/event/2021-masterorientation-day-en/</link>
+      <pubDate>Tue, 09 Nov 2021 19:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/event/2021-masterorientation-day-en/</guid>
+      <description>____________
+The Institute of Smart Cities and Management (ISCM) is delighted to welcome the first generation of the Executive Master of Smart City and Innovation courses in 2021.</description>
+    </item>
+    
+    <item>
+      <title>Admission consulting</title>
+      <link>https://iscmueh.github.io/event/tu-van-tuyen-sinh-en/</link>
+      <pubDate>Mon, 16 Aug 2021 15:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/event/tu-van-tuyen-sinh-en/</guid>
+      <description>About Event Choosing a major to follow is not easy for students and parents.</description>
     </item>
     
     <item>

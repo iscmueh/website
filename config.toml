@@ -60,9 +60,11 @@ google_analitycs_id = "" # your id
 top_header = true
 
 ueh_logo = "images/ueh-logo.png"
+ueh_ctd_logo = "images/ueh-logo-std.png"
 ueh_address = "59C Nguyen Dinh Chieu Street, District 3, Ho Chi Minh City, Vietnam"
 ueh_mobile = "+84-28-3829-5299"
 ueh_email = "info@ueh.edu.vn"
+
 
 # Preloader
 [params.preloader]

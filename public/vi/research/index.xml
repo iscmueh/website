@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nghiên Cứu on Institute of Smart City &amp; Management</title>
+    <title>Nghiên Cứ và Phát Triển on Institute of Smart City &amp; Management</title>
     <link>https://iscmueh.github.io/vi/research/</link>
-    <description>Recent content in Nghiên Cứu on Institute of Smart City &amp; Management</description>
+    <description>Recent content in Nghiên Cứ và Phát Triển on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright><atom:link href="https://iscmueh.github.io/vi/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2.	UEH: Zero Waste University</title>
-      <link>https://iscmueh.github.io/vi/research/zero-waste/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/research/zero-waste/</guid>
-      <description>This project aims to deploy sustainable waste management to the University of Economics Ho Chi Minh City (UEH).</description>
-    </item>
-    
-    <item>
-      <title>AR Wish Tree</title>
+      <title>Cây Ước Nguyện AR</title>
       <link>https://iscmueh.github.io/vi/research/ar-wish-tree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/research/ar-wish-tree/</guid>
-      <description>ISCM-UEH collaborates with VNUHCM – University of Science, ABB Research (Sweden), and Zeta Motion Co.</description>
+      <description>ISCM-UEH hợp tác với ĐH Khoa học Tự nhiên - ĐHQG HCM, ABB Research (Thụy Điển) và công ty Zeta Motion khai thác kỹ thuật thực tế tăng cường (augmented reality: AR) nhằm thiết kế cây ước nguyện số.</description>
     </item>
     
     <item>
-      <title>City Branding: A Case Study in Ho Chi Minh City</title>
-      <link>https://iscmueh.github.io/vi/research/city-branding/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/research/city-branding/</guid>
-      <description>Cities compete among others in the context of globalization. ISCM-UEH is working to make a marketing plan for Ho Chi Minh City that focuses on a smart city&amp;rsquo;s issues.</description>
-    </item>
-    
-    <item>
-      <title>Fostering Applied Science Incubator in Vinh Long</title>
-      <link>https://iscmueh.github.io/vi/research/fostering-applied/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/research/fostering-applied/</guid>
-      <description>ISCM-UEH is developing a smart traffic safety education program that engages the participation of students, teachers, and parents.</description>
-    </item>
-    
-    <item>
-      <title>Route2School: Smart Traffic Safety Education Program</title>
-      <link>https://iscmueh.github.io/vi/research/route-2-school/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/research/route-2-school/</guid>
-      <description>ISCM-UEH is developing a smart traffic safety education program that engages the participation of students, teachers, and parents.</description>
-    </item>
-    
-    <item>
-      <title>Smart Tourism</title>
+      <title>Du Lịch Thông Minh</title>
       <link>https://iscmueh.github.io/vi/research/smart-tourism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/research/smart-tourism/</guid>
-      <description>This project aims to promote the 178 proposed attractive tourism destinations of Ho Chi Minh city and encourage community participation in the local tourism&amp;rsquo;s activities.</description>
+      <description>Dự án này nhằm quảng bá 178 điểm đến du lịch hấp dẫn được đề xuất của thành phố Hồ Chí Minh và khuyến khích sự tham gia của cộng đồng vào các hoạt động du lịch của thành phố.</description>
+    </item>
+    
+    <item>
+      <title>Phát Triển Vườn Ươm Khoa Học Ứng Dụng tại Vĩnh Long</title>
+      <link>https://iscmueh.github.io/vi/research/fostering-applied-science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/research/fostering-applied-science/</guid>
+      <description>ISCM-UEH và Viện Đổi Mới Sáng Tạo (UII-UEH) đang cộng tác với các đối tác địa phương và quốc tế để phát triển khoa học ứng dụng tại địa phương.</description>
+    </item>
+    
+    <item>
+      <title>Route2School: Chương Trình Giáo Dục An Toàn Giao Thông Thông Minh</title>
+      <link>https://iscmueh.github.io/vi/research/route-2-school/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/research/route-2-school/</guid>
+      <description>ISCM-UEH đang phát triển một chương trình giáo dục an toàn giao thông thông minh với sự tham gia của sinh viên, giáo viên và phụ huynh.</description>
+    </item>
+    
+    <item>
+      <title>UEH: Trường Đại Học Không Rác Thải</title>
+      <link>https://iscmueh.github.io/vi/research/zero-waste/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/research/zero-waste/</guid>
+      <description>Dự án này nhằm triển khai quản lý chất thải bền vững tại Trường Đại học Kinh tế Thành phố Hồ Chí Minh (UEH).</description>
+    </item>
+    
+    <item>
+      <title>Xây Dựng Thương Hiệu Thành Phố: Nghiên Cứu Điển Hình tại TP. Hồ Chí Minh</title>
+      <link>https://iscmueh.github.io/vi/research/city-branding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/research/city-branding/</guid>
+      <description>Các thành phố đang cạnh tranh với nhau trong bối cảnh toàn cầu hóa.</description>
     </item>
     
   </channel>
