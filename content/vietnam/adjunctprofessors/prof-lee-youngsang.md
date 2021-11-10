@@ -1,5 +1,5 @@
 ---
-title: "Prof. Lee Jongsang"
+title: "GS. Lee Jongsang"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -11,7 +11,7 @@ image: "images/team/AdjunctProfs/leejongsang.JPG"
 course: ""
 position: ""
 # biograph
-bio: "Prof. Lee Jongsang is working at the Faculty of Community Development, College of Industrial Science, Kongju National University."
+bio: "GS. Lee Jongsang đang làm việc tại Khoa Phát Triển Cộng Đồng, Trường Khoa Học Công Nghiệp, Đại học Quốc Gia Kongju ."
 
 # contact info
 contact:
@@ -55,17 +55,17 @@ type: "teacher"
 weight: 6
 ---
 
-### Academic and Research Profile
-* Professor, Kongju National University (2012 – Now)
-* Visiting Professor, The University of the Philippines (2010 – 2011)
-* Associate Professor, Kongju National University (2007 – 2012)
-* Assistant Professor, Kongju National University (2004 – 2007)
-* Senior Researcher, Chung-Nam Development Institute (1996 – 2004)
-* Researcher, Korea Forest Research Institute (1995)
-* Chief of Planning Department, Geonggi Development Institute (1993 – 1994)
-* Ph.D. in Agricultural Economics, Kyusyu National University, Japan (1990 – 1993)
-* M.S in Agricultural Economics, Obihiro National University, Japan (1988 – 1990)
-* Ph. D course in Agricultural Education at Seoul National University, Korea (1985 – 1988)
-* Assistant, Seoul National University (1984 – 1986)
-* M.S in Agricultural Education at Seoul National University, Korea (1983 – 1985)
-* B.A in Agricultural Education at College of Agriculture, Seoul National University, Korea (1976 – 1980)
+### Tiểu Sử Nghiên Cứu và Học Thuật
+* Giáo sư, Đại học Quốc gia Kongju (2012 - Hiện tại)
+* Giáo sư thỉnh giảng, Đại học Philippines (2010 - 2011)
+* Phó Giáo sư, Đại học Quốc gia Kongju (2007 - 2012)
+* Trợ lý Giáo sư, Đại học Quốc gia Kongju (2004 - 2007)
+* Nghiên cứu viên cao cấp, Viện Phát triển Chung-Nam (1996 - 2004)
+* Nghiên cứu viên, Viện Nghiên cứu Rừng Hàn Quốc (1995)
+* Trưởng phòng Kế hoạch, Viện Phát triển Geonggi (1993 - 1994)
+* Tiến sĩ Kinh tế Nông nghiệp, Đại học Quốc gia Kyusyu, Nhật Bản (1990 - 1993)
+* Thạc sĩ Kinh tế Nông nghiệp, Đại học Quốc gia Obihiro, Nhật Bản (1988-1990)
+* Khóa học Tiến sĩ về Giáo dục Nông nghiệp tại Đại học Quốc gia Seoul, Hàn Quốc (1985 - 1988)
+* Trợ lý, Đại học Quốc gia Seoul (1984 - 1986)
+* Thạc sĩ khoa học Giáo dục Nông nghiệp, Đại học Quốc gia Seoul, Hàn Quốc (1983 - 1985)
+* Cử nhân Sư phạm nông nghiệp,Trường Cao đẳng Nông nghiệp, Đại học Quốc gia Seoul, Hàn Quốc (1976 - 1980)

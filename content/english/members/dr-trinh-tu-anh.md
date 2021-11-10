@@ -39,33 +39,34 @@ weight: 1
 
 ### Courses
 * New urban Economics and city marketing
-* Urban Policy
 * Smart Urban Design StudioLab
-* The measurement of urban smartness and urban sustainability
-* Sustainable City and Community
-* Land-use and transportation
-* City Project
+* Urban Management
+* Smart City
+* Road Safety
+* Land-use and Transportation
+* Aviation Operation
 
-### Academic and Research Profile
-* Director, Institute of Smart City and Management, University of Economics HCMC, Present
-* Head, Planning Department, Ton Duc Thang University - Civil Engineering Faculty, 2014-Present
-* Visiting Lecturer, University of Economics Ho Chi Minh City, 2014 - Present
-* Visiting Lecturer, Hochiminh city Open University, 2007 - Present
-* Model Transport Specialist, Vietnamese – Germany University, 2015 -2016
-* Investigator, HCMC Department of Science and Technology (DoST), 2015 - 2016
-* Doctor of Engineering, Hasselt University, Belgium, 2008 -2013
-* Certificate of Blekinge university of technology, Sweden, 2007 - 2008
-* Master of Engineering, Asian Institute of Technology, international institution based in Bangkok, Thailand 2001 - 2003
-* Bachelor of Engineering, Transport - Economics Department, University of Transport and Communication, Vietnam 1995 - 2000
+
+### Academic
+* Doctor of Engineering, Transportation, Hasselt University, Belgium, 2008 -2013
+* Master of Engineering, Transportation, Asian Institute of Technology, international institution based in Bangkok, Thailand 2001 - 2003
+* Bachelor of Engineering, Transport - Economics Department, University of Transport and Communication, Vietnam 1996 - 2000
+
+### Academic Experiences
+* Director, Institute of Smart City and Management, University of Economics HCMC, May 2020 - Present
+* Head, Planning Department, Ton Duc Thang University, September 2014 - May 2020
+* Dean, Aviation Faculty, Vietnam Aviation Academy, 2007 – December 2013
+* Lecturer, University of Transport and Communication, September 2003- 2007
+* Assistant Lecturer, September 2000 – August 2001
 
 ### Professional Memberships
 
-* LENS (Learning Network on Sustainability) 
-* WiTL (Woman in Transport Leadership Workshop) 
-* RTIRN (Road Traffic Injuries Research Network) 
-* UEM Network (Urban Environmental Management Network) 
-* EASTS (Eastern Asia Society for Transportation Studies) 
-* TSSV (Transportation Studies Society of Vietnam) 
-* ISSOT (International Student Network on Transport Research) 
+* LENS (Learning Network on Sustainability)
+* WiTL (Woman in Transport Leadership Workshop)
+* RTIRN (Road Traffic Injuries Research Network)
+* UEM Network (Urban Environmental Management Network)
+* EASTS (Eastern Asia Society for Transportation Studies)
+* TSSV (Transportation Studies Society of Vietnam)
+* ISSOT (International Student Network on Transport Research)
 
 ### [Click HERE for Publication](https://scholar.google.com.vn/citations?hl=en&user=aaTLa1UAAAAJ&view_op=list_works&sortby=pubdate)

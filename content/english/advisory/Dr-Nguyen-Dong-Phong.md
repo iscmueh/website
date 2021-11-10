@@ -11,6 +11,7 @@ description : ""
 image: "images/team/AdvisoryBoard/nguyendongphong.jpg"
 # course
 course: "Chairman, University Council, University of Economics Ho Chi Minh"
+
 # biography
 bio: ""
 # interest

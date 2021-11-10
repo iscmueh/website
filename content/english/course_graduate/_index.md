@@ -1,5 +1,5 @@
 ---
-title: "Our Graduate Courses"
+title: "Eduucation Courses"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"

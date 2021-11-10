@@ -477,6 +477,12 @@ textarea.form-control {
     .navbar-nav {
       padding-left: 0;
       background: #971919; } }
+.navbar-navld {
+  padding-left: 50px; }
+  @media (max-width: 991px) {
+    .navbar-navld {
+      padding-left: 0;
+      background: #971919; } }
 .nav-bg {
   background-color: #971919; }
 
@@ -571,6 +577,13 @@ link:focus,
   .navbar .dropdown-item:hover {
     color: #141414;
     background: transparent; }
+
+ul > li {
+  display: inline-block;
+  /* You can also add some margins here to make it look prettier */
+  zoom: 1;
+  *display: inline;
+  /* this fix is needed for IE7- */ }
 
 .hero-section {
   padding: 250px 0 290px; }

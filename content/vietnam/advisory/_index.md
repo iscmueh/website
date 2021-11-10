@@ -5,5 +5,5 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "A team of international specialists and local talents in various fields from Urban Architecture, Urban Design and Planning, Transporation Engineering, Asset Management, Operations Research, Reliability Engineering, Optimization, Statistics, and Economics."
+description : "Ban Cố Vấn của ISCM là những giáo sư và nhà quản lý xuất sắc, đã và đang đảm nhiệm các trọng trách quan trọng trong chính phủ, trường đại học, và tập đoàn lớn. Các ý kiến đóng góp của ban cố vấn được chọn lọc và tiếp thu để đưa vào thực tiễn giảng dạy và nghiên cứu."
 ---

@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/Ngoc.jpg"
 # course
-course: "Nghiên cứu viên"
+course: "Nghiên Cứu Viên"
 position: ""
 # biograph
 bio: "TS. Nguyễn Thị Ngọc tập trung nghiên cứu về hành vi và các thách thức cho sự phát triển bền vững khu vực đô thị. Hiện tại, cô đang thực hiện các nghiên cứu về hành vi di chuyển và giáo dục môi trường."
@@ -58,23 +58,24 @@ weight: 7
 
 ### Giảng Dạy
 
-* Chính sách kinh tế và môi trường
+* Chính sách môi trường và kinh tế
 * Kinh tế môi trường
 * Quản lý môi trường
 * Xử lý dữ liệu môi trường
 
 
 ### Tiểu Sử Nghiên Cứu và Học Thuật
-* Giảng Viên, Khoa Môi Trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2018-2020)
-* Tiến Sĩ Kỹ Thuật, Môi Trường Đô Thị, Đại Học Nagoya, Nhật Bản (2015-2018)
-* Nghiên Cứu Viên và Giảng Viên, Khoa Môi Trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2013-2015)
-* Thạc Sĩ Khoa Học, Quản Lý Môi Trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2011-2013)
-* Nghiên Cứu Viên và Trợ Giảng, Khoa Môi Trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2010-2013)
-* Cử Nhân Khoa Học, Khoa Học Môi Trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2006-2010)
+* Nghiên cứu viên, Viện Đô Thị Thông Minh và Quản Lý, Đại học Kinh Tế TP.HCM (từ 2021)
+* Giảng viên, Khoa Môi Trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2018-2020)
+* Tiến sĩ kỹ thuật, Môi trường đô thị, Đại Học Nagoya, Nhật Bản (2015-2018)
+* Nghiên cứu viên và giảng viên, Khoa Môi Trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2013-2015)
+* Thạc sĩ khoa học, Quản lý môi trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2011-2013)
+* Nghiên cứu viên và trợ giảng, Khoa Môi Trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2010-2013)
+* Cử nhân khoa học, Khoa học môi trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2006-2010)
 
 
 ### Kinh Nghiệm Quốc Tế
-* Thực tập nghiên cứu toàn cầu, Viện Nghiên Cứu JICA, Cơ Quan Hợp Tác Quốc Tế Nhật Bản (2016)
+* Thực tập nghiên cứu, Viện Nghiên Cứu JICA, Cơ Quan Hợp Tác Quốc Tế Nhật Bản (2016)
 * Chương trình nghiên cứu quốc tế: Nước, Năng Lượng và Phát Triển Bền Vững, Palawan, Philippines (2016)
 * Trao đổi khoa học trong giới trẻ Nhật Bản và Châu Á, Đại học Phủ Osaka, Nhật Bản (2015)
 * Chương trình nghiên cứu và tập huấn quốc tế: Nước và Năng Lượng cho Đông Nam Á, Đại học Quốc Gia Đài Loan (2011)

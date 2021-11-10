@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
+<<<<<<< HEAD
     <lastBuildDate>Tue, 09 Nov 2021 19:00:00 +0000</lastBuildDate><atom:link href="https://iscmueh.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ORIENTATION DAY - MASTER OF SMART CITY AND INNOVATION MANAGMENT</title>
@@ -27,28 +28,67 @@ The Institute of Smart Cities and Management (ISCM) is delighted to welcome the 
       <description>About Event Choosing a major to follow is not easy for students and parents.</description>
     </item>
     
+=======
+    <lastBuildDate>Sat, 09 Oct 2021 18:00:00 +0000</lastBuildDate><atom:link href="https://iscmueh.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 6b83279024089181f90b75a17063d4cea38f804e
     <item>
-      <title>INTERNATIONAL SUMMER DESIGN CAMP 2021: Smart Design City for Zero Carbon Emission</title>
-      <link>https://iscmueh.github.io/event/international-summer-design-camp-2021-smart-design-city-for-zero-carbon-emission/</link>
-      <pubDate>Sat, 19 Jun 2021 13:01:44 +0000</pubDate>
+      <title>Judging Panel Event - Slogan Competition “For The Multidisciplinary And Sustainable UEH University</title>
+      <link>https://iscmueh.github.io/event/slogan/</link>
+      <pubDate>Sat, 09 Oct 2021 18:00:00 +0000</pubDate>
       
-      <guid>https://iscmueh.github.io/event/international-summer-design-camp-2021-smart-design-city-for-zero-carbon-emission/</guid>
-      <description>About Event INTERNATIONAL SUMMER DESIGN CAMP 2021: Smart Design City for Zero Carbon Emission</description>
+      <guid>https://iscmueh.github.io/event/slogan/</guid>
+      <description>About Event After nearly a month of launching, the UEH Slogan competition received positive support from the domestic and international creative community.</description>
+    </item>
+    
+    <item>
+      <title>UEH Slogan Competition invitation: for the multi-disciplinary and sustainable UEH University</title>
+      <link>https://iscmueh.github.io/event/khoi-dong-cuoc-thi-slogan/</link>
+      <pubDate>Thu, 09 Sep 2021 09:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/event/khoi-dong-cuoc-thi-slogan/</guid>
+      <description>About Event In its 45 years of establishment and growth from 1976, the University of Economics Ho Chi Minh City (UEH) has accumulated countless accolades from various reputable organizations across the world for its outstanding performance in teaching, researching and social contribution.</description>
+    </item>
+    
+    <item>
+      <title>INTERNATIONAL DESIGN COMPETITION SMARTCITY&#43;</title>
+      <link>https://iscmueh.github.io/event/2021-international-design-competition-smartcity/</link>
+      <pubDate>Tue, 31 Aug 2021 09:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/event/2021-international-design-competition-smartcity/</guid>
+      <description>About Event Following the great success of the 1st international online international design competition in 2019 with the theme &amp;ldquo;Future City: Smart design for the post-pandemic world&amp;rdquo;, the annual contest launched by the Institute of Smart Cities and Management.</description>
+    </item>
+    
+    <item>
+      <title>webinar “International webinar towards bldg. Resilient &amp; Sustainable Communities through Disaster Mitigation</title>
+      <link>https://iscmueh.github.io/event/international-webinar-toward-bldg/</link>
+      <pubDate>Fri, 27 Aug 2021 08:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/event/international-webinar-toward-bldg/</guid>
+      <description>About Event A webinar entitled “International webinar towards bldg. Resilient &amp;amp; Sustainable Communities through Disaster Mitigation” held by University of Northern Philippines, University of The Cordilleras and Nueva Ecija University of Science and Technology will take place on August 27th and 28th.</description>
     </item>
     
     <item>
       <title>Blockchain for DeFi &amp; Cryptocurrency: Blockchain in current and future economy</title>
       <link>https://iscmueh.github.io/event/webinar-blockchain-for-defi-cryptocurrency-blockchain-in-current-and-future-economy/</link>
-      <pubDate>Fri, 04 Jun 2021 14:25:34 +0000</pubDate>
+      <pubDate>Mon, 21 Jun 2021 15:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/event/webinar-blockchain-for-defi-cryptocurrency-blockchain-in-current-and-future-economy/</guid>
       <description>About Event In the wave of the 4.0 industrial revolution, blockchain is regarded as the “key” technology for digital transformation and the development of the technological platform of the future.</description>
     </item>
     
     <item>
+      <title>INTERNATIONAL SUMMER DESIGN CAMP 2021: Smart Design City for Zero Carbon Emission</title>
+      <link>https://iscmueh.github.io/event/international-summer-design-camp-2021-smart-design-city-for-zero-carbon-emission/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/event/international-summer-design-camp-2021-smart-design-city-for-zero-carbon-emission/</guid>
+      <description>About Event INTERNATIONAL SUMMER DESIGN CAMP 2021: Smart Design City for Zero Carbon Emission</description>
+    </item>
+    
+    <item>
       <title>THE OPENING CEREMONY OF THE CITY SCIENCE LAB @ HO CHI MINH CITY</title>
       <link>https://iscmueh.github.io/event/the-opening-ceremony-of-the-city-science-lab-ho-chi-minh-city/</link>
-      <pubDate>Sat, 24 Apr 2021 07:22:33 +0000</pubDate>
+      <pubDate>Thu, 22 Apr 2021 09:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/event/the-opening-ceremony-of-the-city-science-lab-ho-chi-minh-city/</guid>
       <description>In the morning of April 22, 2021, the opening ceremony of the City Science Lab @ Ho Chi Minh City (CSL @ HCMC) was successfully celebrated at 422 Vo Van Kiet street, Co Giang ward, District 1.</description>
@@ -57,25 +97,16 @@ The Institute of Smart Cities and Management (ISCM) is delighted to welcome the 
     <item>
       <title>Sustainable Urban Design</title>
       <link>https://iscmueh.github.io/event/thi%E1%BA%BFt-k%E1%BA%BF-%C4%91%C3%B4-th%E1%BB%8B-t%E1%BA%A7m-nh%C3%ACn-v%E1%BB%AFng-ch%E1%BA%AFc-cho-%C4%91%C3%B4-th%E1%BB%8B-b%E1%BB%81n-v%E1%BB%AFng/</link>
-      <pubDate>Sun, 04 Apr 2021 06:20:42 +0000</pubDate>
+      <pubDate>Thu, 25 Mar 2021 09:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/event/thi%E1%BA%BFt-k%E1%BA%BF-%C4%91%C3%B4-th%E1%BB%8B-t%E1%BA%A7m-nh%C3%ACn-v%E1%BB%AFng-ch%E1%BA%AFc-cho-%C4%91%C3%B4-th%E1%BB%8B-b%E1%BB%81n-v%E1%BB%AFng/</guid>
-      <description>About Event Ngày 25/3, tại Hồ Chí Minh, Viện Đô thị thông minh và Quản lý hợp tác cùng B+H đã tổ chức buổi webinar chủ đề: “A new understanding of the imperative of healthy city design”.</description>
-    </item>
-    
-    <item>
-      <title>INTERNATIONAL DESIGN COMPETITION SMARTCITY&#43;</title>
-      <link>https://iscmueh.github.io/event/2021-international-design-competition-smartcity/</link>
-      <pubDate>Sun, 04 Apr 2021 05:50:50 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/event/2021-international-design-competition-smartcity/</guid>
-      <description>About Event Following the great success of the 1st international online international design competition in 2019 with the theme &amp;ldquo;Future City: Smart design for the post-pandemic world&amp;rdquo;, the annual contest launched by the Institute of Smart Cities and Management.</description>
+      <description>About Event On March 25, in Ho Chi Minh, the Institute of Smart Cities and Management in cooperation with B+H held a webinar with the theme: &amp;ldquo;A new understanding of the imperative of healthy city design&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>WEBINAR “A NEW UNDERSTANDING OF THE IMPERATIVE OF HEALTHY CITY DESIGN” OFFICIAL STARTS</title>
       <link>https://iscmueh.github.io/event/webinar-a-new-understanding-of-the-imperative-of-healthy-city-design-official-starts/</link>
-      <pubDate>Tue, 16 Mar 2021 10:43:58 +0000</pubDate>
+      <pubDate>Thu, 25 Mar 2021 09:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/event/webinar-a-new-understanding-of-the-imperative-of-healthy-city-design-official-starts/</guid>
       <description>About Event B+H, in partnership with Institute of Smart City and Management (ISCM), are pleased to invite you to an engaging conservation focused on the “Future of healthy and sustainable urban development in Vietnam”.</description>
@@ -84,7 +115,7 @@ The Institute of Smart Cities and Management (ISCM) is delighted to welcome the 
     <item>
       <title>Recovery of travel and efforts to escape from the whirlwind influenced by Covid-19</title>
       <link>https://iscmueh.github.io/event/ph%E1%BB%A5c-h%E1%BB%93i-du-l%E1%BB%8Bch-v%C3%A0-n%E1%BB%97-l%E1%BB%B1c-tho%C3%A1t-kh%E1%BB%8Fi-v%C3%B2ng-xo%C3%A1y-%E1%BA%A3nh-h%C6%B0%E1%BB%9Fng-b%E1%BB%9Fi-covid-19/</link>
-      <pubDate>Fri, 12 Mar 2021 15:48:02 +0000</pubDate>
+      <pubDate>Mon, 01 Mar 2021 09:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/event/ph%E1%BB%A5c-h%E1%BB%93i-du-l%E1%BB%8Bch-v%C3%A0-n%E1%BB%97-l%E1%BB%B1c-tho%C3%A1t-kh%E1%BB%8Fi-v%C3%B2ng-xo%C3%A1y-%E1%BA%A3nh-h%C6%B0%E1%BB%9Fng-b%E1%BB%9Fi-covid-19/</guid>
       <description>About Event The year 2020 - 365 days of travel around the world were suspended and the phrase &amp;ldquo;closed&amp;rdquo; repeatedly appeared at tourist sites for the Covid epidemic.</description>
@@ -102,19 +133,10 @@ The Institute of Smart Cities and Management (ISCM) is delighted to welcome the 
     <item>
       <title>On the line of SMARTCITY&#43; Arttech Fusion Program of ISCM Event Series 2021</title>
       <link>https://iscmueh.github.io/event/on-the-line-of-smartcity-arttech-fusion-program-of-iscm-event-series-2021/</link>
-      <pubDate>Sun, 10 Jan 2021 21:21:00 +0000</pubDate>
+      <pubDate>Wed, 13 Jan 2021 07:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/event/on-the-line-of-smartcity-arttech-fusion-program-of-iscm-event-series-2021/</guid>
       <description>About Event We would like to invite you to participate the webinar “Livable smart city: how to build up for the sustainable future city”, with our international and local experts and professors of Vietnam, America, Belgium and England.</description>
-    </item>
-    
-    <item>
-      <title>Culture, Cohesion and Civic Society: How Smart Cities Build on the Best of Our Past?</title>
-      <link>https://iscmueh.github.io/event/culture-cohesion-and-civic-society-how-smart-cities-build-on-the-best-of-our-past/</link>
-      <pubDate>Mon, 28 Dec 2020 03:57:57 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/event/culture-cohesion-and-civic-society-how-smart-cities-build-on-the-best-of-our-past/</guid>
-      <description>About Event On December 21st, 2020, the webinar “Culture, Cohesion and Civic Society: How Smart Cities Build on the Best of Our Past?</description>
     </item>
     
     <item>
@@ -147,7 +169,7 @@ The Institute of Smart Cities and Management (ISCM) is delighted to welcome the 
     <item>
       <title>INNOVATIVE APPROACH</title>
       <link>https://iscmueh.github.io/event/innovative-approach-1/</link>
-      <pubDate>Thu, 24 Sep 2020 07:00:00 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2020 15:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/event/innovative-approach-1/</guid>
       <description>To adapt to rapid-development and urbanization, what innovative and innovative approaches will be suitable to solve or eliminate urban issues toward smart cities development?</description>
@@ -156,7 +178,7 @@ The Institute of Smart Cities and Management (ISCM) is delighted to welcome the 
     <item>
       <title>SUSTAINABLE TRANSPORT SAFETY</title>
       <link>https://iscmueh.github.io/event/sustainable-transport-safety/</link>
-      <pubDate>Wed, 23 Sep 2020 07:00:12 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2020 14:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/event/sustainable-transport-safety/</guid>
       <description>Transport safety has always been a thorny issue that accounts for the majority of society&amp;rsquo;s concern, especially with the continued proliferation of private vehicles day by day.</description>
@@ -164,11 +186,20 @@ The Institute of Smart Cities and Management (ISCM) is delighted to welcome the 
     
     <item>
       <title>FUTURE OUTLOOK</title>
-      <link>https://iscmueh.github.io/event/innovative-approach/</link>
-      <pubDate>Tue, 22 Sep 2020 11:00:00 +0000</pubDate>
+      <link>https://iscmueh.github.io/event/future-outlook/</link>
+      <pubDate>Tue, 22 Sep 2020 18:00:00 +0000</pubDate>
       
-      <guid>https://iscmueh.github.io/event/innovative-approach/</guid>
+      <guid>https://iscmueh.github.io/event/future-outlook/</guid>
       <description>There is no doubt that the world is ever-changing, so planning a future outlook in which human always take the proactive role to operate is essential.</description>
+    </item>
+    
+    <item>
+      <title>Launch event: BAUD - BAS Dual-Degree Program</title>
+      <link>https://iscmueh.github.io/event/launch-event-baud-bas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/event/launch-event-baud-bas/</guid>
+      <description>About Event On September 3, 2021, the Institute of Smart City and Management of the University of Economics Ho Chi Minh City and the Faculty of Creative Arts and Industries of the University of Auckland successfully held the launch of the Bachelor of Architecture and Urban Design (BAUD) and Bachelor of Architectural Studies (BAS) dual-degree program.</description>
     </item>
     
   </channel>

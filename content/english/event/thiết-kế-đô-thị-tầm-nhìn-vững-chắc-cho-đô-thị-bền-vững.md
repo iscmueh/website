@@ -1,7 +1,7 @@
 ---
 title: Sustainable Urban Design
 author: ISCM
-publishDate: "2021-04-04T06:20:42.481Z"
+publishDate: "2021-03-25T09:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description: ""
 location: "ISCM, Ho Chi Minh City, Vietnam"
@@ -12,7 +12,7 @@ image: /images/events/the-imperative-of-healthy-city-design.png
 
 <!--StartFragment-->
 
-***Ngày 25/3, tại Hồ Chí Minh, Viện Đô thị thông minh và Quản lý hợp tác cùng B+H đã tổ chức buổi webinar chủ đề: “A new understanding of the imperative of healthy city design”. Buổi webinar nằm trong khuôn khổ chuỗi sự kiện Smart City 2021 của Viện Đô thị thông minh và Quản lý, Đại học Kinh tế TP. Hồ Chí Minh.***
+***On March 25, in Ho Chi Minh, the Institute of Smart Cities and Management in cooperation with B+H held a webinar with the theme: "A new understanding of the imperative of healthy city design". The webinar is part of the Smart City 2021 series of events organized by the Institute of Smart Cities and Management, University of Economics***
 
 
 New challenges in the new age

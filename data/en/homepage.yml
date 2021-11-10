@@ -5,7 +5,7 @@ slider:
   slider_item:
     # slider item loop
     - title : "Smart cities are livable cities"
-      content : "Institute of Smart City and Management (ISCM) is a research institute belong to the School of Technology and Design (STD) of the University of Economics Ho Chi Minh (UEH). Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling"
+      content : "Institute of Smart City and Management (ISCM) is a research institute belong to the University of Economics Ho Chi Minh (UEH). Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -16,7 +16,7 @@ slider:
 
     # slider item loop
     - title : "Smart cities are cities of hopes and opportunities"
-      content : "Institute of Smart City and Management (ISCM) is a research institute belong to the School of Technology and Design (STD) of the University of Economics Ho Chi Minh (UEH). Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling"
+      content : "Institute of Smart City and Management (ISCM) is a research institute belong to the University of Economics Ho Chi Minh (UEH). Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -27,7 +27,7 @@ slider:
 
     # slider item loop
     - title : "Smart cities are cities of optimal blends of arts and technologies"
-      content : "Institute of Smart City and Management (ISCM) is a research institute belong to the School of Technology and Design (STD) of the University of Economics Ho Chi Minh (UEH). Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling"
+      content : "Institute of Smart City and Management (ISCM) is a research institute belong to the the University of Economics Ho Chi Minh (UEH). Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -39,7 +39,7 @@ slider:
 
 ############################### Banner feature ###############################
 banner_feature:
-  enable : true
+  enable : false
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
@@ -48,25 +48,25 @@ banner_feature:
       content : "CLICK HERE for learning a wide range of scholarships and financial supports being offerred for students enrolling undergraduate and post-graduate education programs with ISCM and the UEH"
       link  : "scholarship"
     # feature item loop
-    - name : "Our Notice Board"
-      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Our institute frequently co-organizes international webinars and workshops with partnering universities and academic institutions as well as holds activities locally to promote technologies and frontier researchs on smart urban planning and design."
-      link  : "notice"
+#    - name : "Our Notice Board"
+#      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
+#      content : "Our institute frequently co-organizes international webinars and workshops with partnering universities and academic institutions as well as holds activities locally to promote technologies and frontier researchs on smart urban planning and design."
+#      link  : "notice"
     # feature item loop
-    - name : "Our Achievements"
-      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
-      link  : "archivement"
+#    - name : "Our Achievements"
+#      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
+#      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+#      link  : "archivement"
     # feature item loop
-    - name : "Admission Now"
-      icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "CLICK HERE for learning and applying for currenlly openning programs and courses. "
-      link  : "admission"
+#    - name : "Admission Now"
+#      icon : "ti-write" # icon pack : https://themify.me/themify-icons
+#      content : "CLICK HERE for learning and applying for currenlly openning programs and courses. "
+#      link  : "admission"
     # feature item loop
-    - name : "Academic Network"
-      icon : "ti-world" # icon pack : https://themify.me/themify-icons
-      content : "Proudly having an international network of academia, ISCM can offer students opportunities to learn and be co-supervised by professors and researchers from world reputatable universities. Students can earn their dual degrees with ISCM and our partnering universities."
-      link  : "network"
+#    - name : "Academic Network"
+#      icon : "ti-world" # icon pack : https://themify.me/themify-icons
+#      content : "Proudly having an international network of academia, ISCM can offer students opportunities to learn and be co-supervised by professors and researchers from world reputatable universities. Students can earn their dual degrees with ISCM and our partnering universities."
+#      link  : "partner"
     # feature item loop
     - name : "Consultancy Services"
       icon : "ti-new-window" # icon pack : https://themify.me/themify-icons

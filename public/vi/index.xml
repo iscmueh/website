@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
+<<<<<<< HEAD
     <lastBuildDate>Tue, 09 Nov 2021 19:00:00 +0000</lastBuildDate><atom:link href="https://iscmueh.github.io/vi/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <lastBuildDate>Wed, 27 Oct 2021 09:00:00 +0000</lastBuildDate><atom:link href="https://iscmueh.github.io/vi/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 6b83279024089181f90b75a17063d4cea38f804e
     <item>
       <title>Handong Global University</title>
       <link>https://iscmueh.github.io/vi/partner/handong-global-uni/</link>
@@ -27,21 +31,30 @@
     </item>
     
     <item>
-      <title>Dr. Trinh Tu Anh</title>
-      <link>https://iscmueh.github.io/vi/members/dr-trinh-tu-anh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/members/dr-trinh-tu-anh/</guid>
-      <description>Courses  New urban Economics and city marketing Urban Policy Smart Urban Design StudioLab The measurement of urban smartness and urban sustainability Sustainable City and Community Land-use and transportation City Project  Academic and Research Profile  Director, Institute of Smart City and Management, University of Economics HCMC, Present Head, Planning Department, Ton Duc Thang University - Civil Engineering Faculty, 2014-Present Visiting Lecturer, University of Economics Ho Chi Minh City, 2014 - Present Visiting Lecturer, Hochiminh city Open University, 2007 - Present Model Transport Specialist, Vietnamese – Germany University, 2015 -2016 Investigator, HCMC Department of Science and Technology (DoST), 2015 - 2016 Doctor of Engineering, Hasselt University, Belgium, 2008 -2013 Certificate of Blekinge university of technology, Sweden, 2007 - 2008 Master of Engineering, Asian Institute of Technology, international institution based in Bangkok, Thailand 2001 - 2003 Bachelor of Engineering, Transport - Economics Department, University of Transport and Communication, Vietnam 1995 - 2000  Professional Memberships  LENS (Learning Network on Sustainability) WiTL (Woman in Transport Leadership Workshop) RTIRN (Road Traffic Injuries Research Network) UEM Network (Urban Environmental Management Network) EASTS (Eastern Asia Society for Transportation Studies) TSSV (Transportation Studies Society of Vietnam) ISSOT (International Student Network on Transport Research)  Click HERE for Publication </description>
-    </item>
-    
-    <item>
       <title>Prof. Nguyen Dong Phong</title>
       <link>https://iscmueh.github.io/vi/advisory/dr-nguyen-dong-phong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/advisory/dr-nguyen-dong-phong/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>The 2nd International Design Competition: SMART CITY&#43; </title>
+      <link>https://iscmueh.github.io/vi/competition/smartcityplus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/competition/smartcityplus/</guid>
+      <description>Guideline </description>
+    </item>
+    
+    <item>
+      <title>TS. Trịnh Tú Anh</title>
+      <link>https://iscmueh.github.io/vi/members/dr-trinh-tu-anh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/members/dr-trinh-tu-anh/</guid>
+      <description>Giảng Dạy  Kinh tế đô thị mới và tiếp thị thành phố Đồ án thiết kế đô thị thông minh Quản lý đô thị Thành phố thông minh An toàn đường bộ Giao thông và sử dụng đất Hoạt động hàng không  Tiểu Sử Học Thuật  Tiến sĩ kỹ thuật, Giao thông, Đại học Hasselt , Bỉ, 2008 -2013 Thạc sĩ kỹ thuật, Giao thông, Viện Công Nghệ Á Châu, Thái Lan, 2001 - 2003 Cử nhân kỹ thuật, Giao thông - Bộ môn Kinh Tế, Đại học Giao Thông Vận Tải, Việt Nam, 1996 - 2000  Kinh Nghiệm  Viện trưởng, Viện Đô Thị Thông Minh và Quản Lý, Đại học Kinh Tế TP.</description>
     </item>
     
     <item>
@@ -63,6 +76,15 @@
     </item>
     
     <item>
+      <title>1st Competition - FUTURE CITY: SMART DESIGN FOR POST-PANDEMIC WORLD</title>
+      <link>https://iscmueh.github.io/vi/competition/futurecity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/competition/futurecity/</guid>
+      <description>Activities International Launch Event of UEH - ISCM Institute of Smart City and Management (ISCM)-University of Economics HCMC (UEH) today has successfully organized an international launch event, along with the prize-giving ceremony for the 1st international design contest “Future city: a design for the post-pandemic world”.</description>
+    </item>
+    
+    <item>
       <title>Dr. Hyung Tae Gun</title>
       <link>https://iscmueh.github.io/vi/advisory/dr-hyung-tae-gun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -72,12 +94,21 @@
     </item>
     
     <item>
-      <title>Prof. Rob Cuyvers</title>
+      <title>Future City: Smart Design for Post-Pandemic World</title>
+      <link>https://iscmueh.github.io/vi/activities/arttech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/activities/arttech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GS. Rob Cuyvers</title>
       <link>https://iscmueh.github.io/vi/members/dr-rob/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/members/dr-rob/</guid>
-      <description>Academic and Research Profile  Supervisor MAD-research group (2013 – 2020) Supervisor Research Group ArcK (2013 – 2018) President PXL-MAD, School of arts (2013 – 2019) Dean of the Faculty of Architecture and arts (2013 – 2018) President of research group Arck and MAD-research (2004 – 2013) Head of the department of Architecture, Interior architecture and Arts at the University College PHL (2004 – 2013) President of the Media, Arts and Design-faculty (2009 – 2012) Director Research group Mobility and Environment University College PHL (2001 – 2004) Guest lecturer “Hogeschool voor Verkeerskunde” (1999 – 2000) Guest lecturer urban planning at Sint-Lucas Gent (1998) Urban planning at KULeuven (1979) BA Philosophy at KULeuven (1977) Civil engineering at KULeuven (1976)  Click HERE for Publication </description>
+      <description>Tiểu Sử Nghiên Cứu và Học Thuật  Giám sát nhóm nghiên cứu MAD (2013 – 2020) Giám sát nhóm nghiên cứu ArcK (2013 – 2018) Trưởng PXL-MAD, School of arts (2013 – 2019) Trưởng Khoa Kiến Trúc và Nghệ Thuật (2013 – 2018) Trưởng nhóm nghiên cứu Arck và MAD (2004 – 2013) Trưởng Bộ môn Kiến Trúc, Đại học College PHL (2004 – 2013) Trưởng Khoa Thiết Kế, Nghệ Thuật và Truyền Thông (2009 – 2012) Trưởng nhóm nghiên cứu Giao thông và Môi Trường Mobility and Environment University College PHL (2001 – 2004) Giảng viên thỉnh giảng “Hogeschool voor Verkeerskunde” (1999 – 2000) Giảng viên thỉnh giảng urban planning at Sint-Lucas Gent (1998) Quy hoạch đô thị tại KULeuven (1979) BA Philosophy tại KULeuven (1977) Kỹ thuật xây dựng tại KULeuven (1976)  Bấm vào ĐÂY để xem các bài báo </description>
     </item>
     
     <item>
@@ -99,21 +130,21 @@
     </item>
     
     <item>
-      <title>Dr. Ducksu Seo</title>
-      <link>https://iscmueh.github.io/vi/members/dr-ducsu-seo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/members/dr-ducsu-seo/</guid>
-      <description>Academic and Research Profile  Professor at Handong Global University, South Korea (2019 – Now) Head of NIBC Global Institute, Vietnam (2015-Now) Ph.</description>
-    </item>
-    
-    <item>
       <title>Dr. Park Young June</title>
       <link>https://iscmueh.github.io/vi/advisory/dr-park-young-june/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/advisory/dr-park-young-june/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>TS. Ducksu Seo</title>
+      <link>https://iscmueh.github.io/vi/members/dr-ducsu-seo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/members/dr-ducsu-seo/</guid>
+      <description>Tiểu Sử Nghiên Cứu và Học Thuật  Giáo sứ, Đại học Handong Global, Hàn Quốc (2019 – Hiện tại) Viện trưởng, Viện NIBC Global, Việt Nam (2015-Hiện tại) Tiến sĩ, Quy hoạch và thiết kế đô thị, Đại học Quốc gia Seoul, Hàn Quốc Thạc sĩ, Cảnh quan trong thiết kế đô thị, Đại học Harvard, Mỹ Cử nhân, Kiến trúc và thiết kế đô thị, Đại học Handong Global, Hàn Quốc  Kinh Nghiệm Quốc Tế  Cố vấn, UN Academic Impact, Hàn Quốc (2016 – Hiện tại) Cố vấn, UN Habitat, Korea (2016 – Hiện tại) Giám đốc dự án, ADU Group, Việt Nam (2012 – 2015) Quy hoạch và thiết kế đô thị, SERA Architects, Mỹ (2011 – 2012)  Bấm vào ĐÂY để xem các bài báo‬ </description>
     </item>
     
     <item>
@@ -180,12 +211,12 @@
     </item>
     
     <item>
-      <title>Prof. Chamun Koo</title>
+      <title>GS. Chamun Koo</title>
       <link>https://iscmueh.github.io/vi/members/dr-chamunkoo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/members/dr-chamunkoo/</guid>
-      <description>Academic and Research Profile  Director, East-Sea Rim Research Institute of Economy and Culture (2005 – Now) Chief Editor, Hwan Dong Hae Review: Far East Regional Studies (2005 – Now) Director, Urban Environment Project Team, UNESCO UNITWIN, Handong Global (1998 - Now) Professor/Dean, School of Spatial Environment System Engineering, Handong Global University (1995 – Now) Ph.</description>
+      <description>Tiểu Sử Nghiên Cứu và Học Thuật  Viện trưởng, Viện trưởng Viện nghiên cứu Kinh Tế và Văn Hóa (2005 – hiện tại) Tổng biên tập, Hwan Dong Hae Review: Far East Regional Studies (2005 – hiện tại) Giám đốc, Dự án Môi trường đô thị, UNESCO UNITWIN, Handong Global (1998 - hiện tại) Giáo sư/ Trưởng khoa, Khoa Kỹ Thuật Hệ Thống Môi Trường Không Gian, Đại học Toàn Cầu Handong Global (1995 – hiện tại) Tiến sĩ, (Phat triển và quy hoạch đô thị) Đại học Nam California (1989) M.</description>
     </item>
     
     <item>
@@ -207,48 +238,48 @@
     </item>
     
     <item>
-      <title>Assoc.Prof. Elena Marchigiani</title>
-      <link>https://iscmueh.github.io/vi/adjunctprofessors/prof-elena-marchigiani/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/adjunctprofessors/prof-elena-marchigiani/</guid>
-      <description>Courses  Town Planning  Academic and Research Profile  Researcher, Department of Engineering and Architecture, University of Trieste (IT) (2004 – Now) Deputy Major at the Municipality of Trieste, Municipality of Trieste (IT) (2011 – 2016) Post-Ph.</description>
-    </item>
-    
-    <item>
-      <title>Dr. To Kien</title>
-      <link>https://iscmueh.github.io/vi/members/dr-to-kien/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/members/dr-to-kien/</guid>
-      <description>Courses  History of Architecture and Urbanism Urban anthropoly: How to fosster civic engagement Architecture StudioLab 2: commercial building Landscape Design StudioLab Smart Urban Design StudioLab Architecture StudioLab 1 Advanced International Urban Development Theory of Urban Structure  Academic and Research Profile  Adjunct Assistant Professor, Singapore University of Technology and Design (SUTD) (2016-2017) Senior Research Scientist, SUTD (2011-2016) Postdoctoral Research Fellow, Kyushu University (2009 -2011) Guest Associate Professor and Course Coordinator, Kyushu University (2009) Postdoctoral Research Fellow - Guest Scholar, Kumamoto University, Japan (2008) PhD of Architecture, Kumamoto University, Japan (2008) Master of Architecture in Urban Design, Berlin-Weissensee Arts Academy (KHB), Germany (2000) Bachelor of Architecture and Planning, National University of Civil Engineering, Vietnam (1996)  International Experiences  Senior Planner &amp;amp; Project Manager, Eight-Japan Engineering Consultants Inc.</description>
-    </item>
-    
-    <item>
-      <title>Prof. Catharina Nord</title>
+      <title>GS. Catharina Nord</title>
       <link>https://iscmueh.github.io/vi/adjunctprofessors/prof-katharinanord/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/adjunctprofessors/prof-katharinanord/</guid>
-      <description>Courses  Research Methodology Spatial Planning Urban Design  Academic and Research Profile  Professor, Dep.</description>
+      <description>Giảng Dạy  Phương pháp nghiên cứu khoa học Quy hoạch không gian Thiết kế đô thị  Tiểu Sử Nghiên Cứu và Học Thuật  Giáo sư, Bộ môn Quy Hoạch Không Gian, Viện Kỹ Thuật Blekinge, BTH (2016 - Hiện tại) Cố vấn tại UN Academic Impact, Hàn Quốc (2016 - HIện tại) Giảng viên cao cấp, NISAL, Đại học Linköping (2011 - 2016) Trợ lý giáo sư, NISAL, Đại học Linköping (2007 - 2010) Phó giáo sư KTH (2009) Nghiên cứu viên, Đơn vị Nghiên cứu Kiến trúc Y tế, Đại học London South Bank (2006) Nghiên cứu viên, Phân tích Môi trường Xây dựng, KTH (2004 - 2005) Tiến sĩ, Phân tích Môi trường Xây dựng, KTH (2004) Nghiên cứu sinh tiến sĩ, Khoa Cơ sở hạ tầng, Phân tích Môi trường Xây dựng, KTH (1990 - 2003) Thạc sĩ Kiến trúc KTH (1990)  Các Dự Án Đang Thực Hiện  CollAGE.</description>
     </item>
     
     <item>
-      <title>Prof. Lee Jongsang</title>
+      <title>GS. Lee Jongsang</title>
       <link>https://iscmueh.github.io/vi/adjunctprofessors/prof-lee-youngsang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/adjunctprofessors/prof-lee-youngsang/</guid>
-      <description>Academic and Research Profile  Professor, Kongju National University (2012 – Now) Visiting Professor, The University of the Philippines (2010 – 2011) Associate Professor, Kongju National University (2007 – 2012) Assistant Professor, Kongju National University (2004 – 2007) Senior Researcher, Chung-Nam Development Institute (1996 – 2004) Researcher, Korea Forest Research Institute (1995) Chief of Planning Department, Geonggi Development Institute (1993 – 1994) Ph.</description>
+      <description>Tiểu Sử Nghiên Cứu và Học Thuật  Giáo sư, Đại học Quốc gia Kongju (2012 - Hiện tại) Giáo sư thỉnh giảng, Đại học Philippines (2010 - 2011) Phó Giáo sư, Đại học Quốc gia Kongju (2007 - 2012) Trợ lý Giáo sư, Đại học Quốc gia Kongju (2004 - 2007) Nghiên cứu viên cao cấp, Viện Phát triển Chung-Nam (1996 - 2004) Nghiên cứu viên, Viện Nghiên cứu Rừng Hàn Quốc (1995) Trưởng phòng Kế hoạch, Viện Phát triển Geonggi (1993 - 1994) Tiến sĩ Kinh tế Nông nghiệp, Đại học Quốc gia Kyusyu, Nhật Bản (1990 - 1993) Thạc sĩ Kinh tế Nông nghiệp, Đại học Quốc gia Obihiro, Nhật Bản (1988-1990) Khóa học Tiến sĩ về Giáo dục Nông nghiệp tại Đại học Quốc gia Seoul, Hàn Quốc (1985 - 1988) Trợ lý, Đại học Quốc gia Seoul (1984 - 1986) Thạc sĩ khoa học Giáo dục Nông nghiệp, Đại học Quốc gia Seoul, Hàn Quốc (1983 - 1985) Cử nhân Sư phạm nông nghiệp,Trường Cao đẳng Nông nghiệp, Đại học Quốc gia Seoul, Hàn Quốc (1976 - 1980)  </description>
     </item>
     
     <item>
-      <title>Prof. Youngsang Kwon</title>
+      <title>GS. Youngsang Kwon</title>
       <link>https://iscmueh.github.io/vi/adjunctprofessors/prof-youngsang-kwon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/adjunctprofessors/prof-youngsang-kwon/</guid>
-      <description>Academic and Research Profile  Associate Professor of the Department of Civil and Environmental Engineering (Urban design major), Seoul National University (2014 – Now) Visiting Scholar (University of California, Berkeley) (2017-2018) Assistant Professor of the Department of Architecture and Urban Design (Urban design major), Incheon National University (2012 – 2014) Lecturer at Ton Duc Thang University, Vietnam (2015 – Now) Senior Researcher at AURI (Architecture and Urban Research Institute), Director of the National Hanok (Korean traditional housing) Center (2007 – 2012) Researcher at KRIHS (Korean Research Institute for Human Settlement) Urban Planning Division (2005 – 2007) Ph.</description>
+      <description>Giảng Dạy  Thiết kế đô thị Quy hoạch và Thiết kế Thành phố Tương lai Đồ án thiết kế đô thị Giới thiệu Thành phố thông minh  Tiểu Sử Nghiên Cứu và Học Thuật  Giáo sư, Khoa Kỹ thuật Xây dựng và Môi trường (Chuyên ngành thiết kế đô thị), Đại học Quốc gia Seoul (2014 - Hiện tại) Visiting Scholar, Đại học California, Berkeley (2017-2018) Trợ lý Giáo sư, Khoa Kiến trúc và Thiết kế Đô thị (Chuyên ngành thiết kế đô thị), Đại học Quốc gia Incheon (2012 - 2014) Giảng viên, Đại học Tôn Đức Thắng, Việt Nam (2015 - Hiện tại) Nghiên cứu viên cao cấp tại AURI (Viện Nghiên cứu Kiến trúc và Đô thị), Giám đốc Trung tâm Quốc gia Hanok (Nhà ở truyền thống Hàn Quốc) (2007 - 2012) Nghiên cứu viên tại KRIHS (Viện Nghiên cứu Hàn Quốc về Định cư), Phòng Quy hoạch Đô thị (2005 - 2007) Tiến sĩ Kỹ thuật, Khoa Kiến trúc, Đại học Quốc gia Seoul (2003) Nghiên cứu viên tại Cao đẳng Kỹ thuật, Đại học Quốc gia Seoul (2000 - 2003) Thạc sĩ Kỹ thuật, Khoa Kiến trúc, Đại học Quốc gia Seoul (1998) Cử nhân Kỹ thuật, Khoa Kiến trúc, Đại học Quốc gia Seoul (1996)  Kinh Nghiệm Quốc Tế  Visiting Scholar, Đại học California, Berkeley (2017–2018) Cuộc thi Thiết kế Quốc tế cho Công viên Trung tâm trong Thành phố Hành chính Đa chức năng, Hàn Quốc, Giải 3 (Đề xuất), 2007 Keynote Speech tại Hội nghị quốc tế: Xu hướng quy hoạch thành phố thông minh trên toàn thế giới, Webinar về Kế hoạch hội thảo trực tuyến Myanmar 2020 (Chương trình đồng giáo dục của chương trình Unitwin UNESCO).</description>
+    </item>
+    
+    <item>
+      <title>PGS. Elena Marchigiani</title>
+      <link>https://iscmueh.github.io/vi/adjunctprofessors/prof-elena-marchigiani/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/adjunctprofessors/prof-elena-marchigiani/</guid>
+      <description>Giảng Dạy  Quy hoạch và thiết kế đô thị  Tiểu Sử Nghiên Cứu và Học Thuật  Phó giáo sư, Quy hoạch đô thị, Bộ Môn Kỹ Thuật và Kiến Trúc, Đại học Trieste (IT) (2019 – hiện tại) Nghiên cứu viên, Quy hoạch đô thị, Bộ Môn Kỹ Thuật và Kiến Trúc, UĐại học Trieste (IT) (2004 – 2019) Phó thị trưởng Trieste (Công trình công cộng, tòa nhà tư nhân, quy hoạch đô thị, giao thông, chính sách giao thông vafcacs dự án đô thị phức hợp), Thành phố Trieste (IT) (2011 – 2016) Nghiên cứu sau tiến sĩ, Quy hoạch đô thị, Polytechnic of Milano (IT) (2001 – 2002) Tiến sĩ, Quy hoạch đô thị Đại học IUAV of Venezia (IT) (1998 – 2000) Thạc sĩ, Kiến trúc, Đại học IUAV of Venezia (IT) (1995)  Kinh Nghiệm Quốc Tế  Phó trưởng Bộ môn Kỹ Thuật và Kiến Trúc, Đại học Trieste (IT) (2020 - hiện tại) Điều phối cộng tác giữa Bộ môn Kỹ Thuật và Kiến Trúc, Đại học Trieste (IT) và Viện Quốc gia Ý Town Planner-INU về Thiết Kế Phổ Quát và Toàn Diện cho Khả Năng Tiếp Cận (2018 - hiện tại) Đại diện Bộ môn Kỹ Thuật và Kiến Trúc, Đại học Trieste (IT) trong các hoạt động truyền thông và thể chế (2017 - hiện tại) Đại diện Đại học Trieste (IT) tại Ban Chính sách Nhà ở của các Thành phố thuộc Liên minh Lãnh thổ Liên thành phố Trieste (IT).</description>
+    </item>
+    
+    <item>
+      <title>TS. Tô Kiên</title>
+      <link>https://iscmueh.github.io/vi/members/dr-to-kien/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/members/dr-to-kien/</guid>
+      <description>Giảng Dạy  Lịch sử kiến trúc và đô thị Xã Hội Học: Phương Pháp Thúc Đẩy Sự Tham Gia Của Cộng Đồng Đồ án kiến trúc 2 Đồ án Cảnh Quan Thông Minh Đồ án đô thị thông minh Đồ án kiến trúc 1: Công trình nhà ở Đồ án phát triển đô thị quốc tế nâng cao Lý thuyết cấu trúc đô thị  Tiểu Sử Nghiên Cứu và Học Thuật  Giáo sư kiêm nhiệm (Adjunct Assistant Professor), Đại học Kỹ Thuật và Thiết Kế Singapore (SUTD) (2016-2017) Nghiên cứu viên chính, Đại học Kỹ Thuật và Thiết Kế Singapore (SUTD) (2011-2016) Postdoc Fellow, Đại học Kyushu, Nhật Bản (2009 -2011) Phó Giáo sư thỉnh giảng và điều phối viên khóa học, Đại học Kyushu, Nhật Bản (2009) Postdoc Fellow, Đại học Kumamoto, Nhật Bản (2008) Tiến sĩ Kiến trúc, Đại học Kumamoto, Nhật Bản (2008) Thạc sĩ Kiến trúc trong thiết kế đô thị, Học Viện Berlin-Weissensee (KHB), Đức (2000) Cử nhân Kiến trúc và Quy hoạch, Đại học Xây Dựng, Việt Nam (1996)  Kinh Nghiệm Quốc Tế  Nhà lập kế hoạch và quản lý dự án, Eight-Japan Engineering Consultants Inc.</description>
     </item>
     
     <item>
@@ -266,7 +297,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/members/dr-ngoc-t-nguyen/</guid>
-      <description>Giảng Dạy  Chính sách kinh tế và môi trường Kinh tế môi trường Quản lý môi trường Xử lý dữ liệu môi trường  Tiểu Sử Nghiên Cứu và Học Thuật  Giảng Viên, Khoa Môi Trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2018-2020) Tiến Sĩ Kỹ Thuật, Môi Trường Đô Thị, Đại Học Nagoya, Nhật Bản (2015-2018) Nghiên Cứu Viên và Giảng Viên, Khoa Môi Trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2013-2015) Thạc Sĩ Khoa Học, Quản Lý Môi Trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2011-2013) Nghiên Cứu Viên và Trợ Giảng, Khoa Môi Trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2010-2013) Cử Nhân Khoa Học, Khoa Học Môi Trường, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (2006-2010)  Kinh Nghiệm Quốc Tế  Thực tập nghiên cứu toàn cầu, Viện Nghiên Cứu JICA, Cơ Quan Hợp Tác Quốc Tế Nhật Bản (2016) Chương trình nghiên cứu quốc tế: Nước, Năng Lượng và Phát Triển Bền Vững, Palawan, Philippines (2016) Trao đổi khoa học trong giới trẻ Nhật Bản và Châu Á, Đại học Phủ Osaka, Nhật Bản (2015) Chương trình nghiên cứu và tập huấn quốc tế: Nước và Năng Lượng cho Đông Nam Á, Đại học Quốc Gia Đài Loan (2011)  Thành Viên Hiệp Hội Nghiên Cứu  Hiệp Hội Nghiên Cứu Giao Thông Đông Á (EASTS)  Bấm vào ĐÂY để xem các bài báo </description>
+      <description>Giảng Dạy  Chính sách môi trường và kinh tế Kinh tế môi trường Quản lý môi trường Xử lý dữ liệu môi trường  Tiểu Sử Nghiên Cứu và Học Thuật  Nghiên cứu viên, Viện Đô Thị Thông Minh và Quản Lý, Đại học Kinh Tế TP.</description>
     </item>
     
     <item>
@@ -279,12 +310,12 @@
     </item>
     
     <item>
-      <title>M. Arch. Mai Tran</title>
+      <title>ThS. KTS Trần Thị Quỳnh Mai</title>
       <link>https://iscmueh.github.io/vi/members/msc-maitran/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/members/msc-maitran/</guid>
-      <description>Courses  Building Construction/Structure Theories of Architectural Design Design Studios International design Studios Urban planning and housing  International Experiences  Instructor in International design Studios in Thailand (2018), Myanmar (2019), Vietnam (2016, 2017, 2018, 2019, 2020) Lecturer exchange in Hasselt University, Belgium on March, 2018 Member of Women in Transport Leadership (WiTL) Member of Lens  </description>
+      <description>Giảng Dạy  Cấu tạo kiến trúc Đồ án kiến trúc Đồ án quốc tế Quy hoạch đô thị và nhà ở  Kinh Nghiệm Quốc Tế  Hướng dẫn các đồ án quốc tế tại Thái Lan (2018), Myanmar (2019), Việt Nam (từ 2016 – 2020) Tham gia trao đổi giảng viên tại ĐH Hasselt (Bỉ) vào tháng 3/2018 Thành viên của hội Women in Transport Leadership (WiTL) Thành viên của Lens  </description>
     </item>
     
     <item>
@@ -333,12 +364,21 @@
     </item>
     
     <item>
-      <title>M.Arch. Steven Petit</title>
+      <title>ThS. Steven Petit</title>
       <link>https://iscmueh.github.io/vi/members/mar-steven/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/members/mar-steven/</guid>
-      <description>Academic and Research Profile  Guest lecturer design / academic staff member at University of Hasselt, BE (2018 - Now) MA Urban Design and Spatial Planning at KU Leuven (2007) BA after BA Landscape Development at University College Ghent, KASK (2004) BA Garden and Landscape Architecture at University College Ghent, KASK (2003)  </description>
+      <description>Giảng Dạy  Thiết kế cảnh quan thông minh và có khả năng phục hồi Đồ án thiết kế cảnh quan Quy hoạch thành phố sinh thái trong đô thị hóa thông minh  Tiểu Sử Nghiên Cứu và Học Thuật  Giảng viên thỉnh giảng về thiết kế, Đại học Hasselt, Bỉ (2018 – 2020) Thạc sĩ, Thiết kế đô thị và quy hoạch không gian, KU Leuven, Bỉ (2007) Cử nhân, Phát triển cảnh quan, Đại học College Ghent – KASK, Bỉ (2004) Cử nhân, Kiến trúc vườn và cảnh quan, Đại học College Ghent – KASK, Bỉ (2003)  Kinh Nghiệm Quốc Tế   Văn phòng thiết kế OMGEVING</description>
+    </item>
+    
+    <item>
+      <title>Thạc sĩ Đỗ Lê Phúc Tâm</title>
+      <link>https://iscmueh.github.io/vi/members/msc-tam-do/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/members/msc-tam-do/</guid>
+      <description>Giảng Dạy  Thiết kế đô thị thông minh Quy hoạch đô thị Kinh tế đô thị mới và Marketing Thành phố  Tiểu Sử Nghiên Cứu  Cộng tác viên nghiên cứu tại Viện Đô thị thông minh &amp;amp; Quản lý (ISCM-UEH) Thạc sĩ nghiên cứu Phát triển đô thị bền vững tại Đại học Việt Đức (VGU) Kỹ sư Quy hoạch vùng và đô thị tại Đại học Tôn Đức Thắng (TDTU)  Kinh Nghiệm Quốc Tế  Urban designer tại Công ty B+H Architects Urban and Landscape designer tại Công ty Lascal  </description>
     </item>
     
     <item>
@@ -369,7 +409,16 @@
     </item>
     
     <item>
-      <title>B.Sc. An Le</title>
+      <title>ThS. Dương Quý Lộc</title>
+      <link>https://iscmueh.github.io/vi/members/me-duongquyloc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/members/me-duongquyloc/</guid>
+      <description>Tiểu Sử Nghiên Cứu và Học Thuật  Thạc sĩ kỹ thuật, Quy hoạch giao thôn và đô thị, Đại học QUốc gia Kongju, Hàn Quốc (2019) Cử nhân, Quy hoạch đô thị, Đại học Tôn Đức Thắng, Việt Nam (2017)  </description>
+    </item>
+    
+    <item>
+      <title>CN. Lê An</title>
       <link>https://iscmueh.github.io/vi/members/msc-le-an/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -378,6 +427,7 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>ME. Loc Duong Quy</title>
       <link>https://iscmueh.github.io/vi/members/me-duongquyloc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -389,10 +439,14 @@
     <item>
       <title>Thạc sĩ Đỗ Lê Phúc Tâm</title>
       <link>https://iscmueh.github.io/vi/members/msc-tam-do/</link>
+=======
+      <title>ThS. Lại PHương Dung</title>
+      <link>https://iscmueh.github.io/vi/members/phuong-dung/</link>
+>>>>>>> 6b83279024089181f90b75a17063d4cea38f804e
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://iscmueh.github.io/vi/members/msc-tam-do/</guid>
-      <description>Giảng Dạy  Thiết kế đô thị thông minh Quy hoạch đô thị Kinh tế đô thị mới và Marketing Thành phố  Tiểu Sử Nghiên Cứu  Cộng tác viên nghiên cứu tại Viện Đô thị thông minh &amp;amp; Quản lý (ISCM-UEH) Thạc sĩ nghiên cứu Phát triển đô thị bền vững tại Đại học Việt Đức (VGU) Kỹ sư Quy hoạch vùng và đô thị tại Đại học Tôn Đức Thắng (TDTU)  Kinh Nghiệm Quốc Tế  Urban designer tại Công ty B+H Architects Urban and Landscape designer tại Công ty Lascal  </description>
+      <guid>https://iscmueh.github.io/vi/members/phuong-dung/</guid>
+      <description>Tiểu sử học thuật  Thạc sĩ quản trị logistics, Trường kinh doanh Rotterdam, Đại học ứng dụng Rotterdam, Hà Lan, 2018 Cử nhân Tài chính Ngân hàng , Đại học Mở TP.</description>
     </item>
     
     <item>
@@ -405,15 +459,16 @@
     </item>
     
     <item>
-      <title>M.Arch Trinh Quoc Thang</title>
+      <title>ThS Trịnh Quốc Thắng</title>
       <link>https://iscmueh.github.io/vi/members/mar-thangtrinh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/members/mar-thangtrinh/</guid>
-      <description>Academic and Research Profile  Master, KU Leuven University, Belgium (2017) Bachelor, University of Architecture Ho Chi Minh city &amp;amp; KU Leuven University (2016)  </description>
+      <description>Tiểu Sử Nghiên Cứu và Học Thuật  Thạc sĩ, Đại học KU Leuven, Bỉ (2017) Cử nhân, Đại học Kiến Trúc TP.</description>
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>Lê Trung Bá Văn</title>
       <link>https://iscmueh.github.io/vi/members/intern-le-trung-ba-van/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -457,6 +512,60 @@ Viện Đô thị thông minh và Quản lý (ISCM) rất vui và chào đón th
       
       <guid>https://iscmueh.github.io/vi/event/tu-van-tuyen-sinh-vn/</guid>
       <description>About Event Chọn ngành là việc không dễ dàng đối với các bạn học sinh và các bậc phụ huynh.</description>
+=======
+      <title>Kỷ niệm 45 năm thành lập Trường Đại học Kinh tế TP. Hồ Chí Minh hướng đến Đại học UEH Đa ngành và Bền vững</title>
+      <link>https://iscmueh.github.io/vi/event/45-nam/</link>
+      <pubDate>Wed, 27 Oct 2021 09:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/event/45-nam/</guid>
+      <description>About Event Sáng ngày 27/10/2021, Trường Đại học Kinh tế TP.</description>
+    </item>
+    
+    <item>
+      <title>Hội thảo trực tuyến: R&amp;D - Nghiên cứu phát triển bất động sản kỷ nguyên số</title>
+      <link>https://iscmueh.github.io/vi/event/hoi-thao-bat-dong-san-ky-nguyen-so/</link>
+      <pubDate>Sat, 09 Oct 2021 18:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/event/hoi-thao-bat-dong-san-ky-nguyen-so/</guid>
+      <description>About Event Tiếp nối “Chuỗi Hội thảo Phát triển bất động sản bền vững kỷ nguyên số”, RealCom hân hạnh giới thiệu đến quý vị và các bạn buổi hội thảo trực tuyến thứ 2 với chủ đề: “R&amp;amp;D - Nghiên cứu phát triển Bất động sản kỷ nguyên số”.</description>
+    </item>
+    
+    <item>
+      <title>Studio Quốc Tế Trình Bày Và Đánh Giá Ý Tưởng “Cuộc Thi Sáng Tác Slogan - Cùng Viết Câu Chuyện Đại Học UEH Đa Ngành Và Bền Vững”</title>
+      <link>https://iscmueh.github.io/vi/event/slogan/</link>
+      <pubDate>Sat, 09 Oct 2021 18:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/event/slogan/</guid>
+      <description>About Event Sau gần một tháng khởi khởi động, “Cuộc thi Sáng tác Slogan - Cùng viết câu chuyện Đại học UEH Đa ngành và Bền vững” đã nhận được sự ủng hộ tích cực của cộng đồng sáng tạo trong nước và quốc tế.</description>
+    </item>
+    
+    <item>
+      <title>Khởi động cuộc thi sáng tác Slogan: Cùng viết câu chuyện đại học UEH đa ngành và bền vững</title>
+      <link>https://iscmueh.github.io/vi/event/khoi-dong-cuoc-thi-slogan/</link>
+      <pubDate>Thu, 09 Sep 2021 09:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/event/khoi-dong-cuoc-thi-slogan/</guid>
+      <description>About Event 45 năm hình thành và phát triển, Trường Đại học Kinh tế TP.</description>
+    </item>
+    
+    <item>
+      <title>INTERNATIONAL DESIGN COMPETITION SMARTCITY&#43;</title>
+      <link>https://iscmueh.github.io/vi/event/2021-international-design-competition-smartcity/</link>
+      <pubDate>Tue, 31 Aug 2021 09:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/event/2021-international-design-competition-smartcity/</guid>
+      <description>About Event ____________
+Tiếp nối thành công rực rỡ của cuộc thi thiết kế online quốc tế lần thứ 1 trong năm 2019 với chủ đề “Future City: Smart design for the post-pandemic world&amp;quot;, cuộc thi thường niên do Viện Đô thị thông minh và quản lý - ĐH Kinh tế TP.</description>
+    </item>
+    
+    <item>
+      <title>webinar “International webinar towards bldg. Resilient &amp; Sustainable Communities through Disaster Mitigation</title>
+      <link>https://iscmueh.github.io/vi/event/international-webinar-toward-bldg/</link>
+      <pubDate>Fri, 27 Aug 2021 08:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/event/international-webinar-toward-bldg/</guid>
+      <description>About Event Webinar với chủ đề: “International webinar towards bldg. resilient &amp;amp; sustainable communities through disaster mitigation” được tổ chức bởi University of Northern Philippines, University of The Cordilleras và Nueva Ecija University of Science and Technology sẽ diễn ra trong 2 ngày 27, 28 tháng 8 sắp tới.</description>
+>>>>>>> 6b83279024089181f90b75a17063d4cea38f804e
     </item>
     
     <item>
@@ -469,27 +578,36 @@ Viện Đô thị thông minh và Quản lý (ISCM) rất vui và chào đón th
     </item>
     
     <item>
-      <title>INTERNATIONAL SUMMER DESIGN CAMP 2021: Smart Design City for Zero Carbon Emission</title>
-      <link>https://iscmueh.github.io/vi/event/international-summer-design-camp-2021-smart-design-city-for-zero-carbon-emission/</link>
-      <pubDate>Sat, 19 Jun 2021 13:01:44 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/event/international-summer-design-camp-2021-smart-design-city-for-zero-carbon-emission/</guid>
-      <description>TRẠI HÈ THIẾT KẾ QUỐC TẾ 2021: Smart Design City for Zero Carbon Emission</description>
-    </item>
-    
-    <item>
       <title>Blockchain for DeFi &amp; Cryptocurrency: Blockchain in current and future economy</title>
       <link>https://iscmueh.github.io/vi/event/webinar-blockchain-for-defi-cryptocurrency-blockchain-in-current-and-future-economy/</link>
-      <pubDate>Fri, 04 Jun 2021 14:25:34 +0000</pubDate>
+      <pubDate>Mon, 21 Jun 2021 15:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/event/webinar-blockchain-for-defi-cryptocurrency-blockchain-in-current-and-future-economy/</guid>
       <description>About Event Trong làn sóng cách mạng công nghiệp 4.0, blockchain được xem là công nghệ &amp;ldquo;chìa khóa&amp;rdquo; cho chuyển đổi số và xây dựng nền tảng công nghệ tương lai.</description>
     </item>
     
     <item>
+      <title>INTERNATIONAL SUMMER DESIGN CAMP 2021: Smart Design City for Zero Carbon Emission</title>
+      <link>https://iscmueh.github.io/vi/event/international-summer-design-camp-2021-smart-design-city-for-zero-carbon-emission/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/event/international-summer-design-camp-2021-smart-design-city-for-zero-carbon-emission/</guid>
+      <description>TRẠI HÈ THIẾT KẾ QUỐC TẾ 2021: Smart Design City for Zero Carbon Emission</description>
+    </item>
+    
+    <item>
+      <title>Tư vấn tuyển sinh</title>
+      <link>https://iscmueh.github.io/vi/event/tu-van-tuyen-sinh/</link>
+      <pubDate>Fri, 04 Jun 2021 14:25:34 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/event/tu-van-tuyen-sinh/</guid>
+      <description>About Event Chọn ngành – một câu chuyện không dễ dàng đối với các bạn học sinh và các bậc phụ huynh.</description>
+    </item>
+    
+    <item>
       <title>THE OPENING CEREMONY OF THE CITY SCIENCE LAB @ HO CHI MINH CITY</title>
       <link>https://iscmueh.github.io/vi/event/the-opening-ceremony-of-the-city-science-lab-ho-chi-minh-city/</link>
-      <pubDate>Sat, 24 Apr 2021 07:22:33 +0000</pubDate>
+      <pubDate>Thu, 22 Apr 2021 09:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/event/the-opening-ceremony-of-the-city-science-lab-ho-chi-minh-city/</guid>
       <description>Sáng ngày 22/4/2021, buổi lễ khánh thành Phòng Nghiên cứu Khoa học đô thị Thành phố Hồ Chí Minh đã diễn ra thành công tốt đẹp tại cao ốc BMC số 422 Võ Văn Kiệt, phường Cô Giang, Quận 1.</description>
@@ -498,7 +616,7 @@ Viện Đô thị thông minh và Quản lý (ISCM) rất vui và chào đón th
     <item>
       <title>Thiết kế đô thị tầm nhìn vững chắc cho đô thị bền vững</title>
       <link>https://iscmueh.github.io/vi/event/thi%E1%BA%BFt-k%E1%BA%BF-%C4%91%C3%B4-th%E1%BB%8B-t%E1%BA%A7m-nh%C3%ACn-v%E1%BB%AFng-ch%E1%BA%AFc-cho-%C4%91%C3%B4-th%E1%BB%8B-b%E1%BB%81n-v%E1%BB%AFng/</link>
-      <pubDate>Sun, 04 Apr 2021 06:20:42 +0000</pubDate>
+      <pubDate>Thu, 25 Mar 2021 09:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/event/thi%E1%BA%BFt-k%E1%BA%BF-%C4%91%C3%B4-th%E1%BB%8B-t%E1%BA%A7m-nh%C3%ACn-v%E1%BB%AFng-ch%E1%BA%AFc-cho-%C4%91%C3%B4-th%E1%BB%8B-b%E1%BB%81n-v%E1%BB%AFng/</guid>
       <description>About Event Ngày 25/3, tại Hồ Chí Minh, Viện Đô thị thông minh và Quản lý hợp tác cùng B+H đã tổ chức buổi webinar chủ đề: “A new understanding of the imperative of healthy city design”.</description>
@@ -507,7 +625,7 @@ Viện Đô thị thông minh và Quản lý (ISCM) rất vui và chào đón th
     <item>
       <title>WEBINAR “A NEW UNDERSTANDING OF THE IMPERATIVE OF HEALTHY CITY DESIGN” OFFICIAL STARTS</title>
       <link>https://iscmueh.github.io/vi/event/webinar-a-new-understanding-of-the-imperative-of-healthy-city-design-official-starts/</link>
-      <pubDate>Tue, 16 Mar 2021 10:43:58 +0000</pubDate>
+      <pubDate>Thu, 25 Mar 2021 09:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/event/webinar-a-new-understanding-of-the-imperative-of-healthy-city-design-official-starts/</guid>
       <description>About Event Viện Đô thị thông minh và Quản lý (ISCM) phối hợp cùng B+H Architects tổ chức chương trình webinar quốc tế với chủ đề “Future of healthy and sustainable urban development in Vietnam”.</description>
@@ -516,7 +634,7 @@ Viện Đô thị thông minh và Quản lý (ISCM) rất vui và chào đón th
     <item>
       <title>Phục hồi du lịch và nỗ lực thoát khỏi vòng xoáy ảnh hưởng bởi Covid-19</title>
       <link>https://iscmueh.github.io/vi/event/ph%E1%BB%A5c-h%E1%BB%93i-du-l%E1%BB%8Bch-v%C3%A0-n%E1%BB%97-l%E1%BB%B1c-tho%C3%A1t-kh%E1%BB%8Fi-v%C3%B2ng-xo%C3%A1y-%E1%BA%A3nh-h%C6%B0%E1%BB%9Fng-b%E1%BB%9Fi-covid-19/</link>
-      <pubDate>Fri, 12 Mar 2021 15:48:02 +0000</pubDate>
+      <pubDate>Mon, 01 Mar 2021 09:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/event/ph%E1%BB%A5c-h%E1%BB%93i-du-l%E1%BB%8Bch-v%C3%A0-n%E1%BB%97-l%E1%BB%B1c-tho%C3%A1t-kh%E1%BB%8Fi-v%C3%B2ng-xo%C3%A1y-%E1%BA%A3nh-h%C6%B0%E1%BB%9Fng-b%E1%BB%9Fi-covid-19/</guid>
       <description>About Event Năm 2020 - 365 ngày ngành du lịch trên toàn thế giới bị điêu đứng và cụm từ “đóng cửa” liên tục xuất hiện tại các điểm du lịch vì đại dịch Covid.</description>
@@ -525,19 +643,10 @@ Viện Đô thị thông minh và Quản lý (ISCM) rất vui và chào đón th
     <item>
       <title>On the line of SMARTCITY&#43; Arttech Fusion Program of ISCM Event Series 2021</title>
       <link>https://iscmueh.github.io/vi/event/on-the-line-of-smartcity-arttech-fusion-program-of-iscm-event-series-2021/</link>
-      <pubDate>Sun, 10 Jan 2021 21:21:00 +0000</pubDate>
+      <pubDate>Wed, 13 Jan 2021 07:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/event/on-the-line-of-smartcity-arttech-fusion-program-of-iscm-event-series-2021/</guid>
       <description>About Event Chúng tôi muốn mời các bạn tham gia Webinar &amp;ldquo;Thành phố thông minh có thể sống: làm thế nào để xây dựng thành phố trong tương lai bền vững&amp;rdquo; với các chuyên gia và giáo sư quốc tế và địa phương của chúng tôi tại Việt Nam, Mỹ, Bỉ và Anh.</description>
-    </item>
-    
-    <item>
-      <title>Culture, Cohesion and Civic Society: How Smart Cities Build on the Best of Our Past?</title>
-      <link>https://iscmueh.github.io/vi/event/culture-cohesion-and-civic-society-how-smart-cities-build-on-the-best-of-our-past/</link>
-      <pubDate>Mon, 28 Dec 2020 03:57:57 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/event/culture-cohesion-and-civic-society-how-smart-cities-build-on-the-best-of-our-past/</guid>
-      <description>About Event On December 21st, 2020, the webinar “Culture, Cohesion and Civic Society: How Smart Cities Build on the Best of Our Past?</description>
     </item>
     
     <item>
@@ -561,7 +670,7 @@ Viện Đô thị thông minh và Quản lý (ISCM) rất vui và chào đón th
     <item>
       <title>INNOVATIVE APPROACH</title>
       <link>https://iscmueh.github.io/vi/event/innovative-approach-1/</link>
-      <pubDate>Thu, 24 Sep 2020 07:00:00 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2020 15:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/event/innovative-approach-1/</guid>
       <description>Để thích nghi với sự phát triển nhanh chóng và đô thị hoá, những cách tiếp cận sáng tạo và sáng tạo nào sẽ phù hợp để giải quyết hoặc loại bỏ các vấn đề đô thị đối với phát triển các thành phố thông minh?</description>
@@ -570,7 +679,7 @@ Viện Đô thị thông minh và Quản lý (ISCM) rất vui và chào đón th
     <item>
       <title>SUSTAINABLE TRANSPORT SAFETY</title>
       <link>https://iscmueh.github.io/vi/event/sustainable-transport-safety/</link>
-      <pubDate>Wed, 23 Sep 2020 07:00:12 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2020 14:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/event/sustainable-transport-safety/</guid>
       <description>An toàn giao thông luôn là một vấn đề hóc búa giải quyết phần lớn mối quan tâm của xã hội, đặc biệt là sự gia tăng của các phương tiện tư nhân hàng ngày.</description>
@@ -578,10 +687,10 @@ Viện Đô thị thông minh và Quản lý (ISCM) rất vui và chào đón th
     
     <item>
       <title>FUTURE OUTLOOK</title>
-      <link>https://iscmueh.github.io/vi/event/innovative-approach/</link>
-      <pubDate>Tue, 22 Sep 2020 11:00:00 +0000</pubDate>
+      <link>https://iscmueh.github.io/vi/event/future-outlook/</link>
+      <pubDate>Tue, 22 Sep 2020 18:00:00 +0000</pubDate>
       
-      <guid>https://iscmueh.github.io/vi/event/innovative-approach/</guid>
+      <guid>https://iscmueh.github.io/vi/event/future-outlook/</guid>
       <description>Không còn nghi ngờ gì việc thế giới đang thay đổi, vì vậy việc lên kế hoạch cho một viễn cảnh tương lai mà trong đó con người luôn giữ vai trò chủ động trong hoạt động là rất quan trọng.</description>
     </item>
     
@@ -595,7 +704,7 @@ Viện Đô thị thông minh và Quản lý (ISCM) rất vui và chào đón th
     </item>
     
     <item>
-      <title>Master of Smart City and Innovation Management</title>
+      <title>Thạc Sĩ Quản Lý Đô Thị Thông Minh và Sáng Tạo</title>
       <link>https://iscmueh.github.io/vi/course_graduate/master-02/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
@@ -604,7 +713,7 @@ Viện Đô thị thông minh và Quản lý (ISCM) rất vui và chào đón th
     </item>
     
     <item>
-      <title>Master of Smart City and Innovation Management, Master of Human Ecology and Technology</title>
+      <title>Thạc Sĩ Quản Lý Đô Thị Thông Minh và Sáng Tạo, Thạc sĩ Công Nghệ và Sinh Thái Học Con Người</title>
       <link>https://iscmueh.github.io/vi/course_graduate/master-03/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
@@ -613,22 +722,12 @@ Viện Đô thị thông minh và Quản lý (ISCM) rất vui và chào đón th
     </item>
     
     <item>
-      <title>Master of Smart City and Innovation Management, Master of Transportation Sciences</title>
+      <title>Thạc Sĩ Quản Lý Đô Thị Thông Minh và Sáng Tạo, Thạc sĩ Khoa Học Giao Thông</title>
       <link>https://iscmueh.github.io/vi/course_graduate/master-04/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
       <guid>https://iscmueh.github.io/vi/course_graduate/master-04/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>INTERNATIONAL DESIGN COMPETITION SMARTCITY&#43;</title>
-      <link>https://iscmueh.github.io/vi/event/2021-international-design-competition-smartcity/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/event/2021-international-design-competition-smartcity/</guid>
-      <description>About Event ____________
-Tiếp nối thành công rực rỡ của cuộc thi thiết kế online quốc tế lần thứ 1 trong năm 2019 với chủ đề “Future City: Smart design for the post-pandemic world&amp;quot;, cuộc thi thường niên do Viện Đô thị thông minh và quản lý - ĐH Kinh tế TP.</description>
     </item>
     
     <item>
@@ -647,6 +746,15 @@ Tiếp nối thành công rực rỡ của cuộc thi thiết kế online quốc
       
       <guid>https://iscmueh.github.io/vi/teacher/clark-malik/</guid>
       <description>À propos de moi Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Cây Ước Nguyện AR</title>
+      <link>https://iscmueh.github.io/vi/research/ar-wish-tree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/research/ar-wish-tree/</guid>
+      <description>ISCM-UEH hợp tác với ĐH Khoa học Tự nhiên - ĐHQG HCM, ABB Research (Thụy Điển) và công ty Zeta Motion khai thác kỹ thuật thực tế tăng cường (augmented reality: AR) nhằm thiết kế cây ước nguyện số.</description>
     </item>
     
     <item>
@@ -686,6 +794,15 @@ Tiếp nối thành công rực rỡ của cuộc thi thiết kế online quốc
     </item>
     
     <item>
+      <title>Du Lịch Thông Minh</title>
+      <link>https://iscmueh.github.io/vi/research/smart-tourism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/research/smart-tourism/</guid>
+      <description>Dự án này nhằm quảng bá 178 điểm đến du lịch hấp dẫn được đề xuất của thành phố Hồ Chí Minh và khuyến khích sự tham gia của cộng đồng vào các hoạt động du lịch của thành phố.</description>
+    </item>
+    
+    <item>
       <title>Duis Rio</title>
       <link>https://iscmueh.github.io/vi/teacher/duis-rio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -722,12 +839,57 @@ Tiếp nối thành công rực rỡ của cuộc thi thiết kế online quốc
     </item>
     
     <item>
+      <title>Phát Triển Vườn Ươm Khoa Học Ứng Dụng tại Vĩnh Long</title>
+      <link>https://iscmueh.github.io/vi/research/fostering-applied-science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/research/fostering-applied-science/</guid>
+      <description>ISCM-UEH và Viện Đổi Mới Sáng Tạo (UII-UEH) đang cộng tác với các đối tác địa phương và quốc tế để phát triển khoa học ứng dụng tại địa phương.</description>
+    </item>
+    
+    <item>
+      <title>Route2School: Chương Trình Giáo Dục An Toàn Giao Thông Thông Minh</title>
+      <link>https://iscmueh.github.io/vi/research/route-2-school/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/research/route-2-school/</guid>
+      <description>ISCM-UEH đang phát triển một chương trình giáo dục an toàn giao thông thông minh với sự tham gia của sinh viên, giáo viên và phụ huynh.</description>
+    </item>
+    
+    <item>
+      <title>Sự kiện ra mắt chương trình bằng kép BAUD - BAS</title>
+      <link>https://iscmueh.github.io/vi/event/launch-even-baud-bas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/event/launch-even-baud-bas/</guid>
+      <description>About Event Vào ngày 3 tháng 9 vừa qua, Viện Đô thị Thông minh và Quản lý (ISCM), Trường ĐH Kinh tế TP.</description>
+    </item>
+    
+    <item>
       <title>UEH Cấp 170 Học Bổng Cho Sinh Viên Quốc Tế</title>
       <link>https://iscmueh.github.io/vi/scholarship/scholarship-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/scholarship/scholarship-1/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>UEH: Trường Đại Học Không Rác Thải</title>
+      <link>https://iscmueh.github.io/vi/research/zero-waste/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/research/zero-waste/</guid>
+      <description>Dự án này nhằm triển khai quản lý chất thải bền vững tại Trường Đại học Kinh tế Thành phố Hồ Chí Minh (UEH).</description>
+    </item>
+    
+    <item>
+      <title>Xây Dựng Thương Hiệu Thành Phố: Nghiên Cứu Điển Hình tại TP. Hồ Chí Minh</title>
+      <link>https://iscmueh.github.io/vi/research/city-branding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/research/city-branding/</guid>
+      <description>Các thành phố đang cạnh tranh với nhau trong bối cảnh toàn cầu hóa.</description>
     </item>
     
     <item>

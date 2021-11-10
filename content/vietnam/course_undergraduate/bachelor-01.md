@@ -9,7 +9,7 @@ description : ""
 # course thumbnail
 image: "images/courses/course-1.jpg"
 # taxonomy
-category: "under-graduate"
+category: "Đại Học"
 # teacher
 #teacher: "Clark Malik"
 # duration

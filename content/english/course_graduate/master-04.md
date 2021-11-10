@@ -33,10 +33,9 @@ summary: " "
 <!--StartFragment-->
 
 The program provides the students with expertise and ability to master the fields of smart city (planning, design, management), creative management, simulation, technology and human ecology.
-
 After graduating, learners receive dual degrees:
--	Executive Master of Public Management, majoring in Smart City and Innovation Management awarded by University of Economics Ho Chi Minh City;
--	Master of Transportation Sciences awarded by Hasselt University (Belgium).
+* Master of Smart City and Innovation Management, majoring in Smart City and Innovation Management awarded by University of Economics Ho Chi Minh City;
+* Master of Transportation Sciences awarded by Hasselt University (IMOB) in Belgium.
 
 
 <!--EndFragment-->
@@ -45,19 +44,19 @@ After graduating, learners receive dual degrees:
 
 
 ### Advantage
-*	Obtain dual master's degrees from two universities, in two different fields with time efficiency and affordable costs;
-*	Gain integrated competences in urban innovation management;
-*	Multidisciplinary integration such as transportation, engineering, planning, public policy, etc. through lectures, seminars, workshops, field visits;
-*	Projects and subjects are designed based on real problems and solutions (ordered by the state management agencies, domestic and foreign private companies), and taught by domestic and international professors, lecturers and experts;
-*	Application of advancded technology solutions (VR, AR, 3D Printing, urban simulation, etc.) to design, planning and implementation;
-*	Use modern smart city StudioLab.
+* Gain integrated competences in urban innovation management;
+* Integrate, update regularly and incorporate theory into practice, studying through seminars, online and offline, working in real-life studios and guided by top domestic and foreign professionals;
+* Practice with advanced technology solutions (VR, AR, 3D Printing, urban simulation, etc.) in in design, planning and implementation;
+* Use smart city Studio Lab;
+* Opportunities to learn from professors/lecturers at international university partners.
 
 
 
 ### Requirements
 
-*	Candidates: gradutates from universities around the world
-*	Entrance exam: English, GMAT and interview
+Candidates applying for examinations must satisfy the following conditions:
+* Candidates have work experience from the government agencies, NGOs, NPOs, companies in the fields of urban planning and design, urban management and development, transportation and infrastructure planning, project management, real estate development, architecture, and environmental development.
+* Entrance exam: English, GMAT and interview.
 
 ### [Click HERE for more Details](https://www.ueh.edu.vn/dao-tao/thac-si-tien-si/thac-si-dieu-hanh-cao-cap-emba/quan-ly-do-thi-thong-minh-va-sang-tao/?fbclid=IwAR09xSUOK2WxPuLZdZ4whONMLsnSDkAyvQqkoX0iioGizyCGdkdtBUqgig4)
 

@@ -1,7 +1,7 @@
 ---
 title: "Blockchain for DeFi & Cryptocurrency: Blockchain in current and future economy"
 author: ISCM
-publishDate: "2021-06-04T14:25:34.526Z"
+publishDate: "2021-06-21T15:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description: ""
 location: "ISCM, Ho Chi Minh City, Vietnam"

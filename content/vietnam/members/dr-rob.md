@@ -1,5 +1,5 @@
 ---
-title: "Prof. Rob Cuyvers"
+title: "GS. Rob Cuyvers"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,11 +8,11 @@ description : "."
 # teacher portrait
 image: "images/team/ProfCuyvers.jpg"
 # course
-course: "Giãng viên cao cấp"
+course: "Giảng Viên Cao Cấp"
 position: ""
 # biograph
-bio: "Professor Rob Cuyvers was an urban planner in the City of Mechelen, Belgium and a senior advisor for private companies and the Flemish government. He successfully managed large, complex urban projects in a regional or urban context. He was responsible for teams and budgets, and for formulating objectives and achieving goals (e.g. Lamot-site Mechelen, Park Spoor Noord Antwerp, Spatial Structure Plan Antwerp). He built up experience with participation processes and co-creation involving different actors, such as inhabitants, economic actors, planners, social actors and policy makers.
-He was Director of the research group Mobility and Environment of the University College PHL and Head of the department of Architecture, Interior Architecture and Arts at the University College PHL. He was Dean of the Faculty of Architecture and arts at Hasselt University, and promoter of different international and community projects. He was member of the jury of a lot of awards, competitions and selections (e.g. for the Flemish Governmental Architect)."
+bio: "Giáo sư Rob Cuyvers từng là nhà quy hoạch đô thị tại thành phố Mechelen, Bỉ và cố vấn cao cấp cho nhiều công ty tư nhân và chính phủ Flemish. Ông đã quản lý thành công nhiều dự án lớn và phức tạp ở cấp vùng và đô thị. Ông cũng dẫn dắt nhiều nhóm, phát triển mục tiêu và tầm nhìn (vd: Lamot-site Mechelen, Park Spoor Noord Antwerp, Spatial Structure Plan Antwerp). Ông có nhiều kinh nghiệm thúc đẩy quá trình tham gia ở nhiều tác nhân bao gồm công dân, nhà hoạch định kinh tế, nhà quy hoạch, tác nhân xã hội và những nhà làm chính sách.
+Ông từng là giám đốc  nhóm nghiên cứu Giao Thông và Môi Trường và Trưởng Bộ môn Kiến trúc (Architecture, Interior Architecture and Arts) tại Đại học College PHL. Ông cũng từng là Trưởng Khoa Kiến Trúc và Nghệ thuật tại Đại học Hasselt, thúc đẩy nhiều dự án cộng đồng và quốc tế. Ông từng là thành viên ban giám khảo cảu nhiều giải thưởng, cuộc thi và tuyển chọn (vd: Flemish Governmental Architect)."
 # interest
 interest: [""]
 # contact info
@@ -57,19 +57,19 @@ type: "teacher"
 weight: 2
 ---
 
-### Academic and Research Profile
-* 	Supervisor MAD-research group (2013 – 2020)
-* 	Supervisor Research Group ArcK (2013 – 2018)
-* 	President PXL-MAD, School of arts (2013 – 2019)
-* 	Dean of the Faculty of Architecture and arts (2013 – 2018)
-* 	President of research group Arck and MAD-research (2004 – 2013)
-* 	Head of the department of Architecture, Interior architecture and Arts at the University College PHL (2004 – 2013) 
-* 	President of the Media, Arts and Design-faculty (2009 – 2012)
-* 	Director Research group Mobility and Environment University College PHL (2001 – 2004)
-* 	Guest lecturer “Hogeschool voor Verkeerskunde” (1999 – 2000)
-* 	Guest lecturer urban planning at Sint-Lucas Gent (1998)
-* 	Urban planning at KULeuven (1979)
-* 	BA Philosophy at KULeuven (1977)
-* 	Civil engineering at KULeuven (1976)
+### Tiểu Sử Nghiên Cứu và Học Thuật
+* 	Giám sát nhóm nghiên cứu MAD (2013 – 2020)
+* 	Giám sát nhóm nghiên cứu ArcK (2013 – 2018)
+* 	Trưởng PXL-MAD, School of arts (2013 – 2019)
+* 	Trưởng Khoa Kiến Trúc và Nghệ Thuật (2013 – 2018)
+* 	Trưởng nhóm nghiên cứu Arck và MAD (2004 – 2013)
+* 	Trưởng Bộ môn Kiến Trúc, Đại học College PHL (2004 – 2013)
+* 	Trưởng Khoa Thiết Kế, Nghệ Thuật và Truyền Thông (2009 – 2012)
+* 	Trưởng nhóm nghiên cứu Giao thông và Môi Trường Mobility and Environment University College PHL (2001 – 2004)
+* 	Giảng viên thỉnh giảng “Hogeschool voor Verkeerskunde” (1999 – 2000)
+* 	Giảng viên thỉnh giảng urban planning at Sint-Lucas Gent (1998)
+* 	Quy hoạch đô thị tại KULeuven (1979)
+* 	BA Philosophy tại KULeuven (1977)
+* 	Kỹ thuật xây dựng tại KULeuven (1976)
 
-### [Click HERE for Publication](https://documentserver.uhasselt.be/cris/rp/rp03105;jsessionid=9239716EE0C82C579448DBAC8321F7D6)
+### [Bấm vào ĐÂY để xem các bài báo](https://documentserver.uhasselt.be/cris/rp/rp03105;jsessionid=9239716EE0C82C579448DBAC8321F7D6)

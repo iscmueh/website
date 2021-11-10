@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/Tam.png"
 # course
-course: "Giảng viên – Quy hoạch đô thị"
+course: "Giảng Viên"
 position: ""
 # biograph
 bio: "Tốt nghiệp thạc sĩ nghiên cứu tại Đại học Việt Đức (VGU), và hiện tại đang là Urban designer tại công ty B+H Architects, tham gia ISCM với vai trò là cộng tác viên nghiên cứu và đồng thời là giảng viên. Luôn mong muốn được góp phần phát triển, kiến thiết một xã hội, một chất lượng sống tốt cho con người Việt Nam. Quan tâm đến các chủ đề về Đô thị thông minh, bền vững; Marketing Thành phố; Phát triển không gian xanh, không gian mở; Không gian giao thông đi bộ và xe đạp."
@@ -53,7 +53,7 @@ contact:
 
 # type
 type: "teacher"
-weight: 14
+weight: 11
 ---
 
 ### Giảng Dạy
@@ -63,9 +63,9 @@ weight: 14
 
 
 ### Tiểu Sử Nghiên Cứu
-*	Cộng tác viên nghiên cứu tại Viện Đô thị thông minh & Quản lý (ISCM-UEH) 
-*	Thạc sĩ nghiên cứu Phát triển đô thị bền vững tại Đại học Việt Đức (VGU) 
-*	Kỹ sư Quy hoạch vùng và đô thị tại Đại học Tôn Đức Thắng (TDTU) 
+*	Cộng tác viên nghiên cứu tại Viện Đô thị thông minh & Quản lý (ISCM-UEH)
+*	Thạc sĩ nghiên cứu Phát triển đô thị bền vững tại Đại học Việt Đức (VGU)
+*	Kỹ sư Quy hoạch vùng và đô thị tại Đại học Tôn Đức Thắng (TDTU)
 
 ### Kinh Nghiệm Quốc Tế
 *	Urban designer tại Công ty B+H Architects

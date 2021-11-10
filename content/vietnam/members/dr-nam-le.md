@@ -6,9 +6,9 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # teacher portrait
-image: "images/team/NAMLE.jpg"
+image: "images/team/NamLe-color.png"
 # course
-course: "Giảng viên cao cấp"
+course: "Senior Lecturer"
 position: "Director"
 # biograph
 bio: "Nghiên cứu và giảng dạy liên quan đến việc phát triển và ứng dụng các mô hình toán thống kê, toán tối ưu, phân tích dữ liệu lớn, và GIS trong lĩnh vực quản lý cơ sở hạ tầng kĩ thuật đô thị."

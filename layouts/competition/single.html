@@ -1,0 +1,79 @@
+{{ define "main" }}
+
+<!-- event single -->
+<section class="section-sm">
+  <div class="container" style="scroll-behavior: smooth;">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="section-title" style="text-align: center; margin-left: 2%;" >{{ .Title }}</h2>
+      </div>
+      <nav class="navbar navbar-expand-lg navbar-dark p-0">
+        <div style="text-align: center;">
+          <ul class="navbar-navld" style="text-align: center; margin-left: 23%; margin-bottom: 40px; width: max-content;">
+            <!-- <li class="nav-item">
+               <a class="nav-link" href="{{ site.BaseURL | absLangURL }}">{{ site.Params.Home }}</a>
+             </li> -->
+             
+             <li class="nav-item">
+              <a class="nav-link" href="#compOverview">Overview</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#compTimeline">Timeline</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#compPrize">Price</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#compPartner">Partners</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#compRegister">Register</a>
+            </li>
+           </ul>
+        </div>
+      </nav>
+      <!-- research image -->
+      <div class="col-12 mb-4">
+        <img style="height: auto;width: 100%;object-fit: contain;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
+      </div>
+    </div>
+    <!-- research details -->
+    <div class="row">
+      <div class="text-justify col-12 mb-50 content" id ="compOverview">
+        <h3>ABOUT COMPETITION</h1>
+          <p>{{ .Params.overview_01 }}</p>
+          <p>{{ .Params.overview_02 }}</p>
+          <p>{{ .Params.overview_03 }}</p>
+      </div>
+      
+      <div class="text-justify col-12 mb-50 content" id = "compTimeline">
+        <h3>TIMELINE</h3>
+        <img style="height: auto;width: 100%;object-fit: contain;" src="{{ .Params.timeline | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
+      </div>
+      
+      <div class="text-justify col-12 mb-50 content" id = "compPrize">
+        <h3>PRICE POOL</h3>
+        <img style="height: auto;width: 100%;object-fit: contain;" src="{{ .Params.price | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
+      </div>
+      
+      <div class="text-justify col-12 mb-50 content" id = "compPartners">
+        <h3>OUR PARTNERS</h3>
+        <img style="height: auto;width: 100%;object-fit: contain;" src="{{ .Params.partners | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
+      </div>
+      
+      <div class="text-justify col-12 mb-50 content" id ="compRegister">
+        <h3>REGISTER NOW</h3>
+        {{ .Params.register }}
+      </div>
+
+      <div class="col-12 mb-50 content">
+        {{ .Content }}
+      </div>
+
+    </div>
+  </div>
+</section>
+<!-- /event single -->
+
+{{ end }}

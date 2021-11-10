@@ -1,5 +1,5 @@
 ---
-title: "Prof. Chamun Koo"
+title: "GS. Chamun Koo"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,12 +8,12 @@ description : "."
 # teacher portrait
 image: "images/team/DrKoo.jpg"
 # course
-course: "Giảng viên cao cấp"
+course: "Giảng Viên Cao Cấp"
 position: ""
 # biograph
-bio: "Prof. Chamun Koo is a Dean of the School of Urban Environment Engineering, Handong Global University. He is a director of East-Sea Rim Research Institute of Economy and Culture. He also teachs at the Graduate School of International Development and Entreprenuership."
+bio: "Giáo sư Chamun Koo là trưởng Khoa Kỹ Thuật Môi Trường Đô Thị, Đại học Toàn cầu Handong. Ông là Viện trưởng Viện nghiên cứu Kinh Tế và Văn Hóa. Ông cũng tham gia giảng dạy tại Khoa sau đại học Kinh Doanh và Phát triển Quốc Tế."
 # interest
-interest: ["Urban And Regional Planning","Housing Policies","Environment Polices","Industrial Polices"]
+interest: ["Quy hoạch vùng và đô thị","Chính sách nhà ở","Chính sách môi trường","Chính sách công nghiệp"]
 # contact info
 contact:
   # contact item loop
@@ -56,20 +56,20 @@ type: "teacher"
 weight: 5
 ---
 
-### Academic and Research Profile
-* Director, East-Sea Rim Research Institute of Economy and Culture (2005 – Now)
-* Chief Editor, Hwan Dong Hae Review: Far East Regional Studies (2005 – Now)
-* Director, Urban Environment Project Team, UNESCO UNITWIN, Handong Global (1998 - Now)
-* Professor/Dean, School of Spatial Environment System Engineering, Handong Global University (1995 – Now)
-* Ph.D. (Uran Planning & Development) University of Southern California (1989)
-* M.C.R.P. (Urban & Regional Planning) Iowa State University (1985)
-* National Engineering Certificate, Construction Work (1980)
-* National Engineering Certificate, Architectural Structure (1980)
-* B.S.(Architecture) College of Engineering, Seoul National University (1980)
+### Tiểu Sử Nghiên Cứu và Học Thuật
+* Viện trưởng, Viện trưởng Viện nghiên cứu Kinh Tế và Văn Hóa (2005 – hiện tại)
+* Tổng biên tập, Hwan Dong Hae Review: Far East Regional Studies (2005 – hiện tại)
+* Giám đốc, Dự án Môi trường đô thị, UNESCO UNITWIN, Handong Global (1998 - hiện tại)
+* Giáo sư/ Trưởng khoa, Khoa Kỹ Thuật Hệ Thống Môi Trường Không Gian, Đại học Toàn Cầu Handong Global (1995 – hiện tại)
+* Tiến sĩ, (Phat triển và quy hoạch đô thị) Đại học Nam California (1989)
+* M.C.R.P. (Quy hoạch vùng và đô thị) Đại học Iowa State (1985)
+* Chứng chỉ kỹ thuật quốc gia, Construction Work (1980)
+* Chứng chỉ kỹ thuật quốc gia,, Architectural Structure (1980)
+* Cử nhân (Kiến trúc) Khoa Kỹ Thuật, Đại học Quốc gia Seoul (1980)
 
-### International Experiences
-* Vice Director, Pohang City Regeneration Project Committee, Korea (2017 – Now)
-* Housing Planning and Economic Analyst, City of Los Angeles (1991 – 1995)
-* Assistant City Planner, City of Los Angeles (1990 – 1991)
-* Project Manager, Extra Builders, Inc. (1989 – 1990)
-* Planning Intern, Los Angeles Neighborhood Housing Services (1987 – 1988)
+### Kinh Nghiệm Quốc Tế
+* Phó giám đốc, Ủy ban dự án tái thiết thành phố Pohang, Hàn Quốc (2017 – hiện tại)
+* Phân tích kinh tế và quy hoạch nhà ở, Los Angeles (1991 – 1995)
+* Trợ lý quy hoạch thành phố, Los Angeles (1990 – 1991)
+* Quản lý dự án, Extra Builders, Inc. (1989 – 1990)
+* Thực tập quy hoạch, Los Angeles Neighborhood Housing Services (1987 – 1988)

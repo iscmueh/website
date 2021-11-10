@@ -11,9 +11,9 @@ image: "images/team/AdjunctProfs/elena.jpg"
 course: ""
 position: ""
 # biograph
-bio: "Elena Marchigiani is Associate Professor in Urban Planning at the Department of Engineering and Architecture of the University of Trieste, where teaches Town Planning at the Master Course in Architecture."
+bio: "I’m interested in design and implementation of planning tools and urban projects, in the fields of social housing and neighbourhood regeneration, town planning and city management, territorial and landscape planning and design, public spatial policies (housing, welfare and mobility), participatory design processes."
 # interest
-interest: ["Planning and urban design tools"]
+interest: ["Planning and urban design tools","Urban regeneration","Sustainable Mobility","Integrated maritime and coastal planning"]
 # contact info
 contact:
   # contact item loop
@@ -56,35 +56,32 @@ type: "teacher"
 weight: 6
 ---
 ### Courses
-* Town Planning
+* Town Planning and Urban design
 
 ### Academic and Research Profile
-* Researcher, Department of Engineering and Architecture, University of Trieste (IT) (2004 – Now)
-* Deputy Major at the Municipality of Trieste, Municipality of Trieste (IT) (2011 – 2016)
-* Post-Ph.D. in Urban Planning, Polythecnic of Milano (IT) (2001 – 2002)
+* Associate Professor in Urban Planning, Department of engineering and Architecture, University of Trieste (IT) (2019 – now)
+* Researcher in Urban Planning, Department of Engineering and Architecture, University of Trieste (IT) (2004 – 2019)
+* Deputy Major at the Municipality of Trieste (Public Works, Private Building, Urban Planning, Mobility and Traffic, Housing Policies and Complex Urban Projects), Municipality of Trieste (IT) (2011 – 2016)
+* Post-Ph.D. in Urban Planning, Polytechnic of Milano (IT) (2001 – 2002)
 * Ph.D. in Urban Planning University IUAV of Venezia (IT) (1998 – 2000)
-* Master degree in Architecture, University IUAV of Venezia (IT) (2003 – 2004)
+* Master degree in Architecture, University IUAV of Venezia (IT) (1995)
+
 
 ### International Experiences
+* Vice-director of the Department of Engineering and Architecture of the University of Trieste (IT) (2020- now)
+* Responsible for the Department of Engineering and Architecture of the University of Trieste (IT) for the collaboration with the Italian National Institute for Town Planner-INU on the issues of Universal and Inclusive Design for Accessibility (2018 – now)
 * Delegate for institutional and web communication of the Department of Engineering and Architecture of the University of Trieste (IT) (2017- Now)
-* Member of the Board of Representatives of Universities (2014– Now)
-* Member of Italian Society of Planners – SIU (IT) (2011 – Now)
-* Scientific coordinator of the University of Trieste  (2002 - Now)
-* Expert for evaluation of proposals and the monitoring of implementation actions under H2020, Research Executive Agency (REA), European Commission (2016 -2019)
-* Member of the National Board of the Italian Society of Town Planners-SIU (2014)
-* Professional consultant, Social Housing Agency of Udine (IT) (2008 – 2009)
-* Professional consultant, Municipality of Chioggia, Venezia (IT) (2005 – 2008)
-* Professional consultant, Region Emilia-Romagna, Association OIKOS-Center for Studies (IT) (2003 – 2004)
+* Representative of the University of Trieste (IT) at the Board for Housing Policies of the Municipalities of the Intermunicipal Territorial Union of Trieste (IT).
+* Expert for evaluation of proposals and the monitoring of implementation actions under H2020, European Commission (2016 - now)
+* Member of the National Board of the Italian Society of Town Planners-SIU (2011- 2014), and of the Board of Representatives of Universities (from 2014), Italian Society of Planners – SIU (IT) (2014 – now)
+* Responsible for the Master Degree in Architecture at the University of Trieste (IT) of the Erasmus Agreements with: Escuela Téchnica Superior de Arquitectura, Granada; Technische Universitat, Wien; School of Architecture, Nicosia; Department of Architecture, University of Hasselt (2017 – now)
+
 
 ### Current Projects
-* LARU. Laboratory for Urban Regeneration 2019. New Urban Utopia
-* City as a Gym for Active Design PROACTIVE CITY
-* Cities accessible to all
-* Ngoc Hoi master plan
-* Public Spaces and Urban Cultures
+* Scientific coordinator of the collaboration activities between the University of Trieste and the Municipality of Trieste (IT) in the frame of the national “Innovation Programme for neighbourhoods’ quality”, funded by the Italian Ministry for Infrastructures and Transportation (2021 – now).
+* Scientific coordinator (with Ilaria Garofolo) of the research project “Mapping and monitoring of architectural barriers, aimed at the implementation of urban planning and design towards inclusive accessibility”, Region Friuli Venezia Giulia, University of Trieste-Department of Engineering and Architecture, University of Udine (IT) (2020 – now).
+* Scientific coordinator of the technical group of the Italian Society of Planners-SIU “Marginalized Inner Areas and Surroundings. Mapping and sharing policy experiences” (2019 – now).
+* Member of the research group “New Ngoc Hoi Master plan” project (building scenarios towards the review of the current regional master plan), and visiting researcher at the Ton Duc Thang University, Ho chi Minh City, Vietnam (2018-2019).
 
-### Professional Memberships
-* The Research Centre on City & Production, Dipartimento Interateneo di Scienze Progetto e Politiche del Territorio Politecnico di Torino (IT)
-* The International Research Network LIEU – Logiques Identités, Espaces Urbanités, LIEU – Logiques Identités Espaces Urbanités
 
-### [Click HERE for Publication](https://orcid.org/0000-0002-5996-7318)
+### [Click HERE for Publication](https://arts.units.it/simple-search?filterquery=rp00854&filtername=author&filtertype=authority&sort_by=bi_sort_2_sort&order=DESC#.V4CqT663FaV)

@@ -1,5 +1,5 @@
 ---
-title: "Dr. Ducksu Seo"
+title: "TS. Ducksu Seo"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,12 +8,12 @@ description : "."
 # teacher portrait
 image: "images/team/DrDucksu.jpg"
 # course
-course: "Điều phối viên quốc tế"
+course: "Điều Phối Viên Quốc Tế"
 position: ""
 # biograph
 bio: ""
 # interest
-interest: ["Urban Planning and Design","Smart City Development", "Housing Studies", "Social Network Analysis and Mobility ","International Development and Global Citizenship Education" ]
+interest: ["Thiết kế và quy hoạch đô thị","Phát triển đô thị thông minh", "Nghiên cứu nhà ở", "Phân tích mạng lưới xã hội và di chuyển","Giáo dục công dân toàn cầu và phát triển quốc tế" ]
 # contact info
 contact:
   # contact item loop
@@ -56,19 +56,18 @@ type: "teacher"
 weight: 3
 ---
 
-### Academic and Research Profile
-* Professor at Handong Global University, South Korea (2019 – Now)
-* Head of NIBC Global Institute, Vietnam (2015-Now)
-* Ph.D. in Urban Planning and Design, Seoul National University, South Korea
-* Master of Landscape in Urban Design: Harvard University, USA
-* Bachelor of Architecture and Urban Planning, Handong Global University, South Korea 
+### Tiểu Sử Nghiên Cứu và Học Thuật
+* Giáo sứ, Đại học Handong Global, Hàn Quốc (2019 – Hiện tại)
+* Viện trưởng, Viện NIBC Global, Việt Nam (2015-Hiện tại)
+* Tiến sĩ, Quy hoạch và thiết kế đô thị, Đại học Quốc gia Seoul, Hàn Quốc
+* Thạc sĩ, Cảnh quan trong thiết kế đô thị, Đại học Harvard, Mỹ
+* Cử nhân, Kiến trúc và thiết kế đô thị, Đại học Handong Global, Hàn Quốc
 
 
-### International Experiences
-* Advisor, UN Academic Impact, Korea (2016 – Now)
-* Advisor, UN Habitat, Korea (2016 – Now)
-* Project Director, ADU Group, Vietnam (2012 – 2015)
-* Urban Designer and Planner, SERA Architects, USA (2011 – 2012)
+### Kinh Nghiệm Quốc Tế
+* Cố vấn, UN Academic Impact, Hàn Quốc (2016 – Hiện tại)
+* Cố vấn, UN Habitat, Korea (2016 – Hiện tại)
+* Giám đốc dự án, ADU Group, Việt Nam (2012 – 2015)
+* Quy hoạch và thiết kế đô thị, SERA Architects, Mỹ (2011 – 2012)
 
-### [Click HERE for Publication](https://scholar.google.co.kr/citations?user=7mawbTAAAAAJ&hl=en)‬ 
-
+### [Bấm vào ĐÂY để xem các bài báo](https://scholar.google.co.kr/citations?user=7mawbTAAAAAJ&hl=en)‬

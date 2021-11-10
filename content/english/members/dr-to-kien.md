@@ -36,7 +36,6 @@ type: "teacher"
 weight: 6
 ---
 
-
 ### Courses
 * History of Architecture and Urbanism
 * Urban anthropoly: How to fosster civic engagement
