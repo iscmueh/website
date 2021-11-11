@@ -7,7 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
-<<<<<<< HEAD
     <lastBuildDate>Tue, 09 Nov 2021 19:00:00 +0000</lastBuildDate><atom:link href="https://iscmueh.github.io/vi/event/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ORIENTATION DAY - CHÀO MỪNG KHÓA THẠC SỸ ĐIỀU HÀNH CAO CẤP - QUẢN LÝ ĐÔ THỊ THÔNG MINH VÀ SÁNG TẠO ĐẦU TIÊN CỦA ISCM</title>
@@ -19,15 +18,6 @@
 Viện Đô thị thông minh và Quản lý (ISCM) rất vui và chào đón thế hệ người học đồng kiến tạo đầu tiên của khóa Thạc sỹ Điều hành cao cấp - Quản lý Đô thị thông minh và Sáng tạo (Executive Master of Smart City and Innovation Management) năm 2021</description>
     </item>
     
-    <item>
-      <title>Tư vấn tuyển sinh</title>
-      <link>https://iscmueh.github.io/vi/event/tu-van-tuyen-sinh-vn/</link>
-      <pubDate>Mon, 16 Aug 2021 15:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/event/tu-van-tuyen-sinh-vn/</guid>
-      <description>About Event Chọn ngành là việc không dễ dàng đối với các bạn học sinh và các bậc phụ huynh.</description>
-=======
-    <lastBuildDate>Wed, 27 Oct 2021 09:00:00 +0000</lastBuildDate><atom:link href="https://iscmueh.github.io/vi/event/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kỷ niệm 45 năm thành lập Trường Đại học Kinh tế TP. Hồ Chí Minh hướng đến Đại học UEH Đa ngành và Bền vững</title>
       <link>https://iscmueh.github.io/vi/event/45-nam/</link>
@@ -84,13 +74,21 @@ Tiếp nối thành công rực rỡ của cuộc thi thiết kế online quốc
     </item>
     
     <item>
+      <title>Tư vấn tuyển sinh</title>
+      <link>https://iscmueh.github.io/vi/event/tu-van-tuyen-sinh-vn/</link>
+      <pubDate>Mon, 16 Aug 2021 15:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/event/tu-van-tuyen-sinh-vn/</guid>
+      <description>About Event Chọn ngành là việc không dễ dàng đối với các bạn học sinh và các bậc phụ huynh.</description>
+    </item>
+    
+    <item>
       <title>Blockchain for DeFi &amp; Cryptocurrency: Blockchain in current and future economy</title>
       <link>https://iscmueh.github.io/vi/event/webinar-blockchain-for-defi-cryptocurrency-blockchain-in-current-and-future-economy/</link>
       <pubDate>Mon, 21 Jun 2021 15:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/event/webinar-blockchain-for-defi-cryptocurrency-blockchain-in-current-and-future-economy/</guid>
       <description>About Event Trong làn sóng cách mạng công nghiệp 4.0, blockchain được xem là công nghệ &amp;ldquo;chìa khóa&amp;rdquo; cho chuyển đổi số và xây dựng nền tảng công nghệ tương lai.</description>
->>>>>>> 6b83279024089181f90b75a17063d4cea38f804e
     </item>
     
     <item>

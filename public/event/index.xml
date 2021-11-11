@@ -7,7 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
-<<<<<<< HEAD
     <lastBuildDate>Tue, 09 Nov 2021 19:00:00 +0000</lastBuildDate><atom:link href="https://iscmueh.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ORIENTATION DAY - MASTER OF SMART CITY AND INNOVATION MANAGMENT</title>
@@ -19,18 +18,6 @@
 The Institute of Smart Cities and Management (ISCM) is delighted to welcome the first generation of the Executive Master of Smart City and Innovation courses in 2021.</description>
     </item>
     
-    <item>
-      <title>Admission consulting</title>
-      <link>https://iscmueh.github.io/event/tu-van-tuyen-sinh-en/</link>
-      <pubDate>Mon, 16 Aug 2021 15:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/event/tu-van-tuyen-sinh-en/</guid>
-      <description>About Event Choosing a major to follow is not easy for students and parents.</description>
-    </item>
-    
-=======
-    <lastBuildDate>Sat, 09 Oct 2021 18:00:00 +0000</lastBuildDate><atom:link href="https://iscmueh.github.io/event/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 6b83279024089181f90b75a17063d4cea38f804e
     <item>
       <title>Judging Panel Event - Slogan Competition “For The Multidisciplinary And Sustainable UEH University</title>
       <link>https://iscmueh.github.io/event/slogan/</link>
@@ -65,6 +52,15 @@ The Institute of Smart Cities and Management (ISCM) is delighted to welcome the 
       
       <guid>https://iscmueh.github.io/event/international-webinar-toward-bldg/</guid>
       <description>About Event A webinar entitled “International webinar towards bldg. Resilient &amp;amp; Sustainable Communities through Disaster Mitigation” held by University of Northern Philippines, University of The Cordilleras and Nueva Ecija University of Science and Technology will take place on August 27th and 28th.</description>
+    </item>
+    
+    <item>
+      <title>Admission consulting</title>
+      <link>https://iscmueh.github.io/event/tu-van-tuyen-sinh-en/</link>
+      <pubDate>Mon, 16 Aug 2021 15:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/event/tu-van-tuyen-sinh-en/</guid>
+      <description>About Event Choosing a major to follow is not easy for students and parents.</description>
     </item>
     
     <item>
