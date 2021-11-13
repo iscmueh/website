@@ -49,7 +49,7 @@ weight: 4
 ### Tiểu Sử Nghiên Cứu
 * Giảng viên và nghiên cứu viên tại [Viện Quản Lý Xây Dựng và Hạ Tầng (IBI)](https://ibi.ethz.ch/), [Học Viện Công Nghệ Liên Bang Thụy Sĩ (ETH Zurich)](https://ethz.ch/en.html) - Thụy Sĩ (2010-2016)
 * Nghiên cứu sau tiến sĩ, [Phòng Lab của Giáo Sư Kiyoyuki Kaito Lab](http://www.infra-assetmetrics.com/), Trung Tâm Nghiên Cứu Trọng Điểm cho các nhà Nghiên Cứu Trẻ, Trường Kĩ Thuật, [Đại Học OSAKA](https://www.osaka-u.ac.jp/), Nhật Bản (2009-2010)
-* Nghiên cứu sinh Tiến Sĩ trong lĩnh vực kĩ thuật, [Đại Học University](https://www.kyoto-u.ac.jp/en), Nhật Bản (2006-2009)
+* Nghiên cứu sinh Tiến Sĩ trong lĩnh vực kĩ thuật, [Đại Học Kyoto](https://www.kyoto-u.ac.jp/en), Nhật Bản (2006-2009)
 * Nghiên cứu sinh Thạc Sĩ, [Học Viện Công Nghệ Châu Á (AIT)](https://www.ait.ac.th/), Thái Lan(2002-2004)
 * Cử Nhân Ngoại Ngữ (Ngành Giáo Dục Tiếng Anh), [Đại Học Ngoại Ngữ](http://en.ulis.vnu.edu.vn/), Đại Học Quốc Gia, Hà Nội (1998-2002)
 * Cử Nhân Kĩ Thuật, Quản Lý Kĩ Thuật Xây Dựng, [Đại Học Giao Thông Vận Tải](http://en.utc.edu.vn/), Hà Nội (1995-2000)
