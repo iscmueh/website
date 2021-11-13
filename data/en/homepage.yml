@@ -77,7 +77,7 @@ about:
   enable : true
   title : "About ISCM"
   image : "images/about/about-page.jpg"
-  content : "Institute of Smart City and Management (ISCM) is a research institute belong to the School of Technology and Design (STD) of the University of Economics Ho Chi Minh (UEH). Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling."
+  content : "Institute of Smart City and Management (ISCM) is a research institute belong to the Colledge of Technology and Design (CTD) of the UEH University. Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling."
   button:
     enable : true
     label : "Learn more"

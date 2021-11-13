@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://iscmueh.github.io/"
+baseURL = "https://www.iscm.ueh.edu.vn/"
 title = "Institute of Smart City & Management"
 #theme = "iscmueh.github.io"
 #themesDir = ".."
@@ -182,7 +182,7 @@ hasChildren = true
   name = "Other activities"
   url = "activities"
   weight = 2
-  
+
 
 #[[Languages.en.menu.main]]
 #name = "blog"
@@ -374,7 +374,7 @@ weight = 4
   name = "Các hoạt động khác"
   url = "activities"
   weight = 3
-  
+
 
 [[Languages.vi.menu.main]]
 name = "StudioLAB"
