@@ -24,7 +24,7 @@ apply_url : "#"
 type: "course"
 courseStuctureImage: "images/courses/structure/master-HGU.JPG"
 summary: " "
-
+post: "Master of Human Ecology and Technology"
 ---
 
 

@@ -1253,6 +1253,18 @@
                 href="https://www.iscm.ueh.edu.vn/teacher/duis-rio/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/course/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/course/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/course/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/research/fostering-applied-science/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1337,18 +1349,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.iscm.ueh.edu.vn/notice/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/course/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/course/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/course/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/teacher/</loc>

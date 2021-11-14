@@ -23,9 +23,8 @@ apply_url : "#"
 # type
 type: "course"
 courseStuctureImage: "images/courses/structure/master-ueh.JPG"
-
-
 summary: " "
+post: "Master of Smart City and Innovation Management"
 ---
 
 

@@ -24,7 +24,7 @@ apply_url : "#"
 type: "course"
 courseStuctureImage: "images/courses/structure/master-HGU.JPG"
 summary: " "
-
+post: "Thạc sĩ Công Nghệ và Sinh Thái Học Con Người"
 ---
 
 

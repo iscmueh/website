@@ -24,7 +24,7 @@ apply_url : "#"
 type: "course"
 courseStuctureImage: "images/courses/structure/master-ueh-UH.JPG"
 summary: " "
-
+post: "Thạc Sĩ Quản Lý Đô Thị Thông Minh và Sáng Tạo, Thạc sĩ Khoa Học Giao Thông"
 ---
 
 

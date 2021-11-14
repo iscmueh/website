@@ -24,6 +24,7 @@ apply_url : "#"
 type: "course"
 courseStuctureImage: "images/courses/structure/bachelor.jpg"
 summary: " "
+post: "Architectural and Urban Design Inclusive Smart City"
 
 ---
 

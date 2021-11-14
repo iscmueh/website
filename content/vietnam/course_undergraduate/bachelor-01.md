@@ -24,6 +24,7 @@ apply_url : "#"
 type: "course"
 courseStuctureImage: "images/courses/structure/bachelor.jpg"
 summary: " "
+post: "Kiến Trúc và Thiết Kế Đô Thị Thông Minh"
 
 ---
 
