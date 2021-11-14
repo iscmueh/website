@@ -22,7 +22,7 @@ duration : "2 năm (03 học kĩ tại UEH, 1 học kì tại Bỉ)."
 apply_url : "#"
 # type
 type: "course"
-courseStuctureImage: "images/courses/structure/master-ueh-UH.png"
+courseStuctureImage: "images/courses/structure/master-ueh-UH.JPG"
 summary: " "
 
 ---
