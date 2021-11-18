@@ -16,7 +16,7 @@ The first generation of learners are managers, policymakers, entrepreneurs, rese
 
 **Have a look at the Executive Master Program of Smart City and Innovation Management at:**
 
-[https://bit.ly/ISCM_Master)
+[](https://bit.ly/ISCM_Master)
 
 <!--EndFragment-->
 
