@@ -12,7 +12,7 @@ image: "images/events/orientationday.jpg"
 \_\_\_\_\_\_\_\_\_\_\_\_
 
 The Institute of Smart Cities and Management (ISCM) is delighted to welcome the first generation of the Executive Master of Smart City and Innovation courses in 2021.
-The first generation of learners are managers, policymakers, entrepreneurs, researchers, etc. They will accompany ISCM in creating senior executive managers in the region public sector, urban sector, and planning towards smart cities and becoming creators of positive societal impacts. dsfkjsdhfkdshj2jkjhskfj
+The first generation of learners are managers, policymakers, entrepreneurs, researchers, etc. They will accompany ISCM in creating senior executive managers in the region public sector, urban sector, and planning towards smart cities and becoming creators of positive societal impacts. sdasdsaasd
 
 **Have a look at the Executive Master Program of Smart City and Innovation Management at:**
 
