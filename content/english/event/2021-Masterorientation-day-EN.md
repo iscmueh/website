@@ -28,7 +28,3 @@ The first generation of learners are managers, policymakers, entrepreneurs, rese
 * *Email:[ iscm@ueh.edu.vn]
 * *Website:[ iscm.ueh.edu.vn](https://iscm.ueh.edu.vn/)*
 * *Fanpage: [facebook/iscm.ueh](https://www.facebook.com/ISCM.UEH/)*
-
-**Addition.**
-asa
-
