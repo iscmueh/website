@@ -1,5 +1,5 @@
 ---
-title: "UEH Slogan Competition invitation: for the multi-disciplinary and sustainable UEH University"
+title: "UEH Slogan Competition Invitation: for the Multi-disciplinary and Sustainable UEH University"
 author: ISCM
 publishDate: "2021-09-09T09:00:00Z"
 bg_image: "images/backgrounds/page-title.jpg"

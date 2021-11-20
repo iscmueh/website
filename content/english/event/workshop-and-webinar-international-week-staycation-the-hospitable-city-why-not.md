@@ -1,5 +1,5 @@
 ---
-title: Workshop and webinar week "Staycation, the hospitable city - Why not?"
+title: Workshop and Webinar Week "Staycation, the Hospitable City - Why Not?"
 author: ISCM
 publishDate: "2021-03-01T08:00:00.000Z"
 bg_image: "images/backgrounds/page-title.jpg"

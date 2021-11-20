@@ -1,5 +1,5 @@
 ---
-title: "Judging Panel Event - Slogan Competition “For The Multidisciplinary And Sustainable UEH University"
+title: "Judging Panel Event - Slogan Competition “For The Multidisciplinary and Sustainable UEH University"
 author: ISCM
 publishDate: "2021-10-09T18:00:00Z"
 bg_image: "images/backgrounds/page-title.jpg"

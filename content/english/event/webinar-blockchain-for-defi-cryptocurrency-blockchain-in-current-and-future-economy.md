@@ -1,5 +1,5 @@
 ---
-title: "Blockchain for DeFi & Cryptocurrency: Blockchain in current and future economy"
+title: Webinar "Blockchain for DeFi & Cryptocurrency - Blockchain in Current and Future Economy"
 author: ISCM
 publishDate: "2021-06-21T15:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"

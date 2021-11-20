@@ -1,5 +1,5 @@
 ---
-title: "webinar “International webinar towards bldg. Resilient & Sustainable Communities through Disaster Mitigation"
+title: International Webinar towards bldg. Resilient & Sustainable Communities through Disaster Mitigation"
 author: ISCM
 publishDate: "2021-08-27T08:00:00Z"
 bg_image: "images/backgrounds/page-title.jpg"

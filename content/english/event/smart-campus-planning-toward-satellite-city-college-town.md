@@ -1,5 +1,5 @@
 ---
-title: SMART CAMPUS PLANNING TOWARD SATELLITE CITY & COLLEGE TOWN
+title: Smart Campus Planning toward Satellite City and College Town
 author: ISCM
 publishDate: "2020-09-25T11:00:00.000Z"
 bg_image: "images/backgrounds/page-title.jpg"
