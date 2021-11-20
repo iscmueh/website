@@ -1,5 +1,5 @@
 ---
-title: ORIENTATION DAY - CHÀO MỪNG KHÓA THẠC SỸ ĐIỀU HÀNH CAO CẤP - QUẢN LÝ ĐÔ THỊ THÔNG MINH VÀ SÁNG TẠO ĐẦU TIÊN CỦA ISCM
+title: Orientation Day - Chào Mừng Khóa Thạc Sỹ Điều Hành Cao Cấp - Quản Lý Đô Thị Thông Minh và Sáng Tạo Đầu Tiên
 author: ISCM
 publishDate: "2021-11-09T19:00:00Z"
 bg_image: "images/backgrounds/page-title.jpg"
