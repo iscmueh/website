@@ -11,8 +11,9 @@ image: "images/consultancy/traffic-safety-03.png"
 # type
 type: "research"
 
-summary: "A group of experienced and senior traffic engineers to help you conducting in-depth traffic impact assessment for your projects."
+summary: 
 
 weight: 4
 ---
 
+A group of experienced and senior traffic engineers to help you conducting in-depth traffic impact assessment for your projects.

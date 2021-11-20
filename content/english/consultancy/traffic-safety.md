@@ -11,8 +11,10 @@ image: "images/consultancy/traffic-safety-01.jpg"
 # type
 type: "research"
 
-summary: "Conducting field studies and analyzing traffic behaviors and risk factors affecting the traffic accidents and safety, and recommending solutions."
+summary: 
 
 weight: 6
 
 ---
+
+Conducting field studies and analyzing traffic behaviors and risk factors affecting the traffic accidents and safety, and recommending solutions.

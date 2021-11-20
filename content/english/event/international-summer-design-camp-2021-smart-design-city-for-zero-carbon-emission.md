@@ -1,5 +1,5 @@
 ---
-title: "INTERNATIONAL SUMMER DESIGN CAMP 2021: Smart Design City for Zero Carbon Emission"
+title: "International Summer Design Camp 2021: Smart Design City for Zero Carbon Emission"
 author: ISCM
 publishDate: "2021-06-07T00:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"

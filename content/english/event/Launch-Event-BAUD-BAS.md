@@ -1,5 +1,5 @@
 ---
-title: "Launch event: BAUD - BAS Dual-Degree Program"
+title: "Launch Event: BAUD - BAS Dual-Degree Program"
 author: ISCM
 publishDate: "2021-09-31T09:00:00Z"
 bg_image: "images/backgrounds/page-title.jpg"

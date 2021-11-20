@@ -1,5 +1,5 @@
 ---
-title: ORIENTATION DAY - MASTER OF SMART CITY AND INNOVATION MANAGMENT
+title: Orientation Day - Master of Smart City and Innovation Management
 publishDate: "2021-11-09T19:00:00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description : ""

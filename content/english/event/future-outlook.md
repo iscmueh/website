@@ -1,5 +1,5 @@
 ---
-title: FUTURE OUTLOOK
+title: Future Outlook 
 author: ISCM
 publishDate: "2020-09-22T18:00:00.00Z"
 description: " "

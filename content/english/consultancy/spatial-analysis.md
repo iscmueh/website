@@ -11,7 +11,9 @@ image: "images/consultancy/spatialgis-01.jpg"
 # type
 type: "research"
 
-summary: "Spatial analysis and visualization using GIS platforms and statistical models and tools for urban planning and management."
+summary: 
 weight: 2
 
 ---
+
+Spatial analysis and visualization using GIS platforms and statistical models and tools for urban planning and management.

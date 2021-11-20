@@ -5,13 +5,15 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : 
 # Research image
 image: "images/consultancy/spatialgis-01.jpg"
 # type
 type: "research"
 
-summary: "Phân tích và trực quan hóa không gian sử dụng nền tảng GIS, các mô hình thống kê và các công cụ để quy hoạch và quản lý đô thị."
+summary: 
 
 weight: 2
 ---
+
+Phân tích và trực quan hóa không gian sử dụng nền tảng GIS, các mô hình thống kê và các công cụ để quy hoạch và quản lý đô thị.

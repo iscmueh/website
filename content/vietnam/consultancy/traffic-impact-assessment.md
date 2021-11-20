@@ -5,15 +5,17 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : 
 # Research image
 image: "images/consultancy/traffic-safety-03.png"
 # type
 type: "research"
 
-summary: "Phân tích kĩ thuật và đánh giá tác động về giao thông liên quan tới các dự án xây dựng đô thị và cơ sở hạ tầng."
+summary: 
 
 weight: 4
 
 ---
+
+Phân tích kĩ thuật và đánh giá tác động về giao thông liên quan tới các dự án xây dựng đô thị và cơ sở hạ tầng.
 
