@@ -22,6 +22,6 @@ ISCM liên kết với các trường đối tác ở Châu Âu, Hàn Quốc, v�
 
 ISCM là viện nghiên cứu và giảng dạy hàng đầu của Việt Nam và khu vực Đông Nam Á trong lĩnh vực thiết kế và quản lý đô thị thông minh và bền vững, là nơi thu hút các tài năng trẻ tương lai đến học tập và nghiên cứu để cùng nhau nâng cao chất lượng cuộc sống đô thị, hướng tới phát triển cộng đồng bền vững thông qua phương pháp và nền tảng giáo dục tích hợp quốc tế, công nghệ, và các mô hình quản lý và mô hình toán tối ưu.
 
-### Nhiệm Vụ
+### Sứ mệnh
 
-Nâng cao chất lượng và môi trường đô thị bằng việc giáo dục xuất sắc, nghiên cứu chuyên sâu và các dự án giải quyết vấn đề về "Tuy nghĩ toàn cầu - Hành động địa phương". Giáo dục sinh viên thế hệ mới về tư duy sáng tạo và phê phán, tri thức toàn cầu, kỹ năng chuyên môn, nhận thức bền vững. Phát triển hệ thống phòng thí nghiệm Smart City tích hợp tiên tiến nhất với đủ không gian và thiết bị để phân tích toàn diện và sâu. Tác động lên lập kế hoạch, thiết kế và quản lý đô thị bằng cách thay đổi cách suy nghĩ và tham gia của cộng đồng, chính quyền địa phương và các bên liên quan.
+Nâng cao chất lượng và môi trường đô thị bằng việc giáo dục xuất sắc, nghiên cứu chuyên sâu và các dự án giải quyết vấn đề về "Tuy nghĩ toàn cầu - Hành động địa phương". Giáo dục sinh viên thế hệ mới về tư duy sáng tạo và phản biện, tri thức toàn cầu, kỹ năng chuyên môn, nhận thức bền vững. Phát triển hệ thống phòng thí nghiệm Smart City tích hợp tiên tiến nhất với đủ không gian và thiết bị để phân tích toàn diện . Tác động lên lập kế hoạch, thiết kế và quản lý đô thị bằng cách thay đổi cách suy nghĩ và tham gia của cộng đồng, chính quyền địa phương và các bên liên quan.
