@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/dung.jpg"
 # course
-course: "Thư ký"
+course: "Thư Ký"
 position: ""
 # biograph
 bio: ""

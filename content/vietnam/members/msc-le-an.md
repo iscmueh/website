@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/TAN.JPG"
 # course
-course: "Nghiên cứu viên"
+course: "Nghiên Cứu Viên"
 position: ""
 # biograph
 bio: "Before joining ISCM, An had one year working as a developer for a well-known Japanese corporation, and a Vietnamese start-up developing enterprise. During this time, he had published two significant works: interactive digital signage and an education website. Currently, he is the youngest IT-Researcher at ISCM, mainly in charge of a platform for Interactive Simulation of

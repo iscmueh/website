@@ -1,5 +1,5 @@
 ---
-title: "Tiến Sĩ Lê Thanh Nam"
+title: "TS. Lê Thanh Nam"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,7 +8,7 @@ description : ""
 # teacher portrait
 image: "images/team/NamLe-color.png"
 # course
-course: "Senior Lecturer"
+course: "Giảng Viên Cao Cấp"
 position: "Director"
 # biograph
 bio: "Nghiên cứu và giảng dạy liên quan đến việc phát triển và ứng dụng các mô hình toán thống kê, toán tối ưu, phân tích dữ liệu lớn, và GIS trong lĩnh vực quản lý cơ sở hạ tầng kĩ thuật đô thị."
