@@ -64,16 +64,16 @@
                 href="https://www.iscm.ueh.edu.vn/competition/smartcityplus/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/scholarship/scholarship-1/</loc>
+    <loc>https://www.iscm.ueh.edu.vn/scholarship/undergraduate-international-students/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/scholarship/scholarship-1/"
+                href="https://www.iscm.ueh.edu.vn/vi/scholarship/undergraduate-international-students/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/scholarship/scholarship-1/"
+                href="https://www.iscm.ueh.edu.vn/scholarship/undergraduate-international-students/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/hasselt-uni/</loc>
@@ -138,6 +138,18 @@
                 href="https://www.iscm.ueh.edu.vn/advisory/dr-hyung-tae-gun/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/scholarship/graduate-international-students/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/scholarship/graduate-international-students/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/scholarship/graduate-international-students/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/members/dr-rob/</loc>
     <xhtml:link
                 rel="alternate"
@@ -198,6 +210,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.iscm.ueh.edu.vn/advisory/dr-park-young-june/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/scholarship/international-phds/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/scholarship/international-phds/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/scholarship/international-phds/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/consultancy/traffic-impact-assessment/</loc>

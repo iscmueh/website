@@ -64,6 +64,18 @@
                 href="https://www.iscm.ueh.edu.vn/vi/members/dr-trinh-tu-anh/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/scholarship/undergraduate-international-students/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/scholarship/undergraduate-international-students/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/scholarship/undergraduate-international-students/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/partner/hasselt-uni/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -126,6 +138,18 @@
                 href="https://www.iscm.ueh.edu.vn/vi/activities/arttech/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/scholarship/graduate-international-students/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/scholarship/graduate-international-students/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/scholarship/graduate-international-students/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/members/dr-rob/</loc>
     <xhtml:link
                 rel="alternate"
@@ -174,6 +198,18 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://www.iscm.ueh.edu.vn/vi/advisory/dr-park-young-june/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/scholarship/international-phds/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/scholarship/international-phds/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/scholarship/international-phds/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/members/dr-ducsu-seo/</loc>
@@ -1431,18 +1467,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://www.iscm.ueh.edu.vn/vi/recruit/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/scholarship/scholarship-1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/scholarship/scholarship-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/scholarship/scholarship-1/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/research/zero-waste/</loc>
