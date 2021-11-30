@@ -1,5 +1,5 @@
 ---
-title: "M.Sc LOC Duong Quy"
+title: "M.Sc Loc Duong Quy"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
