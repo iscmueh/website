@@ -1,5 +1,5 @@
 ---
-title: "Thạc Sĩ Phạm Nguyễn Hoài"
+title: "ThS. Phạm Nguyễn Hoài"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "ThS. KTS Trần Thị Quỳnh Mai"
+title: "ThS. Trần Thị Quỳnh Mai"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
