@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "."
 # teacher portrait
-image: "images/team/TRI.jpg"
+image: "images/team/Hoai.jpg"
 # course
 course: "Giảng viên"
 position: ""

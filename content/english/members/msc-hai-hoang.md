@@ -1,5 +1,5 @@
 ---
-title: "MSc. Hai Hoang"
+title: "M.Sc. Hai Hoang"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
