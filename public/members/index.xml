@@ -152,15 +152,6 @@
     </item>
     
     <item>
-      <title>ME. Loc Duong Quy</title>
-      <link>https://iscmueh.github.io/members/me-duongquyloc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/members/me-duongquyloc/</guid>
-      <description>Academic and Research Profile  Master of Engineering, Urban and Transportation planning, Kongju National University, Korea (2019) Bachelor, Urban planning, Ton Duc Thang University, Vietnam (2017)  </description>
-    </item>
-    
-    <item>
       <title>MSc. Hai Hoang</title>
       <link>https://iscmueh.github.io/members/msc-hai-hoang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -178,7 +169,6 @@
       <description>Academic and Research Profile  Master, KU Leuven University, Belgium (2017) Bachelor, University of Architecture Ho Chi Minh city &amp;amp; KU Leuven University (2016)  </description>
     </item>
     
-<<<<<<< HEAD
     <item>
       <title>Intern.  Le Trung Ba Van (Ivan)</title>
       <link>https://iscmueh.github.io/members/intern-le-trung-ba-van/</link>
@@ -206,7 +196,5 @@
       <description>In charge of creating education platform through Adobe Captive for the Institute.</description>
     </item>
     
-=======
->>>>>>> 6b83279024089181f90b75a17063d4cea38f804e
   </channel>
 </rss>

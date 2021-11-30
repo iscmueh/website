@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
-<<<<<<< HEAD
     <lastBuildDate>Tue, 09 Nov 2021 19:00:00 +0000</lastBuildDate><atom:link href="https://iscmueh.github.io/vi/index.xml" rel="self" type="application/rss+xml" />
-=======
-    <lastBuildDate>Wed, 27 Oct 2021 09:00:00 +0000</lastBuildDate><atom:link href="https://iscmueh.github.io/vi/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 6b83279024089181f90b75a17063d4cea38f804e
     <item>
       <title>Handong Global University</title>
       <link>https://iscmueh.github.io/vi/partner/handong-global-uni/</link>
@@ -427,22 +423,8 @@
     </item>
     
     <item>
-<<<<<<< HEAD
-      <title>ME. Loc Duong Quy</title>
-      <link>https://iscmueh.github.io/vi/members/me-duongquyloc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/members/me-duongquyloc/</guid>
-      <description>Qualifications  Master of Engineering, Urban and Transportation planning, Kongju National University, Korea (2019) Bachelor, Urban planning, Ton Duc Thang University, Vietnam (2017)  </description>
-    </item>
-    
-    <item>
-      <title>Thạc sĩ Đỗ Lê Phúc Tâm</title>
-      <link>https://iscmueh.github.io/vi/members/msc-tam-do/</link>
-=======
       <title>ThS. Lại PHương Dung</title>
       <link>https://iscmueh.github.io/vi/members/phuong-dung/</link>
->>>>>>> 6b83279024089181f90b75a17063d4cea38f804e
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iscmueh.github.io/vi/members/phuong-dung/</guid>
@@ -468,7 +450,6 @@
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>Lê Trung Bá Văn</title>
       <link>https://iscmueh.github.io/vi/members/intern-le-trung-ba-van/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -506,13 +487,6 @@ Viện Đô thị thông minh và Quản lý (ISCM) rất vui và chào đón th
     </item>
     
     <item>
-      <title>Tư vấn tuyển sinh</title>
-      <link>https://iscmueh.github.io/vi/event/tu-van-tuyen-sinh-vn/</link>
-      <pubDate>Mon, 16 Aug 2021 15:00:00 +0000</pubDate>
-      
-      <guid>https://iscmueh.github.io/vi/event/tu-van-tuyen-sinh-vn/</guid>
-      <description>About Event Chọn ngành là việc không dễ dàng đối với các bạn học sinh và các bậc phụ huynh.</description>
-=======
       <title>Kỷ niệm 45 năm thành lập Trường Đại học Kinh tế TP. Hồ Chí Minh hướng đến Đại học UEH Đa ngành và Bền vững</title>
       <link>https://iscmueh.github.io/vi/event/45-nam/</link>
       <pubDate>Wed, 27 Oct 2021 09:00:00 +0000</pubDate>
@@ -565,7 +539,15 @@ Tiếp nối thành công rực rỡ của cuộc thi thiết kế online quốc
       
       <guid>https://iscmueh.github.io/vi/event/international-webinar-toward-bldg/</guid>
       <description>About Event Webinar với chủ đề: “International webinar towards bldg. resilient &amp;amp; sustainable communities through disaster mitigation” được tổ chức bởi University of Northern Philippines, University of The Cordilleras và Nueva Ecija University of Science and Technology sẽ diễn ra trong 2 ngày 27, 28 tháng 8 sắp tới.</description>
->>>>>>> 6b83279024089181f90b75a17063d4cea38f804e
+    </item>
+    
+    <item>
+      <title>Tư vấn tuyển sinh</title>
+      <link>https://iscmueh.github.io/vi/event/tu-van-tuyen-sinh-vn/</link>
+      <pubDate>Mon, 16 Aug 2021 15:00:00 +0000</pubDate>
+      
+      <guid>https://iscmueh.github.io/vi/event/tu-van-tuyen-sinh-vn/</guid>
+      <description>About Event Chọn ngành là việc không dễ dàng đối với các bạn học sinh và các bậc phụ huynh.</description>
     </item>
     
     <item>
