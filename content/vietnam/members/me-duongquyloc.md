@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "."
 # teacher portrait
-image: "images/team/DQL.jpg"
+image: "images/team/Loc.jpg"
 # course
 course: "Giảng Viên"
 position: ""
@@ -57,5 +57,5 @@ weight: 12
 
 ### Tiểu Sử Nghiên Cứu và Học Thuật
 
-* Thạc sĩ kỹ thuật, Quy hoạch giao thôn và đô thị, Đại học QUốc gia Kongju, Hàn Quốc (2019)
-* Cử nhân, Quy hoạch đô thị, Đại học Tôn Đức Thắng, Việt Nam (2017)
+* Thạc sĩ Khoa học Kỹ thuật, Quy hoạch Giao thông và Đô thị, Đại học QUốc gia Kongju, Hàn Quốc (2019)
+* Cử nhân, Quy hoạch Đô thị, Đại học Tôn Đức Thắng, Việt Nam (2017)

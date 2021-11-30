@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # teacher portrait
-image: "images/team/Ngoc.jpg"
+image: "images/team/Ngoc2.jpg"
 # course
 course: "Researcher"
 position: ""

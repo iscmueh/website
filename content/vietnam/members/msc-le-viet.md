@@ -1,12 +1,12 @@
 ---
-title: "Cử Nhân Lê Quốc Việt"
+title: "CN. Lê Quốc Việt"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "."
 # teacher portrait
-image: "images/team/LV.jpg"
+image: "images/team/Viet.jpg"
 # course
 course: "Quản Lý StudioLab"
 position: ""

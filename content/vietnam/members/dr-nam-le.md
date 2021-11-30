@@ -1,5 +1,5 @@
 ---
-title: "Tiến Sĩ Lê Thanh Nam"
+title: "TS. Lê Thanh Nam"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"

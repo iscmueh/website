@@ -1,12 +1,12 @@
 ---
-title: "Tiến Sĩ Nguyễn Thị Ngọc"
+title: "TS. Nguyễn Thị Ngọc"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "."
 # teacher portrait
-image: "images/team/Ngoc.jpg"
+image: "images/team/Ngoc2.jpg"
 # course
 course: "Nghiên Cứu Viên"
 position: ""
