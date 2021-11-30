@@ -537,18 +537,6 @@
                 href="https://www.iscm.ueh.edu.vn/vi/partner/unai/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/members/msc-hanhan/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/members/msc-hanhan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/members/msc-hanhan/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/members/me-duongquyloc/</loc>
     <xhtml:link
                 rel="alternate"
@@ -559,6 +547,18 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://www.iscm.ueh.edu.vn/vi/members/me-duongquyloc/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/members/msc-hanhan/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/members/msc-hanhan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/members/msc-hanhan/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/members/msc-le-an/</loc>
