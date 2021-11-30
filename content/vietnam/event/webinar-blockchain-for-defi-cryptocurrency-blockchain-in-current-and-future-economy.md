@@ -1,5 +1,5 @@
 ---
-title: "Blockchain for DeFi & Cryptocurrency: Blockchain in current and future economy"
+title: "Hội Thảo Trực Tuyến: Blockchain for DeFi & Cryptocurrency: Blockchain in current and future economy"
 author: ISCM
 publishDate: "2021-06-21T15:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"

@@ -1,5 +1,5 @@
 ---
-title: On the line of SMARTCITY+ Arttech Fusion Program of ISCM Event Series 2021
+title: "Chương Trình Arttech Fusion: Một Phần Chuỗi Sự Kiện ISCM 2021"
 author: ISCM
 publishDate: "2021-01-13T07:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"

@@ -1,5 +1,5 @@
 ---
-title: Unviersity of Economics Ho Chi Minh City hosted the Southeast Region of the national festival for innovative startups – TECHFEST 2020
+title: Đại Học Kinh Tế TP. Hồ Chí Minh Tổ Chức Southeast Region of the National Festival for Innovative Startups – TECHFEST 2020
 author: ISCM
 publishDate: "2020-11-25T05:36:00.000Z"
 bg_image: "images/backgrounds/page-title.jpg"

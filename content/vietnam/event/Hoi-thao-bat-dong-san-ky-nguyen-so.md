@@ -1,5 +1,5 @@
 ---
-title: "Hội thảo trực tuyến: R&D - Nghiên cứu phát triển bất động sản kỷ nguyên số"
+title: "Hội Thảo Trực Tuyến: R&D - Nghiên Cứu Phát Triển Bất Động Sản Kỷ Nguyên Số"
 author: ISCM
 publishDate: "2021-10-09T18:00:00Z"
 bg_image: "images/events/Hoi-thao-bat-dong-san-ky-nguyen-so.jpg"

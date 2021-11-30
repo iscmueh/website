@@ -1,5 +1,5 @@
 ---
-title: Thiết kế đô thị tầm nhìn vững chắc cho đô thị bền vững
+title: Thiết Kế Đô Thị Tầm Nhìn Vững Chắc Cho Đô Thị Bền Vững
 author: ISCM
 publishDate: "2021-03-25T09:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"
