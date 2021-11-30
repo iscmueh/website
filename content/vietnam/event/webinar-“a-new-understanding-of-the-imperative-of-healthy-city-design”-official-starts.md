@@ -1,6 +1,5 @@
 ---
 title: Hội Thảo Trực Tuyến “A New Understanding of the Imperative of Healthy City Design”
-  OFFICIAL STARTS
 author: ISCM
 publishDate: "2021-03-25T09:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"
