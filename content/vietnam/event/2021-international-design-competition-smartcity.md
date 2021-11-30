@@ -1,5 +1,5 @@
 ---
-title: INTERNATIONAL DESIGN COMPETITION SMARTCITY+
+title: International Design Competition SMARTCITY+
 author: ISCM
 publishDate: "2021-08-31T09:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"
