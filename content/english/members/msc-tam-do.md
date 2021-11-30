@@ -1,12 +1,12 @@
 ---
-title: "M.Sc Tam Do"
+title: "M.Sc. Tam Do"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "."
 # teacher portrait
-image: "images/team/Tam.png"
+image: "images/team/Tam1.jpg"
 # course
 course: "Lecturer"
 position: ""

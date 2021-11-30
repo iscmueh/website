@@ -1,12 +1,12 @@
 ---
-title: "ME. LOC Duong Quy"
+title: "M.Sc. Loc Duong Quy"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "."
 # teacher portrait
-image: "images/team/DQL.jpg"
+image: "images/team/Loc.jpg"
 # course
 course: "Lecturer"
 position: ""
@@ -57,5 +57,5 @@ weight: 12
 
 ### Academic and Research Profile
 
-* Master of Engineering, Urban and Transportation planning, Kongju National University, Korea (2019)
+* Master of Science in Engineering, Urban and Transportation planning, Kongju National University, Korea (2019)
 * Bachelor, Urban planning, Ton Duc Thang University, Vietnam (2017)
