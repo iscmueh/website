@@ -1,5 +1,5 @@
 ---
-title: INNOVATIVE APPROACH
+title: "Hội Thảo Trực Tuyến: Innovative Approach"
 author: ISCM
 publishDate: "2020-09-24T15:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"
@@ -9,32 +9,32 @@ image: /images/events/innovation-approach.jpg
 ---
 <!--StartFragment-->
 
-Để thích nghi với sự phát triển nhanh chóng và đô thị hoá, những cách tiếp cận sáng tạo và sáng tạo nào sẽ phù hợp để giải quyết hoặc loại bỏ các vấn đề đô thị đối với phát triển các thành phố thông minh? Câu hỏi này sẽ được thảo luận để truyền cảm hứng cho "Cách tiếp cận sáng tạo" trong Ban thảo luận số 3 của Hội nghị đã chủ trì và mời các chuyên gia từ các trường đại học và viện hàng đầu như ISCM-UEH, Đại học Ton Duk Thang (Việt Nam), LeCnam (Pháp). Cuộc thảo luận này là một trong những hoạt động của loạt sự kiện "Định hình tương lai chưa biết đến đối với thành phố thông minh" do Viện Thành phố Thông minh (ISCM), Đại học Kinh tế và Thành phố Hồ Chí Minh (UEH) tổ chức và hơn 20 trường đại học trong và ngoài nước, các công ty, NGO, địa phương trên toàn thế giới.
+Để thích nghi với sự phát triển nhanh chóng và đô thị hoá, những cách tiếp cận sáng tạo nào sẽ phù hợp để giải quyết các vấn đề đô thị đối với phát triển các thành phố thông minh? Câu hỏi này sẽ được thảo luận để truyền cảm hứng cho "Cách tiếp cận sáng tạo" trong Phiên thảo luận số 3. Chương trình có sự tham gia các chuyên gia từ các trường đại học và viện nghiên cứu, đào tạo hàng đầu như ISCM-UEH, Đại học Ton Duk Thang (Việt Nam), và LeCnam (Pháp). Phiên thảo luận là một trong những hoạt động của loạt sự kiện "Định hình tương lai chưa biết đến đối với thành phố thông minh" do ISCM-UEH tổ chức cùng với sự tham dự của hơn 20 trường đại học trong và ngoài nước, các công ty, NGO, địa phương trên toàn thế giới.
 
-Người tham gia sẽ được công nhận theo các phiên họp vào thứ Năm ngày 24 tháng 9 năm 2020 lúc 2 giờ chiều –3.10 tối (UTC+7):
+Thời gian: Thứ Năm ngày 24 tháng 9 năm 2020, lúc 14:00 – 15:10 (UTC+7):
 
-Từ máy dò thông minh và vật liệu sinh thái để áp dụng lò ấp khoa học;
+* Từ máy dò thông minh (smart detector) và vật liệu sinh thái đến vườn ươm ứng dụng khoa học;
 
-Các thị trấn thông minh, đổi mới và có thể sống được: Các nghiên cứu trường hợp của Nhật Bản và một mô hình tầm nhìn cho Việt Nam
+* Các thị trấn thông minh, đổi mới và sống động: Nghiên cứu trường hợp của Nhật Bản và một mô hình tầm nhìn cho Việt Nam
 
-Các thành phố thông minh và lập kế hoạch kịch bản: làm thế nào để dự đoán những điều "không thể tưởng tượng"?
+* Các thành phố thông minh và quy hoạch: làm thế nào để dự đoán những điều "không thể tưởng tượng"?
 
-Cùng với nhugn74 diễn giả:
+Cùng với các diễn giả:
 
-Prof. Karim Medjad, CNAM university, France
+GS. Karim Medjad, Đại học CNAM, Pháp
 
-Dr. To Kien, Affiliate of Institute of Smart City and Management, UEH, Senior Planner and Manager, Eight-Japan Engineering Consultant Inc. Japan
+TS. Tô Kiên, ISCM-UEH, Nhà quản lý và hoạch định cấp cao, Công ty Eight-Japan Engineering Consultant, Nhật Bản
 
-Dr. Vu Kim Oanh, International Coordinator, CNAM university, France
+TS. Vũ Kim Oanh, Điều phối viên quốc tế, Đại học CNAM, Pháp
 
-Dr. Tu Anh Trinh, Director, Institute of Smart City and Management, University of Economics HCMC, Vietnam
+TS. Trịnh Tú Anh, Giám đốc UEH-ISCM
 
-Dr. Pham Anh Duc, Vice Dean, Faculty of Environment and Labour Safety, Ton Duc Thang University, Vietnam
+TS. Phạm Anh Đức, Phó trưởng Khoa Môi trường và bảo hộ lao động, Đại học Tôn Đức Thắng, Việt Nam
 
-Dr. Tang Van Tai, Faculty of Environment and Labour Safety, Ton Duc Thang University, Vietnam
+TS. Tawgn Văn Tài, Khoa Môi trường và bảo hộ lao động, Đại học Tôn Đức Thắng, Việt Nam
 
-Nguyen Thi Phuong Thao, Head, UEH Institute of Innovation, University of Economics HCMC, Vietnam
+ThS. Nguyễn Thị Phương Thảo, Trưởng Viện Đổi mới sáng tạo, UEH, Việt Nam
 
-Join us on Thursday, 24th September 2020 at 2.00pm –3.10pm (UTC+7)
+
 
 <!--EndFragment-->

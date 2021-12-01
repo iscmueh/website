@@ -1,5 +1,5 @@
 ---
-title: "Sự kiện ra mắt chương trình bằng kép BAUD - BAS"
+title: "Sự Kiện Ra Mắt Chương Trình Song Bằng BAUD - BAS"
 author: ISCM
 publishDate: "2021-09-31T09:00:00Z"
 bg_image: "images/backgrounds/page-title.jpg"

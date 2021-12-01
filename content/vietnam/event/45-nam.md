@@ -1,5 +1,5 @@
 ---
-title: "Kỷ niệm 45 năm thành lập Trường Đại học Kinh tế TP. Hồ Chí Minh hướng đến Đại học UEH Đa ngành và Bền vững"
+title: "Kỷ Niệm 45 Năm Thành Lập Trường Đại học Kinh Tế TP. Hồ Chí Minh Hướng Đến Đại Học UEH Đa Ngành và Bền Vững"
 author: ISCM
 publishDate: "2021-10-27T09:00:00Z"
 bg_image: "images/events/45-nam.jpg"

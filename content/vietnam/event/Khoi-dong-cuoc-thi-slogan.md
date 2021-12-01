@@ -1,5 +1,5 @@
 ---
-title: "Khởi động cuộc thi sáng tác Slogan: Cùng viết câu chuyện đại học UEH đa ngành và bền vững"
+title: "Khởi Động Cuộc Thi Sáng Tác Slogan: Cùng Viết Câu Chuyện Đại Học UEH Đa Ngành và Bền Vững"
 author: ISCM
 publishDate: "2021-09-09T09:00:00Z"
 bg_image: "images/backgrounds/page-title.jpg"

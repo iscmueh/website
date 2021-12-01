@@ -1,5 +1,5 @@
 ---
-title: THE OPENING CEREMONY OF THE CITY SCIENCE LAB @ HO CHI MINH CITY
+title: Khánh Thành City Science Lab tại Thành Phố Hồ Chí Minh
 author: ISCM
 publishDate: "2021-04-22T09:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"
