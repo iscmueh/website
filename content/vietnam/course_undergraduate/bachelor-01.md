@@ -13,7 +13,7 @@ category: "Đại Học"
 # teacher
 #teacher: "Clark Malik"
 # duration
-duration : "3.5 - 5 years"
+duration : "3.5 năm"
 # weekly
 #weekly : "03 hours"
 # course fee
