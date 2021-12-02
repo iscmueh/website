@@ -13,7 +13,7 @@ category: "under-graduate"
 # teacher
 #teacher: "Clark Malik"
 # duration
-duration : "3.5 - 5 years"
+duration : "3.5 years"
 # weekly
 #weekly : "03 hours"
 # course fee
