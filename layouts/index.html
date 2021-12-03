@@ -5,10 +5,9 @@
 <!-- hero slider -->
 {{ if $data.homepage.slider.enable }}
 {{ with $data.homepage.slider }}
-<section class="hero-section overlay bg-cover" data-background="{{ .bg_image | absURL }}">
-  <div class="container">
+<div class="header-section overlay bg-cover" data-background="{{ .bg_image | absURL }}">
+  <!-- <div class="container">
     <div class="hero-slider">
-      <!-- slider item -->
       {{ range .slider_item }}
       <div class="hero-slider-item">
         <div class="row">
@@ -24,8 +23,20 @@
       </div>
       {{ end }}
     </div>
+  </div> -->
+
+    <div style="background-color: gray; width: 100%; height: 100%;">
+      <div style="z-index: 999; background-color: rgba(20, 20, 89, 0.7); width: 100%; text-align: center; padding-top: 320px; height: 100%; position: absolute;">
+        <h2 class="text-layout" style="z-index: 999;"> 
+          Institute of Smart City and Management 
+        </h2>
+      </div>
+      <video autoplay loop muted style="object-fit: cover;  width: 100%; height: 100%; background-color: black;">
+        <source src="{{ .bg_video | absURL }}" type="video/mp4">
+      </video> 
+    </div>
   </div>
-</section>
+</div>
 {{ end }}
 {{ end }}
 <!-- /hero slider -->
@@ -172,6 +183,12 @@
       <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
         {{ .Render "event" }}
       </div>
+      <!-- <div class= "row-content">
+        <div class="row-design">
+          {{ .Render "event" }}
+        </div>
+    </div>
+       -->
       {{ end }}
     </div>
     <!-- mobile see all button -->

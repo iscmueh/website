@@ -588,6 +588,11 @@ ul > li {
 .hero-section {
   padding: 250px 0 290px; }
 
+.header-section {
+  width: 100%;
+  height: 600px;
+  position: relative; }
+
 .hero-slider .prevArrow,
 .hero-slider .nextArrow {
   position: absolute;
@@ -631,6 +636,31 @@ ul > li {
       background: rgba(255, 255, 255, 0.5);
       border: 0;
       outline: 0; }
+
+.text-layout {
+  text-shadow: 1px 1px 4px;
+  max-width: 62.25rem;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden !important;
+  color: whitesmoke;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; }
+
+.row-design {
+  height: 290px;
+  width: 300px;
+  overflow: hidden;
+  text-overflow: ellipsis; }
+
+.row-content {
+  height: 350px;
+  width: 300px;
+  margin: 30px;
+  overflow: hidden;
+  transition: width .35s ease-in-out;
+  text-overflow: ellipsis; }
+  .row-content:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
 
 /* banner feature */
 .feature-icon {

@@ -2,6 +2,7 @@
 slider:
   enable : true
   bg_image : "images/banner/banner-1.jpg"
+  bg_video : "images/backgrounds/bg-video.mp4"
   slider_item:
     # slider item loop
     - title : "Smart cities are livable cities"

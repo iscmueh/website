@@ -49,7 +49,7 @@ logo = "images/logoiscm.png"
 description = "Institute of Smart City and Management, University of Economics Ho Chi Minh"
 author = "ISCM"
 # contact info
-address = "232/6 Vo Thi Sau Str, District 3, Ho Chi Minh City"
+address = "232/6 Vo Thi Sau Str, District 3, Ho Chi Minh City, Vietnam"
 mobile = "+84-28-3930-9589/ +84-28-3930-9269"
 email = "iscm@ueh.edu.vn"
 # contact form action
@@ -59,9 +59,10 @@ google_analitycs_id = "" # your id
 # top header
 top_header = true
 
+bg = "images/banner-1.jpg"
 ueh_logo = "images/ueh-logo.png"
 ueh_ctd_logo = "images/ueh-logo-std.png"
-ueh_address = "59C Nguyen Dinh Chieu Street, District 3, Ho Chi Minh City, Vietnam"
+ueh_address = "59C Nguyen Dinh Chieu Str, District 3, Ho Chi Minh City, Viet nam"
 ueh_mobile = "+84-28-3829-5299/ +84-28-3829-5299"
 ueh_email = "info@ueh.edu.vn"
 
