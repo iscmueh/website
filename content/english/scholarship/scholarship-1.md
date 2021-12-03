@@ -11,13 +11,5 @@ description : ""
 weight: 1
 ---
 
-
-### 100 Scholarships for Undergraduate International Students:
-[Please visit us here for detailed information] (https://ueh.edu.vn/en/outreach/students/admissions/international-scholarship/)
-
-### 50 Scholarships for Graduate International Students:
-[Please visit us here for detailed information] (https://ueh.edu.vn/en/outreach/students/admissions/international-scholarship/)
-
-### 20 Scholarships for International PhDs:
-[Please visit us here for detailed information] (https://ueh.edu.vn/en/outreach/students/admissions/international-scholarship/)
+[Click HERE for detailed information](https://ueh.edu.vn/en/outreach/students/admissions/international-scholarship/)
 
