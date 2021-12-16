@@ -586,16 +586,6 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/members/me-duongquyloc/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/members/me-duongquyloc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/members/me-duongquyloc/"
-                />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/members/msc-le-an/</loc>
     <xhtml:link
@@ -682,7 +672,7 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/</loc>
-    <lastmod>2021-11-09T19:00:00+00:00</lastmod>
+    <lastmod>2021-12-16T19:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -695,7 +685,7 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/</loc>
-    <lastmod>2021-11-09T19:00:00+00:00</lastmod>
+    <lastmod>2021-12-16T19:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -707,8 +697,83 @@
                 href="https://www.iscm.ueh.edu.vn/event/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/event/2021-masterorientation-day-en/</loc>
+    <loc>https://www.iscm.ueh.edu.vn/event/2021-smartcity&#43;_webinar/</loc>
+    <lastmod>2021-12-16T19:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2021-smartcity&#43;_webinar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/event/2021-smartcity&#43;_webinar/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2021-smartcity&#43;/</loc>
+    <lastmod>2021-12-15T19:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2021-smartcity&#43;/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/event/2021-smartcity&#43;/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2021-ba-orientation-day/</loc>
+    <lastmod>2021-11-30T19:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2021-ba-orientation-day/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/event/2021-ba-orientation-day/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2021-overview-of-smart-city-development/</loc>
+    <lastmod>2021-11-30T19:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2021-overview-of-smart-city-development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/event/2021-overview-of-smart-city-development/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2021-smart-sustainable-cities/</loc>
+    <lastmod>2021-11-29T19:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2021-smart-sustainable-cities/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/event/2021-smart-sustainable-cities/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2021-masterorientation-day/</loc>
     <lastmod>2021-11-09T19:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2021-masterorientation-day/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/event/2021-masterorientation-day/"
+                />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/slogan/</loc>
     <lastmod>2021-10-09T18:00:00+00:00</lastmod>
@@ -1075,6 +1140,9 @@
                 hreflang="en"
                 href="https://www.iscm.ueh.edu.vn/course_undergraduate/"
                 />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/course_undergraduate/bachelor-joint/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/course_graduate/master-02/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
