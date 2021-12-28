@@ -52,20 +52,20 @@ contact:
 
 # type
 type: "teacher"
-weight: 6
+weight: 2
 ---
 
 ### Academic and Research Profile
-* Professor, Kongju National University (2012 – Now)
-* Visiting Professor, The University of the Philippines (2010 – 2011)
-* Associate Professor, Kongju National University (2007 – 2012)
-* Assistant Professor, Kongju National University (2004 – 2007)
-* Senior Researcher, Chung-Nam Development Institute (1996 – 2004)
-* Researcher, Korea Forest Research Institute (1995)
-* Chief of Planning Department, Geonggi Development Institute (1993 – 1994)
-* Ph.D. in Agricultural Economics, Kyusyu National University, Japan (1990 – 1993)
-* M.S in Agricultural Economics, Obihiro National University, Japan (1988 – 1990)
-* Ph. D course in Agricultural Education at Seoul National University, Korea (1985 – 1988)
-* Assistant, Seoul National University (1984 – 1986)
-* M.S in Agricultural Education at Seoul National University, Korea (1983 – 1985)
-* B.A in Agricultural Education at College of Agriculture, Seoul National University, Korea (1976 – 1980)
+1. * Professor, Kongju National University (2012 – Now)
+2. * Visiting Professor, The University of the Philippines (2010 – 2011)
+3. * Associate Professor, Kongju National University (2007 – 2012)
+4. * Assistant Professor, Kongju National University (2004 – 2007)
+5. * Senior Researcher, Chung-Nam Development Institute (1996 – 2004)
+6. * Researcher, Korea Forest Research Institute (1995)
+7. * Chief of Planning Department, Geonggi Development Institute (1993 – 1994)
+8. * Ph.D. in Agricultural Economics, Kyusyu National University, Japan (1990 – 1993)
+9. * M.S in Agricultural Economics, Obihiro National University, Japan (1988 – 1990)
+10. * Ph. D course in Agricultural Education at Seoul National University, Korea (1985 – 1988)
+11. * Assistant, Seoul National University (1984 – 1986)
+12. * M.S in Agricultural Education at Seoul National University, Korea (1983 – 1985)
+13. * B.A in Agricultural Education at College of Agriculture, Seoul National University, Korea (1976 – 1980)

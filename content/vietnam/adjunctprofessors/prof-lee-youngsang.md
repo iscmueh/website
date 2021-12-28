@@ -52,20 +52,20 @@ contact:
 
 # type
 type: "teacher"
-weight: 6
+weight: 2
 ---
 
 ### Tiểu Sử Nghiên Cứu và Học Thuật
-* Giáo sư, Đại học Quốc gia Kongju (2012 - Hiện tại)
-* Giáo sư thỉnh giảng, Đại học Philippines (2010 - 2011)
-* Phó Giáo sư, Đại học Quốc gia Kongju (2007 - 2012)
-* Trợ lý Giáo sư, Đại học Quốc gia Kongju (2004 - 2007)
-* Nghiên cứu viên cao cấp, Viện Phát triển Chung-Nam (1996 - 2004)
-* Nghiên cứu viên, Viện Nghiên cứu Rừng Hàn Quốc (1995)
-* Trưởng phòng Kế hoạch, Viện Phát triển Geonggi (1993 - 1994)
-* Tiến sĩ Kinh tế Nông nghiệp, Đại học Quốc gia Kyusyu, Nhật Bản (1990 - 1993)
-* Thạc sĩ Kinh tế Nông nghiệp, Đại học Quốc gia Obihiro, Nhật Bản (1988-1990)
-* Khóa học Tiến sĩ về Giáo dục Nông nghiệp tại Đại học Quốc gia Seoul, Hàn Quốc (1985 - 1988)
-* Trợ lý, Đại học Quốc gia Seoul (1984 - 1986)
-* Thạc sĩ khoa học Giáo dục Nông nghiệp, Đại học Quốc gia Seoul, Hàn Quốc (1983 - 1985)
-* Cử nhân Sư phạm nông nghiệp,Trường Cao đẳng Nông nghiệp, Đại học Quốc gia Seoul, Hàn Quốc (1976 - 1980)
+1. * Giáo sư, Đại học Quốc gia Kongju (2012 - Hiện tại)
+1. * Giáo sư thỉnh giảng, Đại học Philippines (2010 - 2011)
+1. * Phó Giáo sư, Đại học Quốc gia Kongju (2007 - 2012)
+1. * Trợ lý Giáo sư, Đại học Quốc gia Kongju (2004 - 2007)
+1. * Nghiên cứu viên cao cấp, Viện Phát triển Chung-Nam (1996 - 2004)
+1. * Nghiên cứu viên, Viện Nghiên cứu Rừng Hàn Quốc (1995)
+1. * Trưởng phòng Kế hoạch, Viện Phát triển Geonggi (1993 - 1994)
+1. * Tiến sĩ Kinh tế Nông nghiệp, Đại học Quốc gia Kyusyu, Nhật Bản (1990 - 1993)
+1. * Thạc sĩ Kinh tế Nông nghiệp, Đại học Quốc gia Obihiro, Nhật Bản (1988-1990)
+1. * Khóa học Tiến sĩ về Giáo dục Nông nghiệp tại Đại học Quốc gia Seoul, Hàn Quốc (1985 - 1988)
+1. * Trợ lý, Đại học Quốc gia Seoul (1984 - 1986)
+1. * Thạc sĩ khoa học Giáo dục Nông nghiệp, Đại học Quốc gia Seoul, Hàn Quốc (1983 - 1985)
+1. * Cử nhân Sư phạm nông nghiệp,Trường Cao đẳng Nông nghiệp, Đại học Quốc gia Seoul, Hàn Quốc (1976 - 1980)

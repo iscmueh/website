@@ -57,6 +57,6 @@ weight: 16
 
 
 ### Academic and Research Profile
-* Master, KU Leuven University, Belgium (2017)
-* Bachelor, University of Architecture Ho Chi Minh city & KU Leuven University (2016)
+1. * Master, KU Leuven University, Belgium (2017)
+1. * Bachelor, University of Architecture Ho Chi Minh city & KU Leuven University (2016)
 

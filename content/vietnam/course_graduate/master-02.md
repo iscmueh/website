@@ -44,18 +44,18 @@ Chương trình tập trung vào việc ứng dụng công nghệ thông minh tr
 
 ### Đặc điểm nổi bật
 
-* Đạt được năng lực tổng hợp trong quản lý đổi mới đô thị; 
-* Tích hợp, cập nhật thường xuyên và gắn lý thuyết vào thực hành, học qua các buổi hội thảo, trực tuyến và ngoại tuyến, làm việc tại các studio thực tế và được hướng dẫn bởi các chuyên gia hàng đầu trong và ngoài nước; 
-* Thực hành với các giải pháp công nghệ tiên tiến (VR, AR, In 3D, mô phỏng đô thị, v.v.) trong thiết kế, quy hoạch và thực hiện; 
-* Sử dụng hệ thống phòng StudiosLab đô thị thông minh hiện đại; 
-* Cơ hội học hỏi từ các giáo sư / giảng viên của các trường đại học đối tác quốc tế.
+1. * Đạt được năng lực tổng hợp trong quản lý đổi mới đô thị; 
+2. * Tích hợp, cập nhật thường xuyên và gắn lý thuyết vào thực hành, học qua các buổi hội thảo, trực tuyến và ngoại tuyến, làm việc tại các studio thực tế và được hướng dẫn bởi các chuyên gia hàng đầu trong và ngoài nước; 
+3. * Thực hành với các giải pháp công nghệ tiên tiến (VR, AR, In 3D, mô phỏng đô thị, v.v.) trong thiết kế, quy hoạch và thực hiện; 
+4. * Sử dụng hệ thống phòng StudiosLab đô thị thông minh hiện đại; 
+5. * Cơ hội học hỏi từ các giáo sư / giảng viên của các trường đại học đối tác quốc tế.
 
 
 ### Yêu cầu
 Thí sinh đăng ký dự thi phải đáp ứng các điều kiện sau:
 
-* Ứng viên có kinh nghiệm làm việc tại các cơ quan chính phủ, tổ chức phi chính phủ, tổ chức phi lợi nhuận, công ty trong các lĩnh vực quy hoạch và thiết kế đô thị, quản lý và phát triển đô thị, quy hoạch giao thông vận tải và cơ sở hạ tầng, quản lý dự án, phát triển bất động sản, kiến trúc, phát triển môi trường;
-* Thi đầu vào: Tiếng Anh, GMAT và phỏng vấn
+1. * Ứng viên có kinh nghiệm làm việc tại các cơ quan chính phủ, tổ chức phi chính phủ, tổ chức phi lợi nhuận, công ty trong các lĩnh vực quy hoạch và thiết kế đô thị, quản lý và phát triển đô thị, quy hoạch giao thông vận tải và cơ sở hạ tầng, quản lý dự án, phát triển bất động sản, kiến trúc, phát triển môi trường;
+2. * Thi đầu vào: Tiếng Anh, GMAT và phỏng vấn
 
 
 

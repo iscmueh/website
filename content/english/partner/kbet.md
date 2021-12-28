@@ -11,5 +11,5 @@ image: "images/partners/KBET.jpg"
 # type
 type: "network"
 
-weight: 7
+weight: 13
 ---

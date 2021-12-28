@@ -63,17 +63,17 @@ weight: 15
 ---
 
 ### Courses
-*	Basic StudioLab 2
+1. *	Basic StudioLab 2
 
 
 ### Academic and Research Profile
-*	Master of Science , Architecture, Tampere University of Technology (2013-2019)
-*	Erasmus Exchange Programme, Computational Design and Construction, ICD, University of Stuttgart, (2015)
-*	Bachelor of Architecture, Ho Chi Minh University of Architecture (2006-2011)
+1. *	Master of Science , Architecture, Tampere University of Technology (2013-2019)
+1. *	Erasmus Exchange Programme, Computational Design and Construction, ICD, University of Stuttgart, (2015)
+1. *	Bachelor of Architecture, Ho Chi Minh University of Architecture (2006-2011)
 
 ### International Experiences
-*	Architect, SAMY ARKITEHDIT, Finland (2018-2019)
-*	Summer Architect, ARCHIMG, Germany (2015-2016)
+1. *	Architect, SAMY ARKITEHDIT, Finland (2018-2019)
+1. *	Summer Architect, ARCHIMG, Germany (2015-2016)
 
 
 

@@ -37,35 +37,35 @@ weight: 6
 ---
 
 ### Courses
-* History of Architecture and Urbanism
-* Urban anthropoly: How to fosster civic engagement
-* Architecture StudioLab 2: commercial building
-* Landscape Design StudioLab
-* Smart Urban Design StudioLab
-* Architecture StudioLab 1
-* Advanced International Urban Development
-* Theory of Urban Structure
+1. * History of Architecture and Urbanism
+1. * Urban anthropoly: How to fosster civic engagement
+1. * Architecture StudioLab 2: commercial building
+1. * Landscape Design StudioLab
+1. * Smart Urban Design StudioLab
+1. * Architecture StudioLab 1
+1. * Advanced International Urban Development
+1. * Theory of Urban Structure
 
 ### Academic and Research Profile
-* Adjunct Assistant Professor, Singapore University of Technology and Design (SUTD) (2016-2017) 
-* Senior Research Scientist, SUTD (2011-2016)
-* Postdoctoral Research Fellow, Kyushu University (2009 -2011)
-* Guest Associate Professor and Course Coordinator, Kyushu University (2009)
-* Postdoctoral Research Fellow - Guest Scholar, Kumamoto University, Japan (2008)
-* PhD of Architecture, Kumamoto University, Japan (2008)
-* Master of Architecture in Urban Design, Berlin-Weissensee Arts Academy (KHB), Germany (2000)
-* Bachelor of Architecture and Planning, National University of Civil Engineering, Vietnam (1996)
+1. * Adjunct Assistant Professor, Singapore University of Technology and Design (SUTD) (2016-2017) 
+1. * Senior Research Scientist, SUTD (2011-2016)
+1. * Postdoctoral Research Fellow, Kyushu University (2009 -2011)
+1. * Guest Associate Professor and Course Coordinator, Kyushu University (2009)
+1. * Postdoctoral Research Fellow - Guest Scholar, Kumamoto University, Japan (2008)
+1. * PhD of Architecture, Kumamoto University, Japan (2008)
+1. * Master of Architecture in Urban Design, Berlin-Weissensee Arts Academy (KHB), Germany (2000)
+1. * Bachelor of Architecture and Planning, National University of Civil Engineering, Vietnam (1996)
 
 ### International Experiences
-* Senior Planner & Project Manager, Eight-Japan Engineering Consultants Inc. (EJEC) (2017-now) 
+1. * Senior Planner & Project Manager, Eight-Japan Engineering Consultants Inc. (EJEC) (2017-now) 
 
 ### Awards
-* Asian Townscape Award (for Tam Thanh Community Art Village, as Project Co-director) (2017)
-* Humanitarian Award (Student Achievement, as Co-mentor), HCM Community Design, by SUTD (2016)
-* Second Runner-up - Create4good Challenge (as Co-mentor) (www.create4good.sg, SMU-SUTD) (2016)
-* Best Paper of Session and Best Presentation of Session Awards,at the First ISHED International Conference, Tongji University, China (2012)
-* Excellent Social Contribution Award by Vietnamese Embassy in Japan (2011)
-* Excellent Social Contribution Award by Vietnamese Embassy in Germany (1998)
-* VIFOTEC Technical Invention Award by Vietnamese Government (1996)
+1. * Asian Townscape Award (for Tam Thanh Community Art Village, as Project Co-director) (2017)
+1. * Humanitarian Award (Student Achievement, as Co-mentor), HCM Community Design, by SUTD (2016)
+1. * Second Runner-up - Create4good Challenge (as Co-mentor) (www.create4good.sg, SMU-SUTD) (2016)
+1. * Best Paper of Session and Best Presentation of Session Awards,at the First ISHED International Conference, Tongji University, China (2012)
+1. * Excellent Social Contribution Award by Vietnamese Embassy in Japan (2011)
+1. * Excellent Social Contribution Award by Vietnamese Embassy in Germany (1998)
+1. * VIFOTEC Technical Invention Award by Vietnamese Government (1996)
 
 ### [Click HERE for Publication](https://www.researchgate.net/profile/Kien-To)

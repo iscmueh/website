@@ -56,5 +56,5 @@ weight: 16
 ---
 
 ### Tiểu Sử Nghiên Cứu và Học Thuật
-* Thạc sĩ, Đại học KU Leuven, Bỉ (2017)
-* Cử nhân, Đại học Kiến Trúc TP. Hồ Chí Minh và Đại học KU Leuven, Bỉ (2016)
+1. * Thạc sĩ, Đại học KU Leuven, Bỉ (2017)
+1. * Cử nhân, Đại học Kiến Trúc TP. Hồ Chí Minh và Đại học KU Leuven, Bỉ (2016)

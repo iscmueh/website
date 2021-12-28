@@ -53,34 +53,34 @@ contact:
 
 # type
 type: "teacher"
-weight: 6
+weight: 4
 ---
 ### Giảng Dạy
-* Quy hoạch và thiết kế đô thị
+1. * Quy hoạch và thiết kế đô thị
 
 ### Tiểu Sử Nghiên Cứu và Học Thuật
-* Phó giáo sư, Quy hoạch đô thị, Bộ Môn Kỹ Thuật và Kiến Trúc, Đại học Trieste (IT) (2019 – hiện tại)
-* Nghiên cứu viên, Quy hoạch đô thị, Bộ Môn Kỹ Thuật và Kiến Trúc, UĐại học Trieste (IT) (2004 – 2019)
-* Phó thị trưởng Trieste (Công trình công cộng, tòa nhà tư nhân, quy hoạch đô thị, giao thông, chính sách giao thông vafcacs dự án đô thị phức hợp), Thành phố Trieste (IT) (2011 – 2016)
-* Nghiên cứu sau tiến sĩ, Quy hoạch đô thị, Polytechnic of Milano (IT) (2001 – 2002)
-* Tiến sĩ, Quy hoạch đô thị Đại học IUAV of Venezia (IT) (1998 – 2000)
-* Thạc sĩ, Kiến trúc, Đại học IUAV of Venezia (IT) (1995)
+1. * Phó giáo sư, Quy hoạch đô thị, Bộ Môn Kỹ Thuật và Kiến Trúc, Đại học Trieste (IT) (2019 – hiện tại)
+1. * Nghiên cứu viên, Quy hoạch đô thị, Bộ Môn Kỹ Thuật và Kiến Trúc, UĐại học Trieste (IT) (2004 – 2019)
+1. * Phó thị trưởng Trieste (Công trình công cộng, tòa nhà tư nhân, quy hoạch đô thị, giao thông, chính sách giao thông vafcacs dự án đô thị phức hợp), Thành phố Trieste (IT) (2011 – 2016)
+1. * Nghiên cứu sau tiến sĩ, Quy hoạch đô thị, Polytechnic of Milano (IT) (2001 – 2002)
+1. * Tiến sĩ, Quy hoạch đô thị Đại học IUAV of Venezia (IT) (1998 – 2000)
+1. * Thạc sĩ, Kiến trúc, Đại học IUAV of Venezia (IT) (1995)
 
 
 ### Kinh Nghiệm Quốc Tế
-* Phó trưởng Bộ môn Kỹ Thuật và Kiến Trúc, Đại học Trieste (IT) (2020 - hiện tại)
-* Điều phối cộng tác giữa Bộ môn Kỹ Thuật và Kiến Trúc, Đại học Trieste (IT) và Viện Quốc gia Ý Town Planner-INU về  Thiết Kế Phổ Quát và Toàn Diện cho Khả Năng Tiếp Cận (2018 - hiện tại)
-* Đại diện Bộ môn Kỹ Thuật và Kiến Trúc, Đại học Trieste (IT) trong các hoạt động truyền thông và thể chế (2017 - hiện tại)
-* Đại diện Đại học Trieste (IT)  tại Ban Chính sách Nhà ở của các Thành phố thuộc Liên minh Lãnh thổ Liên thành phố Trieste (IT).
-* Chuyên gia đánh giá các đề xuất và giám sát các hành động thực hiện theo H2020, Ủy ban Châu Âu (2016 - hiện tại)
-* Thành viên Hội đồng quốc gia của Hiệp hội các nhà quy hoạch thị trấn Ý-SIU (2011-2014), Ban đại diện các trường đại học (từ 2014), Hiệp hội các nhà quy hoạch Ý - SIU (CNTT) (2014 - hiện tại)
-* Chịu trách nhiệm văn Bằng Thạc sĩ Kiến trúc tại Đại học Trieste (CNTT) trong các Thỏa thuận Erasmus với: Escuela Téchnica Superior de Arquitectura, Granada; Technische Universitat, Wien; Trường Kiến trúc, Nicosia; Khoa Kiến trúc, Đại học Hasselt (2017 - Hiện tại)
+1. * Phó trưởng Bộ môn Kỹ Thuật và Kiến Trúc, Đại học Trieste (IT) (2020 - hiện tại)
+1. * Điều phối cộng tác giữa Bộ môn Kỹ Thuật và Kiến Trúc, Đại học Trieste (IT) và Viện Quốc gia Ý Town Planner-INU về  Thiết Kế Phổ Quát và Toàn Diện cho Khả Năng Tiếp Cận (2018 - hiện tại)
+1. * Đại diện Bộ môn Kỹ Thuật và Kiến Trúc, Đại học Trieste (IT) trong các hoạt động truyền thông và thể chế (2017 - hiện tại)
+1. * Đại diện Đại học Trieste (IT)  tại Ban Chính sách Nhà ở của các Thành phố thuộc Liên minh Lãnh thổ Liên thành phố Trieste (IT).
+1. * Chuyên gia đánh giá các đề xuất và giám sát các hành động thực hiện theo H2020, Ủy ban Châu Âu (2016 - hiện tại)
+1. * Thành viên Hội đồng quốc gia của Hiệp hội các nhà quy hoạch thị trấn Ý-SIU (2011-2014), Ban đại diện các trường đại học (từ 2014), Hiệp hội các nhà quy hoạch Ý - SIU (CNTT) (2014 - hiện tại)
+1. * Chịu trách nhiệm văn Bằng Thạc sĩ Kiến trúc tại Đại học Trieste (CNTT) trong các Thỏa thuận Erasmus với: Escuela Téchnica Superior de Arquitectura, Granada; Technische Universitat, Wien; Trường Kiến trúc, Nicosia; Khoa Kiến trúc, Đại học Hasselt (2017 - Hiện tại)
 
 
 ### Các Dự Án Đang Thực Hiện
-* Điều phối khoa học các hoạt động hợp tác giữa Đại học Trieste và Thành phố Trieste (IT) trong khuôn khổ "Chương trình đổi mới vì chất lượng khu dân cư" quốc gia, do Bộ Cơ sở hạ tầng và Giao thông Ý tài trợ (2021 - hiện tại).
-* Điều phối khoa học (với Ilaria Garofolo) dự án nghiên cứu “Lập bản đồ và giám sát các rào cản kiến ​​trúc, nhằm thực hiện quy hoạch và thiết kế đô thị theo hướng tiếp cận toàn diện”, Vùng Friuli Venezia Giulia, Đại học Trieste-Khoa Kỹ thuật và Kiến trúc, Đại học của Udine (IT) (2020 - hiện tại).
-* Điều phối khoa học nhóm kỹ thuật của Hiệp hội các nhà quy hoạch Ý-SIU “Các khu vực bên trong và xung quanh bị hạn chế. Lập bản đồ và chia sẻ kinh nghiệm chính sách ”(2019 - hiện tại).
-* Thành viên nhóm nghiên cứu Dự án “Quy hoạch tổng thể mới Ngọc Hồi” (xây dựng kịch bản xem xét quy hoạch tổng thể vùng hiện tại), nghiên cứu cộng tác tại Đại học Tôn Đức Thắng, Thành phố Hồ Chí Minh, Việt Nam (2018-2019).
+1. * Điều phối khoa học các hoạt động hợp tác giữa Đại học Trieste và Thành phố Trieste (IT) trong khuôn khổ "Chương trình đổi mới vì chất lượng khu dân cư" quốc gia, do Bộ Cơ sở hạ tầng và Giao thông Ý tài trợ (2021 - hiện tại).
+1. * Điều phối khoa học (với Ilaria Garofolo) dự án nghiên cứu “Lập bản đồ và giám sát các rào cản kiến ​​trúc, nhằm thực hiện quy hoạch và thiết kế đô thị theo hướng tiếp cận toàn diện”, Vùng Friuli Venezia Giulia, Đại học Trieste-Khoa Kỹ thuật và Kiến trúc, Đại học của Udine (IT) (2020 - hiện tại).
+1. * Điều phối khoa học nhóm kỹ thuật của Hiệp hội các nhà quy hoạch Ý-SIU “Các khu vực bên trong và xung quanh bị hạn chế. Lập bản đồ và chia sẻ kinh nghiệm chính sách ”(2019 - hiện tại).
+1. * Thành viên nhóm nghiên cứu Dự án “Quy hoạch tổng thể mới Ngọc Hồi” (xây dựng kịch bản xem xét quy hoạch tổng thể vùng hiện tại), nghiên cứu cộng tác tại Đại học Tôn Đức Thắng, Thành phố Hồ Chí Minh, Việt Nam (2018-2019).
 
 ### [Bấm vào ĐÂY để xem các bài báo](https://arts.units.it/simple-search?filterquery=rp00854&filtername=author&filtertype=authority&sort_by=bi_sort_2_sort&order=DESC#.V4CqT663FaV)

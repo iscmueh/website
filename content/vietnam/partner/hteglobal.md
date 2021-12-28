@@ -11,5 +11,5 @@ image: "images/partners/HTE.jpg"
 # type
 type: "network"
 
-weight: 9
+weight: 8
 ---

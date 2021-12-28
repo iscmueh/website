@@ -39,19 +39,19 @@ weight: 4
 
 
 ### Courses
-* Urban Resilience and Risk Assessment
-* Data Analytics and Solutions for Architect and Urban Planner
-* Asset Management for Buildings and Engineering Systems
-* System Engineering
-* Project Management
+1. * Urban Resilience and Risk Assessment
+1. * Data Analytics and Solutions for Architect and Urban Planner
+1. * Asset Management for Buildings and Engineering Systems
+1. * System Engineering
+1. * Project Management
 
 ### Academic and Research Profile
-* Research Associate at [Institute of Infrastructure and Construction Management (IBI)](https://ibi.ethz.ch/), [Swisss Federal Institute of Technology (ETH Zurich)](https://ethz.ch/en.html) - (2010-2016)
-* Postdoc Researcher, [Prof. Kiyoyuki Kaito Lab](http://www.infra-assetmetrics.com/), Frontier Research Center for Global Young Researchers, Gradude School of Engineering, [Osaka University](https://www.osaka-u.ac.jp/) (2009-2010)
-* Doctor of Philosophy in Engineering, [Kyoto University](https://www.kyoto-u.ac.jp/en), Japan (2006-2009)
-* [Master of Engineering, Asian Institute of Technology (AIT)](https://www.ait.ac.th/), Thailand (2002-2004)
-* Bachelor of Art in Linguistic (major English), [University of Languages and International Studies](http://en.ulis.vnu.edu.vn/), National University of Vietnam, Hanoi (1998-2002)
-* Bachelor of Engineering, Construction Engineering and Management, [University of Transport and Communication](http://en.utc.edu.vn/), Hanoi (1995-2000)
+1. * Research Associate at [Institute of Infrastructure and Construction Management (IBI)](https://ibi.ethz.ch/), [Swisss Federal Institute of Technology (ETH Zurich)](https://ethz.ch/en.html) - (2010-2016)
+1. * Postdoc Researcher, [Prof. Kiyoyuki Kaito Lab](http://www.infra-assetmetrics.com/), Frontier Research Center for Global Young Researchers, Gradude School of Engineering, [Osaka University](https://www.osaka-u.ac.jp/) (2009-2010)
+1. * Doctor of Philosophy in Engineering, [Kyoto University](https://www.kyoto-u.ac.jp/en), Japan (2006-2009)
+1. * [Master of Engineering, Asian Institute of Technology (AIT)](https://www.ait.ac.th/), Thailand (2002-2004)
+1. * Bachelor of Art in Linguistic (major English), [University of Languages and International Studies](http://en.ulis.vnu.edu.vn/), National University of Vietnam, Hanoi (1998-2002)
+1. * Bachelor of Engineering, Construction Engineering and Management, [University of Transport and Communication](http://en.utc.edu.vn/), Hanoi (1995-2000)
 
 ### International Experiences
 * **Arcadis Philippins Inc.**

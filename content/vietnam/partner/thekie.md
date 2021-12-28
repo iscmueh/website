@@ -11,5 +11,5 @@ image: "images/partners/THEKIE.jpg"
 # type
 type: "network"
 
-weight: 6
+weight: 9
 ---

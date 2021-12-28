@@ -38,35 +38,35 @@ weight: 6
 
 
 ### Giảng Dạy
-* Lịch sử kiến trúc và đô thị
-* Xã Hội Học: Phương Pháp Thúc Đẩy Sự Tham Gia Của Cộng Đồng
-* Đồ án kiến trúc 2
-* Đồ án Cảnh Quan Thông Minh
-* Đồ án đô thị thông minh
-* Đồ án kiến trúc 1: Công trình nhà ở
-* Đồ án phát triển đô thị quốc tế nâng cao
-* Lý thuyết cấu trúc đô thị
+1. * Lịch sử kiến trúc và đô thị
+1. * Xã Hội Học: Phương Pháp Thúc Đẩy Sự Tham Gia Của Cộng Đồng
+1. * Đồ án kiến trúc 2
+1. * Đồ án Cảnh Quan Thông Minh
+1. * Đồ án đô thị thông minh
+1. * Đồ án kiến trúc 1: Công trình nhà ở
+1. * Đồ án phát triển đô thị quốc tế nâng cao
+1. * Lý thuyết cấu trúc đô thị
 
 ### Tiểu Sử Nghiên Cứu và Học Thuật
-* Giáo sư kiêm nhiệm (Adjunct Assistant Professor), Đại học Kỹ Thuật và Thiết Kế Singapore (SUTD) (2016-2017)
-* Nghiên cứu viên chính, Đại học Kỹ Thuật và Thiết Kế Singapore (SUTD) (2011-2016)
-* Postdoc Fellow, Đại học Kyushu,  Nhật Bản (2009 -2011)
-* Phó Giáo sư thỉnh giảng và điều phối viên khóa học, Đại học Kyushu,  Nhật Bản (2009)
-* Postdoc Fellow, Đại học Kumamoto, Nhật Bản (2008)
-* Tiến sĩ Kiến trúc, Đại học Kumamoto,  Nhật Bản  (2008)
-* Thạc sĩ Kiến trúc trong thiết kế đô thị, Học Viện Berlin-Weissensee (KHB), Đức (2000)
-* Cử nhân Kiến trúc và Quy hoạch, Đại học Xây Dựng, Việt Nam (1996)
+1. * Giáo sư kiêm nhiệm (Adjunct Assistant Professor), Đại học Kỹ Thuật và Thiết Kế Singapore (SUTD) (2016-2017)
+1. * Nghiên cứu viên chính, Đại học Kỹ Thuật và Thiết Kế Singapore (SUTD) (2011-2016)
+1. * Postdoc Fellow, Đại học Kyushu,  Nhật Bản (2009 -2011)
+1. * Phó Giáo sư thỉnh giảng và điều phối viên khóa học, Đại học Kyushu,  Nhật Bản (2009)
+1. * Postdoc Fellow, Đại học Kumamoto, Nhật Bản (2008)
+1. * Tiến sĩ Kiến trúc, Đại học Kumamoto,  Nhật Bản  (2008)
+1. * Thạc sĩ Kiến trúc trong thiết kế đô thị, Học Viện Berlin-Weissensee (KHB), Đức (2000)
+1. * Cử nhân Kiến trúc và Quy hoạch, Đại học Xây Dựng, Việt Nam (1996)
 
 ### Kinh Nghiệm Quốc Tế
-* Nhà lập kế hoạch và quản lý dự án, Eight-Japan Engineering Consultants Inc. (EJEC) (2017-hiện tại)
+1. * Nhà lập kế hoạch và quản lý dự án, Eight-Japan Engineering Consultants Inc. (EJEC) (2017-hiện tại)
 
 ### Các Giải Thưởng
-* Asian Townscape Award (for Tam Thanh Community Art Village, as Project Co-director) (2017)
-* Humanitarian Award (Đồng hướng dẫn), HCM Community Design, by SUTD (2016)
-* Second Runner-up - Create4good Challenge (Đồng hướng dẫn) (www.create4good.sg, SMU-SUTD) (2016)
-* Bài báo và trình bày tốt nhất, Hội nghị Quốc tế lần 1 ISHED, Đại học Tongji, Trung Quốc (2012)
-* Giải thưởng Đóng Góp Xã Hội Xuất Sắc, Đại Sứ Quán Việt Nam tại Nhật Bản (2011)
-* Giải thưởng Đóng Góp Xã Hội Xuất Sắc, Đại Sứ Quán Việt Nam tại Đức (1998)
-* VIFOTEC Technical Invention Award, Chính Phủ Việt Nam (1996)
+1. * Asian Townscape Award (for Tam Thanh Community Art Village, as Project Co-director) (2017)
+1. * Humanitarian Award (Đồng hướng dẫn), HCM Community Design, by SUTD (2016)
+1. * Second Runner-up - Create4good Challenge (Đồng hướng dẫn) (www.create4good.sg, SMU-SUTD) (2016)
+1. * Bài báo và trình bày tốt nhất, Hội nghị Quốc tế lần 1 ISHED, Đại học Tongji, Trung Quốc (2012)
+1. * Giải thưởng Đóng Góp Xã Hội Xuất Sắc, Đại Sứ Quán Việt Nam tại Nhật Bản (2011)
+1. * Giải thưởng Đóng Góp Xã Hội Xuất Sắc, Đại Sứ Quán Việt Nam tại Đức (1998)
+1. * VIFOTEC Technical Invention Award, Chính Phủ Việt Nam (1996)
 
 ### [Bấm vào ĐÂY để xem các bài báo](https://www.researchgate.net/profile/Kien-To)

@@ -57,13 +57,13 @@ weight: 15
 ---
 
 ### Giảng Dạy
-*	Basic StudioLab 2
+1. *	Basic StudioLab 2
 
 ### Tiểu Sử Nghiên Cứu
-*	Thạc sĩ Khoa Học, Kiến Trúc, Đại Học Công Nghệ, Phần Lan (2013-2019)
-*	Thạc sĩ, chương trình trao đổi Erasmus, Viện Thiết Kế ICD, Đại học Stuttgart, Đức (2015)
-*	Cử nhân Kiến Trúc, đại học Kiến Trúc Hồ Chí Minh (2006-2011)
+1. *	Thạc sĩ Khoa Học, Kiến Trúc, Đại Học Công Nghệ, Phần Lan (2013-2019)
+1. *	Thạc sĩ, chương trình trao đổi Erasmus, Viện Thiết Kế ICD, Đại học Stuttgart, Đức (2015)
+1. *	Cử nhân Kiến Trúc, đại học Kiến Trúc Hồ Chí Minh (2006-2011)
 
 ### Kinh Nghiệm Quốc Tế
-*	Kiến trúc sư, Samy arkitehdit, Phần Lan (2018-2019)
-*	Kiến trúc sư, Archimg, Đức (2015-2016)
+1. *	Kiến trúc sư, Samy arkitehdit, Phần Lan (2018-2019)
+1. *	Kiến trúc sư, Archimg, Đức (2015-2016)

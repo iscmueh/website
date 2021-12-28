@@ -57,18 +57,18 @@ weight: 3
 ---
 
 ### Academic and Research Profile
-* Professor at Handong Global University, South Korea (2019 – Now)
-* Head of NIBC Global Institute, Vietnam (2015-Now)
-* Ph.D. in Urban Planning and Design, Seoul National University, South Korea
-* Master of Landscape in Urban Design: Harvard University, USA
-* Bachelor of Architecture and Urban Planning, Handong Global University, South Korea 
+1. * Professor at Handong Global University, South Korea (2019 – Now)
+1. * Head of NIBC Global Institute, Vietnam (2015-Now)
+1. * Ph.D. in Urban Planning and Design, Seoul National University, South Korea
+1. * Master of Landscape in Urban Design: Harvard University, USA
+1. * Bachelor of Architecture and Urban Planning, Handong Global University, South Korea 
 
 
 ### International Experiences
-* Advisor, UN Academic Impact, Korea (2016 – Now)
-* Advisor, UN Habitat, Korea (2016 – Now)
-* Project Director, ADU Group, Vietnam (2012 – 2015)
-* Urban Designer and Planner, SERA Architects, USA (2011 – 2012)
+1. * Advisor, UN Academic Impact, Korea (2016 – Now)
+1. * Advisor, UN Habitat, Korea (2016 – Now)
+1. * Project Director, ADU Group, Vietnam (2012 – 2015)
+1. * Urban Designer and Planner, SERA Architects, USA (2011 – 2012)
 
 ### [Click HERE for Publication](https://scholar.google.co.kr/citations?user=7mawbTAAAAAJ&hl=en)‬ 
 

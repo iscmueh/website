@@ -17,7 +17,7 @@ description : ""
 4. - Thực tập sinh Captivate
 5. - Thực tập sinh VR
 6. - Thực tập sinh PR - Marketing
-*** 
+  
 
 #### Mọi chi tiết vui lòng liên hệ:
 1. Viện Đô thị thông minh và Quản lý (ISCM)

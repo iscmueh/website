@@ -57,16 +57,16 @@ weight: 11
 ---
 
 ### Courses
-*	Smart Urban Design
-*	Urban Planning
-*	New urban Economics and city marketing
+1. *	Smart Urban Design
+1. *	Urban Planning
+1. *	New urban Economics and city marketing
 
 
 ### Academic and Research Profile
-*	Collaborator in Research at Institute of Smart City and Management (ISCM-UEH) 
-*	Master of Science in Sustainable Urban Development at Vietnamese Germane University (VGU) 
-*	Regional and Urban Planning Engineer at Ton Duc Thang University (TDTU) 
+1. *	Collaborator in Research at Institute of Smart City and Management (ISCM-UEH) 
+1. *	Master of Science in Sustainable Urban Development at Vietnamese Germane University (VGU) 
+1. *	Regional and Urban Planning Engineer at Ton Duc Thang University (TDTU) 
 
 ### International Experiences
-*	Urban designer at B+H Architects
-*	Urban and Landscape designer at Lascal
+1. *	Urban designer at B+H Architects
+1. *	Urban and Landscape designer at Lascal

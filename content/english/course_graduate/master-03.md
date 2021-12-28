@@ -35,8 +35,8 @@ post: "Master of Human Ecology and Technology"
 The program provides the students with expertise and ability to master the fields of smart city (planning, design, management), creative management, simulation, technology and human ecology.
 
 After graduating, learners receive dual degrees:
-* Master of Smart City and Innovation Management, majoring in Smart City and Innovation Management awarded by University of Economics Ho Chi Minh City;
-* Master of Human Ecology and Technology awarded by Handong Global University (HGU) in Korea.
+1. * Master of Smart City and Innovation Management, majoring in Smart City and Innovation Management awarded by University of Economics Ho Chi Minh City;
+1. * Master of Human Ecology and Technology awarded by Handong Global University (HGU) in Korea.
 
 
 {{< youtube id="NrtYcJBrxaU" title="Smart Urban Architecture and Design" >}}
@@ -44,19 +44,19 @@ After graduating, learners receive dual degrees:
 <!--EndFragment-->
 
 ### Advantage
-* Obtain dual master’s degrees from two universities, in two different fields with time efficiency and affordable costs;
-* Gain integrated competences in urban innovation management;
-* Multidisciplinary integration such as environment, art, engineering, planning, public policy, etc. through lectures, seminars, workshops, field visits;
-* Projects and subjects are designed based on real problems and solutions (ordered by the state management agencies, domestic and foreign private companies), and taught by domestic and international professors, lecturers and experts;
-* Application of advanced technology solutions (VR, AR, 3D Printing, urban simulation, etc.) to design, planning and implementation;
-* Use modern smart city Studio Lab.
+1. * Obtain dual master’s degrees from two universities, in two different fields with time efficiency and affordable costs;
+1. * Gain integrated competences in urban innovation management;
+1. * Multidisciplinary integration such as environment, art, engineering, planning, public policy, etc. through lectures, seminars, workshops, field visits;
+1. * Projects and subjects are designed based on real problems and solutions (ordered by the state management agencies, domestic and foreign private companies), and taught by domestic and international professors, lecturers and experts;
+1. * Application of advanced technology solutions (VR, AR, 3D Printing, urban simulation, etc.) to design, planning and implementation;
+1. * Use modern smart city Studio Lab.
 
 
 
 ### Requirements
 Candidates applying for examinations must satisfy the following conditions:
-* Candidates: graduates from universities around the world
-* Entrance exam: English, GMAT and interview.
+1. * Candidates: graduates from universities around the world
+1. * Entrance exam: English, GMAT and interview.
 
 
 ### [Click HERE for more Details](https://www.ueh.edu.vn/dao-tao/thac-si-tien-si/thac-si-dieu-hanh-cao-cap-emba/quan-ly-do-thi-thong-minh-va-sang-tao/?fbclid=IwAR09xSUOK2WxPuLZdZ4whONMLsnSDkAyvQqkoX0iioGizyCGdkdtBUqgig4)

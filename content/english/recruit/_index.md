@@ -16,9 +16,8 @@ description : ""
 4. - Senior Researcher           
 5. - Captivate Intern
 6. - VR Intern
-7. - PR - Marketing Intern
-*** 
-
+7. - PR - Marketing Intern  
+  
 #### For further information, please contact:
 1. Institure of Smart City and Management (ISCM)
 1. - Address: 232/6 Vo Thi Sau Street, Vo Thi Sau Ward, District 3, HCMC

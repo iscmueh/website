@@ -11,5 +11,5 @@ image: "images/partners/OMG.png"
 # type
 type: "network"
 
-weight: 11
+weight: 14
 ---

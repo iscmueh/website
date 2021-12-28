@@ -57,16 +57,16 @@ weight: 11
 ---
 
 ### Giảng Dạy
-* Thiết kế cảnh quan thông minh và có khả năng phục hồi
-* Đồ án thiết kế cảnh quan
-* Quy hoạch thành phố sinh thái trong đô thị hóa thông minh
+1. * Thiết kế cảnh quan thông minh và có khả năng phục hồi
+1. * Đồ án thiết kế cảnh quan
+1. * Quy hoạch thành phố sinh thái trong đô thị hóa thông minh
 
 
 ### Tiểu Sử Nghiên Cứu và Học Thuật
-* Giảng viên thỉnh giảng về thiết kế, Đại học Hasselt, Bỉ (2018 – 2020)
-* Thạc sĩ, Thiết kế đô thị và quy hoạch không gian, KU Leuven, Bỉ (2007)
-* Cử nhân, Phát triển cảnh quan, Đại học College Ghent – KASK, Bỉ (2004)
-* Cử nhân, Kiến trúc vườn và cảnh quan, Đại học College Ghent – KASK, Bỉ (2003)
+1. * Giảng viên thỉnh giảng về thiết kế, Đại học Hasselt, Bỉ (2018 – 2020)
+1. * Thạc sĩ, Thiết kế đô thị và quy hoạch không gian, KU Leuven, Bỉ (2007)
+1. * Cử nhân, Phát triển cảnh quan, Đại học College Ghent – KASK, Bỉ (2004)
+1. * Cử nhân, Kiến trúc vườn và cảnh quan, Đại học College Ghent – KASK, Bỉ (2003)
 
 ### Kinh Nghiệm Quốc Tế
 * **Văn phòng thiết kế OMGEVING**

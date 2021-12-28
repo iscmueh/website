@@ -57,19 +57,19 @@ weight: 5
 ---
 
 ### Academic and Research Profile
-* Director, East-Sea Rim Research Institute of Economy and Culture (2005 – Now)
-* Chief Editor, Hwan Dong Hae Review: Far East Regional Studies (2005 – Now)
-* Director, Urban Environment Project Team, UNESCO UNITWIN, Handong Global (1998 - Now)
-* Professor/Dean, School of Spatial Environment System Engineering, Handong Global University (1995 – Now)
-* Ph.D. (Uran Planning & Development) University of Southern California (1989)
-* M.C.R.P. (Urban & Regional Planning) Iowa State University (1985)
-* National Engineering Certificate, Construction Work (1980)
-* National Engineering Certificate, Architectural Structure (1980)
-* B.S.(Architecture) College of Engineering, Seoul National University (1980)
+1. * Director, East-Sea Rim Research Institute of Economy and Culture (2005 – Now)
+1. * Chief Editor, Hwan Dong Hae Review: Far East Regional Studies (2005 – Now)
+1. * Director, Urban Environment Project Team, UNESCO UNITWIN, Handong Global (1998 - Now)
+1. * Professor/Dean, School of Spatial Environment System Engineering, Handong Global University (1995 – Now)
+1. * Ph.D. (Uran Planning & Development) University of Southern California (1989)
+1. * M.C.R.P. (Urban & Regional Planning) Iowa State University (1985)
+1. * National Engineering Certificate, Construction Work (1980)
+1. * National Engineering Certificate, Architectural Structure (1980)
+1. * B.S.(Architecture) College of Engineering, Seoul National University (1980)
 
 ### International Experiences
-* Vice Director, Pohang City Regeneration Project Committee, Korea (2017 – Now)
-* Housing Planning and Economic Analyst, City of Los Angeles (1991 – 1995)
-* Assistant City Planner, City of Los Angeles (1990 – 1991)
-* Project Manager, Extra Builders, Inc. (1989 – 1990)
-* Planning Intern, Los Angeles Neighborhood Housing Services (1987 – 1988)
+1. * Vice Director, Pohang City Regeneration Project Committee, Korea (2017 – Now)
+1. * Housing Planning and Economic Analyst, City of Los Angeles (1991 – 1995)
+1. * Assistant City Planner, City of Los Angeles (1990 – 1991)
+1. * Project Manager, Extra Builders, Inc. (1989 – 1990)
+1. * Planning Intern, Los Angeles Neighborhood Housing Services (1987 – 1988)

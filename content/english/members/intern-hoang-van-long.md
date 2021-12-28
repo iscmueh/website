@@ -55,7 +55,7 @@ type: "teacher"
 weight: 18
 ---
 
-- In charge of content management (including content writing, content presentation, etc) on social media channels.
-- Participate in the production of media content (Digital/Offline,...) such as articles, idea videos/images, etc.
-- Write PR articles according to the required content.
-- Participate in supporting events and activities of the Institute.
+1. - In charge of content management (including content writing, content presentation, etc) on social media channels.
+1. - Participate in the production of media content (Digital/Offline,...) such as articles, idea videos/images, etc.
+1. - Write PR articles according to the required content.
+1. - Participate in supporting events and activities of the Institute.

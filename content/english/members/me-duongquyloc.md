@@ -57,5 +57,5 @@ weight: 12
 
 ### Academic and Research Profile
 
-* Master of Science in Engineering, Urban and Transportation planning, Kongju National University, Korea (2019)
-* Bachelor, Urban planning, Ton Duc Thang University, Vietnam (2017)
+1. * Master of Science in Engineering, Urban and Transportation planning, Kongju National University, Korea (2019)
+1. * Bachelor, Urban planning, Ton Duc Thang University, Vietnam (2017)

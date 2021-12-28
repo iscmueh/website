@@ -11,5 +11,5 @@ image: "images/partners/IOT.jpg"
 # type
 type: "network"
 
-weight: 8
+weight: 12
 ---
