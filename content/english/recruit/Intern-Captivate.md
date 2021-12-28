@@ -11,9 +11,7 @@ With the desire to create opportunities for students studying or who have gradua
 
 
 #### Đối tượng:
-- Hiện là sinh viên hoặc đã tốt nghiệp các trường đại học.
-***
-
+- Hiện là sinh viên hoặc đã tốt nghiệp các trường đại học.  
 #### Yêu cầu:
 1. - Sử dụng thành thạo các phần mềm Adobe (Photoshop, Illustrator, Premier), graphic design và biên tập video, các hệ thống quản lý học tập và phát triển website;
 2. - Biết cách quản lý thời gian, công việc. Hoàn thành các công việc được giao theo đúng tiến độ;

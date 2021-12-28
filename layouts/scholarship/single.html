@@ -1,0 +1,60 @@
+{{ define "main" }}
+
+<!-- event single -->
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="section-title">{{ .Title }}</h2>
+      </div>
+      <!-- event image -->
+      <div class="col-12 mb-4">
+        <img style="height: auto;width: auto;object-fit: contain;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
+      </div>
+    </div>
+    <!-- event info -->
+    <div class="row align-items-center mb-5">
+      <!-- border -->
+      <div class="col-12 mt-4 order-4">
+        <div class="border-bottom border-primary"></div>
+      </div>
+    </div>
+    <!-- event details -->
+    <div class="row">
+      <div class="col-12 mb-50 content">
+        {{ .Content }}
+      </div>
+    </div>
+    <!-- event speakers -->
+    <!-- <div class="row">
+      <div class="col-12">
+        <h3 class="mb-4">{{ i18n "event_speaker"}}</h3>
+      </div>
+
+    </div>
+  </div>
+</section>
+<!-- /event single -->
+
+<!-- more event -->
+<section class="section pt-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="section-title">{{ i18n "more_event" }}</h2>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <!-- event -->
+      {{ $related := (where site.RegularPages "Type" "event") | intersect (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) | shuffle | first 3}}
+      {{ range first 3 $related }}
+      <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
+        {{ .Render "event" }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+<!-- /more event -->
+
+{{ end }}
