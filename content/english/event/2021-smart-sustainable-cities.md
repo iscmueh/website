@@ -1,5 +1,5 @@
 ---
-title: Diễn đàn Thành phố Thông minh & Bền vững (SSC)
+title: Smart & Sustainable Cities (SSC) Forum
 publishDate: "2021-11-29T19:00:00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description : ""
@@ -11,31 +11,35 @@ image: "images/events/smart-sustainable-cities.png"
 
 \_\_\_\_\_\_\_\_\_\_\_\_
 
-Ngày 24 tháng 11 năm 2021
-8:30 - 4:30 PM (GMT + 7) 
+24 November 2021 
+8:30 - 4:30 PM (GMT+7)
 
-Trực tiếp trên Zoom với phiên dịch song song Anh - Việt 
+Live on Zoom with simultaneous interpretation English – Vietnamese 
 
-Đăng ký và biết thêm thông tin tại https://bit.ly/31ZvfVz 
+Register and more information at https://bit.ly/31ZvfVz
 
-Mục tiêu tổng quát của Diễn đàn Thành phố Thông minh & Bền vững (SSC) của RMIT là cung cấp nền tảng chia sẻ kiến thức và kinh nghiệm thực tiễn để đảm bảo rằng các bên liên quan trên các phân khúc trong ngành, các tổ chức khu vực và các tổ chức phi chính phủ địa phương / quốc tế nẵm vững thông tin quan trọng về hướng đi của các thành phố đang phát triển tại Việt Nam. 
-Các diễn giả bao gồm lãnh đạo chính phủ, lãnh đạo từ các đối tác hàng đầu trong ngành (KPMG, UNDP, Schneider Electric, Ngân hàng Thế giới, v.v.), lãnh đạo từ Đại Học RMIT. 
-Các chủ đề chính của sự kiện này đóng vai trò quan trọng trong sự phát triển bền vững của các trung tâm đô thị của Việt Nam. Dựa trên Việt Nam năm 2020, dân số hiện tại của khu vực Hà Nội và Thành phố Hồ Chí Minh khoảng 8,3 và 9,3 triệu người, và được dự kiến sẽ tăng thêm. Do đó, diễn đàn kỳ này mong muốn tìm cách để thông báo cho các người tham dự về những chủ đề chính để có thể đề ra các dự án thích hợp cho sự phát triển đô thị. 
 
-Các đề tài thảo luận bao gồm: 
+RMIT’s Smart & Sustainable Cities Forum’s (SSC) overarching goal is to provide a platform for the sharing of best practices and knowledge to ensure that stakeholders across key industry segments, public sector organizations and local/international NGOs have the information critical for Vietnam’s developing cities. 
+Speakers include government leaders, executives from top industry partners (KPMG, UNDP, Schneider Electric, World Bank, etc.), RMIT leaders and executives 
+The key themes of this SSC are of significant importance to sustainably develop Vietnam’s urban centres. Based on the 2020 Vietnam census, the current population of Hanoi and HCMC are about 8.3 and 9.3 million respectively, and both cities are expected to grow further. As such, the SSC seeks to inform participants on key aspects to set the development agenda of the cities in the right direction. 
 
-*   Quản trị Thông minh và mối liên kết với các Mục tiêu Phát triển Bền vững của Liên hợp quốc 
-*   Trung tâm đổi mới sáng tạo Blockchain 
-*   Các thành phố đáng sống 
-*   Tầm nhìn của chính phủ về phát triển thông minh và bền vững 
-*   Đối chuẩn (benchmarking) quá trình phát triển đô thị thông minh 
-*   Sự dịch chuyển tới một “Việt Nam Kỹ thuật số” 
-*   Du lịch thông minh, quản trị và chuỗi cung ứng 
-*   Ô nhiễm nhựa và giải pháp sáng tạo 
-*   Các giải pháp của đô thị thông minh và sự biến đổi khí hậu 
+Topics include : 
 
-ISCM rất vinh hạnh khi có TS. Trịnh Tú Anh - Viện trưởng Viện Đô thị thông minh và Quản lý tham gia vào diễn đàn lần này với vai trò là diễn giả khách mời cho sự kiện cùng nhiều khách mời khác.
-Dẫn tin và ảnh từ RMIT Việt Nam 
+*   Smart Governance and the link to United Nations’ Sustainable Development Goals 
+*   BlockChain Innovations 
+*   Liveable Cities from The Australian Urban Observatory 
+*   Government vision for smart & sustainable development 
+*   Benchmarking progress of smart city development 
+*   Moving towards a “Digital Vietnam” 
+*   Smart tourism, governance, and logistics 
+*   Sustainable waste management & plastic pollution 
+*   Smart City solutions for Climate Change
+ 
+
+ISCM is honored to have Dr. Tu Anh Trinh - Director of ISCM participate in this forum as a guest speaker of the event with many other guests.
+
+Source: RMIT Vietnam
+
 
 
 <!--EndFragment-->
