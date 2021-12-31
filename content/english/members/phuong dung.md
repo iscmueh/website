@@ -37,11 +37,10 @@ weight: 14
 ---
 
 ### Academic
-* DMaster of Logistics Management, Rotterdam Business School, Rotterdam University of Applied Sciences, the Netherlands, 2018
-* Bachelor of Finance and Banking, Ho Chi Minh City Open University, 2015
+1. * Master of Logistics Management, Rotterdam Business School, Rotterdam University of Applied Sciences, the Netherlands, 1. * Bachelor of Finance and Banking, Ho Chi Minh City Open University, 2015
 
 ### Experiences
-* Research management and International affairs Support, School of Government, University of Economics HCMC, 2020 - 2021
-* Purchasing executive, De Heus LLC, 2018 - 2020
-* Event assistant, Tunisia Trade & Investment Seminar organized by Evofenedex, the Foreign Investment Promotion Agency of Tunisia and the Tunisian Embassy, Apr 2017
-* Interpreter, Inbound Delegation from Vinh Long Province – Vietnam event organized by De Heus International, CGCB International and the Province of Gelderland, Nov 2016
+1. * Research management and International affairs Support, School of Government, University of Economics HCMC, 2020 - 2021
+1. * Purchasing executive, De Heus LLC, 2018 - 2020
+1. * Event assistant, Tunisia Trade & Investment Seminar organized by Evofenedex, the Foreign Investment Promotion Agency of Tunisia and the Tunisian Embassy, Apr 2017
+1. * Interpreter, Inbound Delegation from Vinh Long Province – Vietnam event organized by De Heus International, CGCB International and the Province of Gelderland, Nov 2016

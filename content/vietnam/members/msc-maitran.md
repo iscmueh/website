@@ -57,15 +57,15 @@ weight: 8
 ---
 
 ### Giảng Dạy
-* Cấu tạo kiến trúc
-* Đồ án kiến trúc
-* Đồ án quốc tế
-* Quy hoạch đô thị và nhà ở
+1. * Cấu tạo kiến trúc
+1. * Đồ án kiến trúc
+1. * Đồ án quốc tế
+1. * Quy hoạch đô thị và nhà ở
 
 
 
 ### Kinh Nghiệm Quốc Tế
-* Hướng dẫn các đồ án quốc tế tại Thái Lan (2018), Myanmar (2019), Việt Nam (từ 2016 – 2020)
-* Tham gia trao đổi giảng viên tại ĐH Hasselt (Bỉ) vào tháng 3/2018
-* Thành viên của hội Women in Transport Leadership (WiTL)
-* Thành viên của Lens
+1. * Hướng dẫn các đồ án quốc tế tại Thái Lan (2018), Myanmar (2019), Việt Nam (từ 2016 – 2020)
+1. * Tham gia trao đổi giảng viên tại ĐH Hasselt (Bỉ) vào tháng 3/2018
+1. * Thành viên của hội Women in Transport Leadership (WiTL)
+1. * Thành viên của Lens

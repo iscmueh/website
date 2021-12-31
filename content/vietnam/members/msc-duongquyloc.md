@@ -57,5 +57,5 @@ weight: 12
 
 ### Tiểu Sử Nghiên Cứu và Học Thuật
 
-* Thạc sĩ Khoa học Kỹ thuật, Quy hoạch Giao thông và đô thị, Đại học QUốc gia Kongju, Hàn Quốc (2019)
-* Cử nhân, Quy hoạch Đô thị, Đại học Tôn Đức Thắng, Việt Nam (2017)
+1. * Thạc sĩ Khoa học Kỹ thuật, Quy hoạch Giao thông và đô thị, Đại học QUốc gia Kongju, Hàn Quốc (2019)
+1. * Cử nhân, Quy hoạch Đô thị, Đại học Tôn Đức Thắng, Việt Nam (2017)

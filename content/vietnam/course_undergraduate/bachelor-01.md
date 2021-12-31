@@ -39,22 +39,22 @@ Ngoài ra, sau khi tốt nghiệp chương trình đại học, sinh viên có t
 
 ### Đặc điểm nổi bật:
 
-* Chương trình tạo nên một công dân toàn cầu thông thạo kiến thức về thiết kế, quy hoạch phát triển đô thị và thiết kế đô thị theo chuẩn quốc tế, sử dụng tiếng Anh thành thạo làm cơ sở cho quá trình học tập suốt đời của sinh viên.
+1. * Chương trình tạo nên một công dân toàn cầu thông thạo kiến thức về thiết kế, quy hoạch phát triển đô thị và thiết kế đô thị theo chuẩn quốc tế, sử dụng tiếng Anh thành thạo làm cơ sở cho quá trình học tập suốt đời của sinh viên.
 
-* Chương trình tích hợp đa ngành như môi trường, nghệ thuật, kỹ thuật, quy hoạch, chính sách công, ...thông qua các trải nghiệm đa dạng từ bài giảng, seminar, đến xưởng thiết kế/thực hành, StudioLab hiện đại, tham quan thực tế... Một số môn học sẽ do các giáo sư, chuyên gia trong và ngoài nước giảng dạy.
+2. * Chương trình tích hợp đa ngành như môi trường, nghệ thuật, kỹ thuật, quy hoạch, chính sách công, ...thông qua các trải nghiệm đa dạng từ bài giảng, seminar, đến xưởng thiết kế/thực hành, StudioLab hiện đại, tham quan thực tế... Một số môn học sẽ do các giáo sư, chuyên gia trong và ngoài nước giảng dạy.
 
-* Các đồ án, môn học được thiết kế dựa trên nghiên cứu giải quyết các vấn đề thực tế (do các cơ quan quản lý nhà nước, công ty tư nhân trong và ngoài nước đặt hàng)
+3. * Các đồ án, môn học được thiết kế dựa trên nghiên cứu giải quyết các vấn đề thực tế (do các cơ quan quản lý nhà nước, công ty tư nhân trong và ngoài nước đặt hàng)
 Chương trình học tích hợp ứng dụng và sử dụng các công nghệ hiện đại: VR, AR, 3D Printing, mô phỏng đô thị... vào thiết kế, quy hoạch và thực hiện
 
-* Sử dụng hệ thống phòng StudioLab đô thị thông minh hiện đại
+4. * Sử dụng hệ thống phòng StudioLab đô thị thông minh hiện đại
 
-* Có chương trình liên kết mạnh và đa dạng với các trường quốc tế từ các nước Bỉ, Hàn Quốc, Hà Lan, New Zeland, Úc, Pháp, Thái Lan, Myanmar, Ấn Độ…
+5. * Có chương trình liên kết mạnh và đa dạng với các trường quốc tế từ các nước Bỉ, Hàn Quốc, Hà Lan, New Zeland, Úc, Pháp, Thái Lan, Myanmar, Ấn Độ…
 Phù hợp với nhiều định hướng khác nhau của sinh viên, đề cao đạo đức nghề nghiệp, trí tuệ liêm chính và trách nhiệm xã hội của con người hiện đại trong kỷ nguyên mới.
 
 ### Điều kiện đăng kí:
 
-* Tuyển sinh các khối: A00; A01; D01; V00 (Riêng khối V môn Vẽ không nhân hệ số)
-* Không tổ chức thi môn năng khiếu. Môn năng khiếu sẽ được đào tạo sau khi nhập học.
+1. * Tuyển sinh các khối: A00; A01; D01; V00 (Riêng khối V môn Vẽ không nhân hệ số)
+2. * Không tổ chức thi môn năng khiếu. Môn năng khiếu sẽ được đào tạo sau khi nhập học.
 
 ### Yêu cầu ngôn ngữ:
 

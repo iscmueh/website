@@ -58,16 +58,16 @@ weight: 11
 
 
 ### Courses
-* Smart and Resilient Landscape Design
-* Landscape Design StudioLab
-* Ecological City Planning in smart urbanism
+1. * Smart and Resilient Landscape Design
+1. * Landscape Design StudioLab
+1. * Ecological City Planning in smart urbanism
 
 
 ### Academic and Research Profile
-* Guest lecturer design / academic staff member at University of Hasselt, Belgium (2018 – 2020)
-* MA Urban Design and Spatial Planning at KU Leuven, Belgium (2007)
-* BA after BA Landscape Development at University College Ghent – KASK, Belgium (2004)
-* BA Garden and Landscape Architecture at University College Ghent – KASK, Belgium (2003)
+1. * Guest lecturer design / academic staff member at University of Hasselt, Belgium (2018 – 2020)
+1. * MA Urban Design and Spatial Planning at KU Leuven, Belgium (2007)
+1. * BA after BA Landscape Development at University College Ghent – KASK, Belgium (2004)
+1. * BA Garden and Landscape Architecture at University College Ghent – KASK, Belgium (2003)
 
 ### International Experiences
 * **Design office OMGEVING**

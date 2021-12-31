@@ -1,9 +1,9 @@
 ---
-title: "People"
+title: "Advisory Board"
 #layout: "advisory"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "A team of international specialists and local talents in various fields from Urban Architecture, Urban Design and Planning, Transporation Engineering, Asset Management, Operations Research, Reliability Engineering, Optimization, Statistics, and Economics."
+description : "ISCM's Advisory Board is made up from excellent teachers and administrators who have been holding positions in government, universities and large corporations. The advice of board is well received and absorbed to advance the efficiency of teaching and research."
 ---

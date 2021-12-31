@@ -57,17 +57,17 @@ weight: 3
 ---
 
 ### Tiểu Sử Nghiên Cứu và Học Thuật
-* Giáo sứ, Đại học Handong Global, Hàn Quốc (2019 – Hiện tại)
-* Viện trưởng, Viện NIBC Global, Việt Nam (2015-Hiện tại)
-* Tiến sĩ, Quy hoạch và thiết kế đô thị, Đại học Quốc gia Seoul, Hàn Quốc
-* Thạc sĩ, Cảnh quan trong thiết kế đô thị, Đại học Harvard, Mỹ
-* Cử nhân, Kiến trúc và thiết kế đô thị, Đại học Handong Global, Hàn Quốc
+1. * Giáo sứ, Đại học Handong Global, Hàn Quốc (2019 – Hiện tại)
+1. * Viện trưởng, Viện NIBC Global, Việt Nam (2015-Hiện tại)
+1. * Tiến sĩ, Quy hoạch và thiết kế đô thị, Đại học Quốc gia Seoul, Hàn Quốc
+1. * Thạc sĩ, Cảnh quan trong thiết kế đô thị, Đại học Harvard, Mỹ
+1. * Cử nhân, Kiến trúc và thiết kế đô thị, Đại học Handong Global, Hàn Quốc
 
 
 ### Kinh Nghiệm Quốc Tế
-* Cố vấn, UN Academic Impact, Hàn Quốc (2016 – Hiện tại)
-* Cố vấn, UN Habitat, Korea (2016 – Hiện tại)
-* Giám đốc dự án, ADU Group, Việt Nam (2012 – 2015)
-* Quy hoạch và thiết kế đô thị, SERA Architects, Mỹ (2011 – 2012)
+1. * Cố vấn, UN Academic Impact, Hàn Quốc (2016 – Hiện tại)
+1. * Cố vấn, UN Habitat, Korea (2016 – Hiện tại)
+1. * Giám đốc dự án, ADU Group, Việt Nam (2012 – 2015)
+1. * Quy hoạch và thiết kế đô thị, SERA Architects, Mỹ (2011 – 2012)
 
 ### [Bấm vào ĐÂY để xem các bài báo](https://scholar.google.co.kr/citations?user=7mawbTAAAAAJ&hl=en)‬

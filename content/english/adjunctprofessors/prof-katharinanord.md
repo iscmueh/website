@@ -53,30 +53,30 @@ contact:
 
 # type
 type: "teacher"
-weight: 6
+weight: 1
 ---
 ### Courses
-* Research Methodology
-* Spatial Planning
-* Urban Design
+1. * Research Methodology
+2. * Spatial Planning
+3. * Urban Design
 
 ### Academic and Research Profile
-* Professor, Dep. of Spatial Planning, Blekinge Institute of Technology, BTH (2016 – Now)
-* Advisor at UN Academic Impact, Korea (2016 – Now)
-* Senior Lecturer, NISAL, Linköping University (2011 - 2016)
-* Assistant Professor, NISAL, Linköping University (2007 – 2010)
-* Associate professor KTH (2009)
-* Research Fellow, Medical Architecture Research Unit, London South Bank University (2006)
-* Research Fellow, Built Environment Analysis, KTH (2004 – 2005)
-* PhD, Built Environment Analysis, KTH (2004)
-* Doctoral student, Dept. of Infrastructure, Built Environment Analysis, KTH (1990 – 2003)
-* Master in Architecture KTH (1990)
+1. * Professor, Dep. of Spatial Planning, Blekinge Institute of Technology, BTH (2016 – Now)
+2. * Advisor at UN Academic Impact, Korea (2016 – Now)
+3. * Senior Lecturer, NISAL, Linköping University (2011 - 2016)
+4. * Assistant Professor, NISAL, Linköping University (2007 – 2010)
+5. * Associate professor KTH (2009)
+6. * Research Fellow, Medical Architecture Research Unit, London South Bank University (2006)
+7. * Research Fellow, Built Environment Analysis, KTH (2004 – 2005)
+8. * PhD, Built Environment Analysis, KTH (2004)
+9. * Doctoral student, Dept. of Infrastructure, Built Environment Analysis, KTH (1990 – 2003)
+10. * Master in Architecture KTH (1990)
 
 
 ### Current Projects
-* CollAGE. Collaboratively developing age-friendly communities with municipality eldercare, spatial planning and Senior Citizens’ Councils. A research programme 2021-2027 funded by Forte.
-* Spatial strategies in residential care in the time of corona. Staff perspectives and the everyday life of older residents. Two-year project 20121-2023. funded by Kamprad Family Trust.
-* What places? What ageing? Ageing‐in‐place in contemporary African urbanities; the cases of Namibia and Uganda. A three year project funded by Jubileumsfonden.
+1. * CollAGE. Collaboratively developing age-friendly communities with municipality eldercare, spatial planning and Senior Citizens’ Councils. A research programme 2021-2027 funded by Forte.
+2. * Spatial strategies in residential care in the time of corona. Staff perspectives and the everyday life of older residents. Two-year project 20121-2023. funded by Kamprad Family Trust.
+3. * What places? What ageing? Ageing‐in‐place in contemporary African urbanities; the cases of Namibia and Uganda. A three year project funded by Jubileumsfonden.
 
 
 ### [Click HERE for Publication](https://www.bth.se/eng/staff/catharina-nord-cnx/)

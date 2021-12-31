@@ -55,6 +55,6 @@ type: "teacher"
 weight: 19
 ---
 
-- In charge of creating education platform through Adobe Captive for the Institute.
-- Support documents translation for the Institution activities.
-- Participate in supporting events and activities of the Institute.
+1. - In charge of creating education platform through Adobe Captive for the Institute.
+1. - Support documents translation for the Institution activities.
+1. - Participate in supporting events and activities of the Institute.

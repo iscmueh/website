@@ -11,5 +11,5 @@ image: "images/partners/UNAI.jpg"
 # type
 type: "network"
 
-weight: 12
+weight: 15
 ---

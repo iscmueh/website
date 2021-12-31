@@ -37,12 +37,12 @@ weight: 14
 ---
 
 ### Tiểu sử học thuật
-* Thạc sĩ quản trị logistics, Trường kinh doanh Rotterdam, Đại học ứng dụng Rotterdam, Hà Lan, 2018
-* Cử nhân Tài chính Ngân hàng , Đại học Mở TP.HCM, 2015
+1. * Thạc sĩ quản trị logistics, Trường kinh doanh Rotterdam, Đại học ứng dụng Rotterdam, Hà Lan, 2018
+1. * Cử nhân Tài chính Ngân hàng , Đại học Mở TP.HCM, 2015
 
 ### Kinh nghiệm
-* Thư ký Khoa học – Hợp tác quốc tế, Khoa Quản lý nhà nước, Đại học Kinh Tế TP.HCM, 2020-2021
-* Chuyên viên , Công ty TNHH De Heus, 2018-2020
-* Hỗ trợ hậu cần, Hội thảo Thương mại & Đầu tư Tunisia, 4/2017
-* Phiên dịch viên, Hội thảo kết nối kinh doanh cho tỉnh Vĩnh Long tại Gelerland, Hà Lan, 11/2016
+1. * Thư ký Khoa học – Hợp tác quốc tế, Khoa Quản lý nhà nước, Đại học Kinh Tế TP.HCM, 2020-2021
+1. * Chuyên viên , Công ty TNHH De Heus, 2018-2020
+1. * Hỗ trợ hậu cần, Hội thảo Thương mại & Đầu tư Tunisia, 4/2017
+1. * Phiên dịch viên, Hội thảo kết nối kinh doanh cho tỉnh Vĩnh Long tại Gelerland, Hà Lan, 11/2016
 

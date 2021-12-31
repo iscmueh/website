@@ -55,6 +55,6 @@ type: "teacher"
 weight: 19
 ---
 
-- Chịu trách nhiệm thực hiện thiết kế chương trình hỗ trợ dạy học qua Adobe Captive.
-- Hỗ trợ dịch thuật các tài liệu liên quan đến hoạt động của Viện.
-- Tham gia hỗ trợ các sự kiện và hoạt động của Viện.
+1. - Chịu trách nhiệm thực hiện thiết kế chương trình hỗ trợ dạy học qua Adobe Captive.
+1. - Hỗ trợ dịch thuật các tài liệu liên quan đến hoạt động của Viện.
+1. - Tham gia hỗ trợ các sự kiện và hoạt động của Viện.

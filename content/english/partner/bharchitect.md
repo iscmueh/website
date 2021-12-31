@@ -11,5 +11,5 @@ image: "images/partners/BH.jpg"
 # type
 type: "network"
 
-weight: 10
+weight: 11
 ---

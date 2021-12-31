@@ -62,22 +62,22 @@ weight: 9
 ---
 
 ### Courses
-* Urban Resilience and Risk Assessment
-* Data Analytics and Solutions for Architect and Urban Planner
-* Asset Management for Buildings and Engineering Systems
-* System Engineering
-* Project Management
+1. * Urban Resilience and Risk Assessment
+1. * Data Analytics and Solutions for Architect and Urban Planner
+1. * Asset Management for Buildings and Engineering Systems
+1. * System Engineering
+1. * Project Management
 
 
 ### Academic and Research Profile
-*	Doctoral student in Transportation Sciences, Hasselt University (Belgium) (2020-2024)
-*	Master of Transportation Sciences, Hasselt University (Belgium) (2017-2019)
-*	Bachelor of Business Administration, Vietnam Aviation Academy (2010-2014)
+1. *	Doctoral student in Transportation Sciences, Hasselt University (Belgium) (2020-2024)
+1. *	Master of Transportation Sciences, Hasselt University (Belgium) (2017-2019)
+1. *	Bachelor of Business Administration, Vietnam Aviation Academy (2010-2014)
 
 ### International Experiences
-*	Viags Tan Son Nhat (2016-2017)
+1. *	Viags Tan Son Nhat (2016-2017)
 Payment officer
-*	Hoa Sao Group (2015)
+1. *	Hoa Sao Group (2015)
 Supervisor for Vietjet Air call center
-*	Jetstar Pacific Airlines (2014-2015) 
+1. *	Jetstar Pacific Airlines (2014-2015) 
 

@@ -57,7 +57,7 @@ weight: 10
 ---
 
 ### Academic and Research Profile
-* Bachelor of Engineering, Urban Planning, Ton Duc Thang University(2017)
+1. * Bachelor of Engineering, Urban Planning, Ton Duc Thang University(2017)
 
 ### International Experiences
-* ERAMUS+ Exchange in Architecture, Hasselt University, Belgium 
+1. * ERAMUS+ Exchange in Architecture, Hasselt University, Belgium 

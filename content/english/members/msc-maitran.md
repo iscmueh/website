@@ -57,16 +57,16 @@ weight: 8
 ---
 
 ### Courses
-* Building Construction/Structure
-* Theories of Architectural Design
-* Design Studios
-* International design Studios
-* Urban planning and housing
+1. * Building Construction/Structure
+1. * Theories of Architectural Design
+1. * Design Studios
+1. * International design Studios
+1. * Urban planning and housing
 
 
 ### International Experiences
-* Instructor in International design Studios in Thailand (2018), Myanmar (2019), Vietnam (2016, 2017, 2018, 2019, 2020)
-* Lecturer exchange in Hasselt University, Belgium on March, 2018
-* Member of Women in Transport Leadership (WiTL)
-* Member of Lens
+1. * Instructor in International design Studios in Thailand (2018), Myanmar (2019), Vietnam (2016, 2017, 2018, 2019, 2020)
+1. * Lecturer exchange in Hasselt University, Belgium on March, 2018
+1. * Member of Women in Transport Leadership (WiTL)
+1. * Member of Lens
 

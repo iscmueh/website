@@ -1,22 +1,24 @@
 ---
-title: "International PhDs"
+title: "Tiến sĩ quốc tế"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # scholarship image
-image: "images/scholarship/scholarship-item-1.jpg"
+image: "images/scholarship/Scholarship4.jpg"
 # meta description
 description : ""
 
 weight: 3
 ---
 
-##### 20 Scholarships for International PhDs:
-Vietnamese - instruction programs: 
-* 100% tuition + accommodation fees, equivalent to $11,000 USD). Awarded throughout the official study period.
-English - instruction programs: 
-* 100% tuition + accommodation fees, equivalent to $11,000 USD). Awarded throughout the official study period.
+##### 20 Học bổng dành cho Tiến sĩ Quốc tế:
 
-[Please visit us here for detailed information](https://ueh.edu.vn/en/outreach/students/admissions/international-scholarship/)
+**Chương trình tiếng Việt:**  
+1. - 100% học phí + chi phí ăn ở, tương đương $ 11,000 USD). Được trao học bổng trong suốt thời gian nghiên cứu chính thức.
 
-* Source: UEH University
+**Chương trình tiếng Anh:**
+1. - 100% học phí + phí ăn ở, tương đương $ 11,000 USD). Được Được trao học bổng trong suốt thời gian nghiên cứu chính thức.
+
+[Xem thêm thông tin chi tiết tại đây](https://ueh.edu.vn/en/outreach/students/admissions/international-scholarship/)
+
+1. * Source: UEH University

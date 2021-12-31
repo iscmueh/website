@@ -57,16 +57,16 @@ weight: 11
 ---
 
 ### Giảng Dạy
-*	Thiết kế đô thị thông minh
-*	Quy hoạch đô thị
-*	Kinh tế đô thị mới và Marketing Thành phố
+1. *	Thiết kế đô thị thông minh
+1. *	Quy hoạch đô thị
+1. *	Kinh tế đô thị mới và Marketing Thành phố
 
 
 ### Tiểu Sử Nghiên Cứu
-*	Cộng tác viên nghiên cứu tại Viện Đô thị thông minh & Quản lý (ISCM-UEH)
-*	Thạc sĩ nghiên cứu Phát triển đô thị bền vững tại Đại học Việt Đức (VGU)
-*	Kỹ sư Quy hoạch vùng và đô thị tại Đại học Tôn Đức Thắng (TDTU)
+1. *	Cộng tác viên nghiên cứu tại Viện Đô thị thông minh & Quản lý (ISCM-UEH)
+1. *	Thạc sĩ nghiên cứu Phát triển đô thị bền vững tại Đại học Việt Đức (VGU)
+1. *	Kỹ sư Quy hoạch vùng và đô thị tại Đại học Tôn Đức Thắng (TDTU)
 
 ### Kinh Nghiệm Quốc Tế
-*	Urban designer tại Công ty B+H Architects
-*	Urban and Landscape designer tại Công ty Lascal
+1. *	Urban designer tại Công ty B+H Architects
+1. *	Urban and Landscape designer tại Công ty Lascal

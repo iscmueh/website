@@ -58,11 +58,11 @@ weight: 13
 ---
 
 ### Giảng Dạy
-* Phân tích dữ liệu đô thị
-* Công cụ số hóa và dữ liệu lớn
-* Hệ thống thông tin địa lý
-* Đô thị thông minh và cải tiến đô thị
+1. * Phân tích dữ liệu đô thị
+1. * Công cụ số hóa và dữ liệu lớn
+1. * Hệ thống thông tin địa lý
+1. * Đô thị thông minh và cải tiến đô thị
 
 ### Tiểu Sử Nghiên Cứu
-* Cử nhân tại trường Đại Học Khoa Học Tự Nhiên tp. Hồ Chí Minh (2014-2019)
-* Hiện tại đang học Thạc Sĩ tại trường Đại Học Quốc Gia Seoul (SNU), Hàn Quốc (2020-2022)
+1. * Cử nhân tại trường Đại Học Khoa Học Tự Nhiên tp. Hồ Chí Minh (2014-2019)
+1. * Hiện tại đang học Thạc Sĩ tại trường Đại Học Quốc Gia Seoul (SNU), Hàn Quốc (2020-2022)

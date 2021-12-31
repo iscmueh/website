@@ -55,7 +55,7 @@ type: "teacher"
 weight: 17
 ---
 
-- Chịu trách nhiệm phụ trách quản lý nội dung (bao gồm viết nội dung, trình bày nội dung,…) trên các kênh mạng xã hội.
-- Tham gia sản xuất các nội dung truyền thông (Digital / Offline, ...) như các bài báo, video / hình ảnh ý tưởng, v.v.
-- Viết bài PR theo nội dung yêu cầu.
-- Tham gia hỗ trợ các sự kiện và hoạt động của Viện.
+1. - Chịu trách nhiệm phụ trách quản lý nội dung (bao gồm viết nội dung, trình bày nội dung,…) trên các kênh mạng xã hội.
+1. - Tham gia sản xuất các nội dung truyền thông (Digital / Offline, ...) như các bài báo, video / hình ảnh ý tưởng, v.v.
+1. - Viết bài PR theo nội dung yêu cầu.
+1. - Tham gia hỗ trợ các sự kiện và hoạt động của Viện.
