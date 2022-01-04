@@ -35,4 +35,13 @@ Nếu như trước đây, các khu quy hoạch thường được xây dựng t
 
 Công nghệ, khí hậu, và sự quy hoạch của con người thật sự đã tác động mạnh mẽ đến đời sống chúng ta, đặc biệt là hậu đại dịch Covid-19. Đó vừa là thách thức vừa là cơ hội để chúng ta cùng nhau kiến tạo nên những đô thị thân thiện nói riêng và thế giới bền vững nói chung.
 
+***
+##### Mọi chi tiết vui lòng liên hệ:
+1. Viện Đô thị thông minh và quản lý (ISCM)
+2. * Đ/c: 232/6 Võ Thị Sáu, Phường Võ Thị Sáu, Quận 3, TP.HCM
+3. * SĐT: 028. 3930 9589
+4. * Email: iscm@ueh.edu.vn
+4. * Website: www.iscm.ueh.edu.vn
+5. * Youtube Chanel: https://www.youtube.com/channel/UCtoJ5ZFc9yLiPFRY_UcIoBg
+6. * LinkedIn: https://www.linkedin.com/company/68028770
 <!--EndFragment-->

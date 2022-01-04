@@ -10,38 +10,24 @@ image: "images/events/smartcity2021/poster .png"
 
 <!--StartFragment-->
 
-\_\_\_\_\_\_\_\_\_\_\_\_
 
-🌈 a year to regenerate
-🌈 a year to rethink our city
-🌈 a year to sustain our future
-🌈 a year to +
+The year 2021 will be remembered for major changes in different areas, as well as an uncertain future due to Covid-19. The difficulties have compelled us to "regenerate" and give us a chance to "plus." At ISCM, we are continually changing, exploring the "creative zone," and connecting the community with the goal of creating a smart city brand based on cultural values, technology, and available resources in order to achieve long-term sustainability.
 
-2021, marking many changes in all aspects and forecasting an uncertain future ahead. The challenges compelled us to "regenerate" and provided us an opportunity to "+". At ISCM, we always change, explore the "creative zone" and connect the community with an ambition to build a smart city brand from cultural values, technology, and existing resources to achieve sustainable development.
-
-This Friday, SMARTCITY+ Festival, which we have cherished for a long time, will be held. The festival will bring a series of events you should not miss this December. With a variety of activities ranging from the online and offline format, it is flexible to provide many channels of communication for content, such as exhibitions, seminars, and webinars. 
-
-📍 Always free
-📍 Time: 8 AM to 8 PM - December 17, 2021
-📍 Venue: UEH Campus B, 279 Nguyen Tri Phuong, District 10, HCMC, Vietnam
-📍 Online format (coming soon)
-
-Follow us to receive the newest information from this event!
+SMARTCITY+ Festival, which we have cherished for a long time, will be held. The festival will bring a series of events you should not miss this December. With a variety of activities ranging from the online and offline format, it is flexible to provide many channels of communication for content, such as exhibitions, seminars, and webinars.
 
 
+1. *  Always free
+2. * Time: 8 AM to 8 PM - December 17, 2021
+3. * Venue: UEH Campus B, 279 Nguyen Tri Phuong, District 10, HCMC, Vietnam
 
-<!--EndFragment-->
+##### For more information, please contact:
+1. Institute of Smart City and Management (ISCM)
+2. * Address: 232/6 Vo Thi Sau, Vo Thi Sau Ward, District 3, Ho Chi Minh City
+3. * Tel: 028. 3930 9589
+3. * Email: iscm@ueh.edu.vn 
+3. * Website: www.iscm.ueh.edu.vn
+4. * Youtube Chanel: https://www.youtube.com/channel/UCtoJ5ZFc9yLiPFRY_UcIoBg
+5. * Linked in: https://www.linkedin.com/company/68028770
 
-<!--StartFragment-->
 
 
-* *Institute of Smart Cities and Management*
-* *Adress: 232/6 Vo Thi Sau, Vo Thi Sau Ward, District 3, Ho Chi Minh City*
-* *Tel: 028.39309589 - 028.39309269*
-* *Email:[ iscm@ueh.edu.vn]
-* *Website:[ www.iscm.ueh.edu.vn](https://iscm.ueh.edu.vn/)*
-* *Fanpage: [facebook/iscm.ueh](https://www.facebook.com/ISCM.UEH/)*
-
-<!--EndFragment-->
-
-<!--EndFragment-->

@@ -19,41 +19,34 @@ Live on Zoom with simultaneous interpretation English – Vietnamese
 Register and more information at https://bit.ly/31ZvfVz
 
 
-RMIT’s Smart & Sustainable Cities Forum’s (SSC) overarching goal is to provide a platform for the sharing of best practices and knowledge to ensure that stakeholders across key industry segments, public sector organizations and local/international NGOs have the information critical for Vietnam’s developing cities. 
-Speakers include government leaders, executives from top industry partners (KPMG, UNDP, Schneider Electric, World Bank, etc.), RMIT leaders and executives 
-The key themes of this SSC are of significant importance to sustainably develop Vietnam’s urban centres. Based on the 2020 Vietnam census, the current population of Hanoi and HCMC are about 8.3 and 9.3 million respectively, and both cities are expected to grow further. As such, the SSC seeks to inform participants on key aspects to set the development agenda of the cities in the right direction. 
+The goal of RMIT's Smart & Sustainable Cities (SSC) Forum is to provide a platform for stakeholders from various industry segments, organizations, regional organizations, and local/international NGOs to share knowledge and best practices in order to ensure that stakeholders from various industry segments, organizations, regional organizations, and local/international NGOs have important information on the direction of developing cities in Vietnam. Government officials, leaders from prominent industry partners (KPMG, UNDP, Schneider Electric, World Bank, and others), and leaders from RMIT University are among the speakers. The key subjects of this event are critical to the long-term growth of Vietnam's metropolitan areas. The present populations of Hanoi and Ho Chi Minh City are between 8.3 and 9.3 million people, according to Vietnam in 2020, and are likely to grow even more. As a result, the goal of this forum is to discover a means to enlighten participants about the primary concerns so that appropriate urban development ideas may be offered.
+ 
 
 Topics include : 
 
-*   Smart Governance and the link to United Nations’ Sustainable Development Goals 
-*   BlockChain Innovations 
-*   Liveable Cities from The Australian Urban Observatory 
-*   Government vision for smart & sustainable development 
-*   Benchmarking progress of smart city development 
-*   Moving towards a “Digital Vietnam” 
-*   Smart tourism, governance, and logistics 
-*   Sustainable waste management & plastic pollution 
-*   Smart City solutions for Climate Change
+1. *   Smart Governance and the link to United Nations’ Sustainable Development Goals 
+1. *   BlockChain Innovations 
+1. *   Liveable Cities from The Australian Urban Observatory 
+1. *   Government vision for smart & sustainable development 
+1. *   Benchmarking progress of smart city development 
+1. *   Moving towards a “Digital Vietnam” 
+1. *   Smart tourism, governance, and logistics 
+1. *   Sustainable waste management & plastic pollution 
+1. *   Smart City solutions for Climate Change
  
 
-ISCM is honored to have Dr. Tu Anh Trinh - Director of ISCM participate in this forum as a guest speaker of the event with many other guests.
-
-Source: RMIT Vietnam
-
+Dr. Trinh Tu Anh, Director of the Institute of Smart Cities and Management, is excited to be a guest speaker at this event, along with many other speakers. 
+From RMIT Vietnam's latest news and photographs.
 
 
-<!--EndFragment-->
 
-<!--StartFragment-->
+***
 
-
-* *Viện Đô thị thông minh và quản lý*
-* *Địa chỉ: 232/6 Võ Thị Sáu, P7, Quận 3*
-* *Điện thoại: 028.39309589 - 028.39309269*
-* *Email:[ iscm@ueh.edu.vn]
-* *Website:[ www.iscm.ueh.edu.vn](https://iscm.ueh.edu.vn/)*
-* *Fanpage: [facebook/iscm.ueh](https://www.facebook.com/ISCM.UEH/)*
-
-<!--EndFragment-->
-
-<!--EndFragment-->
+##### For more information, please contact:
+1. Institute of Smart City and Management (ISCM)
+2. * Address: 232/6 Vo Thi Sau, Vo Thi Sau Ward, District 3, Ho Chi Minh City
+3. * Tel: 028. 3930 9589
+3. * Email: iscm@ueh.edu.vn 
+3. * Website: www.iscm.ueh.edu.vn
+4. * Youtube Chanel: https://www.youtube.com/channel/UCtoJ5ZFc9yLiPFRY_UcIoBg
+5. * Linked in: https://www.linkedin.com/company/68028770

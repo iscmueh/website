@@ -4,7 +4,7 @@ author: iscm
 bg_image: ""
 description : " "
 # Event image
-image: "images/recruitment/researcher.jpg"
+image: "images/recruitment/senior-researcher.jpg"
 ---
   
 Với mục tiêu nâng cao chất lượng và môi trường học tập, nghiên cứu và tạo nguồn nhân lực tham gia vào các dự án hợp tác, Viện Đô thị thông minh và Quản lý (ISCM) thông báo tuyển dụng nhân sự có kinh nghiệm. Đây là cơ hội hấp dẫn dành cho các ứng viên quan tâm về mảng Quy hoạch đô thị, quản lý thông mình, mong muốn được làm việc trong một môi trường năng động với nhiều tiềm năng phát triển. 

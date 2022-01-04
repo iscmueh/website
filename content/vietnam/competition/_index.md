@@ -4,5 +4,5 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "ISCM is conducting a number of competitives with local and international partners on various subjects relevant to the context of smart cities and managementand urban design. Our target is focusing on finding people gifted to contribute in building smart city in the future."
+description : "ISCM đang kết hợp với các đối tác trong nước và quốc tế để tiến hành một số cuộc thi về những chủ đề khác nhau liên quan đến bối cảnh Thành phố thông minh, quản lý và thiết kế đô thị. Mục tiêu của chúng tôi là tập trung vào những người có năng khiếu để có thể đóng góp vào việc xây dựng thành phố thông minh trong tương lai."
 ---

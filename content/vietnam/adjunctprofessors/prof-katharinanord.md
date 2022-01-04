@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/AdjunctProfs/nord.JPG"
 # course
-course: "Professor in Spatial Planning/ Architect SAR/MSA"
+course: "Giáo sư Quy hoạch Không gian, Viện Kỹ Thuật Blekinge, BTH "
 position: ""
 # biograph
 bio: ""

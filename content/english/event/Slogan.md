@@ -11,31 +11,31 @@ image: /images/events/slogan.jpg
 ### About Event
 <!--StartFragment-->
 
-After nearly a month of launching, the UEH Slogan competition received positive support from the domestic and international creative community. With more than 150 entries submitted, international entries are about 30%. Continuing on the journey to find the best slogan, UEH cordially invites you to participate in The 2nd Studio: Judging Panel Event. This is the round of the best submissions presented to the Jury.
+After nearly a month of launching, the UEH Slogan competition received positive support from the domestic and international creative community. With over 150 submissions, international entries account for roughly 30% of the total. Continuing on the journey to find the best slogan, UEH cordially invites you to participate in The 2nd Studio: Judging Panel Event. This is the round of the best submissions presented to the jury.
 
 **Time: 6PM (GMT+7), October 9th, 2021**
 
 **Location:**
-- Join at link: https://bit.ly/SloganCompUEH
-- Livestream Fanpage UEH: https://www.facebook.com/DHKT.UEH
-- Livestream Fanpage ISB:https://www.facebook.com/ueh.isb/
-- Livestream Fanpage ISCM:https://www.facebook.com/ISCM.UEH
+1. - Join at link: https://bit.ly/SloganCompUEH
+1. - Livestream Fanpage UEH: https://www.facebook.com/DHKT.UEH
+1. - Livestream Fanpage ISB:https://www.facebook.com/ueh.isb/
+1. - Livestream Fanpage ISCM:https://www.facebook.com/ISCM.UEH
 
 **Agenda:**
-- Opening Ceremony;
-- Panel introduction;
-- UEH leadership remarks;
-- Presentation section of excellent entries ;
-- The Jury reviews and closes the program.
+1. - Opening Ceremony;
+1. - Panel introduction;
+1. - UEH leadership remarks;
+1. - Presentation section of excellent entries ;
+1. - The Jury reviews and closes the program.
 
 **Delegate:**
-- Prof. Nguyen Dong Phong, Chairman of UEH University Council, Head of the Judging Panel
-- Prof. Su Dinh Thanh, President of UEH
-- Dr. Bui Quang Hung, Vice President of UEH
-- Assoc. Prof. Phan Thi Bich Nguyet, Advisory Council Chairwoman of UEH
-- Prof. Yi-Chen Lan, Pro Vice-Chancellor Global Development, Western Sydney University (Australia)
-- Prof. Géraldine Michel, Brand Expert, IAE Paris - Sorbonne Business School (France)
-- Mr. Richard Moore, Chairman and Ideation Director of Richard Moore Associates company
+1. - Prof. Nguyen Dong Phong, Chairman of UEH University Council, Head of the Judging Panel
+1. - Prof. Su Dinh Thanh, President of UEH
+1. - Dr. Bui Quang Hung, Vice President of UEH
+1. - Assoc. Prof. Phan Thi Bich Nguyet, Advisory Council Chairwoman of UEH
+1. - Prof. Yi-Chen Lan, Pro Vice-Chancellor Global Development, Western Sydney University (Australia)
+1. - Prof. Géraldine Michel, Brand Expert, IAE Paris - Sorbonne Business School (France)
+1. - Mr. Richard Moore, Chairman and Ideation Director of Richard Moore Associates company
 
 Join the event now to support the candidates and choose your favorite slogan!
 

@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/AdjunctProfs/kwon1.jpg"
 # course
-course: ""
+course: "Professor in Urban design, Seoul National University"
 position: ""
 # biograph
 bio: "Prof. Youngsang Kwon is working at Department of Civil and Environmental Engineering, Seoul National University."

@@ -22,4 +22,4 @@ description : ""
 1. Institure of Smart City and Management (ISCM)
 1. - Address: 232/6 Vo Thi Sau Street, Vo Thi Sau Ward, District 3, HCMC
 2. - Email: iscm@ueh.edu.vn
-3. - Number: 028. 39309589 - 0946973488 (Ms Mai)
+3. - Tel: 028. 39309589 - 0946973488 (Ms Mai)

@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/AdjunctProfs/elena.jpg"
 # course
-course: ""
+course: "Phó giáo sư Quy hoạch Đô thị, Bộ Môn Kỹ Thuật và Kiến Trúc, IT"
 position: ""
 # biograph
 bio: "PGS. Elena Marchigiani làm việc trong mảng thiết kế, thực hiện các công cụ quy hoạch và các dự án đô thị trong các lĩnh vực tái thiết cộng đồng dân cư và nhà ở xã hội, quy hoạch thị trấn và quản lý thành phố, quy hoạch và thiết kế lãnh thổ và cảnh quan, các chính sách không gian công cộng (nhà ở, phúc lợi và giao thông), các quy trình thiết kế có sự tham gia."

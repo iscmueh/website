@@ -8,7 +8,6 @@ location: "ISCM, Ho Chi Minh City, Vietnam"
 image: /images/events/tvtuyensin.jpg
 ---
 
-### About Event
 <!--StartFragment-->
 
 
@@ -18,16 +17,24 @@ Các bạn học sinh và phụ huynh có thể tham gia buổi tư vấn trực
 
 Chương trình có sự tham gia của các giảng viên, chuyên gia của Viện đang làm việc, học tập và nghiên cứu trong và ngoài nước, các bạn thực tập sinh tại ISCM sẽ giải đáp các thắc mắc về chương trình học, cơ hội việc làm và học tập tại nước ngoài cũng như kinh nghiệm, kỹ năng của người làm kiến trúc và thiết kế đô thị.
 
-**Thời gian:** 15h – 16h (UTC+7) - Ngày 16 tháng 08 năm 2021
+1. **Thời gian:** 15h – 16h (UTC+7) - Ngày 16 tháng 08 năm 2021
 
-**Link tham gia:** https://bit.ly/3yAJxHR
+1. **Link tham gia:** https://bit.ly/3yAJxHR
 
-**Link đăng ký và đặt câu hỏi:** https://bit.ly/3fLjqqg
+1. **Link đăng ký và đặt câu hỏi:** https://bit.ly/3fLjqqg
 
 *Lưu ý: Bạn có thể đăng nhập bằng 2 cách
-- Cài app Webex Meet
-- Đăng nhập bằng trình duyệt*
+1. - Cài app Webex Meet
+1. - Đăng nhập bằng trình duyệt*
 
 Tham gia chương trình, bạn có cơ hội nhận được nhiều phần quà từ UEH và ISCM.
 
+##### Mọi chi tiết vui lòng liên hệ:
+1. Viện Đô thị thông minh và quản lý (ISCM)
+2. * Đ/c: 232/6 Võ Thị Sáu, Phường Võ Thị Sáu, Quận 3, TP.HCM
+3. * SĐT: 028. 3930 9589
+4. * Email: iscm@ueh.edu.vn
+4. * Website: www.iscm.ueh.edu.vn
+5. * Youtube Chanel: https://www.youtube.com/channel/UCtoJ5ZFc9yLiPFRY_UcIoBg
+6. * LinkedIn: https://www.linkedin.com/company/68028770
 <!--EndFragment-->

@@ -1,16 +1,16 @@
 ---
-title: "Future City: Smart Design for Post-Pandemic World"
+title: "Thành phố tương lai: Thiết kế thông minh cho thế giới hậu đại dịch"
 author: iscm
 bg_image: "images/backgrounds/page-title.jpg"
 description : " "
 # Event image
 image: "images/competitive/arttech/poster.jpg"
-overview_01: "In the SMARTCITY+ event series, ArtTech Fusion 2021, which is hosted by the University of Economics Ho Chi Minh City (UEH), presided by the Institute of Smart City and Management (ISCM), co-organized by the Institute of Innovation (UII), UEH Youth union - Vietnamese Students' Association, and Phố Bên Đồi. The event is also supported by the companionship of departments, universities, research institutes, enterprises, corporations, national and international NGOs. "
+overview_01: "Nằm trong chuỗi sự kiện SMARTCITY +, ArtTech Fusion 2021 do Trường Đại học Kinh tế Thành phố Hồ Chí Minh (UEH) tổ chức, đồng chủ trì bởi Viện Đô thị Thông minh và Quản lý (ISCM), Viện Sáng tạo (UII) Đoàn Thanh niên UEH - Hội Sinh viên Việt Nam, và tổ chức Phố Bên Đồi. Ngoài ra sự kiện còn nhận được sự đồng hành của các ban ngành, trường đại học, viện nghiên cứu, doanh nghiệp, tập đoàn, tổ chức phi chính phủ trong nước và quốc tế."
 
-overview_02: "On January 8, the opening ceremony of the SMARTCITY+ ArtTech Fusion series of events was held at campus V - University of Economics Ho Chi Minh City. This is the first event to kick off ISCM's series of ArtTech Fusion activities in 2021.  "
+overview_02: "Ngày 8/1, lễ khai mạc chuỗi sự kiện SMARTCITY + ArtTech Fusion đã được tổ chức tại cơ sở V - Đại học Kinh tế TP.HCM. Đây là sự kiện đầu tiên mở đầu cho chuỗi hoạt động ArtTech Fusion trong năm 2021 của ISCM."
 
 
-overview_03: "Start developing Ho Chi Minh City branding as a “Livable Smart City” identity through the combination of art and technology tools, the ArtTech Fusion event not only stops by seeing artworks but also organizing many activities to spur the combination of innovation and art for your best experience. The audience will be excited by freehand sketching with Urban Sketchers Vietnam, VietNam Watercolor Art,..; Music live session with Germer Team and The Huy x Song Nhu; Virtual Reality (VR) showcase, urban simulation, applying technology in art and solving urban problems, Art talks book corner at ISCM StudioLab. Additionally, the event also promotes and makes the UEH-VTS as an ArtTech Fusion Platform of HCMC as a socialize - creative and inspirational place for GenZ."
+overview_03: "Bắt đầu việc phát triển Thành Phố Hồ Chí Minh mang thương hiệu bản sắc “thành phố thông minh đáng sống” thông qua việc kết hợp các yếu tố nghệ thuật và công nghệ, sự kiện ArtTech Fusion không chỉ dừng lại ở việc chiêm ngưỡng các tác phẩm nghệ thuật mà còn tổ chức nhiều hoạt động nhằm thúc đẩy sự kết hợp những sự đổi mới và nghệ thuật, cho bạn trải nghiệm tuyệt vời nhất. Khán giả sẽ hào hứng với phần phác thảo tự do cùng với nhóm Urban Sketchers Vietnam, nhóm VietNam Watercolor Art,..; Buổi biểu diễn âm nhạc trực tiếp với sự góp mặt của nhóm Germer, Thế Huy x Song Như, trưng bày Thực tế ảo (VR). mô phỏng đô thị, ứng dụng công nghệ trong nghệ thuật và giải quyết các vấn đề đô thị, Góc sách nói nghệ thuật tại ISCM StudioLab. Ngoài ra, sự kiện này cũng thúc đẩy và biến UEH-VTS trở thành một nền tảng công nghệ kết hợp nghệ thuật của TP.HCM trở thành một nơi giao lưu - sáng tạo và truyền cảm hứng cho GenZ."
 
 partners: "images/competitive/arttech/partner.jpg"
 
