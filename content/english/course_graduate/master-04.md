@@ -1,5 +1,5 @@
 ---
-title: "Master of Smart City and Innovation Management, Master of Transportation Sciences"
+title: "International Dual Degree Program - Executive Master of Smart City and Innovation Management and Master of Transportation Sciences"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -24,40 +24,54 @@ apply_url : "#"
 type: "course"
 courseStuctureImage: "images/courses/structure/master-ueh-UH.JPG"
 summary: " "
-post: "Master of Transportation Sciences"
+post: "International Dual Degree Program - Executive Master of Smart City and Innovation Management and Master of Transportation Sciences"
 ---
 
 
-### About Course
+##### About Course
 
 <!--StartFragment-->
 
-The program provides the students with expertise and ability to master the fields of smart city (planning, design, management), creative management, simulation, technology and human ecology.
-After graduating, learners receive dual degrees:
-1. * Master of Smart City and Innovation Management, majoring in Smart City and Innovation Management granted by UEH University; 
-2. * Master of Transportation Sciences granted by Hasselt University (UH) in Belgium.
+This program will deliver a wide range of in-depth knowledge along with the management abilities in many fields like smart city (Design, Planning and Management), innovative management, simulation, technology and human ecology.
 
+##### Degree:
+1. * Executive Master of Smart City and Innovation Management granted by UEH University (UEH), Vietnam;
+1. * Master of Transportation Sciences granted by Hasselt University (UH), Belgium.
 
-<!--EndFragment-->
 
 {{< youtube id="NrtYcJBrxaU" title="Smart Urban Architecture and Design" >}}
 
+<!--EndFragment-->
 
-### Advantage
-1. * Gaining integrated competences in urban innovation management;
-2. * Integrating, updating regularly and incorporating theory into practice, studying through seminars, online and offline, working in real-life studios and guided by top domestic and foreign experts;
-3. * Practicing with advanced technology solutions (VR, AR, 3D Printing, urban simulation, etc.) in design, planning and implementation;
-4. * Studying in smart city Studio Lab;
-5. * Opportunities to learn from professors/lecturers from international partner universities.
+##### Scholars:
+
+1. Candidates who want to advance themselves in management and profession in government, local authorities, non-government organizations, non-profit organizations, universities/ institutes, private sectors working in the field of urban management and urban planning, urban development, urban design, transportation infrastructure management and planning, real estate development and investment, architecture, environment.
 
 
+##### Application requirements:
+1. * Local and International University graduates, Master candidates.
+2. * Sufficient knowledge of English is required and is to be certified by one of the below mentioned tests: TOEIC 625/ IELTS 5.0/ TOEFL 500 IBT- 173 CBT- 61 iBT.
 
-### Requirements
+##### Program structure:
+1. * Candidates will spend 3 semesters in Vietnam and 1 semester studying abroad in Belgium.
+2. * Total credits: 78 (36 credits from UEH, 42 credits from UH)
 
-Candidates applying for the entrance examination must satisfy the following conditions:
-1. * Candidates have work experience from the government agencies, NGOs, NPOs, companies in the fields of urban planning and design, urban management and development, transportation and infrastructure planning, project management, real estate development, architecture, and environmental development.
-2. * Entrance exam: English, GMAT and interview.
 
-### [Click HERE for more Details](https://www.ueh.edu.vn/dao-tao/thac-si-tien-si/thac-si-dieu-hanh-cao-cap-emba/quan-ly-do-thi-thong-minh-va-sang-tao/?fbclid=IwAR09xSUOK2WxPuLZdZ4whONMLsnSDkAyvQqkoX0iioGizyCGdkdtBUqgig4)
+##### Graduation requirements:
+1. * Students will study 3 semesters at UEH University (Vietnam) and 1 semester in UH (Belgium). All the subjects will be delivered in English except Philosophy and English.
 
-### Program structure 
+1. * Students must complete the master thesis of the dual degree program. 
+
+##### Career opportunities: 
+1. Dual program Master graduates will have a multidisciplinary knowledge with multi perspective-taking ability that help them towards making integrative and innovative solutions in smart cities management. Students will have plenty of opportunities to become executive managers in the field of urban development and management, urban planning, urban design, transportation management and planning, project management, real estate management and investment, architecture, environment.
+
+
+
+##### General information of partner university
+1. Hasselt University is located in Hasselt, Belgium, was established in 1973. Today, HGU has become one of the best Universities with a high reputation in Belgium and Europe in the Transportation Science field.
+
+
+
+##### [Click HERE for more Details](https://www.ueh.edu.vn/dao-tao/thac-si-tien-si/thac-si-dieu-hanh-cao-cap-emba/quan-ly-do-thi-thong-minh-va-sang-tao/?fbclid=IwAR09xSUOK2WxPuLZdZ4whONMLsnSDkAyvQqkoX0iioGizyCGdkdtBUqgig4)
+
+##### Program structure 

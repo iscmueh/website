@@ -1,5 +1,5 @@
 ---
-title: "Chương trình liên kết đào tạo đại học chính quy với trường Đại học Auckland, New Zealand"
+title: "Chương trình cử nhân liên kết song bằng Kiến trúc và Thiết kế đô thị thông minh (UEH) và Kiến trúc (ĐH Auckland, New Zealand)"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -22,39 +22,39 @@ duration : "4 năm"
 apply_url : "#"
 # type
 type: "course"
-courseStuctureImage: "images/courses/structure/Auckland.jpg"
+courseStuctureImage: "images/courses/structure/UEH-UOA.jpg"
 summary: " "
 post: "Chương trình liên kết đào tạo đại học chính quy với trường Đại học Auckland, New Zealand"
-
+weight: 2
 ---
 
-### Giới Thiệu Chung
+#### Giới Thiệu Chung
 
-Chương trình tuyển sinh và hợp tác đào tạo đại học cấp song bằng (1+1) UEH-UoA. Bằng thứ nhất là cử nhân Kiến trúc đô thị, chuyên ngành Kiến trúc và Thiết kế đô thị thông minh/Architecture and Urban Design inclusive Smart City do UEH cấp bằng. Bằng thứ hai là bằng cử nhân Kiến trúc/ Bachelor of Architectural Studies do University of Auckland (UoA) cấp bằng.
-
-Chương trình hợp tác đào tạo đại học chính quy cấp song bằng UEH - UoA được tổ chức giảng dạy trực tiếp 1,5 năm tại UEH, 2 năm tại UOA và 0,5 năm tại UEH (có thể học trực tuyến tại UoA).
+Chương trình cử nhân liên kết song bằng Kiến trúc và Thiết kế đô thị thông minh/ Kiến trúc được thiết kế giành riêng cho sinh viên có định hướng theo đuổi trải nghiệm học tập ngành Kiến trúc và Thiết kế đô thị trong môi trường giáo dục quốc tế. Sinh viên hoàn thành 2 năm học ở mỗi trường đại học để nhận được văn bằng riêng của mỗi trường: Bằng cử nhân Kiến trúc chuyên ngành Kiến trúc và thiết kế đô thị thông minh do UEH cấp và bằng Cử nhân Kiến trúc do Đại học Auckland, New Zealand (UoA) cấp. Chương trình học bao gồm 1,5 năm đầu học ở UEH, 2 năm tiếp theo học tại UoA và 0,5 năm cuối làm đồ án tốt nghiệp tại UEH (có thể học online tại UoA)
 
 
-### Đặc điểm nổi bật:
+#### Bằng cấp sau khi tốt nghiệp:
+1. Cử nhân kiến trúc.
+  
+#### Đối tượng người học:
+1. Sinh viên đang theo học chuyên ngành Kiến trúc và Thiết kế đô thị thông minh (BAUD) tại UEH.
 
-*   Sinh viên được cấp hai bằng đại học của đại học UEH và UoA;
-*   Chương trình tạo nên một công dân toàn cầu thông thạo kiến thức về thiết kế, quy hoạch phát triển đô thị và thiết kế đô thị theo chuẩn quốc tế, sử dụng tiếng Anh thành thạo làm cơ sở cho quá trình học tập suốt đời của sinh viên;
-*   Chương trình tích hợp đa ngành như môi trường, nghệ thuật, kỹ thuật, quy hoạch, chính sách công, …thông qua các trải nghiệm đa dạng từ bài giảng, seminar, đến xưởng thiết kế/thực hành, StudioLab hiện đại, tham quan thực tế… 
-*   Các đồ án, môn học được thiết kế dựa trên nghiên cứu giải quyết các vấn đề thực tế (do các cơ quan quản lý nhà nước, công ty tư nhân trong và ngoài nước đặt hàng); 
-*   Chương trình học tích hợp ứng dụng và sử dụng các công nghệ hiện đại: VR, AR, 3D Printing, mô phỏng đô thị… vào thiết kế, quy hoạch và thực hiện;
-*   Sử dụng hệ thống phòng StudioLab đô thị thông minh hiện đại;
+#### Điều kiện xét tuyển:
+1. * Sinh viên đang theo học chuyên ngành Kiến trúc và Thiết kế đô thị thông minh (BAUD) và đã hoàn thành chương trình học 1,5 với số điểm tích luỹ tối thiểu 3.0/4.0 trong năm học đầu tiên (2 học kỳ);
+2. * Sinh viên đạt chứng chỉ IELTS 6.0 (không có kỹ năng nào dưới 5.5) hoặc TOEFL (IBT 80, kỹ năng viết đạt tối thiểu 21) hoặc chứng chỉ tương đương được chấp nhận bởi ĐH Auckland.
 
-*   Phù hợp với nhiều định hướng khác nhau của sinh viên, đề cao đạo đức nghề nghiệp, trí tuệ liêm chính và trách nhiệm xã hội của con người hiện đại trong kỷ nguyên mới.
+#### Cơ hội việc làm:
+1. Với chính sách gia hạn thị thực lên đến 5 năm khi học liên tục tại New Zealand tối thiểu 12 tháng, sinh viên có nhiều cơ hội làm thêm tại Auckland cũng như cơ hội ở lại làm việc và học tập lên cao sau khi tốt nghiệp đại học.
 
-### Điều kiện đăng kí:
+#### Giới thiệu tổng quan về đơn vị liên kết:
+1. Được thành lập từ năm 1883, Auckland là trường đại học lớn nhất New Zealand với hơn 40 nghìn sinh viên, gần 10 nghìn sinh viên tốt nghiệp hàng năm. Trường Auckland toạ tạc tại thành phố cảng Auckland, là trung tâm kinh tế, văn hoá của New Zealand, với cảnh quan rừng nhiệt đới và những bãi biển trải dài tuyệt đẹp. Auckland được xếp hạng là một trong ba thành phố hàng đầu thế giới về chất lượng cuộc sống theo Mercer và nằm trong TOp 30 thành phố học tập tốt nhất theo QS vào năm 2017. Đại học Auckland có 5 cơ sở chính, cơ sở lớn nhất nằm giữa trung tâm thành phố Auckland, được cung cấp đầy đủ các dịch vụ thiết yếu và dễ dàng tiếp cận với cuộc sống nhộn nhịp tại đây.
 
-*   Là sinh viên đã trúng tuyển và đang theo học chương trình đại học chính quy ngành Kiến trúc đô thị - chuyên ngành Kiến trúc và thiết kế đô thị thông minh tại UEH;
-*   Sinh viên đạt điểm trung bình (GPA) tối thiểu 7.35 vào năm thứ nhất;
-*   Yêu cầu Anh ngữ phải đạt IELTS 6.0 (không có kỹ năng nào dưới 5.5) hoặc TOEF IBT 80 (kỹ năng viết đạt từ 21 điểm trở lên) hoặc kết quả tương đương được UoA chấp nhận. 
+#### Liên hệ tuyển sinh: 
+1. Viện Đô thị thông minh và quản lý (ISCM)
+2. * Đ/c: 232/6 Võ Thị Sáu, Phường Võ Thị Sáu, Quận 3, TP.HCM
+3. * SĐT: 028. 3930 9589
+4. * Email: iscm@ueh.edu.vn
+4. * Website: www.iscm.ueh.edu.vn
+5. * Facebook: http://www.facebook.com/ISCM.UEH
 
-
-### Địa điểm học:
-
-*   Viện đô thị thông minh và quản lý (ISCM), UEH, 232/6 Võ Thị Sáu, quận 3, TP.HCM, Việt Nam.
-*   Faculty of Creative Arts and Industries, 26 Symonds Street, Auckland CBD, Auckland 1010, New Zealand.
-
+#### [Cấu trúc chương trình:](https://drive.google.com/file/d/1YMFuO2xwNJ-HO-OoYBqLUDEd90CBJhid/view)

@@ -29,7 +29,7 @@ post: "Master of Smart City and Innovation Management"
 
 
 
-### About Course
+##### About Course
 
 <!--StartFragment-->
 The program provides deep expertise and competence to master the areas of management, science and technology regarding integrated solutions in urban planning and design for smart city.
@@ -43,7 +43,7 @@ The program focuses on the application of smart technology on urban innovation m
 {{< youtube id="NrtYcJBrxaU" title="Smart Urban Architecture and Design" >}}
 
 
-### Advantage
+##### Advantage
 
 1. * Gaining integrated competences in urban innovation management;
 2. * Integrating, updating regularly and incorporating theory into practice, studying through seminars, online and offline, working in real-life studios and guided by top domestic and foreign experts;
@@ -52,13 +52,13 @@ The program focuses on the application of smart technology on urban innovation m
 5. * Opportunities to learn from professors/lecturers from international partner universities.
 
 
-### Requirements
+##### Requirements
 
 Candidates applying for the entrance examination must satisfy the following conditions:
 1. * Candidates have work experience from the government agencies, NGOs, NPOs, companies in the fields of urban planning and design, urban management and development, transportation and infrastructure planning, project management, real estate development, architecture, and environmental development.
 2. * Entrance exam: English, GMAT and interview.
 
 
-### [Click HERE for more Details](https://www.ueh.edu.vn/dao-tao/thac-si-tien-si/thac-si-dieu-hanh-cao-cap-emba/quan-ly-do-thi-thong-minh-va-sang-tao/?fbclid=IwAR09xSUOK2WxPuLZdZ4whONMLsnSDkAyvQqkoX0iioGizyCGdkdtBUqgig4)
+#### [Click HERE for more Details](https://www.ueh.edu.vn/dao-tao/thac-si-tien-si/thac-si-dieu-hanh-cao-cap-emba/quan-ly-do-thi-thong-minh-va-sang-tao/?fbclid=IwAR09xSUOK2WxPuLZdZ4whONMLsnSDkAyvQqkoX0iioGizyCGdkdtBUqgig4)
 
-### Program structure
+#### Program structure

@@ -25,11 +25,11 @@ type: "course"
 courseStuctureImage: "images/courses/structure/bachelor.jpg"
 summary: " "
 post: "Architectural and Urban Design Inclusive Smart City"
-
+weight: 1
 ---
 
 
-### About Course
+#### About Course
 
 The program is designed following international standards and provides expertise with the integration of international knowledge and skills from various fields such as landscape architecture, transportation and infrastructure, economics, society, environment and technology to the field of architectural and urban design for inclusive smart city.  
 
@@ -37,7 +37,7 @@ After graduation, students have competence to work for public or private, intern
 
 {{< youtube id="on_ZGjx4p5U" title="Smart Urban Architecture and Design" >}}
 
-### Advantage
+#### Advantage
 
 1. *	Becoming a global citizen with  he knowledge of planning and urban design following international standards, using fluent English as the basis for students’ lifelong learning;
 2. *	Multi-sectoral integrated approach from the fields of environment, art, engineering, planning, public policy, etc. and gain diverse experiences from lectures, seminars, field visits, etc. Some subjects will be taught by international professors, lectureres and experts;
@@ -49,13 +49,13 @@ After graduation, students have competence to work for public or private, intern
 7. *	Enhancing work ethic, integrity, and social responsibility.
 
 
-### How to Apply
+#### How to Apply
 
 1. * University entrance exam group: A00; A01; D01; V00 (Group V – Drawing subject score will not be multiply)
 
 2. * No aptitude tests. Talent subject will be trained after entry into Squeeze.
 
-### [Click HERE for more Details](https://www.ueh.edu.vn/dao-tao/dai-hoc-chinh-quy/cu-nhan-chinh-quy-chuan/kien-truc-va-thiet-ke-do-thi-thong-minh/?fbclid=IwAR2NpSrtyKgf7cPVM--jJOa42jbvd-inHWMR1ULdk9jFbr3KvYR_8rTCuDU)
+#### [Click HERE for more Details](https://www.ueh.edu.vn/dao-tao/dai-hoc-chinh-quy/cu-nhan-chinh-quy-chuan/kien-truc-va-thiet-ke-do-thi-thong-minh/?fbclid=IwAR2NpSrtyKgf7cPVM--jJOa42jbvd-inHWMR1ULdk9jFbr3KvYR_8rTCuDU)
 
 
-### Program structure 
+#### Program structure 
