@@ -39,17 +39,12 @@ Hạn chót nộp bài: **31/8/2021**
 
 [https://drive.google.com/.../1fPYLsbkyMJ5GnQe33.../view...](https://drive.google.com/file/d/1fPYLsbkyMJ5GnQe33_qKcFRE01U01ufK/view?usp=sharing&fbclid=IwAR0AXjeR1Tvt7JfqEmZKeZNcTtAztSXLCAgXoEBiUAGJF-5JXn1EAr55Q-U)
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-* *Viện Đô thị thông minh và quản lý*
-* *Địa chỉ: 232/6 Võ Thị Sáu, P7, Quận 3*
-* *Điện thoại: 028.39309589 - 028.39309269*
-* *Email:[ iscm@ueh.edu.vn](https://iscm.ueh.edu.vn/bachelors/iscm@ueh.edu.vn)*
-* *Website:[ iscm.ueh.edu.vn](https://iscm.ueh.edu.vn/)*
-* *Fanpage: [facebook/iscm.ueh](https://www.facebook.com/ISCM.UEH/)*
-
-<!--EndFragment-->
-
-<!--EndFragment--> 
+***
+##### Mọi chi tiết vui lòng liên hệ:
+1. Viện Đô thị thông minh và quản lý (ISCM)
+2. * Đ/c: 232/6 Võ Thị Sáu, Phường Võ Thị Sáu, Quận 3, TP.HCM
+3. * SĐT: 028. 3930 9589
+4. * Email: iscm@ueh.edu.vn
+4. * Website: www.iscm.ueh.edu.vn
+5. * Youtube Chanel: https://www.youtube.com/channel/UCtoJ5ZFc9yLiPFRY_UcIoBg
+6. * LinkedIn: https://www.linkedin.com/company/68028770

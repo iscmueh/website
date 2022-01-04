@@ -4,8 +4,8 @@ author: iscm
 bg_image: ""
 description : " "
 # Event image
-image: "images/recruitment/intern.jpg"
-weight: 6
+image: "images/recruitment/vr-intern.jpg"
+weight: 7
 ---
   
 With the desire to create opportunities for students studying or who have graduated to practice in a dynamic and professional environment. The Institute of Smart City and Management (UEH - ISCM) announces the recruitment of VR intern with the following requirements:  

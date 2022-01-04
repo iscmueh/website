@@ -12,9 +12,10 @@ image: /images/events/blockchain-for-DeFi.jpg
 <!--StartFragment-->
 
 
-In the wave of the 4.0 industrial revolution, blockchain is regarded as the “key” technology for digital transformation and the development of the technological platform of the future. In addition, blockchain is expected to change the face of the global economy as well. So, what is the impact of blockchain on the economy now and in the future?
+In the wave of the fourth industrial revolution, blockchain is regarded as the "key" technology for digital transformation and the development of the technological platform of the future. In addition, blockchain is expected to change the face of the global economy as well. So, what is the impact of blockchain on the economy now and in the future?
 
-To address this question, ISCM, UII, FTI of University of Economics HCMC and Saxion University of Applied Sciences, in collaboration with our international partners, would like to invite you to a webinar titled Blockchain for DeFi & Cryptocurrency: Blockchain in current and future economy. In this webinar, you will gain insights from our experts and learn more about the life of a smart city.
+To address this question, ISCM, UII, FTI of the University of Economics HCMC and Saxion University of Applied Sciences, in collaboration with our international partners, would like to invite you to a webinar titled "Blockchain for DeFi & Cryptocurrency: Blockchain in the current and future economy." In this webinar, you will gain insights from our experts and learn more about the life of a smart city.
+
 
 <div align="center"> <img align="center" width=80% src="/images/poster3jpg.jpg"/> </div>
 

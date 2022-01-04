@@ -17,11 +17,20 @@ Webinar với sự tham gia của các chuyên gia từ các trường đại h�
 
 Hãy tham gia để được lắng nghe và học hỏi từ những chia sẻ của các giảng viên, chuyên gia hàng đầu khu vực.
 
-Thời gian: 8:00 27/08/2021.
+1. * Thời gian: 8:00 27/08/2021.
 8:00 28/08/2021.
 
-Link tham gia: Join our Cloud HD Video Meeting
-Meeting ID: 834 1625 1992
+1. * Link tham gia: Join our Cloud HD Video Meeting
+1. * Meeting ID: 834 1625 1992
 Passcode: 829680
+***
+##### Mọi chi tiết vui lòng liên hệ:
+1. Viện Đô thị thông minh và quản lý (ISCM)
+2. * Đ/c: 232/6 Võ Thị Sáu, Phường Võ Thị Sáu, Quận 3, TP.HCM
+3. * SĐT: 028. 3930 9589
+4. * Email: iscm@ueh.edu.vn
+4. * Website: www.iscm.ueh.edu.vn
+5. * Youtube Chanel: https://www.youtube.com/channel/UCtoJ5ZFc9yLiPFRY_UcIoBg
+6. * LinkedIn: https://www.linkedin.com/company/68028770
 
 <!--EndFragment-->

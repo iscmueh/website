@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/AdjunctProfs/kwon1.jpg"
 # course
-course: ""
+course: "Giáo sư Thiết kế Đô thị, Đại học Quốc gia Seoul"
 position: ""
 # biograph
 bio: "GS. Youngsang Kwon đang làm việc tại Bộ môn Kỹ Thuật Xây Dựng và Môi Trường, Đại học Quốc Gia Seoul."

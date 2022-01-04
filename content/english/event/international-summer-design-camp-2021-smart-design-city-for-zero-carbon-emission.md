@@ -12,11 +12,12 @@ image: /images/events/international-summer-design-camp.jpg
 
 INTERNATIONAL SUMMER DESIGN CAMP 2021: Smart Design City for Zero Carbon Emission
 
- Cities nowadays are being suffered from climate change at the side of growing population pressure. It is a fact that cities cover most effectively 3% of the earth's floor however produce extra than 70% of carbon emissions. So what's the answer to conquer this case and move towards a smart and livable city?
+ Cities nowadays are suffering from climate change along with growing population pressure. It is a fact that cities cover 3% of the earth’s floor, but produce more than 70% of carbon emissions. So what’s the answer to conquer this case and move towards a smart and livable city?
 
-Register now to take part in the International Design Summer Camp 2021 to have the opportunity to study, exchange and work with leading international experts in the field of urban design and planning hosted by Handong Global University, University of Economics Ho Chi Minh City and University of Architecture Ho Chi Minh City. This is an annual program, within the framework of activities of UNESCO UNITWIN.
+Register now to take part in the International Design Summer Camp 2021 to have the opportunity to study, exchange and work with leading international experts in the field of urban design and planning hosted by Handong Global University, University of Economics Ho Chi Minh City and University of Architecture Ho Chi Minh City. This is an annual program within the framework of activities of UNESCO UNITWIN.
 
-Time: July 16th - July 31st, 2021
+
+Date and time: July 16th - July 31st, 2021
 
 Objective: Architecture and planning students in Vietnam
 

@@ -19,21 +19,15 @@ CityScope là một nền tảng sử dụng các mô hình vật lý  kết h�
 ![](/images/176481519_285309869807585_112322723284688095_n.jpg)
 
 Tại buổi lễ, GS. TS. Sử Đình Thành đã cắt băng khánh thành và gửi lời chúc mừng đến các đối tác, kỳ vọng rằng những kinh nghiệm và kiến thức có được từ dự án này sẽ được áp dụng vào công tác quản lý quy hoạch đô thị trong tương lai tại Thành phố Hồ Chí Minh.
+***
+##### Mọi chi tiết vui lòng liên hệ:
+1. Viện Đô thị thông minh và quản lý (ISCM)
+2. * Đ/c: 232/6 Võ Thị Sáu, Phường Võ Thị Sáu, Quận 3, TP.HCM
+3. * SĐT: 028. 3930 9589
+4. * Email: iscm@ueh.edu.vn
+4. * Website: www.iscm.ueh.edu.vn
+5. * Youtube Chanel: https://www.youtube.com/channel/UCtoJ5ZFc9yLiPFRY_UcIoBg
+6. * LinkedIn: https://www.linkedin.com/company/68028770
 
-*Mọi chi tiết vui lòng liên hệ:*
-
-*Viện Đô thị thông minh và quản lý (ISCM)*
-
-*232/6 Võ Thị Sáu, Phường Võ Thị Sáu, Quận 3, TP.HCM*
-
-*028. 39309589*
-
-*iscm@ueh.edu.vn*
-
-[https://iscm.ueh.edu.vn/](https://iscm.ueh.edu.vn/?fbclid=IwAR23JiQJB_pVY8fNx7aXKyoqV-HIDAOodsJ_n3CsYQ-d0X49Q1NMhljn0TM)
-
-[https://www.linkedin.com/company/68028770](https://www.linkedin.com/company/68028770?fbclid=IwAR23JiQJB_pVY8fNx7aXKyoqV-HIDAOodsJ_n3CsYQ-d0X49Q1NMhljn0TM)
-
-[https://www.youtube.com/watch?v=NrtYcJBrxaU](https://www.youtube.com/watch?v=NrtYcJBrxaU&fbclid=IwAR00F-Z-j-nIZq-eSmMJbRGYoPYpo54xm54CsEbQR0COrlyY3i1S_rXFxuc)...
 
 <!--EndFragment-->

@@ -4,7 +4,7 @@ author: iscm
 bg_image: ""
 description : " "
 # Event image
-image: "images/recruitment/researcher.jpg"
+image: "images/recruitment/senior-researcher.jpg"
 weight: 4
 ---
   

@@ -10,13 +10,15 @@ image: "images/events/2021-international-design-competition-smartcity.jpg"
 ---
 ### About Event
 
-Following the great success of the 1st international online international design competition in 2019 with the theme "Future City: Smart design for the post-pandemic world", the annual contest launched by the Institute of Smart Cities and Management. - University of Economics Ho Chi Minh City collaborated with nearly 20 partners is held the second time in 2021 with the theme "SMARTCITY+"
+Following the great success of the 1st international online international design competition in 2019 with the theme "Future City: Smart design for the post-pandemic world", the annual contest launched by the Institute of Smart Cities and Management in collaboration with nearly 20 partners will be held for the second time in 2021 with the theme "SMARTCITY+".
 
-It is the first time in human history, we have no idea what the world will be like in the next 30 years (the writer Yuval Harari). The first half of the 21st century will be the most important in the history of the human race because of all challenges we face from an amazing leap in technology and the urban challenges in a rapidly urbanizing and globalized world. In this phenomenon, smart cities will not just be a trend but also become a must-have. But How Smart cities will deal with urban challenges and How integrated technology and other fields can be applied to solve the urbanization crises?
+For the first time in human history, we have no idea what the world will be like in the next 30 years (the writer Yuval Harari). The first half of the 21st century will be the most important in the history of the human race because of all the challenges we face from an amazing leap in technology and the urban challenges of a rapidly urbanizing and globalized world. In this phenomenon, smart cities will not just be a trend but also become a must-have. But how will smart cities deal with urban challenges and how can technology and other fields be integrated to solve the urbanization crisis?
 
-This year's contest with the theme "SMARTCITY +" aims to call for ideas to propose designs to enhance urban identity towards smart cities. Ideas need the integration of technology, materials, aesthetics and spatial organization combined with research on local cultural factors, adaptability, globalization, and vision for future urban environment.
+This year’s contest, with the theme "SMARTCITY +," aims to call for ideas to propose designs to enhance urban identity towards smart cities. Ideas need the integration of technology, materials, aesthetics, and spatial organization, combined with research on local cultural factors, adaptability, globalization, and vision for the future urban environment.
 
-The applicants can submit their concept related to the follow topics: Public space & environmental design, Urban transportation & city connectivity, Urban space for residential design, Urban space for residential design, Mixed-used building & complex, City for all, Staycation city, City with strong identities...
+The applicants can submit their concepts related to the following topics: public space & environmental design, urban transportation & city connectivity, urban space for residential design, urban space for residential design, mixed-used building & complex, A city for everyone.Staycation City, a city with distinct personalities...
+
+
 
 **Competition is open to university students all around the world with a total prize value of up to $ 4,200!!!**
 
@@ -41,3 +43,12 @@ Submission deadline: **August, 31st 2021**
 **More information at:**
 
 [https://drive.google.com/.../1fPYLsbkyMJ5GnQe33.../view...](https://drive.google.com/file/d/1fPYLsbkyMJ5GnQe33_qKcFRE01U01ufK/view?usp=sharing&fbclid=IwAR1g9dsmXf9LrshzZZQAcj8LUOohi74MEdtvoYZ69q2SONauJJ4KgeiSr8s)
+
+##### For more information, please contact:
+1. Institute of Smart City and Management (ISCM)
+2. * Address: 232/6 Vo Thi Sau, Vo Thi Sau Ward, District 3, Ho Chi Minh City
+3. * Tel: 028. 3930 9589
+3. * Email: iscm@ueh.edu.vn 
+3. * Website: www.iscm.ueh.edu.vn
+4. * Youtube Chanel: https://www.youtube.com/channel/UCtoJ5ZFc9yLiPFRY_UcIoBg
+5. * Linked in: https://www.linkedin.com/company/68028770

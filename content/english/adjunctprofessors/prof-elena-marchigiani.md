@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/AdjunctProfs/elena.jpg"
 # course
-course: ""
+course: "Associate Professor in Urban Planning, Department of engineering and Architecture, IT"
 position: ""
 # biograph
 bio: "I’m interested in design and implementation of planning tools and urban projects, in the fields of social housing and neighbourhood regeneration, town planning and city management, territorial and landscape planning and design, public spatial policies (housing, welfare and mobility), participatory design processes."

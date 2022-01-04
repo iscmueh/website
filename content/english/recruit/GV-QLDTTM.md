@@ -4,7 +4,7 @@ author: iscm
 bg_image: ""
 description : " "
 # Event image
-image: "images/recruitment/lecturer.jpg"
+image: "images/recruitment/teacher-2.jpg"
 weight: 2
 ---
 

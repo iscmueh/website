@@ -17,28 +17,28 @@ Sau gần một tháng khởi khởi động, “Cuộc thi Sáng tác Slogan - 
 
 **Địa điểm:**
 
-- Link tham dự tại hệ thống Cisco: https://bit.ly/SloganCompUEH
-- Livestream Fanpage UEH: https://www.facebook.com/DHKT.UEH
-- Livestream Fanpage ISB:https://www.facebook.com/ueh.isb/
-- Livestream Fanpage ISCM:https://www.facebook.com/ISCM.UEH
+1. - Link tham dự tại hệ thống Cisco: https://bit.ly/SloganCompUEH
+1. - Livestream Fanpage UEH: https://www.facebook.com/DHKT.UEH
+1. - Livestream Fanpage ISB:https://www.facebook.com/ueh.isb/
+1. - Livestream Fanpage ISCM:https://www.facebook.com/ISCM.UEH
 
 **Nội dung chương trình:**
 
-- Tuyên bố lý do;
-- Giới thiệu Đại biểu, Ban Giám khảo;
-- Đại diện UEH phát biểu tri ân, chia sẻ về kết quả của cuộc thi và công bố Tốp các bài thi xuất sắc;
-- Phần trình bày ý tưởng của Tốp các bài dự thi xuất sắc;
-- Ban Giám khảo nhận xét và kết thúc chương trình.
+1. - Tuyên bố lý do;
+1. - Giới thiệu Đại biểu, Ban Giám khảo;
+1. - Đại diện UEH phát biểu tri ân, chia sẻ về kết quả của cuộc thi và công bố Tốp các bài thi xuất sắc;
+1. - Phần trình bày ý tưởng của Tốp các bài dự thi xuất sắc;
+1. - Ban Giám khảo nhận xét và kết thúc chương trình.
 
 **Khách mời tham dự:**
 
-- GS.TS. Nguyễn Đông Phong, Chủ tịch Hội đồng trường UEH, Trưởng ban Giám khảo cuộc thi;
-- GS.TS. Sử Đình Thành, Hiệu trưởng UEH;
-- TS. Bùi Quang Hùng, Phó Hiệu trưởng UEH;
-- PGS.TS. Phan Thị Bích Nguyệt, Chủ tịch Hội đồng Tư vấn UEH;
-- GS.TS. Yi-Chen Lan, Phó hiệu trưởng, Đại học Western Sydney (Úc);
-- GS.TS. Géraldine Michel, Chuyên gia thương hiệu, IAE Paris, Sorbonne Business School (Pháp);
-- Ông Richard Moore, Chủ tịch kiêm Tổng giám đốc ý tưởng Công ty Richard Moore Associates, chuyên gia tư vấn thương hiệu hàng đầu tại Việt Nam.
+1. - GS.TS. Nguyễn Đông Phong, Chủ tịch Hội đồng trường UEH, Trưởng ban Giám khảo cuộc thi;
+1. - GS.TS. Sử Đình Thành, Hiệu trưởng UEH;
+1. - TS. Bùi Quang Hùng, Phó Hiệu trưởng UEH;
+1. - PGS.TS. Phan Thị Bích Nguyệt, Chủ tịch Hội đồng Tư vấn UEH;
+1. - GS.TS. Yi-Chen Lan, Phó hiệu trưởng, Đại học Western Sydney (Úc);
+1. - GS.TS. Géraldine Michel, Chuyên gia thương hiệu, IAE Paris, Sorbonne Business School (Pháp);
+1. - Ông Richard Moore, Chủ tịch kiêm Tổng giám đốc ý tưởng Công ty Richard Moore Associates, chuyên gia tư vấn thương hiệu hàng đầu tại Việt Nam.
 
 Tham gia ngay sự kiện để ủng hộ các thí sinh và chọn ra slogan bạn yêu nhất thích nhé!
 

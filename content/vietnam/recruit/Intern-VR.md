@@ -4,7 +4,7 @@ author: iscm
 bg_image: ""
 description : " "
 # Event image
-image: "images/recruitment/intern.jpg"
+image: "images/recruitment/vr-intern.jpg"
 ---
   
 Với mong muốn tạo cơ hội cho các bạn sinh viên đang học hoặc đã tốt nghiệp được thực tập trong một môi trường năng động và chuyên nghiệp. Viện Đô thị Thông minh và Quản lý (UEH - ISCM) thông báo tuyển dụng thực tập sinh Thực tập sinh VR với yêu cầu sau: 
