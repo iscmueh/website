@@ -1,5 +1,5 @@
 ---
-title: "Short course - Critical factors for smart city development"
+title: "Critical factors for smart city development"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -24,7 +24,7 @@ apply_url : "#"
 type: "course"
 courseStuctureImage: ""
 summary: " "
-post: "Short course - Critical factors for smart city development"
+post: "Critical factors for smart city development"
 
 weight: 4
 ---

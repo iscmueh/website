@@ -1,5 +1,5 @@
 ---
-title: "Short course - The digital transformation of cities: e-government"
+title: "The digital transformation of cities: e-government"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -24,7 +24,7 @@ apply_url : "#"
 type: "course"
 courseStuctureImage: ""
 summary: " "
-post: "Short course - The digital transformation of cities: e-government"
+post: "The digital transformation of cities: e-government"
 
 weight: 5
 ---
