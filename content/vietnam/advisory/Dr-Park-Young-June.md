@@ -1,5 +1,5 @@
 ---
-title: "Dr. Park Young June"
+title: "TS. Park Young June"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,7 +8,7 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 # teacher portrait
 image: "images/team/AdvisoryBoard/park.png"
 # course
-course: "Chairman, J. Mediator and Former Vice Minister of Industry of Korea."
+course: "Chủ tịch J. Mediator, Nguyên Thứ trưởng Bộ Công nghiệp Hàn Quốc."
 # biography
 bio: ""
 # interest

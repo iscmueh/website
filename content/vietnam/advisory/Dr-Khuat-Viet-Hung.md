@@ -1,5 +1,5 @@
 ---
-title: "Dr. Khuat Viet Hung"
+title: "TS. Khuất Việt Hùng"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,7 +8,7 @@ description : ""
 # teacher portrait
 image: "images/team/AdvisoryBoard/khuatviethung.jpg"
 # course
-course: "Executive Vice Chairman, National Traffic Safety Committee of Vietnam"
+course: "Phó Chủ tịch điều hành, Ủy ban ATGT Quốc gia Việt Nam"
 # biography
 bio: ""
 # interest

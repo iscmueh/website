@@ -1,5 +1,5 @@
 ---
-title: "Dr. Lee Ju-Ho"
+title: "TS. Lee Ju-Ho"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,7 +8,7 @@ description : ""
 # teacher portrait
 image: "images/team/AdvisoryBoard/leejuho.jpg"
 # course
-course: "Chairman, Education Commission AISA, Former Minister of Education of Korea"
+course: "Chủ tịch Ủy ban Giáo dục AISA, Nguyên Bộ trưởng Bộ Giáo dục Hàn Quốc"
 # biography
 bio: ""
 # interest

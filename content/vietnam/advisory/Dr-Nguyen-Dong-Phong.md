@@ -1,5 +1,5 @@
 ---
-title: "Prof. Nguyen Dong Phong"
+title: "GS. Nguyễn Đông Phong"
 draft: false
 
 
@@ -10,7 +10,7 @@ description : ""
 # teacher portrait
 image: "images/team/AdvisoryBoard/nguyendongphong.jpg"
 # course
-course: "Chairman, University Council, University of Economics Ho Chi Minh"
+course: "Chủ tịch Hội đồng Trường Đại học Kinh tế TP.HCM"
 # biography
 bio: ""
 # interest
