@@ -1342,19 +1342,6 @@
     <loc>https://www.iscm.ueh.edu.vn/apps/weibulllcc/</loc>
     <lastmod>2019-10-19T11:08:22+08:00</lastmod>
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/course_shortcourse/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/course_shortcourse/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/course_shortcourse/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/course_undergraduate/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -1457,6 +1444,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.iscm.ueh.edu.vn/network/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/course_shortcourse/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/course_shortcourse/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/course_shortcourse/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/apps/</loc>

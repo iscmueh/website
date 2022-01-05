@@ -1,5 +1,5 @@
 ---
-title: "Đại Học"
+title: "Khóa Học Ngắn Hạn"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
