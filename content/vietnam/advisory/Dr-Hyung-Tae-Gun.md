@@ -1,5 +1,5 @@
 ---
-title: "Dr. Hyung Tae Gun"
+title: "TS. Hyung Tae Gun"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,7 +8,7 @@ description : ""
 # teacher portrait
 image: "images/team/AdvisoryBoard/hyung.png"
 # course
-course: "Strategy Advisor, RMS Consulting, Former Vice Minister of ICT of Korea."
+course: "Cố vấn Chiến lược, Tư vấn RMS, Nguyên Thứ trưởng Bộ CNTT-TT Hàn Quốc."
 # biography
 bio: ""
 # interest
