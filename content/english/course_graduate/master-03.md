@@ -1,5 +1,5 @@
 ---
-title: "Master of Smart City and Innovation Management, Master of Human Ecology and Technology"
+title: "International Dual Degree Program - Executive Master of Smart City and Innovation Management and Master of Human Ecology and Technology"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -24,41 +24,54 @@ apply_url : "#"
 type: "course"
 courseStuctureImage: "images/courses/structure/master-HGU.JPG"
 summary: " "
-post: "Master of Human Ecology and Technology"
+post: "International Dual Degree Program “Executive Master of Smart City and Innovation Management” and “Master of Human Ecology and Technology"
 ---
 
 
-### About Course
 
 <!--StartFragment-->
 
-The program provides the students with expertise and ability to master the fields of smart city (planning, design, management), creative management, simulation, technology and human ecology.
+##### About Course:
 
-After graduating, learners receive dual degrees:
-1. * Master of Smart City and Innovation Management, majoring in Smart City and Innovation Management awarded by University of Economics Ho Chi Minh City;
-1. * Master of Human Ecology and Technology awarded by Handong Global University (HGU) in Korea.
+<!--StartFragment-->
+This program will deliver a wide range of in-depth knowledge along with the management abilities in many fields like smart city (Design, Planning and Management), innovative management, simulation, technology and human ecology.
+ 
+
+##### Degree:
+1. * Executive Master of Smart City and Innovation Management granted by UEH University (UEH), Vietnam;
+1. * Master of Human Ecology and Technology granted by Handong Global University (HGU), Korea.
 
 
 {{< youtube id="NrtYcJBrxaU" title="Smart Urban Architecture and Design" >}}
 
 <!--EndFragment-->
 
-### Advantage
-1. * Obtain dual master’s degrees from two universities, in two different fields with time efficiency and affordable costs;
-1. * Gain integrated competences in urban innovation management;
-1. * Multidisciplinary integration such as environment, art, engineering, planning, public policy, etc. through lectures, seminars, workshops, field visits;
-1. * Projects and subjects are designed based on real problems and solutions (ordered by the state management agencies, domestic and foreign private companies), and taught by domestic and international professors, lecturers and experts;
-1. * Application of advanced technology solutions (VR, AR, 3D Printing, urban simulation, etc.) to design, planning and implementation;
-1. * Use modern smart city Studio Lab.
+##### Scholars:
+
+1. Candidates who want to advance themselves in management and profession in government, local authorities, non-government organizations, non-profit organizations, universities/ institutes, private sectors working in the field of urban management and urban planning, urban development, urban design, transportation infrastructure management and planning, real estate development and investment, architecture, environment.
 
 
+##### Application requirements:
+1. * Local and International University graduates, Master candidates.
+2. * Sufficient knowledge of English is required and is to be certified by one of the below mentioned tests: TOEIC 625/ IELTS 5.0/ TOEFL 500 IBT- 173 CBT- 61 iBT.
 
-### Requirements
-Candidates applying for examinations must satisfy the following conditions:
-1. * Candidates: graduates from universities around the world
-1. * Entrance exam: English, GMAT and interview.
+##### Program structure:
+1. * Candidates will spend 3 semesters in Vietnam and 1 semester studying abroad in Korea.
+2. * Total credits: 65 (49 credits from UEH, 16 credits from HGU).
 
 
-### [Click HERE for more Details](https://www.ueh.edu.vn/dao-tao/thac-si-tien-si/thac-si-dieu-hanh-cao-cap-emba/quan-ly-do-thi-thong-minh-va-sang-tao/?fbclid=IwAR09xSUOK2WxPuLZdZ4whONMLsnSDkAyvQqkoX0iioGizyCGdkdtBUqgig4)
+##### Graduation requirements:
+1. * Students will study 3 semesters at UEH University for at least 48 credits and 6 credits online from HGU. Students will study 1 semester in HGU for at least 10 credits. All the subjects will be delivered in English except Philosophy and English.
+1. * Students must complete the master thesis of the dual degree program.  
 
-### Program structure 
+##### Career opportunities: 
+1. Dual program Master graduates will have a multidisciplinary knowledge with multi perspective-taking ability that help them towards making integrative and innovative solutions in smart cities management. Students will have plenty of opportunities to become executive managers in the field of urban development and management, urban planning, urban design, transportation management and planning, project management, real estate management and investment, architecture, environment.
+
+
+##### General information of partner university
+1. Handong Global University (HGU) is located in Pohang City – Korea, is a public university established in 1994. Today, HGU has become one of the best Universities with a high reputation in Korea. HGU is also in the top 1% of universities that have a visa code and can easily give students Korea direct visas. 
+
+
+#### [Click HERE for more Details](https://www.ueh.edu.vn/dao-tao/thac-si-tien-si/thac-si-dieu-hanh-cao-cap-emba/quan-ly-do-thi-thong-minh-va-sang-tao/?fbclid=IwAR09xSUOK2WxPuLZdZ4whONMLsnSDkAyvQqkoX0iioGizyCGdkdtBUqgig4)
+
+#### Program structure 

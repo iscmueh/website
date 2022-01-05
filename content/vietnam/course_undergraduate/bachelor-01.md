@@ -25,10 +25,10 @@ type: "course"
 courseStuctureImage: "images/courses/structure/bachelor.jpg"
 summary: " "
 post: "Kiến Trúc và Thiết Kế Đô Thị Thông Minh"
-
+weight: 1
 ---
 
-### Giới Thiệu Chung
+#### Giới Thiệu Chung:
 
 Chương trình đào tạo ngành Kiến trúc đô thị, chuyên ngành Architectural and Urban Design inclusive Smart City cung cấp các kiến thức chuyên ngành Kiến trúc và Thiết kế đô thị, đặc biệt về Đô thị thông minh. Sinh viên được đào tạo để tham gia vào các dự án phát triển, quy hoạch, thiết kế đô thị, thiết kế kiến trúc và cảnh quan, ứng dụng công nghệ và tích hợp để phát triển, quy hoạch và thiết kế đô thị thông minh hướng tới phát triển bền vững. Chuyên ngành đòi hỏi khả năng tư duy sáng tạo, kỹ năng tổng hợp và trình độ quốc tế để phối hợp nhiều lĩnh vực khác nhau như kiến trúc, cảnh quan, giao thông và kỹ thuật hạ tầng, kinh tế, xã hội, môi trường và công nghệ. Sau khi tốt nghiệp, sinh viên có khả năng làm việc tại các đơn vị công, tư, quốc tế, các tổ chức phi chính phủ, quản lý nhà nước trong lĩnh vực phát triển, quy hoạch, xây dựng và thiết kế kiến trúc, đô thị và đô thị thông minh...
 
@@ -37,7 +37,7 @@ Ngoài ra, sau khi tốt nghiệp chương trình đại học, sinh viên có t
 
 {{< youtube id="on_ZGjx4p5U" title="Kiến Trúc và Thiết Kế Đô Thị Thông Minh" >}}
 
-### Đặc điểm nổi bật:
+#### Đặc điểm nổi bật:
 
 1. * Chương trình tạo nên một công dân toàn cầu thông thạo kiến thức về thiết kế, quy hoạch phát triển đô thị và thiết kế đô thị theo chuẩn quốc tế, sử dụng tiếng Anh thành thạo làm cơ sở cho quá trình học tập suốt đời của sinh viên.
 
@@ -51,16 +51,16 @@ Chương trình học tích hợp ứng dụng và sử dụng các công nghệ
 5. * Có chương trình liên kết mạnh và đa dạng với các trường quốc tế từ các nước Bỉ, Hàn Quốc, Hà Lan, New Zeland, Úc, Pháp, Thái Lan, Myanmar, Ấn Độ…
 Phù hợp với nhiều định hướng khác nhau của sinh viên, đề cao đạo đức nghề nghiệp, trí tuệ liêm chính và trách nhiệm xã hội của con người hiện đại trong kỷ nguyên mới.
 
-### Điều kiện đăng kí:
+#### Điều kiện đăng kí:
 
 1. * Tuyển sinh các khối: A00; A01; D01; V00 (Riêng khối V môn Vẽ không nhân hệ số)
 2. * Không tổ chức thi môn năng khiếu. Môn năng khiếu sẽ được đào tạo sau khi nhập học.
 
-### Yêu cầu ngôn ngữ:
+#### Yêu cầu ngôn ngữ:
 
 Việt/Anh
 
-### [Bấm vào đây để xem chi tiết](https://www.ueh.edu.vn/dao-tao/dai-hoc-chinh-quy/cu-nhan-chinh-quy-chuan/kien-truc-va-thiet-ke-do-thi-thong-minh/?fbclid=IwAR2NpSrtyKgf7cPVM--jJOa42jbvd-inHWMR1ULdk9jFbr3KvYR_8rTCuDU)
+#### [Bấm vào đây để xem chi tiết](https://www.ueh.edu.vn/dao-tao/dai-hoc-chinh-quy/cu-nhan-chinh-quy-chuan/kien-truc-va-thiet-ke-do-thi-thong-minh/?fbclid=IwAR2NpSrtyKgf7cPVM--jJOa42jbvd-inHWMR1ULdk9jFbr3KvYR_8rTCuDU)
 
 
-### Cấu Trúc Chương Trình
+#### Cấu Trúc Chương Trình
