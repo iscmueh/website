@@ -65,18 +65,6 @@
                 href="https://www.iscm.ueh.edu.vn/vi/adjunctprofessors/prof-katharinanord/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/notice/lab-rules/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/notice/lab-rules/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/notice/lab-rules/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/advisory/dr-nguyen-dong-phong/</loc>
     <xhtml:link
                 rel="alternate"
@@ -87,6 +75,18 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://www.iscm.ueh.edu.vn/vi/advisory/dr-nguyen-dong-phong/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/notice/lab-rules/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/notice/lab-rules/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/notice/lab-rules/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/scholarship/undergraduate-international-students/</loc>
@@ -154,18 +154,6 @@
                 href="https://www.iscm.ueh.edu.vn/vi/competition/futurecity/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/advisory/dr-hyung-tae-gun/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/advisory/dr-hyung-tae-gun/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/advisory/dr-hyung-tae-gun/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/adjunctprofessors/prof-lee-youngsang/</loc>
     <xhtml:link
                 rel="alternate"
@@ -214,6 +202,18 @@
                 href="https://www.iscm.ueh.edu.vn/vi/activities/arttech/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/advisory/dr-hyung-tae-gun/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/advisory/dr-hyung-tae-gun/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/advisory/dr-hyung-tae-gun/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/partner/bth/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -253,18 +253,6 @@
                 href="https://www.iscm.ueh.edu.vn/vi/consultancy/tdd/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/advisory/dr-park-young-june/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/advisory/dr-park-young-june/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/advisory/dr-park-young-june/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/adjunctprofessors/prof-youngsang-kwon/</loc>
     <xhtml:link
                 rel="alternate"
@@ -299,6 +287,18 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://www.iscm.ueh.edu.vn/vi/members/dr-ducsu-seo/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/advisory/dr-park-young-june/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/advisory/dr-park-young-june/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/advisory/dr-park-young-june/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/course_shortcourse/sc-critical-factors-for-smart-city-development/</loc>
@@ -353,18 +353,6 @@
                 href="https://www.iscm.ueh.edu.vn/vi/consultancy/traffic-impact-assessment/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/advisory/dr-khuat-viet-hung/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/advisory/dr-khuat-viet-hung/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/advisory/dr-khuat-viet-hung/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/adjunctprofessors/prof-elena-marchigiani/</loc>
     <xhtml:link
                 rel="alternate"
@@ -375,6 +363,18 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://www.iscm.ueh.edu.vn/vi/adjunctprofessors/prof-elena-marchigiani/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/advisory/dr-khuat-viet-hung/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/advisory/dr-khuat-viet-hung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/advisory/dr-khuat-viet-hung/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/members/dr-nam-le/</loc>
@@ -428,18 +428,6 @@
                 href="https://www.iscm.ueh.edu.vn/vi/partner/politech-minalo/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/advisory/dr-lee-ju-ho/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/advisory/dr-lee-ju-ho/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/advisory/dr-lee-ju-ho/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/members/dr-chamunkoo/</loc>
     <xhtml:link
                 rel="alternate"
@@ -450,6 +438,18 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://www.iscm.ueh.edu.vn/vi/members/dr-chamunkoo/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/advisory/dr-lee-ju-ho/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/advisory/dr-lee-ju-ho/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/advisory/dr-lee-ju-ho/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/consultancy/traffic-safety/</loc>
