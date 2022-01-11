@@ -22,7 +22,7 @@ duration : "2 năm"
 apply_url : "#"
 # type
 type: "course"
-courseStuctureImage: "images/courses/structure/master-ueh.JPG"
+courseStuctureImage: "images/courses/structure/UEH.jpg"
 post: "Thạc Sĩ Quản Lý Đô Thị Thông Minh và Sáng Tạo"
 
 summary: " "

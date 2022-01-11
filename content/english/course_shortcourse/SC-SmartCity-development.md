@@ -1,5 +1,5 @@
 ---
-title: "Short course - Smart Cities development: essential technologies"
+title: "Smart Cities development: essential technologies"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -24,7 +24,7 @@ apply_url : "#"
 type: "course"
 courseStuctureImage: ""
 summary: " "
-post: "Short course - Smart Cities development: essential technologies"
+post: "Smart Cities development: essential technologies"
 
 weight: 6
 ---

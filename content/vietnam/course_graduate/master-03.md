@@ -22,7 +22,7 @@ duration : "2 năm (03 học kĩ tại UEH, 1 học kì tại Hàn Quốc)."
 apply_url : "#"
 # type
 type: "course"
-courseStuctureImage: "images/courses/structure/master-HGU.JPG"
+courseStuctureImage: "images/courses/structure/HGU.jpg"
 summary: " "
 post: "Chương trình liên kết đào tạo song bằng Thạc sĩ Quản lý Đô thị Thông minh và Sáng tạo và Thạc sĩ Human Ecology and Technology"
 ---
