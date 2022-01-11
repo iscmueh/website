@@ -1,5 +1,5 @@
 ---
-title: "Khóa ngắn hạn - Chuyển đổi số đô thị: chính quyền điện tử"
+title: "Chuyển đổi số đô thị: chính quyền điện tử"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -24,7 +24,7 @@ apply_url : "#"
 type: "course"
 courseStuctureImage: ""
 summary: " "
-post: "Khóa ngắn hạn - Chuyển đổi số đô thị: chính quyền điện tử"
+post: "Chuyển đổi số đô thị: chính quyền điện tử"
 
 weight: 5
 ---
