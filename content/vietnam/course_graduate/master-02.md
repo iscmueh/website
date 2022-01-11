@@ -62,3 +62,4 @@ Thí sinh đăng ký dự thi phải đáp ứng các điều kiện sau:
 #### [Bấm vào đây để xem chi tiết](https://www.ueh.edu.vn/dao-tao/thac-si-tien-si/thac-si-dieu-hanh-cao-cap-emba/quan-ly-do-thi-thong-minh-va-sang-tao/?fbclid=IwAR09xSUOK2WxPuLZdZ4whONMLsnSDkAyvQqkoX0iioGizyCGdkdtBUqgig4)
 
 #### Cấu Trúc Chương Trình 
+![](images/courses/structure/master-ueh.JPG)

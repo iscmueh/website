@@ -35,5 +35,4 @@ on all aspects of social life in 2020. It has rapidly spread around the world, p
 Future city: Smart design for the post-pandemic world is a first competition launched by Institute of Smart City and Management (ISCM), University of Economics Ho Chi Minh city (UEH) in partnership with University of Architecture Hochiminh city, Hochiminh city the University of Technology, Handong Global University, Technical The University of Mandalay, Blekinge Institute of Technology, Politecnico di Milano, Le Cnam, University of Melbourne. The competition is sponsored by HTE Global Co. Ltd, Handong Engineering and Construction Co. Ltd., and Korea Institute of Building Energy Technology. In this very first competition, participants are asked to look at the existing urban built environment and imagine how it should cope with the future pandemic.
 
 ### Timeline 
-Hello
 ![](images/competitive/futurecity/timeline.jpg)

@@ -22,7 +22,7 @@ duration : "06 sessions"
 apply_url : "#"
 # type
 type: "course"
-courseStuctureImage: ""
+# courseStuctureImage: ""
 summary: " "
 post: "Short course - Critical factors for smart city development"
 
