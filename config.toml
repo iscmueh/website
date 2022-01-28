@@ -1,6 +1,9 @@
 ######################## default configuration ####################
 baseURL = "https://www.iscm.ueh.edu.vn/"
 title = "Institute of Smart City & Management"
+
+
+
 #theme = "iscmueh.github.io"
 #themesDir = ".."
 # post pagination
@@ -49,7 +52,7 @@ logo = "images/logoiscm.png"
 description = "Institute of Smart City and Management, University of Economics Ho Chi Minh"
 author = "ISCM"
 # contact info
-address = "232/6 Vo Thi Sau Str, District 3, Ho Chi Minh City, Vietnam"
+address = "232/6 Vo Thi Sau Str, D.3, Ho Chi Minh City"
 mobile = "+84-28-3930-9589/ +84-28-3930-9269"
 email = "iscm@ueh.edu.vn"
 # contact form action
@@ -62,9 +65,26 @@ top_header = true
 bg = "images/banner-1.jpg"
 ueh_logo = "images/ueh-logo.png"
 ueh_ctd_logo = "images/ueh-logo-std.png"
-ueh_address = "59C Nguyen Dinh Chieu Str, District 3, Ho Chi Minh City, Viet nam"
+ueh_address = "59C Nguyen Dinh Chieu Str, D.3, Ho Chi Minh City"
 ueh_mobile = "+84-28-3829-5299/ +84-28-3829-5299"
 ueh_email = "info@ueh.edu.vn"
+ueh_link_recruit = "images/footer/recruitment.png"
+ueh_link_future = "images/footer/buildings.png"
+ueh_link_global = "images/footer/global.png"
+ueh_link_elearning = "images/footer/elearning.png"
+ueh_link_job = "images/footer/job.png"
+ueh_link_information = "images/footer/information.png"
+ueh_link_virtual = "images/footer/virtual.png"
+
+
+recruitURL = "https://tuyensinh.ueh.edu.vn/"
+futureURL = "https://future.ueh.edu.vn/"
+globalURL = "https://global.ueh.edu.vn/"
+elearningURL = "https://lms.ueh.edu.vn/"
+jobURL = "https://vieclam.ueh.edu.vn/"
+informationURL = "https://www.ueh.edu.vn/truyen-thong/thong-tin/"
+virtualURL = "https://virtualtour.ueh.edu.vn/"
+
 
 
 # Preloader

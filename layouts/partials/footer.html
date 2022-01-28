@@ -53,13 +53,13 @@
         </div>
         
 
-        <div class="col-lg-4 col-sm-8 mb-5 mb-lg-0" style=" margin-top: -1%; text-align: right;">
+        <div class="col-lg-4 col-sm-8 mb-5 mb-lg-0" style=" margin-top: -2%; text-align: right;">
           <!-- logo -->
           <a class="logo-footer" href="{{ site.BaseURL | relLangURL }}">
             <img class="img-fluid mb-4" style="height:70px;" src="{{ site.Params.ueh_ctd_logo | absURL }}" alt="{{ site.Title }}">
           </a>
           <ul class="list-unstyled">
-            <li class="mb-4">{{ site.Params.ueh_address | markdownify }}</li>
+            <li class="mb-4" style="font-size: 97%;">{{ site.Params.ueh_address | markdownify }}</li>
             <li class="mb-4">{{ site.Params.ueh_email | markdownify }}</li>
             <li class="mb-4">{{ site.Params.ueh_mobile | markdownify }}</li>
           </ul>
@@ -112,6 +112,48 @@
     </div>
   </div>
   <!-- copyright -->
+  <div class="bg-footer" style="width: auto; height: 100px; padding-top: 50px;">
+
+    <ul class="list-unstyled" style="text-align: center;"> 
+      
+      <li class="mb-4">
+        <a class="logo-footer" href="{{ site.Params.recruitURL | relLangURL }}">
+            <img class="img-fluid mb-4" style="height:50px; margin-right: 20px;" src="{{ site.Params.ueh_link_recruit | absURL }}" alt="{{ site.Title }}">
+          </a>
+      </li>
+      <li class="mb-4">
+        <a class="logo-footer" href="{{ site.Params.futureURL | relLangURL }}">
+            <img class="img-fluid mb-4" style="height:50px; margin-right: 20px; " src="{{ site.Params.ueh_link_future | absURL }}" alt="{{ site.Title }}">
+          </a>
+      </li>
+      <li class="mb-4">
+        <a class="logo-footer" href="{{ site.Params.globalURL | relLangURL }}">
+            <img class="img-fluid mb-4" style="height:50px; margin-right: 20px;" src="{{ site.Params.ueh_link_global | absURL }}" alt="{{ site.Title }}">
+          </a>
+      </li>
+      <li class="mb-4">
+        <a class="logo-footer" href="{{ site.Params.elearningURL | relLangURL }}">
+            <img class="img-fluid mb-4" style="height:50px; margin-right: 20px" src="{{ site.Params.ueh_link_elearning | absURL }}" alt="{{ site.Title }}">
+          </a>
+      </li>
+      <li class="mb-4">
+        <a class="logo-footer" href="{{ site.Params.jobURL | relLangURL }}">
+            <img class="img-fluid mb-4" style="height:50px; margin-right: 20px" src="{{ site.Params.ueh_link_job | absURL }}" alt="{{ site.Title }}">
+          </a>
+      </li>
+      <li class="mb-4">
+        <a class="logo-footer" href="{{ site.Params.informationURL | relLangURL }}">
+            <img class="img-fluid mb-4" style="height:50px; margin-right: 20px" src="{{ site.Params.ueh_link_information | absURL }}" alt="{{ site.Title }}">
+          </a>
+      </li>
+      <li class="mb-4">
+        <a class="logo-footer" href="{{ site.Params.virtualURL | relLangURL }}">
+            <img class="img-fluid mb-4" style="height:50px; margin-right: 20px" src="{{ site.Params.ueh_link_virtual | absURL }}" alt="{{ site.Title }}">
+          </a>
+      </li>
+    </ul>
+
+  </div>
   <div class="copyright py-4 bg-footer">
     <div class="container">
       <div class="row">
