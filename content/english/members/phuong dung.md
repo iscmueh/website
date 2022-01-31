@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/Dung1.jpg"
 # course
-course: "Secretary"
+course: "Coordinator, International Collaboration"
 position: ""
 # biograph
 bio: ""

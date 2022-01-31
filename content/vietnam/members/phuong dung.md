@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/Dung1.jpg"
 # course
-course: "Thư Ký"
+course: "Phụ trách hợp tác quốc tế"
 position: ""
 # biograph
 bio: ""
