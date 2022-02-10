@@ -844,3 +844,20 @@ ul > li {
   .tag-list a:hover {
     background-color: #141414;
     color: #fff; }
+
+.logo-footer .logotext {
+  visibility: hidden;
+  width: 120px;
+  background-color: #fff;
+  color: black;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 100;
+  margin-top: -40px;
+  margin-left: -40px; }
+
+.logo-footer:hover .logotext {
+  visibility: visible; }
