@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/intern/Nguyen-Anh-Quan.jpg"
 # course
-course: "Intern"
+course: "ISCM Staff"
 position: ""
 # biograph
 bio: ""

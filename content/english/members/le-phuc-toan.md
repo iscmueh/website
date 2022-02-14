@@ -1,19 +1,18 @@
 ---
-title: "ThS. Lê Thị Hạnh An"
+title: "Le Phuc Toan"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "."
 # teacher portrait
-image: "images/team/HAN.JPG"
+image: "images/team/intern/Phuc-toan.png"
 # course
-course: "Quản Lý Marketing"
+course: "ISCM Staff"
 position: ""
 # biograph
-bio: "Tốt nghiệp Thạc sĩ Quản trị kinh doanh từ một chương trình quốc tế, ThS. Lê Thị Hạnh An đang đảm nhiệm vị trí Marketing Manager tại ISCM. Cô có 7 năm kinh nghiệm làm việc trong lĩnh vực marketing, phân tích kinh doanh, và quản lý dự án tại các công ty hàng đầu Việt Nam. Với đam mê trong lĩnh vực học thuật, cô đã tham gia giảng dạy tại Học Viện Hàng Không Việt Nam. Hiện tại, cô là nghiên cứu sinh tiến sĩ về phát triển việc đi bộ (walkability) trong xây dựng thương hiệu thành phố."
-# interest
-interest: ["Xây dựng thương hiệu thành phố","Public Marketing","Education Marketing","Thành phố cho trẻ em","Thành phố thông minh","Chất lượng cuộc sống","Du lịch thông minh","Walkability"]
+bio: ""
+
 # contact info
 contact:
   # contact item loop
@@ -22,7 +21,7 @@ contact:
     link : "iscm@ueh.edu.vn"
 
   # contact item loop
-  - name : "+84-28-3930-9589/ +84-28-3930-9269"
+  - name : "+84-707 940 698"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
     link : "tel:+120345876"
 
@@ -53,5 +52,9 @@ contact:
 
 # type
 type: "teacher"
-weight: 12
+weight: 18
 ---
+
+1. - Designing media products. 
+2. - Developing products for research and training at ISCM. 
+3. - Supporting events and other activites at ISCM and UEH.
