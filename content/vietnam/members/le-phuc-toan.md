@@ -1,14 +1,14 @@
 ---
-title: "Intern.  Hoang Van Long"
+title: "Lê Phúc Toàn"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "."
 # teacher portrait
-image: "images/team/intern/Hoang-Van-Long.jpg"
+image: "images/team/intern/Phuc-toan.png"
 # course
-course: "PR - Marketing intern"
+course: "Cộng tác viên ISCM"
 position: ""
 # biograph
 bio: ""
@@ -21,7 +21,7 @@ contact:
     link : "iscm@ueh.edu.vn"
 
   # contact item loop
-  - name : "+84-28-3930-9589/ +84-28-3930-9269"
+  - name : "+84-707 940 698"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
     link : "tel:+120345876"
 
@@ -55,7 +55,6 @@ type: "teacher"
 weight: 18
 ---
 
-1. - In charge of content management (including content writing, content presentation, etc) on social media channels.
-1. - Participate in the production of media content (Digital/Offline,...) such as articles, idea videos/images, etc.
-1. - Write PR articles according to the required content.
-1. - Participate in supporting events and activities of the Institute.
+1. - Thiết kế các ấn phẩm truyền thông.
+1. - Thiết kế, xây dựng các sản phẩm phục vụ nghiên cứu và giảng dạy.
+1. - Tham gia hỗ trợ các sự kiện và hoạt động của Viện.

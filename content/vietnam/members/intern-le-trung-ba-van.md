@@ -6,9 +6,9 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "."
 # teacher portrait
-image: "images/team/intern/Le-Trung-Ba-Van.png"
+image: "images/team/intern/Ba-Van.png"
 # course
-course: "Thực tập sinh PR - Marketing"
+course: "Cộng tác viên ISCM"
 position: ""
 # biograph
 bio: ""
