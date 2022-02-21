@@ -725,18 +725,6 @@
                 href="https://www.iscm.ueh.edu.vn/partner/iotlink/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/members/msc-hanhan/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/members/msc-hanhan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/members/msc-hanhan/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/members/me-duongquyloc/</loc>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/kbet/</loc>
@@ -876,16 +864,16 @@
                 href="https://www.iscm.ueh.edu.vn/members/intern-le-trung-ba-van/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/members/intern-hoang-van-long/</loc>
+    <loc>https://www.iscm.ueh.edu.vn/members/le-phuc-toan/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/members/intern-hoang-van-long/"
+                href="https://www.iscm.ueh.edu.vn/vi/members/le-phuc-toan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/members/intern-hoang-van-long/"
+                href="https://www.iscm.ueh.edu.vn/members/le-phuc-toan/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/wscf/</loc>
