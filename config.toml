@@ -261,7 +261,7 @@ hasChildren = true
 
 
 [[Languages.en.menu.main]]
-weight = 7
+weight = 8
 name = "Pages"
 hasChildren = true
 
@@ -289,11 +289,7 @@ hasChildren = true
   name = "Partner"
   url = "partner"
 
-  # [[Languages.en.menu.main]]
-  # parent = "Pages"
-  # weight = 4
-  # name = "research"
-  # url = "research"
+
   [[Languages.en.menu.main]]
   parent = "Pages"
   weight = 4
@@ -306,6 +302,23 @@ hasChildren = true
   name = "Recruitment"
   url = "recruit"
 
+[[Languages.en.menu.main]]
+weight = 7
+name = "Admission"
+hasChildren = true
+#url = "team"
+   [[Languages.en.menu.main]]
+   parent = "Admission"
+   weight = 1
+   name = "For Undergraduate"
+   url = "advisory"
+
+
+   [[Languages.en.menu.main]]
+   parent = "Admission"
+   weight = 2
+   name = "For Graduate"
+   url = "admission_master"
 
 
 # [[Languages.en.menu.main]]
