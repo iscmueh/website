@@ -5,30 +5,24 @@
   <div class="container" style="scroll-behavior: smooth;">
     <div class="row">
       <div class="col-12">
-        <h2 class="section-title" style="text-align: center; margin-left: 2%;" >{{ .Title }}</h2>
+        <h2 class="section-title" style="text-align: center; margin-left: 2%; font-size: 35px;" >{{ .Title }}</h2>
       </div>
       <!-- research image -->
-      <div class="col-12 mb-4">
+      <!-- <div class="col-12 mb-4">
         <img style="height: auto;width: 100%;object-fit: contain;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
-      </div>
+      </div> -->
     </div>
     <!-- research details -->
     <div class="row">
-      <div class="text-justify col-12 mb-50 content" id ="compOverview">
-        <h3>ABOUT COMPETITION</h1>
-          <p>{{ .Params.overview_01 }}</p>
-          <p>{{ .Params.overview_02 }}</p>
-          <p>{{ .Params.overview_03 }}</p>
-      </div>
-      
-      <div class="text-justify col-12 mb-50 content" id = "compPartners">
-        <h3>OUR PARTNERS</h3>
-        <img style="height: auto;width: 100%;object-fit: contain;" src="{{ .Params.partners | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
-      </div>
-      
+     
       <div class="col-12 mb-50 content">
           {{ .Content }}
       </div>
+
+      <a href="{{ .Params.flipbook | relURL }}" class="fbo-embed" data-fbo-id="70520859" data-fbo-ratio="16:9" data-fbo-lightbox="yes" data-fbo-width="100%" data-fbo-height="auto" data-fbo-version="1" style="max-width: 100%">ISCM EVENT SERIES 2022</a>
+      
+      <script async defer src="{{ .Params.embededSrc | relURL }}"></script>
+     
       
     </div>
   </div>

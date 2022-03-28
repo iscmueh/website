@@ -302,23 +302,23 @@ hasChildren = true
   name = "Recruitment"
   url = "recruit"
 
-[[Languages.en.menu.main]]
-weight = 7
-name = "Admission"
-hasChildren = true
-#url = "team"
-   [[Languages.en.menu.main]]
-   parent = "Admission"
-   weight = 1
-   name = "For Undergraduate"
-   url = "advisory"
+# [[Languages.en.menu.main]]
+# weight = 7
+# name = "Admission"
+# hasChildren = true
+# #url = "team"
+#    [[Languages.en.menu.main]]
+#    parent = "Admission"
+#    weight = 1
+#    name = "For Undergraduate"
+#    url = "advisory"
 
 
-   [[Languages.en.menu.main]]
-   parent = "Admission"
-   weight = 2
-   name = "For Graduate"
-   url = "admission_master"
+#    [[Languages.en.menu.main]]
+#    parent = "Admission"
+#    weight = 2
+#    name = "For Graduate"
+#    url = "admission_master"
 
 
 # [[Languages.en.menu.main]]
