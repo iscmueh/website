@@ -77,6 +77,18 @@
                 href="https://www.iscm.ueh.edu.vn/vi/advisory/dr-nguyen-dong-phong/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/activities/event-2022/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/activities/event-2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/activities/event-2022/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/notice/lab-rules/</loc>
     <xhtml:link
                 rel="alternate"
@@ -176,6 +188,18 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://www.iscm.ueh.edu.vn/vi/members/dr-rob/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/activities/event-2021/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/activities/event-2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/activities/event-2021/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/scholarship/graduate-international-students/</loc>

@@ -53,6 +53,18 @@
                 href="https://www.iscm.ueh.edu.vn/members/dr-trinh-tu-anh/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/activities/event-2022/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/activities/event-2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/activities/event-2022/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/recruit/gv-qhdt/</loc>
     <xhtml:link
                 rel="alternate"
@@ -168,18 +180,6 @@
                 href="https://www.iscm.ueh.edu.vn/competition/futurecity/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/activities/arttech/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/activities/arttech/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/activities/arttech/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/advisory/dr-hyung-tae-gun/</loc>
     <xhtml:link
                 rel="alternate"
@@ -202,6 +202,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.iscm.ueh.edu.vn/scholarship/graduate-international-students/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/activities/event-2021/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/activities/event-2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/activities/event-2021/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/recruit/gv-qldttm/</loc>
@@ -277,6 +289,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.iscm.ueh.edu.vn/consultancy/tdd/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/activities/arttech/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/activities/arttech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/activities/arttech/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/members/dr-ducsu-seo/</loc>
