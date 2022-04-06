@@ -8,7 +8,7 @@
         <div style="height: 70px; width: 100%; background-color: #c31f33; text-align: center;">
           <ul style="padding: 0%; display: inline-flex; color: white;     font-size: 13px; height: 100%; align-items: center; ">
             <li class="nav-item">
-              <a class="nav-link" style=" height: 100%; width: max-content;" href="#compOverview">Why choosing ISCM?</a>
+              <a class="nav-link" style=" height: 100%; width: max-content;" href="#adAbout">Why choosing ISCM?</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" style=" height: 100%; width: max-content;" href="#compTimeline">Admission Plan 2022</a>
@@ -32,18 +32,24 @@
         </div>
 
         <div style="height: 250px; width: 100%; background-color: black;">
-
+          <video autoplay="" loop="" muted="" style="object-fit: cover;  width: 100%; height: 100%; background-color: black;">
+            <source src="http://localhost:1313/images/admission/master-course.mp4" type="video/mp4">
+          </video>  
         </div>
         
-        <div class="row align-items-center" style="margin-top: 60px;">
+        <div class="row align-items-center" style="margin-top: 60px;" id = "adAbout">
           <div class="col-md-6 order-2 order-md-1" style="text-align: justify;">
-            <h2 class="section-title" style="color: #c31f33; ">About ISCM</h2>
-            <p>Institute of Smart City and Management (ISCM) is a research institute belong to the College of Technology and Design (CTD) of the UEH University. Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling.</p>
-          
+            <h3 class="section-title" style="color: #c31f33; ">
+              {{ .Params.about_title }}</h3>
+              <h5>{{ .Params.about_param_01_header }}</h5>
+              <p>{{ .Params.about_param_01 }}</p>
+              <h5>{{ .Params.about_param_02_header }}</h5>
+              <p>{{ .Params.about_param_02 }}</p>
+
           </div>
           
           <div class="col-md-6 order-1 order-md-2 mb-4 mb-md-0">
-            <img class="img-fluid w-100" src="http://localhost:1313/images/about/about-page.jpg" alt="about image">
+            <img class="img-fluid w-100" src="{{ .Params.about_image_01 | relURL }}" alt="about image">
           </div>
           
         </div>
@@ -51,12 +57,15 @@
         <div class="row align-items-center" style="margin-top: 60px;">
           
           <div class="col-md-6 order-2 order-md-1 ">
-            <img class="img-fluid w-100" src="http://localhost:1313/images/about/about-page.jpg" alt="about image">
+            <img class="img-fluid w-100" src="{{ .Params.about_image_02 | relURL }}" alt="about image">
           </div>
 
           <div class="col-md-6 order-1 order-md-2 mb-4 mb-md-0" style="text-align: justify;"> 
-            <p>Institute of Smart City and Management (ISCM) is a research institute belong to the College of Technology and Design (CTD) of the UEH University. Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling.</p>
-          
+            <h5>{{ .Params.about_param_03_header }}</h5>
+            <p>{{ .Params.about_param_03 }}</p>
+            <h5>{{ .Params.about_param_04_header }}</h5>
+            <p>{{ .Params.about_param_04 }}</p>
+        
           </div>
           
         </div>
@@ -64,13 +73,16 @@
         <div style="width:100%; height: 5px;border-radius: 10px; background-color:gainsboro; margin-top: 70px;"></div>
         <!-- Admission Plan-->
         <div class="col-12" style="page-break-before:always; text-align: justify;" >
-          <div style="text-align: center; margin-top: 50px; margin-bottom: 30px; color:#c31f33; font-weight: 800; font-size: 30px;"> 
-            ADMISSION PLAN 2022</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; text-align: center; margin-top: 50px; margin-bottom: 30px; color:#c31f33; font-weight: 600; font-size: 30px;"> 
+            {{ .Params.admission_title }}</div>
           
           <p style="text-align: justify;">
-            Institute of Smart City and Management (ISCM) is a research institute belong to the College of Technology and Design (CTD) of the UEH University. Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling.</p>
+            {{ .Params.admission_content }}
+          </p>
           
-          <div style="width:100%; height: 1000px; background-color: gainsboro;"> </div>
+          <div style="width:100%; height: auto; background-color: gainsboro;">
+            <img class="img-fluid w-100" src="{{ .Params.admission_image | relURL }}" alt="about image">
+          </div>
         </div>
 
         <div style="width:100%; height: 5px;border-radius: 10px; background-color:gainsboro; margin-top: 70px;"></div>
@@ -78,59 +90,162 @@
 
         <!-- ABOUT OUR PROGRAM-->
 
-        <div class="col-12" style="page-break-before:always; text-align: justify;" >
-          <div style="text-align: center; margin-top: 50px; margin-bottom: 30px; color:#c31f33; font-weight: 800; font-size: 30px;"> 
-            ABOUT OUR PROGRAM</div>
+        <div class="col-12" style="page-break-before:always; text-align: justify; width: auto !important;" >
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; text-align: center; margin-top: 50px; margin-bottom: 30px; color:#c31f33; font-weight: 600; font-size: 30px;"> 
+            {{ .Params.about_program_title }}</div>
           
           <p style="text-align: justify;">
-            Institute of Smart City and Management (ISCM) is a research institute belong to the College of Technology and Design (CTD) of the UEH University. Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling.</p>
+            {{ .Params.about_program_content_overall }}
+          </p>
           
             <div class="row align-items-center" style="margin-top: 60px;">
-              <div class="col-md-6 order-2 order-md-1" style="text-align: justify;">
-                <p>Institute of Smart City and Management (ISCM) is a research institute belong to the College of Technology and Design (CTD) of the UEH University. Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling.</p>
+              <div class="col-md-8 order-2 order-md-1" style="text-align: justify;">
+                <h5>{{ .Params.about_program_content_header_01 }}</h5>
+                <p>{{ .Params.about_program_content_01 }}</p>
+
+                <h5>{{ .Params.about_program_content_header_02 }}</h5>
+                <p>{{ .Params.about_program_content_02 }}</p>
               
               </div>
               
-              <div class="col-md-6 order-1 order-md-2 mb-4 mb-md-0" style="text-align: center;">
-                <img class="img-fluid w-100" style="width: 250px!important; height: 300px;" src="http://localhost:1313/images/about/about-page.jpg" alt="about image">
+              <div class="col-md-4 order-1 order-md-2 mb-4 mb-md-0" style="text-align: center;">
+                <img class="img-fluid w-100" style="width: 350px !important; height: 450px;" src="{{ .Params.about_program_image_01 | relURL }}" alt="about image">
               </div>
               
             </div>
         
-
-          <div style="width:100%; height: 300px; background-color: gainsboro; margin-top: 30px; margin-bottom: 30px; align-items: center"> </div>
-          <div style="width: 100%; height: 400px; text-align: justify; vertical-align: middle;">
-            <p>Institute of Smart City and Management (ISCM) is a research institute belong to the College of Technology and Design (CTD) of the UEH University. Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling.</p>
-          </div>
-
-          <div class="row align-items-center" style="margin-top: 60px;">
-          
-            <div class="col-md-6 order-2 order-md-1 ">
-              <img class="img-fluid w-100" src="http://localhost:1313/images/about/about-page.jpg" alt="about image">
+            <div style="width:100%; height: auto; background-color: gainsboro;">
+              <img class="img-fluid w-100" src="{{ .Params.about_program_image_02 | relURL }}" alt="about image">
             </div>
-  
-            <div class="col-md-6 order-1 order-md-2 mb-4 mb-md-0" style="text-align: justify;"> 
-              <p>Institute of Smart City and Management (ISCM) is a research institute belong to the College of Technology and Design (CTD) of the UEH University. Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling.</p>
-            
+
+            <div class="row align-items-center" style="margin-top: 60px; margin-bottom: 60px;" id = "adAbout">
+              <div class="col-md-6 order-2 order-md-1" style="text-align: justify; padding-right: 60px;">
+                
+
+                <h5>{{ .Params.about_program_content_header_03 }}</h5>
+                <p>{{ .Params.about_program_content_03 }}</p>
+                <h5>{{ .Params.about_program_content_header_04 }}</h5>
+                <p>{{ .Params.about_program_content_04 }}</p>
+    
+              </div>
+              
+              <div class="col-md-6 order-1 order-md-2 mb-4 mb-md-0" style="padding-left:60px;">
+                <h5>{{ .Params.about_program_content_header_05 }}</h5>
+                <p>{{ .Params.about_program_content_05 }}</p>
+                <h5>{{ .Params.about_program_content_header_06 }}</h5>
+                <p>{{ .Params.about_program_content_06 }}</p>
+              </div>
             </div>
+
+
+            <div class="row align-items-center" style="margin-top: 60px;">
+              
+              <div class="col-md-6 order-2 order-md-1 ">
+                <img class="img-fluid w-100" src="{{ .Params.about_program_image_03 | relURL }}" alt="about image">
+              </div>
+    
+              <div class="col-md-6 order-1 order-md-2 mb-4 mb-md-0" style="text-align: justify;"> 
+                <h3 class="section-title" style="color: #c31f33; ">
+                  {{ .Params.about_program_content_header_07_H }}</h3>
+                <h5>{{ .Params.about_program_content_header_07 }}</h5>
+                <p>{{ .Params.about_program_content_07 }}</p>
+
+              </div>
+              
+            </div>
+
+            <div class="row align-items-center" style="margin-top: 60px;" id = "adAbout">
+              <div class="col-md-6 order-2 order-md-1" style="text-align: justify;">
+
+                  <h5>{{ .Params.about_program_content_header_08 }}</h5>
+                  <p>{{ .Params.about_program_content_08 }}</p>
+    
+              </div>
+              
+              <div class="col-md-6 order-1 order-md-2 mb-4 mb-md-0">
+                <img class="img-fluid w-100" src="{{ .Params.about_program_image_04 | relURL }}" alt="about image">
+              </div>
+              
+            </div>
+    
+            <div class="row align-items-center" style="margin-top: 60px;">
+              
+              <div class="col-md-6 order-2 order-md-1 ">
+                <img class="img-fluid w-100" src="{{ .Params.about_program_image_05 | relURL }}" alt="about image">
+              </div>
+    
+              <div class="col-md-6 order-1 order-md-2 mb-4 mb-md-0" style="text-align: justify;"> 
+                <h3 class="section-title" style="color: #c31f33; ">
+                  {{ .Params.about_program_content_header_07_H }}</h3>
+                <h5>{{ .Params.about_program_content_header_07 }}</h5>
+                <p>{{ .Params.about_program_content_07 }}</p>
+
             
-          </div>
+              </div>
+              
+            </div>
+
         </div>
 
         <div style="width:100%; height: 5px;border-radius: 10px; background-color:gainsboro; margin-top: 70px;"></div>
 
         <!-- International Dual Degree-->
         <div class="col-12" style="page-break-before:always; text-align: justify;" >
-          <div style="text-align: center; margin-top: 50px; margin-bottom: 30px; color:#c31f33; font-weight: 800; font-size: 30px;"> 
-            INTERNATION DUAL DEGREE</div>
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; text-align: center; margin-top: 50px; margin-bottom: 30px; color:#c31f33; font-weight: 600; font-size: 30px;"> 
+            {{ .Params.about_dual_degree_title }} </div>
           
           <p style="text-align: justify;">
-            Institute of Smart City and Management (ISCM) is a research institute belong to the College of Technology and Design (CTD) of the UEH University. Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling.</p>
+            {{ .Params.about_dual_degree_content }}
+          </p>
           
-          <div style="width:100%; height: 500px; background-color: gainsboro;"> </div>
+            <div class="row">
+              <!-- course item -->
+              {{ $related := (where site.RegularPages "Type" "course") | intersect (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) | shuffle | first 3}}
+              {{ range first 3 $related }}
+              <div class="col-lg-4 col-sm-6 mb-5">
+                {{ .Render "course"}}
+              </div>
+              {{ end }}
+            </div>
         </div>
 
         <div style="width:100%; height: 5px;border-radius: 10px; background-color:gainsboro; margin-top: 70px;"></div>
+        
+
+        <!-- Scholarship -->
+        <div class="col-12" style="page-break-before:always; text-align: justify;" >
+          <div style="text-align: center; margin-top: 50px; margin-bottom: 30px; color:#c31f33; font-weight: 800; font-size: 30px;"> 
+            SCHOLARSHIP</div>
+          
+          <p style="text-align: justify;">
+            Institute of Smart City and Management (ISCM) is a research institute belong to the College of Technology and Design (CTD) of the UEH University. Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling.</p>
+
+          <div style="width:100%; height: 500px; background-color: gainsboro;"> </div>
+        </div>
+
+        <div class="col-12">
+          <h5 class="mb-3">{{ i18n "teacher" }}</h5>
+          {{ range where site.RegularPages "Title" (.Params.Teacher | title) }}
+          <div class="d-flex justify-content-between align-items-center flex-wrap">
+            <div class="media mb-2 mb-sm-0 align-items-center">
+              <img class="mr-4 img-fluid teacher-thumb-sm" src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+              <div class="media-body">
+                <h4 class="mt-0"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                {{ .Params.Course }}
+              </div>
+            </div>
+            <div class="social-link">
+              <h6 class="d-none d-sm-block text-right">{{ i18n "contact_info" }}</h6>
+              <ul class="list-inline">
+                {{ range .Params.Contact }}
+                <li class="list-inline-item"><a class="d-inline-block text-light p-1" href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+                {{ end }}
+              </ul>
+            </div>
+          </div>
+          {{ end }}
+          <div class="border-bottom border-primary mt-4"></div>
+        </div>
         
 
 

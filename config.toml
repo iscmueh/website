@@ -321,10 +321,10 @@ hasChildren = true
 #    url = "admission_master"
 
 
-# [[Languages.en.menu.main]]
-# name = "Contact"
-# url = "contact"
-# weight = 8
+[[Languages.en.menu.main]]
+name = "Contact"
+url = "contact"
+weight = 8
 
 
 # footer menu
