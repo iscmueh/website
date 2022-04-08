@@ -22,6 +22,8 @@ duration : "4 năm"
 apply_url : "#"
 # type
 type: "course"
+type_dual: "course"
+
 courseStuctureImage: "images/courses/structure/UEH-UOA.jpg"
 summary: " "
 post: "Chương trình liên kết đào tạo đại học chính quy với trường Đại học Auckland, New Zealand"

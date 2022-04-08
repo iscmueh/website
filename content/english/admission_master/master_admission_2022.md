@@ -70,7 +70,7 @@ about_program_content_08: "Không chỉ dừng lại với hệ thống môn h�
 
 
 about_program_content_header_08: "TỪ KIẾN THỨC ĐA NGÀNH ĐẾN TƯ DUY TOÀN CẦU"
-about_program_content_08: "Không chỉ dừng lại với hệ thống môn học đa dạng giúp học viên có góc nhìn đa chiều mà ở đây học viên còn được giảng dạy, trao đổi với các giảng viên nước ngoài từ đó hình thành và mở rộng tư duy toàn cầu, mang tinh hoa từ thế giới, ứng dụng vào thực tiễn để giải quyết vấn đề xã hội theo phương châm \"Tư duy toàn cầu - Hành động địa phương\""
+about_program_content_08: "Học viên không chỉ khuyến khích tinh thần học tập chủ động mà còn là tinh thần giúp đỡ để cùng nhau phát triển. ISCM luôn hoan nghênh điều đó, bởi học viên chính là những nhà quản lý điều hành cao cấp tương lai trong khu vực công, đặc biệt là lĩnh vực đô thị, quy hoạch hướng tới các đô thị thông minh nói riêng và trở thành người tạo tác động tích cực đến xã hội nói chung."
 
 
 about_dual_degree_title: "CHƯƠNG TRÌNH SONG BẰNG QUỐC TẾ"
@@ -158,3 +158,6 @@ weight: 1
 - 03 Hạng xuất sắc: 100% học phí + phí ăn ở (tương đương $ 6.200 USD) Được trao học bổng trong suốt thời gian nghiên cứu chính thức.
 - 10 suất học phí toàn phần: 100% học phí + phí ăn ở (tương đương $ 6.200 USD). Được đánh giá hàng năm.
 - 10 suất học phí một phần: 50% học phí + phí ăn ở (tương đương $ 3,800 USD). Được đánh giá hàng năm.
+
+
+Chi tiết:  https://dsa.ueh.edu.vn/hoc-bong/hoc-bong-bac-cao-hoc/caohoc/ 

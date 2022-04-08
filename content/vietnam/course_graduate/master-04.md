@@ -22,6 +22,8 @@ duration : "2 năm (03 học kĩ tại UEH, 1 học kì tại Bỉ)."
 apply_url : "#"
 # type
 type: "course"
+type_dual: "course"
+
 courseStuctureImage: "images/courses/structure/HU.jpg"
 summary: " "
 post: "Chương trình liên kết đào tạo song bằng Thạc sĩ Quản lý Đô thị Thông minh và Sáng tạo và Thạc sĩ Transportation Sciences"

@@ -41,6 +41,18 @@
                 href="https://www.iscm.ueh.edu.vn/partner/handong-global-uni/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/admission_master/master_admission_2022/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/admission_master/master_admission_2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/admission_master/master_admission_2022/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/members/dr-trinh-tu-anh/</loc>
     <xhtml:link
                 rel="alternate"
@@ -51,6 +63,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.iscm.ueh.edu.vn/members/dr-trinh-tu-anh/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/admission_announcement/master_admission_2022/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/admission_announcement/master_admission_2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/admission_announcement/master_admission_2022/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/activities/event-2022/</loc>
@@ -177,8 +201,6 @@
                 hreflang="en"
                 href="https://www.iscm.ueh.edu.vn/competition/futurecity/"
                 />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/admission_master/futurecity/</loc>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/advisory/dr-hyung-tae-gun/</loc>
     <xhtml:link
@@ -1696,7 +1718,29 @@
                 href="https://www.iscm.ueh.edu.vn/research/fostering-applied-science/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/admission_announcement/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/admission_announcement/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/admission_announcement/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/admission_master/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/admission_master/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/admission_master/"
+                />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/teacher/jacke-mastio/</loc>
     <xhtml:link

@@ -22,6 +22,8 @@ duration : "2 years (03 semesters at UEH, 01 semester at UH)."
 apply_url : "#"
 # type
 type: "course"
+type_dual: "course"
+
 courseStuctureImage: "images/courses/structure/HU.jpg"
 summary: " "
 post: "International Dual Degree Program - Executive Master of Smart City and Innovation Management and Master of Transportation Sciences"

@@ -41,6 +41,18 @@
                 href="https://www.iscm.ueh.edu.vn/vi/consultancy/assetmanagement/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/admission_master/master_admission_2022/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/admission_master/master_admission_2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/admission_master/master_admission_2022/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/competition/smartcityplus/</loc>
     <xhtml:link
                 rel="alternate"
@@ -51,6 +63,18 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://www.iscm.ueh.edu.vn/vi/competition/smartcityplus/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/admission_announcement/master_admission_2022/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/admission_announcement/master_admission_2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/admission_announcement/master_admission_2022/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/adjunctprofessors/prof-katharinanord/</loc>
@@ -1618,6 +1642,30 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://www.iscm.ueh.edu.vn/vi/about/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/admission_announcement/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/admission_announcement/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/admission_announcement/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/admission_master/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/admission_master/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/admission_master/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/scholarship/</loc>

@@ -31,8 +31,8 @@
           </ul>  
         </div>
 
-        <div style="height: 250px; width: 100%; background-color: black;">
-          <video autoplay="" loop="" muted="" style="object-fit: cover;  width: 100%; height: 100%; background-color: black;">
+        <div style="height: 250px; width: 100%;">
+          <video autoplay loop muted style="object-fit: cover;  width: 100%; height: 100%; ">
             <source src="http://localhost:1313/images/admission/master-course.mp4" type="video/mp4">
           </video>  
         </div>
@@ -194,13 +194,13 @@
           <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; text-align: center; margin-top: 50px; margin-bottom: 30px; color:#c31f33; font-weight: 600; font-size: 30px;"> 
             {{ .Params.about_dual_degree_title }} </div>
           
-          <p style="text-align: justify;">
+          <p style="text-align: justify; ">
             {{ .Params.about_dual_degree_content }}
           </p>
           
             <div class="row">
               <!-- course item -->
-              {{ $related := (where site.RegularPages "Type" "course") | intersect (where site.Pages "Dual" "!=" .Title) | union (site.RegularPages.Related . ) | shuffle | first 3}}
+              {{ $related := (where site.RegularPages "Type" "course") | intersect (where site.Pages "title" "!=" .Title) | union (site.RegularPages.Related . ) | shuffle | first 3}}
               {{ range first 3 $related }}
               <div class="col-lg-4 col-sm-6 mb-5">
                 {{ .Render "course"}}
@@ -229,7 +229,7 @@
 
        <!-- Teacher -->
         <div class="col-12" id="teacher" style="page-break-before:always; text-align: justify;" >
-          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; text-align: center; margin-top: 50px; color:#c31f33; font-weight: 500; font-size: 30px;"> 
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; text-align: center; margin-top: 50px; margin-bottom: 30px; color:#c31f33; font-weight: 500; font-size: 30px;"> 
             {{ .Params.teacher_title }}</div>
           <p style="text-align: justify;">
             {{ .Params.teacher_Content }}
