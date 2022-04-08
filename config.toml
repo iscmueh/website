@@ -302,23 +302,29 @@ hasChildren = true
   name = "Recruitment"
   url = "recruit"
 
-# [[Languages.en.menu.main]]
-# weight = 7
-# name = "Admission"
-# hasChildren = true
-# #url = "team"
-#    [[Languages.en.menu.main]]
-#    parent = "Admission"
-#    weight = 1
-#    name = "For Undergraduate"
-#    url = "advisory"
+[[Languages.en.menu.main]]
+weight = 7
+name = "Admission"
+hasChildren = true
+#url = "team"
+   [[Languages.en.menu.main]]
+   parent = "Admission"
+   weight = 1
+   name = "For Undergraduate"
+   url = "admission_undergraduate"
 
 
-#    [[Languages.en.menu.main]]
-#    parent = "Admission"
-#    weight = 2
-#    name = "For Graduate"
-#    url = "admission_master"
+   [[Languages.en.menu.main]]
+   parent = "Admission"
+   weight = 2
+   name = "For Graduate"
+   url = "admission_master"
+
+   [[Languages.en.menu.main]]
+   parent = "Admission"
+   weight = 3
+   name = "For Announcement"
+   url = "admission_announcement"
 
 
 [[Languages.en.menu.main]]
@@ -466,14 +472,53 @@ hasChildren = true
 #  weight = 4
 #  name = "Mạng Lưới"
 #  url = "network"
+# [[Languages.vi.menu.main]]
+# weight = 7
+# name = "Tuyển Sinh"
+# hasChildren = true
+#   [[Languages.vn.menu.main]]
+#   parent = "Tuyển Sinh"
+#   weight = 1
+#   name = "Đối Với Đai Học"
+#   url = "admission_undergraduate"
 
+#   [[Languages.vn.menu.main]]
+#   parent = "Tuyển Sinh"
+#   weight = 2
+#   name = "Đối Với Cao Học"
+#   url = "admission_master"
 
-
-
+#   [[Languages.vn.menu.main]]
+#   parent = "Tuyển Sinh"
+#   weight = 3
+#   name = "Thông Báo Tuyển Sinh"
+#   url = "admission_announcement"
 
 
 [[Languages.vi.menu.main]]
-weight = 7
+weight=7
+name="Tuyển Sinh"
+hasChildren =true
+  [[Languages.vi.menu.main]]
+  parent="Tuyển Sinh"
+  weight = 2
+  name="Cho Cao Học"
+  url="admission_master"
+
+  [[Languages.vi.menu.main]]
+  parent="Tuyển Sinh"
+  weight = 1
+  name="Cho Đại Học"
+  url="admission_undergraduate"
+  
+  [[Languages.vi.menu.main]]
+  parent="Tuyển Sinh"
+  weight = 3
+  name="Thông Báo Tuyển Sinh"
+  url="admission_announcement"
+
+[[Languages.vi.menu.main]]
+weight = 8
 name = "Mục"
 hasChildren = true
 

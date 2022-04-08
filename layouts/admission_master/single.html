@@ -6,24 +6,24 @@
     <div class="row">
       <div class="col-12">
         <div style="height: 70px; width: 100%; background-color: #c31f33; text-align: center;">
-          <ul style="padding: 0%; display: inline-flex; color: white;     font-size: 13px; height: 100%; align-items: center; ">
+          <ul style="padding: 0%; display: inline-flex; color: white;     font-size: 12px; height: 100%; align-items: center; ">
             <li class="nav-item">
               <a class="nav-link" style=" height: 100%; width: max-content;" href="#adAbout">Why choosing ISCM?</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" style=" height: 100%; width: max-content;" href="#compTimeline">Admission Plan 2022</a>
+              <a class="nav-link" style=" height: 100%; width: max-content;" href="#admissionPlan">Admission Plan 2022</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" style=" height: 100%; width: max-content;" href="#compPrize">Our Program</a>
+              <a class="nav-link" style=" height: 100%; width: max-content;" href="#program">Our Program</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#compPartner">International Dual Degree</a>
+              <a class="nav-link" href="#dual">International Dual Degree</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" style=" height: 100%; width: max-content;" href="#compRegister">Scholarship</a>
+              <a class="nav-link" style=" height: 100%; width: max-content;" href="#scholar">Scholarship</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" style=" height: 100%; width: max-content;" href="#compRegister">Lecturers</a>
+              <a class="nav-link" style=" height: 100%; width: max-content;" href="#teacher">Lecturers</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" style=" height: 100%; width: max-content;" href="#compRegister">Q&A</a>
@@ -72,7 +72,7 @@
         
         <div style="width:100%; height: 5px;border-radius: 10px; background-color:gainsboro; margin-top: 70px;"></div>
         <!-- Admission Plan-->
-        <div class="col-12" style="page-break-before:always; text-align: justify;" >
+        <div class="col-12" id="admissionPlan" style="page-break-before:always; text-align: justify;" >
           <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; text-align: center; margin-top: 50px; margin-bottom: 30px; color:#c31f33; font-weight: 600; font-size: 30px;"> 
             {{ .Params.admission_title }}</div>
           
@@ -90,7 +90,7 @@
 
         <!-- ABOUT OUR PROGRAM-->
 
-        <div class="col-12" style="page-break-before:always; text-align: justify; width: auto !important;" >
+        <div class="col-12" id="program" style="page-break-before:always; text-align: justify; width: auto !important;" >
           <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; text-align: center; margin-top: 50px; margin-bottom: 30px; color:#c31f33; font-weight: 600; font-size: 30px;"> 
             {{ .Params.about_program_title }}</div>
           
@@ -190,7 +190,7 @@
         <div style="width:100%; height: 5px;border-radius: 10px; background-color:gainsboro; margin-top: 70px;"></div>
 
         <!-- International Dual Degree-->
-        <div class="col-12" style="page-break-before:always; text-align: justify;" >
+        <div class="col-12" id="dual" style="page-break-before:always; text-align: justify;" >
           <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; text-align: center; margin-top: 50px; margin-bottom: 30px; color:#c31f33; font-weight: 600; font-size: 30px;"> 
             {{ .Params.about_dual_degree_title }} </div>
           
@@ -200,7 +200,7 @@
           
             <div class="row">
               <!-- course item -->
-              {{ $related := (where site.RegularPages "Type" "course") | intersect (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) | shuffle | first 3}}
+              {{ $related := (where site.RegularPages "Type" "course") | intersect (where site.Pages "Dual" "!=" .Title) | union (site.RegularPages.Related . ) | shuffle | first 3}}
               {{ range first 3 $related }}
               <div class="col-lg-4 col-sm-6 mb-5">
                 {{ .Render "course"}}
@@ -213,39 +213,45 @@
         
 
         <!-- Scholarship -->
-        <div class="col-12" style="page-break-before:always; text-align: justify;" >
-          <div style="text-align: center; margin-top: 50px; margin-bottom: 30px; color:#c31f33; font-weight: 800; font-size: 30px;"> 
-            SCHOLARSHIP</div>
+        <div class="col-12" id="scholar"  style="page-break-before:always; text-align: justify;" >
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; text-align: center; margin-top: 50px; color:#c31f33; font-weight: 500; font-size: 30px;"> 
+            {{ .Params.scholar_title }}</div>
           
+          <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; text-align: center; margin-bottom: 30px; font-weight: 500; font-size: 20px;"> 
+            {{ .Params.scholar_title_02 }}</p>
           <p style="text-align: justify;">
-            Institute of Smart City and Management (ISCM) is a research institute belong to the College of Technology and Design (CTD) of the UEH University. Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling.</p>
-
-          <div style="width:100%; height: 500px; background-color: gainsboro;"> </div>
+            {{ .Content }}
+          </p>
         </div>
 
-        <div class="col-12">
-          <h5 class="mb-3">{{ i18n "teacher" }}</h5>
-          {{ range where site.RegularPages "Title" (.Params.Teacher | title) }}
-          <div class="d-flex justify-content-between align-items-center flex-wrap">
-            <div class="media mb-2 mb-sm-0 align-items-center">
-              <img class="mr-4 img-fluid teacher-thumb-sm" src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
-              <div class="media-body">
-                <h4 class="mt-0"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-                {{ .Params.Course }}
-              </div>
-            </div>
-            <div class="social-link">
-              <h6 class="d-none d-sm-block text-right">{{ i18n "contact_info" }}</h6>
-              <ul class="list-inline">
-                {{ range .Params.Contact }}
-                <li class="list-inline-item"><a class="d-inline-block text-light p-1" href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
-                {{ end }}
-              </ul>
+        <div style="width:100%; height: 5px;border-radius: 10px; background-color:gainsboro; margin-top: 70px;"></div>
+
+
+       <!-- Teacher -->
+        <div class="col-12" id="teacher" style="page-break-before:always; text-align: justify;" >
+          <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; text-align: center; margin-top: 50px; color:#c31f33; font-weight: 500; font-size: 30px;"> 
+            {{ .Params.teacher_title }}</div>
+          <p style="text-align: justify;">
+            {{ .Params.teacher_Content }}
+          </p>
+          
+          {{range .Params.teacher_contact}}
+          <div class="card" style="width:300px;  
+          position: relative; max-height: auto; display: inline-block; margin: 28.5px;
+          box-sizing: border-box;vertical-align: top;" >
+            <img src="{{ .image | relURL }}" alt="Avatar" style="height:200px; width: 200px; align-items: center; justify-content: center; display: block; margin: auto; margin-bottom: 10px;">
+            <div class="container" style="text-align: center; width: auto; height: 200px;">
+              <h4><b>{{ .name }}</b></h4>
+              <p>{{ .field }}</p>
+              <h4>Teaching:</h4>
+              <p>{{ .teaching_subject }}</p>
             </div>
           </div>
-          {{ end }}
-          <div class="border-bottom border-primary mt-4"></div>
+          {{end}}
+          </div>
+
         </div>
+
         
 
 
