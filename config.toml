@@ -323,7 +323,7 @@ hasChildren = true
    [[Languages.en.menu.main]]
    parent = "Admission"
    weight = 3
-   name = "For Announcement"
+   name = "Announcement"
    url = "admission_announcement"
 
 

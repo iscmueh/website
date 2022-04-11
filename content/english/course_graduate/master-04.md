@@ -22,7 +22,7 @@ duration : "2 years (03 semesters at UEH, 01 semester at UH)."
 apply_url : "#"
 # type
 type: "course"
-type_dual: "course"
+dual: "yes"
 
 courseStuctureImage: "images/courses/structure/HU.jpg"
 summary: " "

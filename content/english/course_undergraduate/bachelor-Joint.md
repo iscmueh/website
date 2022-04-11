@@ -22,7 +22,7 @@ duration : "4 years"
 apply_url : "#"
 # type
 type: "course"
-type_dual: "course"
+dual: "yes"
 courseStuctureImage: "images/courses/structure/UEH-UOA.jpg"
 summary: " "
 post: "Dual Bachelor of Architecture and Urban design inclusive Smart city (UEH) and Bachelor of Architectural Studies (University of Auckland, New Zealand) Degree Program"
