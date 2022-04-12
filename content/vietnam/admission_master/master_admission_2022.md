@@ -27,7 +27,7 @@ about_param_02_header: "THÀNH PHỐ THÔNG MINH"
 about_param_02: "Viện Đô thị Thông minh và Quản lý (ISCM) nghiên cứu để phát triển, sử dụng các giải pháp công nghệ thông minh nhằm giải quyết các vấn đề thực tế của đô thị."
 
 about_param_03_header: "CHẤT LƯỢNG QUỐC TẾ"
-about_param_03: "ISCM có một mạng lưới liên kết rộng lớn với các trường Đại học, cơ sở nghiên cứu, công ty đa quốc gia và luôn phát triển dựa trên nền tảng quan hệ quốc tế. Một trong những kim chỉ nam trong hoạt động của ISCM là: \"Suy nghĩ Quốc tế, Hành động địa phương\". "
+about_param_03: "ISCM có một mạng lưới liên kết rộng lớn với các trường Đại học, cơ sở nghiên cứu, công ty đa quốc gia và luôn phát triển dựa trên nền tảng quan hệ quốc tế. Một trong những kim chỉ nam trong hoạt động của ISCM là: \"Tư duy toàn cầu, Hành động địa phương\". "
 
 
 about_param_04_header: "HOẠT ĐỘNG CHUYÊN MÔN"

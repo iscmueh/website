@@ -41,18 +41,6 @@
                 href="https://www.iscm.ueh.edu.vn/vi/consultancy/assetmanagement/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/admission_master/master_admission_2022/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/admission_master/master_admission_2022/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/admission_master/master_admission_2022/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/competition/smartcityplus/</loc>
     <xhtml:link
                 rel="alternate"
@@ -135,6 +123,18 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://www.iscm.ueh.edu.vn/vi/admission_announcement/master_admission_2022/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/admission_master/master_admission_2022/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/admission_master/master_admission_2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/admission_master/master_admission_2022/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/members/dr-trinh-tu-anh/</loc>
