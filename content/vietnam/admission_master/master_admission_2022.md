@@ -1,5 +1,5 @@
 ---
-title: "ADMISSION PLAN FOR MASTER - 2022"
+title: "THẠC SỸ HỆ ĐIỀU HÀNH CAO CẤP QUẢN LÝ ĐÔ THỊ THÔNG MINH VÀ SÁNG TẠO 2022"
 author: iscm
 
 
@@ -8,7 +8,13 @@ bg_image: "images/admission/master-plan-2022/about_image_02.jpg"
 # Event image
 image: "images/admission/master-plan-2022/about_image_01.jpg"
 
-
+nav_about: "Tại sao chọn ISCM ?"
+nav_admission: "Kế hoạch tuyển sinh 2022"
+nav_program: "Học trong nước"
+nav_dual_degree: "Song bằng Quốc tế"
+nav_scholarship: "Học bổng"
+nav_lecturer: "Giảng viên"
+nav_QnA: "Hỏi đáp"
 
 about_title: "TẠI SAO LẠI CHỌN ISCM?"
 about_image_01: "images/admission/master-plan-2022/about_image_01.jpg"

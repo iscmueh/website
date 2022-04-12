@@ -14,17 +14,6 @@ image: "images/admission/master-plan-2022/about_image_01.jpg"
 weight: 1
 ---
 
+{{< figure src="/images/admission/thong-bao-tuyen-sinh.png" width="800px" >}}
 
-{{< figure src="/images/admission/thong-bao-tuyen-sinh1.jpg" width="800px" >}}
-{{< figure src="/images/admission/thong-bao-tuyen-sinh2.jpg" width="800px" >}}
-{{< figure src="/images/admission/thong-bao-tuyen-sinh3.jpg" width="800px" >}}
-{{< figure src="/images/admission/thong-bao-tuyen-sinh4.jpg" width="800px" >}}
-{{< figure src="/images/admission/thong-bao-tuyen-sinh5.jpg" width="800px" >}}
-
-<!-- ![]()
-![](/images/admission/thong-bao-tuyen-sinh2.jpg)
-![](/images/admission/thong-bao-tuyen-sinh3.jpg)
-![](/images/admission/thong-bao-tuyen-sinh4.jpg)
-![](/images/admission/thong-bao-tuyen-sinh5.jpg)
- -->
 
