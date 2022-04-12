@@ -1,5 +1,5 @@
 ---
-title: "Executive program admission announcement 2022"
+title: "Thông bảo tuyển sinh chương trình Thạc sĩ Điều hành cao cấp 2022"
 author: iscm
 
 
