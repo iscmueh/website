@@ -29,6 +29,8 @@ about_param_04: "Các hoạt động học thuật như Workshop, Webinar, Forum
 
 admission_title: "KẾ HOẠCH TUYỂN SINH 2022"
 admission_content: "Viện Đô thị Thông minh và Quản lý, Trường Đại học Kinh tế TP. Hồ Chí Minh sẽ tiến hành tuyển sinh Chương trình Thạc sĩ điều hành cao cấp Quản lý công - chuyên ngành Quản lý đô thị thông minh và sáng tạo năm 2022  theo phương thức sau:"
+admission_content_02: "Thông bảo tuyển sinh chương trình Thạc sĩ Điều hành cao cấp 2022"
+
 admission_image: "images/admission/master-plan-2022/master-plan.png"
 
 about_program_title: "CHƯƠNG TRÌNH HỌC TRONG NƯỚC"
@@ -69,8 +71,8 @@ about_program_content_header_08: "TỪ KIẾN THỨC ĐA NGÀNH ĐẾN TƯ DUY T
 about_program_content_08: "Không chỉ dừng lại với hệ thống môn học đa dạng giúp học viên có góc nhìn đa chiều mà ở đây học viên còn được giảng dạy, trao đổi với các giảng viên nước ngoài từ đó hình thành và mở rộng tư duy toàn cầu, mang tinh hoa từ thế giới, ứng dụng vào thực tiễn để giải quyết vấn đề xã hội theo phương châm \"Tư duy toàn cầu - Hành động địa phương\""
 
 
-about_program_content_header_08: "TỪ KIẾN THỨC ĐA NGÀNH ĐẾN TƯ DUY TOÀN CẦU"
-about_program_content_08: "Học viên không chỉ khuyến khích tinh thần học tập chủ động mà còn là tinh thần giúp đỡ để cùng nhau phát triển. ISCM luôn hoan nghênh điều đó, bởi học viên chính là những nhà quản lý điều hành cao cấp tương lai trong khu vực công, đặc biệt là lĩnh vực đô thị, quy hoạch hướng tới các đô thị thông minh nói riêng và trở thành người tạo tác động tích cực đến xã hội nói chung."
+about_program_content_header_09: "KẾT NỐI NGUỒN LỰC"
+about_program_content_09: "Việc học tập không chỉ dừng lại trong khuôn khổ lớp học, với background học viên đa dạng đặc biệt là trong lĩnh vực quy hoạch, đô thị, quản lý công,... giúp học viên có thể kết nối các nguồn lực, cùng nhau chung tay giải quyết các vấn đề xã hội. Đồng thời, với không gian xanh và thông minh tại cơ sở 232/6 Võ Thị Sáu sẽ giúp học viên sinh hoạt và cùng nhau chia sẻ nguồn lực hỗ trợ."
 
 
 about_dual_degree_title: "CHƯƠNG TRÌNH SONG BẰNG QUỐC TẾ"
@@ -79,6 +81,7 @@ about_dual_degree_content: "Hiện tại, Viện ISCM đang triển khai 2 chư�
 
 scholar_title: "HỌC BỔNG"
 scholar_title_02: "50 học bổng cho sinh viên quốc tế sau đại học:"
+scholar_link: "Chi tiết: https://dsa.ueh.edu.vn/hoc-bong/hoc-bong-bac-cao-hoc/caohoc/"
 
 
 teacher_title: "GIẢNG VIÊN HƯỚNG DẪN"
@@ -158,6 +161,3 @@ weight: 1
 - 03 Hạng xuất sắc: 100% học phí + phí ăn ở (tương đương $ 6.200 USD) Được trao học bổng trong suốt thời gian nghiên cứu chính thức.
 - 10 suất học phí toàn phần: 100% học phí + phí ăn ở (tương đương $ 6.200 USD). Được đánh giá hàng năm.
 - 10 suất học phí một phần: 50% học phí + phí ăn ở (tương đương $ 3,800 USD). Được đánh giá hàng năm.
-
-
-Chi tiết:  https://dsa.ueh.edu.vn/hoc-bong/hoc-bong-bac-cao-hoc/caohoc/ 
