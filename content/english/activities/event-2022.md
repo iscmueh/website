@@ -7,8 +7,8 @@ description : " "
 image: "images/activities/event-series-2022.jpg"
 
 weight: 1
-flipbook: "https://www.paperturn-view.com/?pid=MjM234190&bgcolor=%23222220&embed=script&shadow=1&flipSound=1&hardCover=1"
-embededSrc: "https://www.paperturn-view.com/script/embed?v=1"
+flipbook: "https://online.fliphtml5.com/esmzq/hoob/"
+embededSrc: "https://online.fliphtml5.com/esmzq/hoob/"
 ---
 
 
