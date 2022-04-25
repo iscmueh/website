@@ -98,61 +98,73 @@ teacher_contact:
   field: "Giao thông, Kinh tế Đô thị"
   teaching_subject: "Kinh tế đô thị mới và marketing thành phố"
   image: "images/team/T.Anh.jpg"
+  dot: "t-1"
 
 - name: "Ts. Lê Thanh Nam"
   field: "Quản lý Hạ tầng Đô thị"
   teaching_subject: "Phân tích & khai phá dữ liệu"
   image: "images/team/NAMLE.jpg"
+  dot: "t-2"
 
 - name: "Ts. Tô Kiên"
   field: "Quy hoạch Đô thị"
   teaching_subject: "Thành phố và cộng đồng bền vững"
   image: "images/team/DrToKien.jpg"
+  dot: "t-3"
 
 - name: "PGS. Elena Marchigiani"
   field: "Quy hoạch Đô thị"
   teaching_subject: "Quy hoạch sinh thái trong đô thị thông minh"
   image: "images/team/AdjunctProfs/elena.jpg"
+  dot: "t-4"
 
 - name: "PGS. Barbara Piga"
   field: "Thiết kế Đô thị"
   teaching_subject: "Quy hoạch sinh thái trong đô thị thông minh"
   image: "images/team/barbara.jpg"
+  dot: "t-5"
 
 - name: "Ts. Ducksu Seo"
   field: "Quy hoạch Đô thị"
   teaching_subject: "Thị trường nhà ở, vấn đề và chính sách"
   image: "images/team/DrDucksu.jpg"
-  
+  dot: "t-6"
+ 
 - name: "PGS. Kris Hartley"
   field: "Chính sách Đô thị"
   teaching_subject: "Chính sách môi trường và kinh tế"
   image: "images/team/Kris.jpg"
+  dot: "t-7"
 
 - name: "Ts. Juhyun Lee"
   field: "Khoa học Giao thông"
   teaching_subject: Tiếp cận bền vững và di chuyển thông minh"
   image: "images/team/JehuynLee.png"
+  dot: "t-8"
 
 - name: "ThS. Steven Petit"
   field: "Thiết kế Cảnh quan"
   teaching_subject: "Quy hoạch sinh thái trong đô thị thông minh"
   image: "images/team/StevenPetit.jpg"
+  dot: "t-1"
 
 - name: "Ts. Nguyễn Anh Tuấn"
   field: "Quy hoạch Đô thị"
   teaching_subject: "Hệ thống thông tin địa lý GIS"
   image: "images/team/NguyenAnhTuan.png"
+  dot: "t-1"
 
 - name: "Ts. Hoàng Ngọc Lan"
   field: "Quy hoạch Đô thị"
   teaching_subject: "Lý thuyết cấu trúc đô thị"
   image: "images/team/NgocLan.jpg"
+  dot: "t-1"
 
 - name: "Ts. Nguyễn Văn Dư"
   field: "Quản lý công"
   teaching_subject: "Phương pháp nghiên cứu"
   image: "images/team/TranKhanhDu.png"
+  dot: "t-1"
 
 weight: 1
 ---
