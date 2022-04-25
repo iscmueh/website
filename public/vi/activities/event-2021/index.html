@@ -279,20 +279,176 @@
 
       </div>
 
-
-      <div data-paperturn="embed-v1" 
-      style="width: 100%; max-width: 100%; height: 700px;">
-      <iframe 
-      src="https://online.flippingbook.com/view/667375349/" 
-      width="100%" 
-      height="100%" 
-      webkitallowfullscreen mozallowfullscreen allowfullscreen 
-      style="border: 0px; display: block; background-color: #222220">
-    </iframe></div>
-    <script src="https://online.flippingbook.com/EmbedScriptUrl.aspx?m=redir&amp;hid=667375349"></script>
       
+    
+
+  <div class="book-section">
+       <p>Illustrations by <a href="http://artisticdesigning.com" target="_blank">lptan</a></p>
+        <div class="container">
+            
+            
+        </div>
+        <button onclick="turnLeft()">Prev</button> <button onclick="turnRight()">Next</button>
+        <br/>
     </div>
-  </div>
+
+  
+  <style>
+    .book-section{
+      height: 100vh;
+      width: 100%;
+      padding: 40px 0;
+      text-align: center;
+    }
+        .book-section > .container{
+            height: 400px;
+            width: 1200px;
+            position: relative;
+            border-radius: 2%;
+            margin-bottom: 30px;
+            perspective: 1200px;
+        }
+        .container > .right{
+            position: absolute;
+            height: 100%;
+            width: 50%;
+            transition: 0.7s ease-in-out;
+            transform-style:preserve-3d;
+        }
+        .book-section > .container > .right{
+            right:0;
+            transform-origin: left;
+            border-radius: 10px 0 0 10px;
+        }
+        .right > img.front, .right > img.back{
+            margin: 0;
+            height: 100%;
+            width: 100%;
+            position: absolute;
+            left:0;
+            top:0;
+            background-size: 200%;
+            background-repeat: no-repeat;
+            backface-visibility: hidden;
+            background-color: white;
+            overflow: hidden;
+        }
+        .right > img.front{
+            background-position: right;
+            border-radius: 0 10px 10px 0;
+            box-shadow: 2px 2px 15px -2px rgba(31, 29, 29, 0.2);
+        }
+
+        .right > img.back{
+            background-position: left;
+            border-radius: 10px 0 0 10px;
+            box-shadow: -2px 2px 15px -2px rgba(0,0,0,0.2);
+            transform: rotateY(180deg);
+        }
+        .flip{
+            transform: rotateY(-180deg);
+        }
+        .flip::before{
+            content: "";
+            position: absolute;
+            top:0;
+            left:0;
+            z-index: 10;
+            width: 100%;
+            height: 100%;
+            border-radius: 0 10px 10px 0;
+            background-color: rgba(128, 126, 126, 0.1);
+        }
+        .book-section > button{
+            border: 2px solid #ef9f00;
+            background-color: transparent;
+            color: #ef9f00;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 10px;
+            transition: 0.3s ease-in-out;
+        }
+        .book-section > button:focus, .book-section > button:active{
+            outline: none;
+        }
+        .book-section > p{
+            color: rgba(0,0,0,0.7);
+            font-family: calibri;
+            font-size: 24px;
+        }
+        .book-section > p > a{
+            text-decoration: none;
+            color: #ef9f00;
+        }
+        .book-section > button:hover{
+            background-color: #ef9f00;
+            color: #fff;
+        }
+        .front#cover, .back#back-cover{
+            background-color: #ffcb63;
+            font-family: calibri;
+            text-align: left;
+            padding: 0 30px;
+        }
+        .front#cover h1{
+            color: #fff;
+        }
+        .front#cover p{
+            color: rgba(151, 148, 148, 0.8);
+            font-size: 14px;
+        }
+  </style>
+ <script>
+
+    
+    var right = document.getElementsByClassName("right");
+    var si = right.length;
+    var z=1;
+    turnRight();
+    setTimeout(function(){
+    }, 2000);
+    turnLeft();
+    setTimeout(function(){
+    }, 2000);
+    function turnRight()
+    {
+        if(si>=1){
+            si--;
+        }
+        else{
+            si=right.length-1;
+            function sttmot(i){
+                setTimeout(function(){right[i].style.zIndex="auto";},300);
+            }
+            for(var i=0;i<right.length;i++){
+                right[i].className="right";
+                sttmot(i);
+                z=1;
+            }
+        }
+        right[si].classList.add("flip");
+        z++;
+        right[si].style.zIndex=z;
+    }
+    function turnLeft()
+    {
+        if(si<right.length){
+            si++;
+        }
+        else{
+            si=1;
+            
+            for(var i=right.length-1;i>0;i--){
+                right[i].classList.add("flip");
+                right[i].style.zIndex=right.length+1-i;
+            }
+        }
+        right[si-1].className="right";
+    }
+    
+ </script>
+    
 </section>
 
 
