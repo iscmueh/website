@@ -447,6 +447,10 @@ GenZ.</p>
     function turnLeft()
     {
         if(si<right.length){
+            function sttmot(i){
+                setTimeout(function(){right[i].style.zIndex="auto";},300);
+            }
+            sttmot(si);
             si++;
         }
         else{
