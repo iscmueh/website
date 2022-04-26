@@ -22,7 +22,7 @@ duration : "3.5 years"
 apply_url : "#"
 # type
 type: "course"
-courseStuctureImage: "images/courses/structure/bachelor.jpg"
+courseStuctureImage: "/images/courses/structure/bachelor.jpg"
 summary: " "
 post: "Architectural and Urban Design Inclusive Smart City"
 weight: 1
@@ -59,3 +59,4 @@ After graduation, students have competence to work for public or private, intern
 
 
 #### Program structure 
+<!-- ![](/images/courses/structure/bachelor.jpg) -->
