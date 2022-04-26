@@ -37,7 +37,7 @@ admission_title: "KẾ HOẠCH TUYỂN SINH 2022"
 admission_content: "Viện Đô thị Thông minh và Quản lý, Trường Đại học Kinh tế TP. Hồ Chí Minh sẽ tiến hành tuyển sinh Chương trình Thạc sĩ điều hành cao cấp Quản lý công - chuyên ngành Quản lý đô thị thông minh và sáng tạo năm 2022  theo phương thức sau:"
 admission_content_02: "Thông báo tuyển sinh chương trình Thạc sĩ Điều hành cao cấp 2022"
 
-admission_image: "images/admission/master-plan-2022/master-plan.png"
+admission_image: "images/admission/master-plan-2022/admission_plan.jpg"
 
 about_program_title: "CHƯƠNG TRÌNH HỌC TRONG NƯỚC"
 about_program_image_01: "images/admission/master-plan-2022/about_dual_degree.jpg"
