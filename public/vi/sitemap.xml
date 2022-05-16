@@ -41,6 +41,8 @@
                 href="https://www.iscm.ueh.edu.vn/vi/consultancy/assetmanagement/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/admission_undergraduate/master_admission_2022/</loc>
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/competition/smartcityplus/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1666,6 +1668,18 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://www.iscm.ueh.edu.vn/vi/admission_master/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/admission_undergraduate/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/admission_undergraduate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/admission_undergraduate/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/scholarship/</loc>

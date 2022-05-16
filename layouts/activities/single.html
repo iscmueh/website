@@ -33,12 +33,23 @@
   <div class="book-section">
        <p>Illustrations by <a href="http://artisticdesigning.com" target="_blank">lptan</a></p>
         <div class="container">
+            <!-- <div class="buttons">
+                <button class="zoom">
+                    <i class = "fa fa-search-plus" aria-hidden="true"></i>
+                </button>
+                <button class="reset">
+                    <i class = "fa fa-search-plus" aria-hidden="true"></i>
+                </button>
+
+            </div> -->
+                
             {{range .Params.flipbook_page}}
             <div class="right">
-              <img class="back" onclick="turnLeft()" src="{{ .flipbook_page_front | relURL }}"></img>
-              <img class="front" onclick="turnRight()" src="{{ .flipbook_page_back | relURL }}"></img>
+            <img class="back" onclick="turnLeft()" src="{{ .flipbook_page_front | relURL }}"></img>
+            <img class="front" onclick="turnRight()" src="{{ .flipbook_page_back | relURL }}"></img>
             </div>
             {{end}}
+                
             
         </div>
         <button onclick="turnLeft()">Prev</button> <button onclick="turnRight()">Next</button>
@@ -151,6 +162,8 @@
             color: rgba(151, 148, 148, 0.8);
             font-size: 14px;
         }
+
+        
   </style>
  <script>
 

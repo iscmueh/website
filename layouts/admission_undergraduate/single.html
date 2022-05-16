@@ -1,94 +1,1295 @@
 {{ define "main" }}
 
-<!-- section -->
-<section class="section-sm">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 mb-4">
-        <!-- course thumb -->
-        <img style="height: 500px;width: 100%;object-fit: cover;" src="{{ .Params.image | relURL }}"
-          class="img-fluid w-100">
-      </div>
-    </div>
-    <!-- course info -->
-    <div class="row align-items-center mb-5">
-      <div class="col-xl-4 order-1 col-sm-6 mb-4 mb-xl-0 text-center">
-        <h4 style="font-size: 22pt;">{{ .Title }}</h4>
-      </div>
-      <div class="col-xl-6 order-sm-3 order-xl-2 col-12 order-2">
-        <ul class="list-inline text-xl-center">
-          <li class="list-inline-item mr-4 mb-3 mb-sm-0">
-            <div class="d-flex align-items-left">
-              <i class="ti-calendar text-primary icon-md mr-2"></i>
-              <div class="text-left" style="width: 100pt;">
-                <h6 class="mb-0">{{ i18n "duration" | upper }}</h6>
-                <p class="mb-0" >{{ .Params.Duration }}</p>
-              </div>
-            </div>
-          </li>
-          <!-- <li class="list-inline-item mr-4 mb-3 mb-sm-0">
-            <div class="d-flex align-items-center">
-              <i class="ti-timer text-primary icon-md mr-2"></i>
-              <div class="text-left">
-                <h6 class="mb-0">{{ i18n "weekly" | upper }}</h6>
-                <p class="mb-0">{{ .Params.Weekly }}</p>
-              </div>
-            </div>
-          </li> -->
-          <!-- <li class="list-inline-item mr-4 mb-3 mb-sm-0">
-            <div class="d-flex align-items-center">
-              <i class="ti-wallet text-primary icon-md mr-2"></i>
-              <div class="text-left">
-                <h6 class="mb-0">{{ i18n "fee" | upper }}</h6>
-                <p class="mb-0">{{ .Params.Fee }}</p>
-              </div>
-            </div>
-          </li> -->
-        </ul>
-      </div>
-      <!-- <div class="col-xl-2 text-sm-right text-left order-sm-2 order-3 order-xl-3 col-sm-6 mb-4 mb-xl-0">
-        <a href="{{ .Params.Apply_url | safeURL }}" class="btn btn-primary">{{ i18n "apply_now" }}</a>
-      </div> -->
-      <!-- border -->
-      <div class="col-12 mt-4 order-4">
-        <div class="border-bottom border-primary"></div>
-      </div>
-    </div>
-    <!-- course details -->
-    <div class="row">
-      <div class="col-12 mb-4 content">
-        {{ .Content }}
-      </div>
-      <!-- teacher -->>
-      
-    </div>
-    <div class="col-12 mb-4">
-      <img style="height: auto;width: 100%;object-fit: cover;" src="{{ .Params.courseStuctureImage | relURL }}"
-        class="img-fluid w-100">
-    </div>
-  </div>
-</section>
-<!-- /section -->
-
-<!-- related course -->
-<section class="section pt-0">
-  <div class="container">
+<!-- event single -->
+<section class="section-sm" style="padding: 1px!important; width: 100%!important;">
+  <div class="container" style="scroll-behavior: smooth;">
     <div class="row">
       <div class="col-12">
-        <h2 class="section-title">{{ i18n "related_course" }}</h2>
-      </div>
-    </div>
-    <div class="row">
-      <!-- course item -->
-      {{ $related := (where site.RegularPages "Type" "course") | intersect (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) | shuffle | first 3}}
-      {{ range first 3 $related }}
-      <div class="col-lg-4 col-sm-6 mb-5">
-        {{ .Render "course"}}
-      </div>
-      {{ end }}
-    </div>
+        <div style="width: 100%; height: 600px; background-color: #0F4C81; text-align: center;">
+          <div style="width: 90%;height: 91px;left: calc(50% - 90%/2);top: 0px;">
+          <div style="position: absolute;width: 195px;height: 58px;left: 10px;top: 20px;"> 
+          <img style="width: 100px; " src="/images/logoiscm.png"/>
+          </div>
+          
+          <div style="    position: absolute; height: 58px;top: 16px; left: 170px;">
+            <ul style="padding: 0%; display: inline-flex; color: white;     font-size: 12px; height: 100%; align-items: center; ">
+              <li class="nav-item">
+                <a class="nav-link" style=" height: 100%; width: max-content;" href="#adAbout">{{ .Params.nav_about }}</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" style=" height: 100%; width: max-content;" href="#admissionPlan">{{ .Params.nav_admission }}</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" style=" height: 100%; width: max-content;" href="#program">{{ .Params.nav_program }}</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#dual">{{ .Params.nav_dual_degree }}</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" style=" height: 100%; width: max-content;" href="#scholar">{{ .Params.nav_scholarship }}</a>
+              </li>
+            </ul>  
+          </div>
+          </div>
+
+          <div class="row" style="display: flex; flex-direction: column;align-items: flex-start;padding: 0px; width: 100%;height: 82%; left: calc(50% -90%/2); top: 95px;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));">
+            <div class="col-md-6" style="    
+            height: 100%;
+            flex: none;
+            left: 20px;
+            order: 0;
+            margin-left: 7px;
+            flex-grow: 0;">
+
+
+              <div style="font-family: 'Montserrat';
+              font-style: normal;
+              font-weight: 700;
+              font-size: 38px;
+              line-height: 60px;
+              color: #FFFFFF;
+              justify-content: left;
+              letter-spacing: 0.2px;
+              text-align: left;
+              /* height: 500px; */
+              width: 450px;
+              margin-top: 65px;
+              margin-left: 50px;">Chương trình đại học chính quy: Kiến trúc và Thiết kế đô thị thông minh
+              
+              <div style="font-family: 'Montserrat';
+              font-style: normal;
+              font-weight: 700;
+              font-size: 20px;
+              line-height: 30px;
+              letter-spacing: 0.2px;
+              color: #FAFAFA;
+              ">Sự kết hợp giữa “đam mê” và “xu thế”
+              </div>
+              
+              <div style="width: 332px;
+              height: 52px;
+              left: 0px;
+              top: 250px;
+              flex: none;
+              order: 2;
+              flex-grow: 0;
+              margin: 30px 0px;">
+
+                <button style="height: 52px;
+                width: 187px;
+                left: 0px;
+                border-radius: 5px;
+                padding: 15px, 40px, 15px, 40px;
+                position: relative;
+                background: #DBA11C;
+
+                ">
+                 <p style="text-align: center;
+                 font-size: 17px;
+                 color: white; 
+                  padding-top: 7px;">Tìm hiểu ngay</p>
+                </button>
+
+                <button style="height: 52px;
+                width: 135px;
+                top: 0px;
+                position: relative;
+                border-radius: 5px;
+                border: 1px solid #FFFFFF;
+                background-color: #0F4C81;
+                padding: 15px, 40px, 15px, 40px;
+                text-align: center;
+                font-size: 17px;
+                color: white;"
+                
+                >                  
+                  <p style="text-align: center;
+                  font-size: 17px;
+                  color: white; 
+                  padding-top: 7px;">Liên hệ</p>
+                </button>
+
+                
+              
+                </div>
+              </div>
+
+            </div>
+
+            
+            <div class="col-md-6" style="
+            height: 100%;
+            flex: none;
+            order: 0;
+            flex-grow: 0;
+            ">
+              <video autoplay loop muted style="object-fit: cover;  width: 100%; height: 350px; margin-top: 35px; ">
+                <source src="/images/admission/bachelor_video.mp4" type="video/mp4">
+              </video>  
+            </div>
+          </div>
+          
+        </div>
+
+        <div style="
+        position: static;
+        width: 100%;
+        height: 400px;
+        background: #DBA11C;
+        flex: none;
+        order: 1;
+        flex-grow: 0;
+        margin: 0px 0px;">
+
+          <div style="display: flex; 
+          flex-direction: column;
+          align-items: flex-start;
+          padding: 80px;
+          padding-left: 100px;
+          width: 100%;
+          height: 100%;">
+            <div class="row" style="width: 100%; height: 100%;">
+              <div  class="col-md-3"  >
+                <div  style="
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                padding: 35px 40px;
+                position: static;
+                width: 210px;
+                height: 230px;
+                left: 4px;
+                top: 0px;
+                background: #FFFFFF;
+                box-shadow: 0px 13px 19px rgb(0 0 0 / 7%);
+                flex: none;
+                order: 0;
+                flex-grow: 0;
+                margin: 0px 0px;"> 
+                  <div style="width: 70px; height: 76px; top: 30px; left: 35px; border-radius: 10px; padding: 22px 19px 22px 19px; gap: 10px;
+                  background-color: #0F4C81;">
+                  </div>
+                  <h5 style="width: 157px; height: 24px; margin-top: 12px;">Mã ngành</h5>
+                  <div style="height: 2px;
+                  width: 50px;
+                  left: 40px;
+                  top: 175px;
+                  border-radius: 0px;
+                  background-color: #0F4C81;
+                  margin-top: 12px;
+                  "></div>
+                  <div style="height: 20px;
+                  width: 59px;
+                  border-radius: nullpx;
+                  margin-top: 24px;
+                  ">
+                    7580104
+                  </div>
+                </div>
+              </div>
+              <div  class="col-md-3" >
+                <div  style="
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                padding: 35px 40px;
+                position: static;
+                width: 210px;
+                height: 230px;
+                left: 4px;
+                top: 0px;
+                background: #FFFFFF;
+                box-shadow: 0px 13px 19px rgb(0 0 0 / 7%);
+                flex: none;
+                order: 0;
+                flex-grow: 0;
+                /* margin: 0px 0px; */
+                margin-top: 45px;">
+                  <div style="width: 70px; height: 76px; top: 30px; left: 35px; border-radius: 10px; padding: 22px 19px 22px 19px; gap: 10px;
+                  background-color: #0F4C81;">
+                  </div>
+                  <h5 style="width: 157px; height: 24px; margin-top: 12px;">Khối thi</h5>
+                  <div style="height: 2px;
+                  width: 50px;
+                  left: 40px;
+                  top: 175px;
+                  border-radius: 0px;
+                  background-color: #0F4C81;
+                  margin-top: 12px;
+                  "></div>
+                  <div style="height: 20px;
+                  width: 130px;
+                  border-radius: nullpx;
+                  margin-top: 24px;
+                  ">
+                    A00, A01, D01, V01
+                  </div>
+                </div>
+              </div>
+              <div  class="col-md-3">
+                <div  style="
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                padding: 35px 40px;
+                position: static;
+                width: 210px;
+                height: 230px;
+                left: 4px;
+                top: 0px;
+                background: #FFFFFF;
+                box-shadow: 0px 13px 19px rgb(0 0 0 / 7%);
+                flex: none;
+                order: 0;
+                flex-grow: 0;
+                margin: 0px 0px;">
+                  <div style="width: 70px; height: 76px; top: 30px; left: 35px; border-radius: 10px; padding: 22px 19px 22px 19px; gap: 10px;
+                  background-color: #0F4C81;">
+                  </div>
+                  <h5 style="width: 157px; height: 24px; margin-top: 12px;">Thời gian đào tạo</h5>
+                  <div style="height: 2px;
+                  width: 50px;
+                  left: 40px;
+                  top: 175px;
+                  border-radius: 0px;
+                  background-color: #0F4C81;
+                  margin-top: 12px;
+                  "></div>
+                  <div style="height: 20px;
+                  width: 80px;
+                  border-radius: nullpx;
+                  margin-top: 24px;
+                  ">
+                    3.5 năm
+                  </div>
+                </div> 
+              </div>
+              <div  class="col-md-3" >
+                <div  style="
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                padding: 35px 40px;
+                position: static;
+                width: 210px;
+                height: 230px;
+                left: 4px;
+                top: 0px;
+                background: #FFFFFF;
+                box-shadow: 0px 13px 19px rgb(0 0 0 / 7%);
+                flex: none;
+                order: 0;
+                flex-grow: 0;
+                /* margin: 0px 0px; */
+                margin-top: 45px;"> 
+                  <div style="width: 70px; height: 76px; top: 30px; left: 35px; border-radius: 10px; padding: 22px 19px 22px 19px; gap: 10px;
+                  background-color: #0F4C81;">
+                  </div>
+                  <h5 style="width: 157px; height: 24px; margin-top: 12px;">Số tín chỉ</h5>
+                  <div style="height: 2px;
+                  width: 50px;
+                  left: 40px;
+                  top: 175px;
+                  border-radius: 0px;
+                  background-color: #0F4C81;
+                  margin-top: 12px;
+                  "></div>
+                  <div style="height: 20px;
+                  width: 161px;
+                  border-radius: nullpx;
+                  margin-top: 24px;
+                  ">
+                    Cơ sở UEH, đặc biệt Studiolab - cơ sở V
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+    <!-- Tại sao lại chọn ISCM? -->
+        <div style="width: 100%; height: auto; background-color: #0F4C81; text-align: center;">
+          <h2 style="color: #FFFFFF; text-align: left; padding-left: 70px;padding-top: 50px;"> Tại sao chọn ISCM?</h2>
+          <div class="row" style=" width: 100%;height: auto; left: calc(50% -90%/2); top: 95px;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));">
+            <div class="col-md-6" style="    
+            height: 500px;
+            order: 0;
+            margin-left: 50px;
+            flex-grow: 0; 
+            margin-bottom: 100px;
+            margin-top: 10px;">
+              <div style="    position: absolute;
+              width: 400px;
+              background-color: #FFFFFF;
+              height: 400px;
+              border-radius: 16px;
+              filter: blur(15px);
+              top: 40px;
+              left: 19px;
+              ">
+              </div>
+              <img style=" 
+                object-fit: cover;
+                width: 420px;
+                height: 420px;
+                z-index: 5;
+                position: relative;
+                left: -58px;
+                top: 30px;
+                border-radius: 16px;
+              " src="/images/admission/bachelor-2022/why.jpg">
+              </img>
+            </div>
+
+            <div class="col-md-6" style="
+                height: 500px;
+                width: 500px!important;
+                flex: none;
+                top: 30px;
+                width: auto;
+                order: 0;
+                flex-grow: 0;
+                border-radius: 16px;
+                text-align: left;
+                color: #FFFFFF;
+              ">
+              <div style="position:relative;  text-align: left; font-size: 44px; font-weight: 700; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"> 
+                Tư duy toàn cầu - Hành động địa phương</div>
+              
+                <p style="    position: relative;
+                top: 35px;
+                text-align: justify;
+                color: #FFFFFF;
+                font-size: 18px;
+                width: 410px;">Chúng tôi hướng đến đào tạo những công dân toàn cầu thông thạo kiến thức về thiết kế, quy hoạch phát triển đô thị và thiết kế đô thị theo chuẩn quốc tế hướng tới phát triển bền vững, sử dụng tiếng Anh thành thạo làm cơ sở cho quá trình học tập suốt đời của người học.
+                </p>
+            </div>
+
+            
+            <div class="row" style=" margin-left: 70px;width: 100%;height: 950px; left: calc(50% -90%/2); top: 95px;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));">
+              <div class="col-md-6" style="
+              height: 615px;
+              width: 500px!important;
+              flex: none;
+              top: -170px;
+              width: auto;
+              order: 0;
+              flex-grow: 0;
+              border-radius: 16px;
+              text-align: left;
+              color: #FFFFFF;
+              left: -25px;
+              ">
+                <div style="text-align: justify;  font-size: 39px; position:relative; top: 100px;  text-align: left; font-weight: 700; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"> 
+                  Hệ thống Studiolab - nơi tích hợp các trải nghiệm công nghệ hiện đại</div>
+              
+                <p style="text-align: justify; position: relative; top: 170px; color: #FFFFFF; font-size: 18px;">
+                  Nơi mô phỏng đô thị thông minh, được xây dựng và thiết kế theo chuẩn studiolab quốc tế với trang thiết bị công nghệ hiện đại có khả năng sử dụng đa mục đích (multi-function)
+                </p>
+              </div>
+
+              <div class="col-md-6" style="    
+                height: 400px;
+                order: 0;
+                flex-grow: 0; 
+                top: -100px;
+                left: 48px;">
+                  <div style="    position: absolute;
+                  width: 400px;
+                  background-color: #FFFFFF;
+                  height: 400px;
+                  border-radius: 16px;
+                  filter: blur(15px);
+                  top: 40px;
+                  left: 19px;
+                  ">
+                  </div>
+                  
+                  <div>
+                    <div class="carousel">
+                      <ul class="slides">
+                        <input type="radio" name="radio-buttons" id="img-1" checked />
+                        <li class="slide-container">
+                          <div class="slide-image">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Timisoara_-_Regional_Business_Centre.jpg">
+                          </div>
+                          <div class="carousel-controls">
+                            <label for="img-3" class="prev-slide">
+                              <span>&lsaquo;</span>
+                            </label>
+                            <label for="img-2" class="next-slide">
+                              <span>&rsaquo;</span>
+                            </label>
+                          </div>
+                        </li>
+                        <input type="radio" name="radio-buttons" id="img-2" />
+                        <li class="slide-container">
+                          <div class="slide-image">
+                            <img src="https://content.r9cdn.net/rimg/dimg/db/02/06b291e8-city-14912-171317ad83a.jpg?width=1750&height=1000&xhint=3040&yhint=2553&crop=true">
+                          </div>
+                          <div class="carousel-controls">
+                            <label for="img-1" class="prev-slide">
+                              <span>&lsaquo;</span>
+                            </label>
+                            <label for="img-3" class="next-slide">
+                              <span>&rsaquo;</span>
+                            </label>
+                          </div>
+                        </li>
+                        <input type="radio" name="radio-buttons" id="img-3" />
+                        <li class="slide-container">
+                          <div class="slide-image">
+                            <img src="https://speakzeasy.files.wordpress.com/2015/05/twa_blogpic_timisoara-4415.jpg">
+                          </div>
+                          <div class="carousel-controls">
+                            <label for="img-2" class="prev-slide">
+                              <span>&lsaquo;</span>
+                            </label>
+                            <label for="img-1" class="next-slide">
+                              <span>&rsaquo;</span>
+                            </label>
+                          </div>
+                        </li>
+                        <div class="carousel-dots">
+                          <label for="img-1" class="carousel-dot" id="img-dot-1"></label>
+                          <label for="img-2" class="carousel-dot" id="img-dot-2"></label>
+                          <label for="img-3" class="carousel-dot" id="img-dot-3"></label>
+                        </div>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                
+
+
+                <div class="col-md-6" style="    
+                height: 500px;
+                order: 0;
+                flex-grow: 0; 
+                top: -200px;
+                margin-bottom: 100px;
+                margin-top: 10px;">
+                  <div style="    position: absolute;
+                  width: 400px;
+                  background-color: #FFFFFF;
+                  height: 400px;
+                  border-radius: 16px;
+                  filter: blur(15px);
+                  top: 40px;
+                  left: 19px;
+                  ">
+                  </div>
+                  <img style=" 
+                    object-fit: cover;
+                    width: 420px;
+                    height: 420px;
+                    z-index: 5;
+                    position: relative;
+                    left: -58px;
+                    top: 30px;
+                    border-radius: 16px;
+                  " src="/images/admission/bachelor-2022/why.jpg">
+                  </img>
+                </div>
+      
+                <div class="col-md-6" style="
+                    height: 500px;
+                    width: 500px!important;
+                    flex: none;
+                    top: -130px;
+                    width: auto;
+                    order: 0;
+                    flex-grow: 0;
+                    border-radius: 16px;
+                    text-align: left;
+                    color: #FFFFFF;
+                  ">
+                  <div style="position:relative;  text-align: left; font-size: 44px; font-weight: 700; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"> 
+                    Học tập và trao đổi quốc tế</div>
+                  
+                    <p style="    position: relative;
+                    top: 35px;
+                    text-align: justify;
+                    color: #FFFFFF;
+                    font-size: 18px;
+                    width: 410px;">ISCM có một mạng lưới liên kết rộng lớn với các trường Đại học, cơ sở nghiên cứu, công ty đa quốc gia và luôn phát triển dựa trên nền tảng quan hệ quốc tế. Chương trình song bằng quốc tế và các đồ án, khoá học quốc tế được tích hợp sẵn trong chương trình học.
+                    </p>
+                </div>
+                
+            </div>
+
+          </div>
+
+        </div>
+
+        <!-- Cấu trúc chương trình -->
+        <div style="background-color: #FFFFFF; width: 100%; height: auto; margin-bottom: 50px;">
+          <h2 style="
+          position: relative;
+          font-size: 40px;
+          top: 40px;
+          left: 40px;
+          margin-bottom: 60px;
+          "> Cấu trúc chương trình</h2>
+          <img style="width: 100%; height: auto;" src="/images/admission/bachelor-2022/bachelor_program.png" />
+        </div>
+
+        <div style="background-color:#0F4C81; width: 100%; height: auto;">
+          <video autoplay loop muted style="object-fit: cover;  width: 100%; height: 350px; z-index: -1;">
+            <source src="/images/admission/bachelor-2022/bachelor_orientation.mp4" style="z-index: -1;" type="video/mp4">
+          </video> 
+          <div style="background-color: #DBA11C; width: 500px; height: 70px;vertical-align: middle; z-index: 5; position: relative; left: 25%;margin-bottom: 200px;">
+              <p style="text-align: center; color: #FAFAFA; font-size: 25px; padding-top: 2%; margin-top:-30px; font-weight: 600;"> Đời sống sinh viên</p>
+          </div>
+          <div class="row" style=" margin-left: 70px;width: 100%;height: 360px; left: calc(50% -90%/2); top: 95px;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));">
+              
+              <div class="col-md-6" style="    
+              height: 500px;
+              order: 0;
+              flex-grow: 0; 
+              top: -200px;
+              margin-bottom: 100px;
+              margin-top: 10px;">
+                <div style="    position: absolute;
+                width: 400px;
+                background-color: #FFFFFF;
+                height: 400px;
+                border-radius: 16px;
+                filter: blur(15px);
+                top: 40px;
+                left: -30px;
+                ">
+                </div>
+                <img style=" 
+                  object-fit: cover;
+                  width: 420px;
+                  height: 420px;
+                  z-index: 5;
+                  position: relative;
+                  left: -58px;
+                  top: 30px;
+                  border-radius: 16px;
+                " src="/images/admission/bachelor-2022/why.jpg">
+                </img>
+              </div>
+    
+              <div class="col-md-6" style="
+                  height: 500px;
+                  width: 500px!important;
+                  flex: none;
+                  top: -130px;
+                  width: auto;
+                  order: 0;
+                  flex-grow: 0;
+                  border-radius: 16px;
+                  text-align: left;
+                  color: #FFFFFF;
+                ">
+                <div style="position:relative;  text-align: left; font-size: 44px; font-weight: 700; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"> 
+                  Orientation Day</div>
+                
+                  <p style="    position: relative;
+                  top: 35px;
+                  text-align: justify;
+                  color: #FFFFFF;
+                  font-size: 18px;
+                  width: 410px;">Khởi xướng từ 2021, Orientation Day là sự kiện đặc biệt dành riêng cho các bạn tân sinh viên của ISCM với mong muốn giúp bạn hiểu hơn về ngành nghề của mình, định hướng cho tương lai của bản thân. Đây cũng là nơi giúp các bạn sinh viên kết nối, giao lưu với nhau và cùng nhau tìm hiểu về không gian, môi trường học tập tại ISCM.
+                  </p>
+              </div>
+
+          </div> 
+
+          <div style="width: 100%; height: auto;">
+            <h2 style="color:#FAFAFA; padding-left: 60px; margin-bottom: 30px;"> Field Trip</h2>
+            <div style="width: 100%; height: 500px;">
+              <script type="module" src="https://cdn.jsdelivr.net/gh/darkwiiplayer/components@088a4a4/ImageCarousel.js"></script>
+              <image-carousel interval="5e3">
+                <img slot="image" src="/images/admission/bachelor-2022/20171007-DSCF1103.jpg">
+                <img slot="image" src="/images/admission/bachelor-2022/20171007-DSCF1104.jpg">
+                <img slot="image" src="/images/admission/bachelor-2022/20171007-DSCF1132.jpg">
+                <img slot="image" src="/images/admission/bachelor-2022/20171007-DSCF1134.jpg">
+                <img slot="image" src="/images/admission/bachelor-2022/20171007-DSCF1137.jpg">
+                <img slot="image" src="/images/admission/bachelor-2022/20171007-DSCF1146.jpg">
+                <img slot="image" src="/images/admission/bachelor-2022/20171007-DSCF1158.jpg">
+                <img slot="image" src="/images/admission/bachelor-2022/20171007-DSCF1172.jpg">
+                <img slot="image" src="/images/admission/bachelor-2022/20171007-DSCF1173.jpg">
+                <img slot="image" src="/images/admission/bachelor-2022/20171007-DSCF1175.jpg">
+              </image-carousel>
+            </div>
+            <style>
+              image-carousel {
+                margin: 1em 12em;
+                box-sizing: border-box;
+              }
+              image-carousel>img {
+                width: auto;
+                height: 30em;
+                max-height: calc(100vh - 2em);
+              }
+              image-carousel::part(controls) {
+                filter: drop-shadow(2px 3px 3px #000a);
+                opacity: 0;
+                transition: opacity .3s;
+              }
+              image-carousel:hover::part(controls) {
+                opacity: .6;
+              }
+            </style>
+          </div>
+          
+          <div style="width: 100%; height: auto;">
+            <h2 style="color:#FAFAFA; padding-left: 60px; margin-bottom: 30px;"> Tư vấn - Liên hệ</h2>
+            {{ $styles := resources.Get "css/form.css" | minify }}
+            <div class="container02" href = "{{$styles.Permalink}}">
+              <div class="screen">
+                <div class="screen-header">
+                  <div class="screen-header-left">
+                    <div class="screen-header-button close"></div>
+                    <div class="screen-header-button maximize"></div>
+                    <div class="screen-header-button minimize"></div>
+                  </div>
+                  <div class="screen-header-right">
+                    <div class="screen-header-ellipsis"></div>
+                    <div class="screen-header-ellipsis"></div>
+                    <div class="screen-header-ellipsis"></div>
+                  </div>
+                </div>
+                <div class="screen-body">
+                  <div class="screen-body-item left">
+                    <div class="app-title">
+                      <span>CONTACT</span>
+                      <span>US</span>
+                    </div>
+                    <div class="app-contact">CONTACT INFO :(028) 3930 9589 – (+84) 76 982 0425 (Mr. Tâm)</div>
+                  </div>
+                  <div class="screen-body-item">
+                    <form accept-charset="UTF-8" action="https://getform.io/f/05e2e3bf-cf07-44b9-a26e-377642dfa6e0" method="POST" class="app-form">
+                      <div class="app-form-group">
+                        <input class="app-form-control" type="text" placeholder="NAME" name="Name">
+                      </div>
+                      <div class="app-form-group">
+                        <input class="app-form-control" type="email" placeholder="EMAIL" name="Email">
+                      </div>
+                      <div class="app-form-group">
+                        <input class="app-form-control" type="tel" placeholder="PHONE" name="Phone Number">
+                      </div>
+                      <div class="app-form-group message">
+                        <input class="app-form-control" type="text" placeholder="MESSAGE" name="Message">
+                      </div>
+                      <div class="app-form-group buttons">
+                        <!-- <button class="app-form-button">CANCEL</button> -->
+                        <button class="app-form-button" type="submit">SEND</button>
+                      </div>
+                    </form>
+                  </div>
+                </div>
+              </div> 
+            </div>
+            <style>
+              *, *:before, *:after {
+                box-sizing: border-box;
+                -webkit-font-smoothing: antialiased;
+                -moz-osx-font-smoothing: grayscale;
+              }
+              
+              
+              .background {
+                display: flex;
+                min-height: 100vh;
+              }
+              
+              .container02 {
+                flex: 0 1 700px;
+                margin: auto;
+                padding: 10px;
+              }
+              
+              .screen {
+                position: relative;
+                background: #3e3e3e;
+                border-radius: 15px;
+              }
+              
+              .screen:after {
+                content: '';
+                display: block;
+                position: absolute;
+                top: 0;
+                left: 20px;
+                right: 20px;
+                bottom: 0;
+                border-radius: 15px;
+                box-shadow: 0 20px 40px rgba(0, 0, 0, .4);
+                z-index: -1;
+              }
+              
+              .screen-header {
+                display: flex;
+                align-items: center;
+                padding: 10px 20px;
+                background: #4d4d4f;
+                border-top-left-radius: 15px;
+                border-top-right-radius: 15px;
+              }
+              
+              .screen-header-left {
+                margin-right: auto;
+              }
+              
+              .screen-header-button {
+                display: inline-block;
+                width: 8px;
+                height: 8px;
+                margin-right: 3px;
+                border-radius: 8px;
+                background: white;
+              }
+              
+              .screen-header-button.close {
+                background: #ed1c6f;
+              }
+              
+              .screen-header-button.maximize {
+                background: #e8e925;
+              }
+              
+              .screen-header-button.minimize {
+                background: #74c54f;
+              }
+              
+              .screen-header-right {
+                display: flex;
+              }
+              
+              .screen-header-ellipsis {
+                width: 3px;
+                height: 3px;
+                margin-left: 2px;
+                border-radius: 8px;
+                background: #999;
+              }
+              
+              .screen-body {
+                display: flex;
+              }
+              
+              .screen-body-item {
+                flex: 1;
+                padding: 50px;
+              }
+              
+              .screen-body-item.left {
+                display: flex;
+                flex-direction: column;
+              }
+              
+              .app-title {
+                display: flex;
+                flex-direction: column;
+                position: relative;
+                color: #ea1d6f;
+                font-size: 26px;
+              }
+              
+              .app-title:after {
+                content: '';
+                display: block;
+                position: absolute;
+                left: 0;
+                bottom: -10px;
+                width: 25px;
+                height: 4px;
+                background: #ea1d6f;
+              }
+              
+              .app-contact {
+                margin-top: auto;
+                font-size: 13px;
+                color: #888;
+              }
+              
+              .app-form-group {
+                margin-bottom: 15px;
+              }
+              
+              .app-form-group.message {
+                margin-top: 40px;
+              }
+              
+              .app-form-group.buttons {
+                margin-bottom: 0;
+                text-align: right;
+              }
+              
+              .app-form-control {
+                width: 100%;
+                padding: 10px 0;
+                background: none;
+                border: none;
+                border-bottom: 1px solid #666;
+                color: #ddd;
+                font-size: 14px;
+                text-transform: uppercase;
+                outline: none;
+                transition: border-color .2s;
+              }
+              
+              .app-form-control::placeholder {
+                color: #666;
+              }
+              
+              .app-form-control:focus {
+                border-bottom-color: #ddd;
+              }
+              
+              .app-form-button {
+                background: none;
+                border: none;
+                color: #ea1d6f;
+                font-size: 14px;
+                cursor: pointer;
+                outline: none;
+              }
+              
+              .app-form-button:hover {
+                color: #b9134f;
+              }
+              
+              .credits {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                margin-top: 20px;
+                color: #ffa4bd;
+                font-family: 'Roboto Condensed', sans-serif;
+                font-size: 16px;
+                font-weight: normal;
+              }
+              
+              .credits-link {
+                display: flex;
+                align-items: center;
+                color: #fff;
+                font-weight: bold;
+                text-decoration: none;
+              }
+              
+              .dribbble {
+                width: 20px;
+                height: 20px;
+                margin: 0 5px;
+              }
+              
+              @media screen and (max-width: 520px) {
+                .screen-body {
+                  flex-direction: column;
+                }
+              
+                .screen-body-item.left {
+                  margin-bottom: 30px;
+                }
+              
+                .app-title {
+                  flex-direction: row;
+                }
+              
+                .app-title span {
+                  margin-right: 12px;
+                }
+              
+                .app-title:after {
+                  display: none;
+                }
+              }
+              
+              @media screen and (max-width: 600px) {
+                .screen-body {
+                  padding: 40px;
+                }
+              
+                .screen-body-item {
+                  padding: 0;
+                }
+              }
+              
+            </style>
+            </div>
+    
+            
+    
+            <style>
+              .mycard {
+                height: 100%;
+                width: 100%;
+                max-width: 24rem;
+              }
+              .cardtitle {
+                font-weight: bold;
+                --tw-text-opacity: 1;
+                color: rgba(31, 41, 55, var(--tw-text-opacity));
+                text-align: center;
+              }
+              .cardimg {
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: 2.75rem;
+                margin-bottom: 2.75rem;
+                max-height: 6rem;
+                border-radius: 9999px;
+              }
+              .carddescription {
+                --tw-text-opacity: 1;
+                color: rgba(107, 114, 128, var(--tw-text-opacity));
+                text-align: center;
+              }
+    
+              .slider {
+                width: 100%;
+    
+                min-height: 385px;
+              }
+              .slider input {
+                display: none;
+              }
+              .testimonials {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                position: relative;
+                min-height: 375px;
+                perspective: 500px;
+                margin-top: 5rem;
+                overflow: hidden;
+              }
+              .testimonials .item {
+                max-width: 20rem;
+                border-radius: 1.5rem;
+                border-width: 2px;
+                --tw-border-opacity: 1;
+                border-color: rgba(30, 58, 138, var(--tw-border-opacity));
+                top: 0;
+                position: absolute;
+                box-sizing: border-box;
+                background-color: #fff;
+                padding: 30px;
+                width: 450px;
+                text-align: center;
+                transition: transform 0.4s;
+                -webkit-transform-style: preserve-3d;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+                user-select: none;
+                cursor: pointer;
+              }
+              .testimonials .item img {
+                width: 100px;
+                border-radius: 50%;
+                border: 13px solid #3b344d;
+              }
+              .testimonials .item p {
+                color: #ddd;
+              }
+              .testimonials .item h2 {
+                font-size: 14px;
+              }
+              .dots {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+              }
+              .dots label {
+                display: block;
+                height: 5px;
+                width: 5px;
+                border-radius: 50%;
+                cursor: pointer;
+                background-color: #413b52;
+                margin: 7px;
+                transition: transform 0.2s, color 0.2s;
+              }
+    
+              /* First */
+              #t-1:checked ~ .dots label[for="t-1"] {
+                transform: scale(2);
+                background-color: #fff;
+              }
+              #t-1:checked ~ .dots label[for="t-2"] {
+                transform: scale(1.5);
+              }
+              #t-1:checked ~ .testimonials label[for="t-1"] {
+                z-index: 4;
+              }
+              #t-1:checked ~ .testimonials label[for="t-2"] {
+                transform: translateX(300px) translateZ(-90px) translateY(-15px);
+    
+                z-index: 3;
+              }
+              #t-1:checked ~ .testimonials label[for="t-3"] {
+                transform: translateX(600px) translateZ(-180px) translateY(-30px);
+                z-index: 2;
+              }
+              #t-1:checked ~ .testimonials label[for="t-4"] {
+                transform: translateX(900px) translateZ(-270px) translateY(-45px);
+                z-index: 1;
+              }
+              #t-1:checked ~ .testimonials label[for="t-5"] {
+                transform: translateX(1200px) translateZ(-360px) translateY(-60px);
+              }
+    
+              /* Second */
+              #t-2:checked ~ .dots label[for="t-1"] {
+                transform: scale(1.5);
+              }
+              #t-2:checked ~ .dots label[for="t-2"] {
+                transform: scale(2);
+                background-color: #fff;
+              }
+              #t-2:checked ~ .dots label[for="t-3"] {
+                transform: scale(1.5);
+              }
+              #t-2:checked ~ .testimonials label[for="t-1"] {
+                transform: translateX(-300px) translateZ(-90px) translateY(-15px);
+              }
+              #t-2:checked ~ .testimonials label[for="t-2"] {
+                z-index: 3;
+              }
+              #t-2:checked ~ .testimonials label[for="t-3"] {
+                transform: translateX(300px) translateZ(-90px) translateY(-15px);
+                z-index: 2;
+              }
+              #t-2:checked ~ .testimonials label[for="t-4"] {
+                transform: translateX(600px) translateZ(-180px) translateY(-30px);
+                z-index: 1;
+              }
+              #t-2:checked ~ .testimonials label[for="t-5"] {
+                transform: translateX(900px) translateZ(-270px) translateY(-45px);
+              }
+    
+              /* Third */
+              #t-3:checked ~ .dots label[for="t-2"] {
+                transform: scale(1.5);
+              }
+              #t-3:checked ~ .dots label[for="t-3"] {
+                transform: scale(2);
+                background-color: #fff;
+              }
+              #t-3:checked ~ .dots label[for="t-4"] {
+                transform: scale(1.5);
+              }
+              #t-3:checked ~ .testimonials label[for="t-1"] {
+                transform: translateX(-600px) translateZ(-180px) translateY(-30px);
+              }
+              #t-3:checked ~ .testimonials label[for="t-2"] {
+                transform: translateX(-300px) translateZ(-90px) translateY(-15px);
+              }
+              #t-3:checked ~ .testimonials label[for="t-3"] {
+                z-index: 3;
+              }
+              #t-3:checked ~ .testimonials label[for="t-4"] {
+                transform: translateX(300px) translateZ(-90px) translateY(-15px);
+                z-index: 2;
+              }
+              #t-3:checked ~ .testimonials label[for="t-5"] {
+                transform: translateX(600px) translateZ(-180px) translateY(-30px);
+              }
+    
+              /* Fourth */
+              #t-4:checked ~ .dots label[for="t-3"] {
+                transform: scale(1.5);
+              }
+              #t-4:checked ~ .dots label[for="t-4"] {
+                transform: scale(2);
+                background-color: #fff;
+              }
+              #t-4:checked ~ .dots label[for="t-5"] {
+                transform: scale(1.5);
+              }
+              #t-4:checked ~ .testimonials label[for="t-1"] {
+                transform: translateX(-900px) translateZ(-270px) translateY(-45px);
+              }
+              #t-4:checked ~ .testimonials label[for="t-2"] {
+                transform: translateX(-600px) translateZ(-180px) translateY(-30px);
+              }
+              #t-4:checked ~ .testimonials label[for="t-3"] {
+                transform: translateX(-300px) translateZ(-90px) translateY(-15px);
+                z-index: 2;
+              }
+              #t-4:checked ~ .testimonials label[for="t-4"] {
+                z-index: 3;
+              }
+              #t-4:checked ~ .testimonials label[for="t-5"] {
+                transform: translateX(300px) translateZ(-90px) translateY(-15px);
+              }
+    
+              /* Fifth */
+              #t-5:checked ~ .dots label[for="t-4"] {
+                transform: scale(1.5);
+              }
+              #t-5:checked ~ .dots label[for="t-5"] {
+                transform: scale(2);
+                background-color: #fff;
+              }
+              #t-5:checked ~ .testimonials label[for="t-1"] {
+                transform: translateX(-1200px) translateZ(-360px) translateY(-60px);
+              }
+              #t-5:checked ~ .testimonials label[for="t-2"] {
+                transform: translateX(-900px) translateZ(-270px) translateY(-45px);
+                z-index: 1;
+              }
+              #t-5:checked ~ .testimonials label[for="t-3"] {
+                transform: translateX(-600px) translateZ(-180px) translateY(-30px);
+                z-index: 2;
+              }
+              #t-5:checked ~ .testimonials label[for="t-4"] {
+                transform: translateX(-300px) translateZ(-90px) translateY(-15px);
+                z-index: 3;
+              }
+              #t-5:checked ~ .testimonials label[for="t-5"] {
+                z-index: 4;
+              }
+    
+            </style>
+          </div>
+        </div>
+
+  </div>
   </div>
 </section>
-<!-- /related course -->
+
+<style>
+  .carousel {
+
+    max-width: 420px;
+    max-height: 420px;
+    top: 40px;
+  }
+
+  ul.slides {
+      display: block;
+      position: relative;
+      height: 400px;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      list-style: none;
+      border-radius: 16px;
+  }
+
+  .slides * {
+      user-select: none;
+      -ms-user-select: none;
+      -moz-user-select: none;
+      -khtml-user-select: none;
+      -webkit-user-select: none;
+      -webkit-touch-callout: none;
+  }
+
+  ul.slides input {
+      display: none; 
+  }
+
+
+  .slide-container { 
+      display: block; 
+  }
+
+  .slide-image {
+      display: block;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      opacity: 0;
+      transition: all .7s ease-in-out;
+  }   
+
+  .slide-image img {
+      width: auto;
+      min-width: 100%;
+      height: 100%;
+  }
+
+  .carousel-controls {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 999;
+      font-size: 100px;
+      line-height: 600px;
+      color: #fff;
+  }
+
+  .carousel-controls label {
+      display: none;
+      position: absolute;
+      padding: 0 20px;
+      opacity: 0;
+      transition: opacity .2s;
+      cursor: pointer;
+  }
+
+  .slide-image:hover + .carousel-controls label{
+      opacity: 0.5;
+  }
+
+  .carousel-controls label:hover {
+      opacity: 1;
+  }
+
+  .carousel-controls .prev-slide {
+      width: 49%;
+      text-align: left;
+      left: 0;
+  }
+
+  .carousel-controls .next-slide {
+      width: 49%;
+      text-align: right;
+      right: 0;
+  }
+
+  .carousel-dots {
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 20px;
+      z-index: 999;
+      text-align: center;
+  }
+
+  .carousel-dots .carousel-dot {
+      display: inline-block;
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      background-color: #fff;
+      opacity: 0.5;
+      margin: 10px;
+  }
+
+  input:checked + .slide-container .slide-image {
+      opacity: 1;
+      transform: scale(1);
+      transition: opacity 1s ease-in-out;
+  }
+
+  input:checked + .slide-container .carousel-controls label {
+      display: block; 
+  }
+
+  input#img-1:checked ~ .carousel-dots label#img-dot-1,
+  input#img-2:checked ~ .carousel-dots label#img-dot-2,
+  input#img-3:checked ~ .carousel-dots label#img-dot-3,
+  input#img-4:checked ~ .carousel-dots label#img-dot-4,
+  input#img-5:checked ~ .carousel-dots label#img-dot-5,
+  input#img-6:checked ~ .carousel-dots label#img-dot-6 {
+    opacity: 1;
+  }
+
+
+  input:checked + .slide-container .nav label { display: block; }
+
+</style>
+<!-- /event single -->
 
 {{ end }}

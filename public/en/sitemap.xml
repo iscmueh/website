@@ -53,6 +53,8 @@
                 href="https://www.iscm.ueh.edu.vn/admission_master/master_admission_2022/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/admission_undergraduate/bachelor_admission_2022/</loc>
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/members/dr-trinh-tu-anh/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1740,6 +1742,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.iscm.ueh.edu.vn/admission_master/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/admission_undergraduate/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/admission_undergraduate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/admission_undergraduate/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/teacher/jacke-mastio/</loc>
