@@ -38,7 +38,7 @@ admission_content: "The Institute of Smart City and Management of Ho Chi Minh Ci
 
 admission_image: "images/admission/master-plan-2022/admisssion_plan_en.png"
 
-about_program_title: "CHƯƠNG TRÌNH HỌC TRONG NƯỚC"
+about_program_title: "ABOUT OUR PROGRAM"
 about_program_image_01: "images/admission/master-plan-2022/about_dual_degree.jpg"
 about_program_image_02: "images/admission/master-plan-2022/about_program_image_02.jpg"
 about_program_image_03: "images/admission/master-plan-2022/about_program_image_03.jpg"

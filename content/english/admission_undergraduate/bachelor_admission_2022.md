@@ -1,5 +1,5 @@
 ---
-title: "ADMISSION PLAN FOR MASTER - 2022"
+title: "ADMISSION PLAN FOR BACHELOR - 2022"
 author: iscm
 
 
