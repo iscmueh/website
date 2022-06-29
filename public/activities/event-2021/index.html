@@ -289,19 +289,96 @@
     
 
   <div class="book-section">
-       <p>Illustrations by <a href="http://artisticdesigning.com" target="_blank">lptan</a></p>
+       
         <div class="container">
             
                 
             
                 
-            
         </div>
         <button onclick="turnLeft()">Prev</button> <button onclick="turnRight()">Next</button>
         <br/>
     </div>
 
-  
+  <style>
+
+
+    .image {
+        margin:30px; 
+        float:left;
+        cursor:pointer;
+        max-height:100px;
+    }
+    
+    .popup {
+        position: absolute;
+        height:100%;
+        width:100%;
+        top:0;
+        left:0;
+        display:none;
+        text-align:center;
+    }
+    
+    .popup_bg {
+        background:rgba(0,0,0,0.4);
+        position:absolute;
+        z-index:1;
+        height:100%;
+        width:100%;
+    }
+    
+    
+    .popup_img {
+        position: relative;
+        margin:0 auto;
+        z-index:2;
+        max-height:94%;
+        max-width:94%;
+        margin:1% 0 0 0;
+    }
+
+    </style>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
+    $(document).ready(function() { 
+        $(".back").click(function(){	
+            console.log("hello b")
+            var img = $(this);	
+            var src = img.attr('src'); 
+            $("body").append("<div class='popup'>"+ 
+                            "<div class='popup_bg'></div>"+ 
+                            "<img src='"+src+"' class='popup_img' />"+ 
+                            "</div>"); 
+            $(".popup").fadeIn(800); 
+            $(".popup_bg").click(function(){	
+                $(".popup").fadeOut(800);	
+                setTimeout(function() {	
+                $(".popup").remove(); 
+                }, 800);
+            });
+        });
+        
+        $(".front").click(function(){	
+            console.log("hello f")
+            var img = $(this);	
+            var src = img.attr('src'); 
+            $("body").append("<div class='popup'>"+ 
+                            "<div class='popup_bg'></div>"+ 
+                            "<img src='"+src+"' class='popup_img' />"+ 
+                            "</div>"); 
+            $(".popup").fadeIn(800); 
+            $(".popup_bg").click(function(){	
+                $(".popup").fadeOut(800);	
+                setTimeout(function() {	
+                $(".popup").remove(); 
+                }, 800);
+            });
+        });
+        
+    });
+    </script>
+
   <style>
     .book-section{
       height: 100vh;
@@ -323,6 +400,8 @@
             width: 50%;
             transition: 0.7s ease-in-out;
             transform-style:preserve-3d;
+            cursor:pointer;
+
         }
         .book-section > .container > .right{
             right:0;
@@ -345,12 +424,14 @@
         .right > img.front{
             background-position: right;
             border-radius: 0 10px 10px 0;
+            cursor:pointer;
             box-shadow: 2px 2px 15px -2px rgba(31, 29, 29, 0.2);
         }
 
         .right > img.back{
             background-position: left;
             border-radius: 10px 0 0 10px;
+            cursor:pointer;
             box-shadow: -2px 2px 15px -2px rgba(0,0,0,0.2);
             transform: rotateY(180deg);
         }

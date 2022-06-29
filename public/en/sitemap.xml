@@ -41,6 +41,8 @@
                 href="https://www.iscm.ueh.edu.vn/partner/handong-global-uni/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/admission_undergraduate/bachelor_admission_2022/</loc>
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/admission_master/master_admission_2022/</loc>
     <xhtml:link
                 rel="alternate"
@@ -52,8 +54,6 @@
                 hreflang="en"
                 href="https://www.iscm.ueh.edu.vn/admission_master/master_admission_2022/"
                 />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/admission_undergraduate/bachelor_admission_2022/</loc>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/members/dr-trinh-tu-anh/</loc>
     <xhtml:link
@@ -951,8 +951,21 @@
                 href="https://www.iscm.ueh.edu.vn/members/intern-nguyen-anh-quan/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2022-seminar-circlareconomy/</loc>
+    <lastmod>2022-06-08T15:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2022-seminar-circlareconomy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/event/2022-seminar-circlareconomy/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/</loc>
-    <lastmod>2022-01-19T19:00:00+00:00</lastmod>
+    <lastmod>2022-06-08T15:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -965,7 +978,7 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/</loc>
-    <lastmod>2022-01-19T19:00:00+00:00</lastmod>
+    <lastmod>2022-06-08T15:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
