@@ -3,6 +3,7 @@ title: "ISCM Event Series 2022 - A Future Resilience Through Smart City Lens"
 author: iscm
 bg_image: "images/activities/event-series-2022/0001.jpg"
 description : " "
+flipbook: true
 # Event image
 image: "images/activities/event-series-2022/0001.jpg"
 

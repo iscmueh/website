@@ -3,6 +3,7 @@ title: "ArtTech Fusion for Future Smart Cities"
 author: iscm
 bg_image: "images/backgrounds/page-title.jpg"
 description : " "
+flipbook: false
 # Event image
 image: "images/competitive/arttech/poster.jpg"
 

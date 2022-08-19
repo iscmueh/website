@@ -3,6 +3,7 @@ title: "ISCM Event Series 2021 - Smart City +"
 author: iscm
 bg_image: "images/backgrounds/page-title.jpg"
 description : " "
+flipbook: false
 # Event image
 image: "images/activities/event-series-2021.jpg"
 
