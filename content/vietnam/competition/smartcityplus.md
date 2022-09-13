@@ -25,4 +25,6 @@ contact: ""
 weight: 1
 ---
 
-### [Guideline](https://namkyodai.github.io/publication/)
+### [Booklet](https://drive.google.com/file/d/1fPYLsbkyMJ5GnQe33_qKcFRE01U01ufK/view?usp=sharing)
+
+### [Các dự án đã đoạt giải](https://drive.google.com/file/d/1YTzlpNGSl8ljX83yXRiRKvYVbMRTym5P/view?usp=sharing)

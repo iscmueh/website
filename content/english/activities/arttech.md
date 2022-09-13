@@ -10,7 +10,7 @@ image: "images/competitive/arttech/poster.jpg"
 weight: 3
 ---
 <!-- ![](/images/competitive/arttech/poster.jpg) -->
-### ABOUT THE COMPETITION
+### ABOUT THE ACTIVITY
 In the SMARTCITY+ event series, ArtTech Fusion 2021, which is hosted by the University of Economics Ho Chi Minh City (UEH), presided by the Institute of Smart City and Management (ISCM), co-organized by the Institute of Innovation (UII), UEH Youth union - Vietnamese Students' Association, and Phố Bên Đồi. The event is also supported by the companionship of departments, universities, research institutes, enterprises, corporations, national and international NGOs.
 
 On January 8, the opening ceremony of the SMARTCITY+ ArtTech Fusion series of events was held at campus V - University of Economics Ho Chi Minh City. This is the first event to kick off ISCM's series of ArtTech Fusion activities in 2021.  
@@ -21,4 +21,4 @@ Start developing Ho Chi Minh City branding as a “Livable Smart City” identit
 ![](/images/competitive/arttech/partner.jpg)
 
 ### Youtube
-{{< youtube id="25ln6bZocY" title="Artech Fusion" >}}
+{{< youtube id="PRLrJsv4thM" title="Artech Fusion" >}}

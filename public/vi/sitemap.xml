@@ -415,6 +415,18 @@
                 href="https://www.iscm.ueh.edu.vn/vi/adjunctprofessors/prof-elena-marchigiani/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/activities/rtd-2022/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/activities/rtd-2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/activities/rtd-2022/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/advisory/dr-khuat-viet-hung/</loc>
     <xhtml:link
                 rel="alternate"
@@ -488,6 +500,18 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://www.iscm.ueh.edu.vn/vi/members/dr-chamunkoo/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/activities/sudoc-2022/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/activities/sudoc-2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/activities/sudoc-2022/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/advisory/dr-lee-ju-ho/</loc>

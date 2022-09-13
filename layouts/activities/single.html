@@ -46,13 +46,13 @@
 
                     {{range .Params.flipbook_page}}
                     <div class="right">
-                        <img class="back" src="{{ .flipbook_page_front | relURL }}"></img>
-                        <img class="front" src="{{ .flipbook_page_back | relURL }}"></img>
+                        <img class="back" onclick="turnLeft()" src="{{ .flipbook_page_front | relURL }}"></img>
+                        <img class="front" onclick="turnRight()" src="{{ .flipbook_page_back | relURL }}"></img>
                     </div>
                     {{end}}
 
                 </div>
-                <button onclick="turnLeft()">Prev</button> <button onclick="turnRight()">Next</button>
+                <!-- <button onclick="turnLeft()">Prev</button> <button onclick="turnRight()">Next</button> -->
                 <br />
             </div>
             {{end}}
@@ -141,12 +141,13 @@
                 }
                 
                 .book-section>.container {
-                    height: 400px;
-                    width: 1200px;
+                    height: 800px;
+                    max-height: fit-content;
+                    width: auto;
                     position: relative;
                     border-radius: 2%;
                     margin-bottom: 30px;
-                    perspective: 1200px;
+                    perspective: 1500px;
                 }
                 
                 .container>.right {
@@ -168,7 +169,7 @@
                 .right>img.back {
                     margin: 0;
                     height: 100%;
-                    width: 100%;
+                    width: 130%;
                     position: absolute;
                     left: 0;
                     top: 0;

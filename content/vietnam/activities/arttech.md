@@ -28,4 +28,4 @@ GenZ.
 ![](/images/competitive/arttech/partner.jpg)
 
 ### Youtube
-{{< youtube id="25ln6bZocY" title="Artech Fusion" >}}
+{{< youtube id="PRLrJsv4thM" title="Artech Fusion" >}}

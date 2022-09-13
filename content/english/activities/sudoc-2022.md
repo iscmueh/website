@@ -13,7 +13,7 @@ weight: 5
 {{< figure src="/images/activities/sudoc-2022/sudoc-2022.png" width="100%" >}}
 
 
-#### [INTERNATIONAL CONFERENCE - SUSTAINABLE UNIVERSITY DEVELOPMENT: OPPORTUNITY AND CHALLENGE (SUDOC) 2022]({{< ref "http://sudoc.info/" >}})
+#### [INTERNATIONAL CONFERENCE - SUSTAINABLE UNIVERSITY DEVELOPMENT: OPPORTUNITY AND CHALLENGE (SUDOC) 2022](http://sudoc.info/)
 
 Sustainable development has opened up many opportunities but brought about challenges as well. In this progress, the role of higher education is focal, particularly in connecting all relevant stakeholders. In promoting that, the University of Economics HCMC (UEH), in collaboration with local and international partners, is organizing the international conference “Sustainable University Development: Opportunity and Challenge (SUDOC)” 2022 as a response to the call to act on sustainability, especially in the context of the world’s recovery from the COVID 19 pandemic.
 
