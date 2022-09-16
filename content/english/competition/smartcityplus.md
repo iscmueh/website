@@ -25,7 +25,39 @@ contact: ""
 
 weight: 1
 ---
+### [Winning Projects](https://drive.google.com/file/d/1J7g4gAMmP9sfHzmTgxjMIiHc-n_uvhg9/view?usp=sharing)
+
+
+
+![](/images/competitive/smartcity+/winning/Artboard-1.png)
+![](/images/competitive/smartcity+/winning/Artboard-2.png)
+![](/images/competitive/smartcity+/winning/Artboard-3.png)
+![](/images/competitive/smartcity+/winning/Artboard-4.png)
+![](/images/competitive/smartcity+/winning/Artboard-5.png)
+![](/images/competitive/smartcity+/winning/Artboard-6.png)
+![](/images/competitive/smartcity+/winning/Artboard-7.png)
+![](/images/competitive/smartcity+/winning/Artboard-8.png)
+![](/images/competitive/smartcity+/winning/Artboard-9.png)
+![](/images/competitive/smartcity+/winning/Artboard-10.png)
+![](/images/competitive/smartcity+/winning/Artboard-11.png)
+![](/images/competitive/smartcity+/winning/Artboard-12.png)
+![](/images/competitive/smartcity+/winning/Artboard-13.png)
+![](/images/competitive/smartcity+/winning/Artboard-14.png)
+![](/images/competitive/smartcity+/winning/Artboard-15.png)
+![](/images/competitive/smartcity+/winning/Artboard-16.png)
+![](/images/competitive/smartcity+/winning/Artboard-17.png)
+![](/images/competitive/smartcity+/winning/Artboard-18.png)
+![](/images/competitive/smartcity+/winning/Artboard-19.png)
+![](/images/competitive/smartcity+/winning/Artboard-20.png)
+![](/images/competitive/smartcity+/winning/Artboard-21.png)
+![](/images/competitive/smartcity+/winning/Artboard-22.png)
+![](/images/competitive/smartcity+/winning/Artboard-23.png)
+![](/images/competitive/smartcity+/winning/Artboard-24.png)
+![](/images/competitive/smartcity+/winning/Artboard-25.png)
+![](/images/competitive/smartcity+/winning/Artboard-26.png)
+![](/images/competitive/smartcity+/winning/Artboard-27.png)
+![](/images/competitive/smartcity+/winning/Artboard-28.png)
+![](/images/competitive/smartcity+/winning/Artboard-29.png)
 
 ### [Booklet](https://drive.google.com/file/d/1fPYLsbkyMJ5GnQe33_qKcFRE01U01ufK/view?usp=sharing)
 
-### [Winning Projects](https://drive.google.com/file/d/1YTzlpNGSl8ljX83yXRiRKvYVbMRTym5P/view?usp=sharing)
