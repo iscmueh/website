@@ -25,7 +25,8 @@ contact: ""
 weight: 1
 ---
 
-### Các dự án đã đoạt giải
+### [Các dự án đã đoạt giải](https://drive.google.com/file/d/1J7g4gAMmP9sfHzmTgxjMIiHc-n_uvhg9/view?usp=sharing)
+
 
 
 ![](/images/competitive/smartcity+/winning/Artboard-1.png)

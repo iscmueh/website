@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/Q.Mai.jpg"
 # course
-course: "Quản Lý Hành Chính"
+course: "Giám Đốc Chương Trình BAUD"
 position: ""
 # biograph
 bio: "ThS.KTS Trần Thị Quỳnh Mai là giảng viên, quản lý hành chính tại ISCM. Cô tốt nghiệp thạc sĩ kiến trúc tại trường ĐH. Kiến trúc TP.HCM năm 2013. Cô đã có hơn 6 năm kinh nghiệm giảng dạy ngành Kiến trúc tại trường ĐH. Tôn Đức Thắng. Lĩnh vực nghiên cứu tập trung vào lĩnh vực kiến trúc và đô thị, đặc biệt là thiết kế thông minh, thiết kế đô thị, phát triển bền vững và đô thị thông minh. "

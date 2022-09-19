@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/intern/Ba-Van.png"
 # course
-course: "Cộng tác viên ISCM"
+course: "Nhân Viên Sinh Viên"
 position: ""
 # biograph
 bio: ""
