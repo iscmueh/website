@@ -1,19 +1,18 @@
 ---
-title: "Dr. Ducksu Seo"
+title: "ThS. Dương Quý Lộc"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "."
 # teacher portrait
-image: "images/team/DrDucksu.jpg"
+image: "images/team/Loc.jpg"
 # course
-course: "Research Director"
+course: "Giảng Viên"
 position: ""
 # biograph
 bio: ""
-# interest
-interest: ["Urban Planning and Design","Smart City Development", "Housing Studies", "Social Network Analysis and Mobility ","International Development and Global Citizenship Education" ]
+
 # contact info
 contact:
   # contact item loop
@@ -53,22 +52,10 @@ contact:
 
 # type
 type: "teacher"
-weight: 3
+weight: 12
 ---
 
-### Academic and Research Profile
-1. * Professor at Handong Global University, South Korea (2019 – Now)
-1. * Head of NIBC Global Institute, Vietnam (2015-Now)
-1. * Ph.D. in Urban Planning and Design, Seoul National University, South Korea
-1. * Master of Landscape in Urban Design: Harvard University, USA
-1. * Bachelor of Architecture and Urban Planning, Handong Global University, South Korea 
+### Tiểu Sử Nghiên Cứu và Học Thuật
 
-
-### International Experiences
-1. * Advisor, UN Academic Impact, Korea (2016 – Now)
-1. * Advisor, UN Habitat, Korea (2016 – Now)
-1. * Project Director, ADU Group, Vietnam (2012 – 2015)
-1. * Urban Designer and Planner, SERA Architects, USA (2011 – 2012)
-
-### [Click HERE for Publication](https://scholar.google.co.kr/citations?user=7mawbTAAAAAJ&hl=en)‬ 
-
+1. * Thạc sĩ Khoa học Kỹ thuật, Quy hoạch Giao thông và đô thị, Đại học QUốc gia Kongju, Hàn Quốc (2019)
+1. * Cử nhân, Quy hoạch Đô thị, Đại học Tôn Đức Thắng, Việt Nam (2017)
