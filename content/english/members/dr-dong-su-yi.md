@@ -1,5 +1,5 @@
 ---
-title: "Dr. Dong Su Yi"
+title: "Dr. Dong-Su Yi"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/no-image-user-icon.png"
 # course
-course: "Senior Lecturer"
+course: "Strategic Director"
 position: ""
 # biograph
 bio: "YI dong su has rich experience in the global advertising and marketing industry. He joined UEH in 2022 as Vice Dean of SMD. Before moving to UEH, he taught students at the Gyeonggi University of Science and Technology (GTEC) Department of Game Contents in Korea.
@@ -68,6 +68,8 @@ weight: 7
 1. * MA in Art Management
 1. * BA in Public Admin 
 
+### Honor
+1. * Adstars, International Honorary Award, 2016
 
 ### International Experiences
 1. * Sejong univ.		Advertising studio 

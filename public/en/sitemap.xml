@@ -649,6 +649,8 @@
                 href="https://www.iscm.ueh.edu.vn/partner/visco/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/members/dr-dong-su-yi/</loc>
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/recruit/intern-vr/</loc>
     <xhtml:link
                 rel="alternate"
@@ -975,21 +977,8 @@
                 href="https://www.iscm.ueh.edu.vn/members/intern-nguyen-anh-quan/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/event/2022-seminar-circlareconomy/</loc>
-    <lastmod>2022-06-08T15:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/event/2022-seminar-circlareconomy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/event/2022-seminar-circlareconomy/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/</loc>
-    <lastmod>2022-06-08T15:00:00+00:00</lastmod>
+    <lastmod>2022-09-13T09:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -1001,8 +990,21 @@
                 href="https://www.iscm.ueh.edu.vn/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/international-workshop-global-city-development-camp/</loc>
+    <lastmod>2022-09-13T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/international-workshop-global-city-development-camp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/event/international-workshop-global-city-development-camp/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/</loc>
-    <lastmod>2022-06-08T15:00:00+00:00</lastmod>
+    <lastmod>2022-09-13T09:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -1012,6 +1014,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.iscm.ueh.edu.vn/event/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/seminar-35-years-of-optical-remote-sensing-in-geography/</loc>
+    <lastmod>2022-09-09T02:36:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/seminar-35-years-of-optical-remote-sensing-in-geography/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/event/seminar-35-years-of-optical-remote-sensing-in-geography/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2022-seminar-circlareconomy/</loc>
+    <lastmod>2022-06-08T15:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2022-seminar-circlareconomy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/event/2022-seminar-circlareconomy/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/2022-01-20-tuyen-sinh-dual-nzl/</loc>
@@ -1381,17 +1409,17 @@
                 href="https://www.iscm.ueh.edu.vn/event/culture-cohesion-and-civic-society-how-smart-cities-build-on-the-best-of-our-past/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/event/unviersity-of-economics-ho-chi-minh-city-hosted-the-southeast-region-of-the-national-festival-for-innovative-startups-techfest-2020/</loc>
+    <loc>https://www.iscm.ueh.edu.vn/event/unviersity-of-economics-ho-chi-minh-city-hosted-the-southeast-region-of-the-national-festival-for-innovative-startups--techfest-2020/</loc>
     <lastmod>2020-11-25T05:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/event/unviersity-of-economics-ho-chi-minh-city-hosted-the-southeast-region-of-the-national-festival-for-innovative-startups-techfest-2020/"
+                href="https://www.iscm.ueh.edu.vn/vi/event/unviersity-of-economics-ho-chi-minh-city-hosted-the-southeast-region-of-the-national-festival-for-innovative-startups--techfest-2020/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/event/unviersity-of-economics-ho-chi-minh-city-hosted-the-southeast-region-of-the-national-festival-for-innovative-startups-techfest-2020/"
+                href="https://www.iscm.ueh.edu.vn/event/unviersity-of-economics-ho-chi-minh-city-hosted-the-southeast-region-of-the-national-festival-for-innovative-startups--techfest-2020/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/international-launch-event/</loc>
@@ -1879,6 +1907,8 @@
                 href="https://www.iscm.ueh.edu.vn/teacher/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/people/advisory/</loc>
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/members/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1894,8 +1924,6 @@
     <loc>https://www.iscm.ueh.edu.vn/people/</loc>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/people/members/</loc>
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/people/advisory/</loc>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/recruit/</loc>
     <xhtml:link

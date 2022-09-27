@@ -8,21 +8,21 @@
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright><atom:link href="https://www.iscm.ueh.edu.vn/people/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>People</title>
-      <link>https://www.iscm.ueh.edu.vn/people/members/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.iscm.ueh.edu.vn/people/members/</guid>
-      <description>Members Dr. Trinh Tu Anh Director of ISCM</description>
-    </item>
-    
-    <item>
       <title>people</title>
       <link>https://www.iscm.ueh.edu.vn/people/advisory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.iscm.ueh.edu.vn/people/advisory/</guid>
       <description>Advisory Board Prof. Dr. Nguyen Dong Phong Executive Vice Chairman, National Traffic Safety Committee of Vietnam</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://www.iscm.ueh.edu.vn/people/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.iscm.ueh.edu.vn/people/members/</guid>
+      <description>Members Dr. Trinh Tu Anh Director of ISCM</description>
     </item>
     
   </channel>
