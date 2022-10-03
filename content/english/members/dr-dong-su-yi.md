@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "."
 # teacher portrait
-image: "images/team/no-image-user-icon.png"
+image: "images/team/Tony_1.png"
 # course
 course: "Strategic Director"
 position: ""
