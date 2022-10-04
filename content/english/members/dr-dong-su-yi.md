@@ -11,11 +11,13 @@ image: "images/team/Tony_1.png"
 course: "Strategic Director"
 position: ""
 # biograph
-bio: "YI dong su has rich experience in the global advertising and marketing industry. He joined UEH in 2022 as Vice Dean of SMD. Before moving to UEH, he taught students at the Gyeonggi University of Science and Technology (GTEC) Department of Game Contents in Korea.
-He started his career as Executive Creative Director (ECD) at J. Walter Thompson Seoul, a global advertising firm, and then moved to BBDO as Vice President and ECD. In 2002 he joined Ogilvy in Taiwan and Vietnam as ECD and then in Ogilvy Bangkok as regional creative director. Since 2013, he has overseen and led the brand's global creative work as Global Creative Director for Unilever's Ponds in Ogilvy Singapore. While working for several multinational advertising agencies, he has won numerous international awards including Cannes, Clio, D&AD, and Adfest. In 2003, the Gunn Report recognized his 'Jeep' print campaign as the AP region's most award-winning print.
-He also moved to LG Electronics Australia in 2011 and provided marketing advice in Australia and New Zealand.
-In 2015, he was appointed as EVP of Korea Telecom to strengthen KT's marketing. His design instinct led KT to sweep numerous awards such as the Red Dot Design Award and the iF Design Award.
-After a successful career in advertising and marketing, he broadened his horizons into the special effects industries of film and games by leading the branch of Locus China, one of Korea's leading CG and VFX companies.
+bio: "As an industry spokesman, Dong-Su Yi has experience inside Korea and the global market. His illustrious, award-winning career comes with 30 years of effort in advertising and marketing. He was appointed EVP of Korea Telecom in 2015, where he enriched marketing activities. His design instinct brought KT numerous awards, including Red Dot Design Awards and the iF Design Award. He started working in advertising at JWT as ECD in Seoul before moving to BBDO as VP and ECD. Afterward, he joined Ogilvy&Mather as ECD, regional CD of Vietnam(HCMC), and the Bangkok office. In 2013, as Global Creative Director of Ogilvy&Mather based in Singapore, he oversaw and drove the creative work on Ponds of Unilever. He has won numerous international awards, such as Cannes, Clio, D&AD, and Adfest. The Gunn Report, in 2003, recognized his ‘Jeep’ print campaign as the most awarded print work in AP Region. 
+
+After a successful career in advertising and marketing, he led the Locus China branch, one of Korea's leading CG and VFX companies, to broaden his eyes in the special effects industry of films, games, and commercials. 
+
+After the corona outbreak, he returned to Korea and lectured at the Gtec (Gyeonggi University of Science and Technology) Game Contents department.
+Since 2022, he has taught students at the University of Economics, Ho Chi Minh City (UEH) in Ho Chi Minh City as Vice Dean of the School of Media Design.
+
 "
 # interest
 interest: ["Art Management ","Advertising & PR"]
@@ -64,17 +66,85 @@ weight: 3
 
 
 ### Academic and Research Profile
-1. * Ph.D. in Advertising & PR
-1. * MA in Art Management
-1. * BA in Public Admin 
+1. * 2013- 2020  Graduate school of Sejong Univ. / PhD in Advertising & PR
+1. * 1996 -1998  Graduate school of Chung-Ang Univ. /MA in Art Management
+1. * 1980 -1987  KookMin Univ. /BA in Public Admin
 
 ### Honor
 1. * Adstars, International Honorary Award, 2016
 
-### International Experiences
-1. * Sejong univ.		Advertising studio 
-1. * JoongAng univ. 	TVC study
-1. * JoongAng univ. 	Video studio
-1. * JoongAng univ.	Advertising Creative Strategy
-1. * Gtec			Creative Thinking
-1. * Gtec			Game Worldview
+### Major Awards
+1. * One show, Bronze, KT (Lifesaving TV), 2016
+1. * Adstars, Gold, Silver, Bronze, KT(Lifesaving TV), 2016
+1. * ADFEST, Grande, KT(Lifesaving TV), 2016
+1. * Red Dot Design Award, Best of Best, KT(IoT speaker), 2016
+1. * Red Dot Design Award, Winner, KT(IoT homecam), 2016
+1. * Red Dot Design Award, Winner, KT(Smart health band), 2016
+1. * iF Design Award, Winner, KT(Wizstick), 2016
+1. * Red Dot Design Award, Winner, KT(Wizstick), 2016
+1. * Red Dot Design Award, Winner, KT(Phonemouse), 2016
+1. * Red Dot Design Award, Best of Best, KT(Phonebrella), 2015
+1. * Korea professional sports association, PR/Marketing Grand Prix, 2016
+1. * New York Festival, Silver, LG electronics, 2005
+1. * D&AD, Chrysler, 2004
+1. * London Int’l Award, 2 Finalists, LG Electronics, 2004
+1. * ADFEST, Bronze, Cafe Latino, 2004
+1. * ADFEST, Gold & Silver, Chrysler, 2003
+1. * ADFEST, Bronze, Amore Pacific, 2003
+1. * The Times Asia Pacific Awards, 2 Gold, Amore Pacific, 2003
+1. * The Times Asia Pacific Awards, 2 Bronzes, Amore Pacific, 2003
+1. * New York Festival, Gold & Bronze, Chrysler, 2002
+1. * Clio, Bronze, Chrysler, 2002
+1. * The Times Asia Pacific Awards, Gold, Chrysler2, 2002
+1. * The Times Asia Pacific Awards, Bronze, Bayer, 2002
+
+### Work Experience
+1. * UEH, HCMC (2022-present)
+Vice Dean/School of Media Design
+
+1. * Studio AIINs, Seoul (2021 – present)
+Founder 
+Crafting Virtual Human for Metaverse market. 
+
+1. * Locus, China (2017 – 2021)
+Managing Director
+Responsible for the creative arm of Locus in China. 
+
+1. * Korea Telecom, Korea (2015 – 2016)
+Executive Vice President, IMC /Marketing Group
+Responsible for overall Marketing/Communication activities. Manage IMC, BI (incl. store interior & display), and sports marketing for KT’s professional sports teams. (baseball, basketball, shooting, hockey, drone & e-sports team). Under his leadership, KT founded the first Korean drone racing team ‘GiGA5’ and won the World Drone Championship (free flight) in Dubai World Racing Competition. he won numerous medals from advertising and design awards.
+
+1. * Ogilvy&Mather, Singapore (2013 – 2014)   
+Global Creative Director, Unilever, Pond’s
+Led five regional creative hubs and generated global advertising campaigns for each product category. Develop global strategies with regional strategies for Ponds.
+
+1. * LG Electronics, Australia (2011 – 2012 Marketing Advisor)
+Responsible for overall marketing/communication activities for each product category (CE to Mobile) for Australia & New Zealand 
+
+1. * Ogilvy&Mather, Vietnam, Thailand & Singapore (2002 – 2008)
+ECD/Regional CD
+He led the Regional creative team in Taiwan for Unilever, Dove. Then moved to Vietnam as ECD. 
+Grow Vietnam office to the agency of the year in 2003. Bring the first Int’l award medal for Vietnam from the New York festival & ADFEST. 
+As Regional CD, he led the Asia Pacific regional creative team for Unilever in Bangkok. Develop innovative strategies for campaigns and execute them regionally. 
+
+1. * BBDO, Korea (1999 – 2002)
+VP/ECD
+Led creative team and Won numerous new business pitches. 
+Winning awards with the campaign for jeep & Amore Pacific: D&AD, Adfest, LIA, Clio & New York festival
+Key accounts: Amore Pacific Cosmetic, Chrysler, Pepsi & Visa
+
+1. * Yi & directors, Hong Kong & Korea (1996 – 1998)
+Founder
+Produce TV commercials and Movies. Invest and produce a movie, ‘Die Bad .'overseas marketing for Korean movies; ‘Affair,' ‘Yellow hair,' and ‘Bad Movie.' 
+
+1. * JWT, Korea (1993 – 1996)
+ECD
+Key accounts: Citibank, Kodak, Ford, De Beers & Kellogg’s
+
+1. * DY&R, Korea (1991 – 1993)
+Account Director
+Key accounts: Shell, Ray ban, Bauch and Lomb
+
+1. * Darcy (DMB&B), Korea (1987 – 1991)
+Account supervisor
+Key accounts: P&G, Northwest airline
