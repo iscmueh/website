@@ -275,7 +275,7 @@
         
         <div class="row">
 
-            <div class="col-12 mb-50 content">
+            <div class="col-12 content">
                 <!-- raw HTML omitted -->
 <h3 id="giới-thiệu-về-cuộc-thi">Giới Thiệu Về Cuộc Thi</h3>
 <p>Nằm trong chuỗi sự kiện SMARTCITY +, ArtTech Fusion 2021 do Trường Đại học Kinh tế Thành phố Hồ Chí Minh (UEH) tổ chức, đồng chủ trì bởi Viện Đô thị Thông minh và Quản lý (ISCM), Viện Sáng tạo (UII) Đoàn Thanh niên UEH - Hội Sinh viên Việt Nam, và tổ chức Phố Bên Đồi. Ngoài ra sự kiện còn nhận được sự đồng hành của các ban ngành, trường đại học, viện nghiên cứu, doanh nghiệp, tập đoàn, tổ chức phi chính phủ trong nước và quốc tế.</p>
@@ -296,6 +296,7 @@ GenZ.</p>
             
             
             
+
 
             <style>
                 .image {
@@ -371,12 +372,28 @@ GenZ.</p>
 
                 });
             </script>
-
+            <script>
+                var weight = "2";
+                console.log(weight);
+                var flipbook_width = "";
+                var flipbook_height = "";
+                
+                $(document).ready(function() {
+                    if (flipbook_height != "") {
+                        console.log("flipbook_height:" + flipbook_height);
+                        $("div.book-section div.container").css("height", flipbook_height + "px");
+                    }
+                    if (flipbook_width != "") {
+                        console.log("flipbook_width:" + flipbook_width);
+                        $("img.front, img.back").css("width", flipbook_width + "%");
+                    }
+                });
+            </script>
             <style>
                 .book-section {
-                    height: 100vh;
+                    height: auto;
                     width: 100%;
-                    padding: 40px 0;
+                    padding: 20px 0 60px;
                     text-align: center;
                 }
                 
@@ -392,7 +409,7 @@ GenZ.</p>
                 
                 .container>.right {
                     position: absolute;
-                    height: 100%;
+                    height: auto;
                     width: 50%;
                     transition: 0.7s ease-in-out;
                     transform-style: preserve-3d;
@@ -408,8 +425,8 @@ GenZ.</p>
                 .right>img.front,
                 .right>img.back {
                     margin: 0;
-                    height: 100%;
-                    width: 130%;
+                    height: auto;
+                    width: 100%;
                     position: absolute;
                     left: 0;
                     top: 0;

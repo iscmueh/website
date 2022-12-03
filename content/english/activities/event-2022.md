@@ -7,10 +7,12 @@ flipbook: true
 # Event image
 image: "images/activities/event-series-2022/0001.jpg"
 
-weight: 1
+weight: 2
 flipbook: "https://online.fliphtml5.com/esmzq/bbaf/"
 embededSrc: "https://online.fliphtml5.com/esmzq/bbaf/"
 
+flipbook_width: 120
+flipbook_height: 500
 
 flipbook_page:
 - flipbook_page_front: "images/activities/event-series-2022/0054.jpg"

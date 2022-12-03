@@ -7,7 +7,7 @@ flipbook: false
 # Event image
 image: "images/activities/sudoc-2022/sudoc-2022.png"
 
-weight: 5
+weight: 6
 ---
 <!-- ![](/images/activities/rtd-2022/rtd-2022.png) -->
 {{< figure src="/images/activities/sudoc-2022/sudoc-2022.png" width="100%" >}}

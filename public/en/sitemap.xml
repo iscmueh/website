@@ -79,18 +79,6 @@
                 href="https://www.iscm.ueh.edu.vn/admission_announcement/master_admission_2022/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/activities/event-2022/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/activities/event-2022/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/activities/event-2022/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/recruit/gv-qhdt/</loc>
     <xhtml:link
                 rel="alternate"
@@ -126,6 +114,8 @@
                 hreflang="en"
                 href="https://www.iscm.ueh.edu.vn/advisory/dr-nguyen-dong-phong/"
                 />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/activities/r4n-2022/</loc>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/notice/lab-rules/</loc>
     <xhtml:link
@@ -240,16 +230,16 @@
                 href="https://www.iscm.ueh.edu.vn/scholarship/graduate-international-students/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/activities/event-2021/</loc>
+    <loc>https://www.iscm.ueh.edu.vn/activities/event-2022/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/activities/event-2021/"
+                href="https://www.iscm.ueh.edu.vn/vi/activities/event-2022/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/activities/event-2021/"
+                href="https://www.iscm.ueh.edu.vn/activities/event-2022/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/recruit/gv-qldttm/</loc>
@@ -351,6 +341,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.iscm.ueh.edu.vn/scholarship/international-phds/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/activities/event-2021/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/activities/event-2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/activities/event-2021/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/recruit/junior-researcher/</loc>
@@ -477,18 +479,6 @@
                 href="https://www.iscm.ueh.edu.vn/recruit/senior-researcher/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/activities/rtd-2022/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/activities/rtd-2022/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/activities/rtd-2022/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/politech-minalo/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -552,18 +542,6 @@
                 href="https://www.iscm.ueh.edu.vn/advisory/dr-lee-ju-ho/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/activities/sudoc-2022/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/activities/sudoc-2022/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/activities/sudoc-2022/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/members/dr-rob/</loc>
     <xhtml:link
                 rel="alternate"
@@ -574,6 +552,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.iscm.ueh.edu.vn/members/dr-rob/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/activities/rtd-2022/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/activities/rtd-2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/activities/rtd-2022/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/course_shortcourse/sc-smartcity-development/</loc>
@@ -612,6 +602,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.iscm.ueh.edu.vn/members/dr-nam-le/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/activities/sudoc-2022/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/activities/sudoc-2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/activities/sudoc-2022/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/recruit/intern-pr-marketing/</loc>

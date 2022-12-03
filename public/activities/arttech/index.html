@@ -281,7 +281,7 @@
         
         <div class="row">
 
-            <div class="col-12 mb-50 content">
+            <div class="col-12 content">
                 <!-- raw HTML omitted -->
 <h3 id="about-the-activity">ABOUT THE ACTIVITY</h3>
 <p>In the SMARTCITY+ event series, ArtTech Fusion 2021, which is hosted by the University of Economics Ho Chi Minh City (UEH), presided by the Institute of Smart City and Management (ISCM), co-organized by the Institute of Innovation (UII), UEH Youth union - Vietnamese Students&rsquo; Association, and Phố Bên Đồi. The event is also supported by the companionship of departments, universities, research institutes, enterprises, corporations, national and international NGOs.</p>
@@ -301,6 +301,7 @@
             
             
             
+
 
             <style>
                 .image {
@@ -376,12 +377,28 @@
 
                 });
             </script>
-
+            <script>
+                var weight = "3";
+                console.log(weight);
+                var flipbook_width = "";
+                var flipbook_height = "";
+                
+                $(document).ready(function() {
+                    if (flipbook_height != "") {
+                        console.log("flipbook_height:" + flipbook_height);
+                        $("div.book-section div.container").css("height", flipbook_height + "px");
+                    }
+                    if (flipbook_width != "") {
+                        console.log("flipbook_width:" + flipbook_width);
+                        $("img.front, img.back").css("width", flipbook_width + "%");
+                    }
+                });
+            </script>
             <style>
                 .book-section {
-                    height: 100vh;
+                    height: auto;
                     width: 100%;
-                    padding: 40px 0;
+                    padding: 20px 0 60px;
                     text-align: center;
                 }
                 
@@ -397,7 +414,7 @@
                 
                 .container>.right {
                     position: absolute;
-                    height: 100%;
+                    height: auto;
                     width: 50%;
                     transition: 0.7s ease-in-out;
                     transform-style: preserve-3d;
@@ -413,8 +430,8 @@
                 .right>img.front,
                 .right>img.back {
                     margin: 0;
-                    height: 100%;
-                    width: 130%;
+                    height: auto;
+                    width: 100%;
                     position: absolute;
                     left: 0;
                     top: 0;

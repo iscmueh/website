@@ -3,14 +3,16 @@ title: "ISCM Event Series 2021 - Smart City +"
 author: iscm
 bg_image: "images/backgrounds/page-title.jpg"
 description : " "
-flipbook: false
+flipbook: true
 # Event image
 image: "images/activities/event-series-2021.jpg"
 
-weight: 2
+weight: 3
 flipbook: "https://online.flippingbook.com/view/667375349/"
 embededSrc: "https://online.flippingbook.com/EmbedScriptUrl.aspx?m=redir&hid=667375349"
 
+flipbook_width: 100
+flipbook_height: 800
 
 flipbook_page:
 - flipbook_page_front: "images/activities/event-series-2021/Artboard 60.jpg"
