@@ -5,6 +5,7 @@ publishDate: "2021-04-22T09:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description: "" 
 image: /images/events/opening-ceremony.jpg
+showImage: true
 ---
 <!--StartFragment-->
 

@@ -7,6 +7,7 @@ description : " "
 # Event image
 location: "ISCM, Ho Chi Minh City, Vietnam"
 image: "images/events/2021-international-design-competition-smartcity.jpg"
+showImage: true
 ---
 ### About Event
 

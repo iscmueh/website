@@ -6,6 +6,7 @@ description: " "
 bg_image: "images/backgrounds/page-title.jpg"
 location: "ISCM, Ho Chi Minh City, Vietnam"
 image: /images/events/future-outlook.jpg
+showImage: true
 ---
 <!--StartFragment-->
 

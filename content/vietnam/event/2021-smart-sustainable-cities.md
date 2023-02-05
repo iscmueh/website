@@ -5,6 +5,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : ""
 # Event image
 image: "images/events/smart-sustainable-cities.png"
+showImage: true
 ---
 
 <!--StartFragment-->

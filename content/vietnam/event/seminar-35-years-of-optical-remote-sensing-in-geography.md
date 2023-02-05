@@ -6,6 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description: "" 
 location: "B1.205, 279 Nguyen Tri Phuong Street, District 10, Ho Chi Minh City"
 image: \images\events\seminar-35-years.jpg
+showImage: true
 ---
 GIS (Hệ thống thông tin địa lý) - một công cụ đắc lực và chiếm vai trò quan trọng trong nhiều hoạt động quốc phòng, địa kinh tế, chính trị của nhiều đơn vị, quốc gia. 35 năm, hành trình khám phá quang học địa lý, từ Spitsbergen đến Việt Nam, từ dữ liệu sơ khởi đến dữ liệu lớn, câu chuyện gì ẩn sau hành trình “viễn thám” ấy?
 ISCM thân mời bạn tham gia seminar với chủ đề: “35 Years of Optical Remote Sensing in Geography” với sự tham gia đặc biệt của:

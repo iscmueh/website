@@ -6,6 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description: " "
 location: "ISCM, Ho Chi Minh City, Vietnam"
 image: /images/events/innovation-approach.jpg
+showImage: true
 ---
 <!--StartFragment-->
 

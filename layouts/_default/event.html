@@ -1,15 +1,15 @@
 <div class="card border-0 rounded-0 hover-shadow">
-  <div class="card-img position-relative" style="height: 200px;">
-    <img class="card-img-top rounded-0" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" style="max-height:200px; object-fit: contain;">
-    <div class="card-date"><span>{{ .Date.Format "02" }}</span><br>{{ .Date.Format "Jan" }}</div>
-  </div>
-  <div class="card-body" style="overflow: hidden; text-overflow: ellipsis; height: 130px" >
-    <!-- location -->
-    <!-- <p><i class="ti-location-pin text-primary mr-2"></i>{{ .Params.Location | markdownify }}</p> -->
-    <div style="height: 50px;">
-      <h4 class="card-title" style="max-height: 100%; overflow:hidden; text-overflow: ellipsis;">
-        <a style="height: 100%;" href="{{ .Permalink }}">{{ .Title }}</a>
-      </h4>
+    <div class="card-img position-relative" style="height: 200px;">
+        <img class="card-img-top rounded-0" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" style="max-height:200px; object-fit: contain;">
+        <div class="card-date"><span>{{ .Date.Format "02" }}</span><br>{{ .Date.Format "Jan 2006" }}</div>
     </div>
-  </div>
+    <div class="card-body" style="overflow: hidden; text-overflow: ellipsis; height: 130px">
+        <!-- location -->
+        <!-- <p><i class="ti-location-pin text-primary mr-2"></i>{{ .Params.Location | markdownify }}</p> -->
+        <div style="height: 50px;">
+            <h4 class="card-title" style="max-height: 100%; overflow:hidden; text-overflow: ellipsis;">
+                <a style="height: 100%; font-size: 0.9em;color: rgba(41, 0, 2, 0.534); font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;" href="{{ .Permalink }}">{{ .Title }}</a>
+            </h4>
+        </div>
+    </div>
 </div>

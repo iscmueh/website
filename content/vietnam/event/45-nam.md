@@ -6,6 +6,7 @@ bg_image: "images/events/45-nam.jpg"
 description: ""
 location: "ISCM, Ho Chi Minh City, Vietnam"
 image: /images/events/45-nam.jpg
+showImage: true
 ---
 
 ### About Event

@@ -5,6 +5,7 @@ publishDate: "2021-03-01T09:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description: " "
 image: /images/events/Covid-19.jpg
+showImage: true
 ---
 
 ### About Event

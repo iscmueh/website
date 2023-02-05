@@ -6,6 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description: " "
 location: "ISCM, Ho Chi Minh City, Vietnam"
 image: /images/events/international-launch-event.jpg
+showImage: true
 ---
 
 Institute of Smart City and Management (ISCM)-University of Economics HCMC (UEH) today has successfully organized an international launch event, along with the prize-giving ceremony for the 1st international design contest “Future city: design for the post-pandemic world”. Lets take a look at beautiful pictures from this event!

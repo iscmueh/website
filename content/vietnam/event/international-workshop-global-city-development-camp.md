@@ -6,6 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description: ""
 location: "ISCM, Ho Chi Minh City, Vietnam"
 image: /images/events/international-workshop.jpg
+showImage: true
 ---
 Giờ đây tại TP. Vĩnh Long, trải qua quãng thời gian Covid 19 khó khăn, sau hơn mấy tháng chuẩn bị và chờ đợi, cuộc gặp gỡ kỳ diệu giữa các bạn sinh viên Hàn Quốc và Việt Nam đã chính thức diễn ra.
 

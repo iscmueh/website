@@ -6,6 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description: "" 
 location: "ISCM, Ho Chi Minh City, Vietnam"
 image: /images/events/staycation-the-hospitablel-city.jpg
+showImage: true
 ---
 On March 1st, 2021, the opening ceremony of workshop week with the theme “Global Strategies for Local Tourism” was successfully organized. 
 

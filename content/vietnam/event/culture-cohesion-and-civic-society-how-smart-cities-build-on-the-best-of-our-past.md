@@ -5,6 +5,7 @@ publishDate: "2020-12-21T09:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 location: "ISCM, Ho Chi Minh City, Vietnam"
 image: /images/events/culture-cohesion-and-civic-society.jpg
+showImage: true
 ---
 ### About Event
 

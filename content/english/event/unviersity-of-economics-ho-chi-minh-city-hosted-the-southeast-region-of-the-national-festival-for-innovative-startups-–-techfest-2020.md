@@ -6,6 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description: "" 
 location: "ISCM, Ho Chi Minh City, Vietnam"
 image: /images/events/Teachfest-2020.jpg
+showImage: true
 ---
 ### About Event
 

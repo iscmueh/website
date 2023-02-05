@@ -5,6 +5,7 @@ publishDate: "2021-06-07T00:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description: ""
 image: /images/events/international-summer-design-camp.jpg
+showImage: true
 ---
 <!--StartFragment-->
 

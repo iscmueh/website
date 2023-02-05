@@ -6,6 +6,7 @@ bg_image: "images/events/Hoi-thao-bat-dong-san-ky-nguyen-so.jpg"
 description: ""
 location: "ISCM, Ho Chi Minh City, Vietnam"
 image: /images/events/Hoi-thao-bat-dong-san-ky-nguyen-so.jpg
+showImage: true
 ---
 
 ### About Event

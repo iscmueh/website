@@ -6,6 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : ""
 # Event image
 image: "images/events/smartcity2021/poster .png"
+showImage: true
 ---
 
 <!--StartFragment-->
