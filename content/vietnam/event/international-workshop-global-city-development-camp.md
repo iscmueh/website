@@ -1,7 +1,7 @@
 ---
 title: "International Workshop: Global City Development Camp - Orientation Day - The Beginning of Miracle Meeting"
 author: ISCM
-publishDate: "2022-09-13T09:00:00Z"
+publishDate: "2022-07-21T09:00:00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description: ""
 location: "ISCM, Ho Chi Minh City, Vietnam"

@@ -11,7 +11,7 @@ image: "images/team/DrKoo.jpg"
 course: "Senior Lecturer"
 position: ""
 # biograph
-bio: "Prof. Chamun Koo is a Dean of the School of Urban Environment Engineering, Handong Global University. He is a director of East-Sea Rim Research Institute of Economy and Culture. He also teachs at the Graduate School of International Development and Entreprenuership."
+bio: "Prof. Chamun Koo is a Dean of the School of Urban Environment Engineering, Handong Global University. He is a director of East-Sea Rim Research Institute of Economy and Culture. He also teaches at the Graduate School of International Development and Entreprenuership."
 # interest
 interest: ["Urban And Regional Planning","Housing Policies","Environment Polices","Industrial Polices"]
 # contact info

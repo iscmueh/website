@@ -11,7 +11,7 @@ image: "images/team/Tam1.jpg"
 course: "Lecturer"
 position: ""
 # biograph
-bio: "Graduated from Vietnamese German University as a Master of Science and is currently working as Urban designer at B+H Architects company. Joined ISCM as collaborator in research and lecturer. Always want to contribute to developing a good society, better quality of life for Vietnamese people. Having interest in Smart and Sustainable City, City Marketing, develop open space and green space, develop space for pedestrians and cyclists."
+bio: "Mr. Tam Graduated from Vietnamese German University as a Master of Science and is currently working as Urban designer at B+H Architects company. He has joined ISCM as collaborator in research and lecturer. Creating a good society, better quality of life for Vietnamese people is always his priority and effort. Therefore, he has interest in Smart and Sustainable City, City Marketing, developing open space and green space, and developing space for pedestrians and cyclists."
 # interest
 interest: ["City Marketing","Smart City","Sustainable Urban Development"]
 # contact info
