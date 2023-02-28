@@ -1,5 +1,5 @@
 ---
-title: "Senior Researcher"
+title: "Nghiên Cứu Viên"
 author: iscm
 bg_image: ""
 description : " "

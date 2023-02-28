@@ -1,5 +1,5 @@
 ---
-title: "Junior Researcher"
+title: "Nhà Nghiên Cứu"
 author: iscm
 bg_image: ""
 description : " "

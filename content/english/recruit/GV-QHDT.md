@@ -1,5 +1,5 @@
 ---
-title: "Lecture of Management- Urban planning and Infrastructure Engineering"
+title: "Lecture of Management - Urban planning and Infrastructure engineering"
 author: iscm
 bg_image: ""
 description : " "
