@@ -6,23 +6,23 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "."
 # teacher portrait
-image: "images/team/Tam1.jpg"
+image: "images/team/Do Le Phuc Tam.jpg"
 # course
 course: "Lecturer"
 position: ""
 # biograph
-bio: "Mr. Tam Graduated from Vietnamese German University as a Master of Science and is currently working as Urban designer at B+H Architects company. He has joined ISCM as collaborator in research and lecturer. Creating a good society, better quality of life for Vietnamese people is always his priority and effort. Therefore, he has interest in Smart and Sustainable City, City Marketing, developing open space and green space, and developing space for pedestrians and cyclists."
+bio: “Graduate Research Master in the major of "Sustainable Urban Development" at Vietnamese-German University (VGU) and Technical University of Darmstadt (TUD). Having experience in the design field as Landscape and Urban Designer at B+H Architects Company, Lascal. Currently work in ISCM holding the position of Lecturer in the major of Architectural and Urban Design Inclusive Smart City, as well as support in coordinating the program of Master of Smart City and Innovation Management. Always have a great hope of contributing to develop and build a society with the aim of providing a good quality of life to Vietnamese people. I concentrate on the subjects of Smart and Sustainable Urban; City Marketing; Creating Urban Open Space and Urban Data Visualization.”
 # interest
 interest: ["City Marketing","Smart City","Sustainable Urban Development"]
 # contact info
 contact:
   # contact item loop
-  - name : "iscm@ueh.edu.vn"
+  - name : "tamdlp@ueh.edu.vn"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "iscm@ueh.edu.vn"
+    link : "tamdlp@ueh.edu.vn"
 
   # contact item loop
-  - name : "+84-28-3930-9589/ +84-28-3930-9269"
+  - name : "+84 769820425"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
     link : "tel:+120345876"
 
@@ -57,9 +57,12 @@ weight: 11
 ---
 
 ### Courses
-1. *	Smart Urban Design
-1. *	Urban Planning
-1. *	New urban Economics and city marketing
+1. * Theories of Architectural Design
+1. * Smart and Resilient Landscape Design
+1. * Smart Urban Design
+1. * New Urban Economics and City Marketing
+1. * Urban Planning
+1. * Studiolab Architecture
 
 
 ### Academic and Research Profile

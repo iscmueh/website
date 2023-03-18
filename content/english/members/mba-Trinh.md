@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "."
 # teacher portrait
-image: "images/team/Trinh.png"
+image: "images/team/intern/Truong My Hanh Trinh.jpg"
 # course
 course: "Coordinator, UEH Sustainable Unit"
 position: ""
