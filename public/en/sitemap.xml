@@ -129,18 +129,6 @@
                 href="https://www.iscm.ueh.edu.vn/notice/lab-rules/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/competition/smartcityplus/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/competition/smartcityplus/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/competition/smartcityplus/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/competition/carbonneutrality/</loc>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/scholarship/undergraduate-international-students/</loc>
@@ -182,18 +170,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.iscm.ueh.edu.vn/consultancy/spatial-analysis/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/competition/futurecity/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/competition/futurecity/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/competition/futurecity/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/members/dr-ducsu-seo/</loc>
@@ -268,6 +244,18 @@
                 href="https://www.iscm.ueh.edu.vn/adjunctprofessors/prof-lee-youngsang/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/competition/smartcityplus/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/competition/smartcityplus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/competition/smartcityplus/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/bth/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -305,6 +293,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.iscm.ueh.edu.vn/consultancy/tdd/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/competition/futurecity/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/competition/futurecity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/competition/futurecity/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/activities/arttech/</loc>
