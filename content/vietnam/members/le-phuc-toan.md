@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "."
 # teacher portrait
-image: "images/team/intern/Phuc-toan.png"
+image: "images/team/LePhucToan.jpg"
 # course
 course: "Cộng tác viên ISCM"
 position: ""
