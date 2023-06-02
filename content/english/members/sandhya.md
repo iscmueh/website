@@ -8,7 +8,7 @@ description : ""
 # teacher portrait
 image: "images/team/Sandhya.jpg"
 # course
-course: "Giảng Viên Cao Cấp"
+course: "Senior Lecturer"
 position: "Director"
 # biograph
 bio: "Sandhya is a senior lecturer at ISCM. She graduated with Masters in urban design program in 2010, she commenced her career as a Senior Architect in the Master Planning team at RSP India Pvt. Ltd. She made a very valuable contribution to the company in developing various master plans for large-scale planning projects. Further, as an Associate Professor (Tenure) at Dayananda Sagar College of Architecture, she contributed to designing pedagogy and coursework of urban design studio as well as Architecture Thesis. As an academic, she set up urban studio collective, which was a vertical studio focusing on detailed documentation and analysis of historic towns in Karnataka
@@ -43,7 +43,7 @@ weight: 6
 
 1. * Cognitive mapping, inclusive urbanism studies and tactical urbanism solutions
 
-### Giảng Dạy
+### Courses
 1. * Basic Studiolab 3
 1. * Basic Studiolab 5
 
