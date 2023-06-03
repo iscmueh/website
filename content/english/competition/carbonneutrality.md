@@ -16,11 +16,15 @@ timeline: "images/competitive/carbon/timeline.png"
 
 price: "images/competitive/carbon/price.png"
 
-register: ""
+register: "images/competitive/carbon/button01.png"
+linkRegister: "https://docs.google.com/forms/d/e/1FAIpQLSfG10e3t3D1b-AHRcVwfcbESo2WCi4G6WfJoHJIwjWbd_tVmg/viewform"
+
+fb: "images/competitive/carbon/button02.png"
+linkFB: "https://www.facebook.com/ISCM.UEH"
 
 partners: "images/competitive/carbon/organizer.png"
 
-sponser: "images/competitive/carbon/sponsor.png"
+sponsor: "images/competitive/carbon/sponser.jpg"
 
 # "images/competitive/carbon/sponsor.png"
 
