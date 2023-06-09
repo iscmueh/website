@@ -980,7 +980,7 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/</loc>
-    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -990,6 +990,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.iscm.ueh.edu.vn/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2023-23/</loc>
+    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2023-23/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/event/2023-23/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/</loc>
+    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/event/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/2023-18/</loc>
@@ -1005,17 +1031,17 @@
                 href="https://www.iscm.ueh.edu.vn/event/2023-18/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/event/</loc>
-    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
+    <loc>https://www.iscm.ueh.edu.vn/event/2023-22/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/event/"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2023-22/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/event/"
+                href="https://www.iscm.ueh.edu.vn/event/2023-22/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/2023-17/</loc>
