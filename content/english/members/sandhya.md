@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # teacher portrait
-image: "images/team/Sandhya.jpg"
+image: "images/team/SandhyaRao-02.png"
 # course
 course: "Senior Lecturer"
 position: "Director"
@@ -25,7 +25,7 @@ contact:
 
   # contact item loop
   # contact item loop
-  - name : "+91- 9945995760"
+  - name : "+840909603926"
     icon : "ti-world" # icon pack : https://themify.me/themify-icons
     link : ""
 
@@ -34,14 +34,16 @@ contact:
   #   icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
   #   link : "#"
 
+# interest
+interest: ["CCognitive mapping inclusive urbanism studies & tactical urbanism solutions"]
 # type
 type: "teacher"
 weight: 6
 ---
 
-### Summary of activities/interests
+<!-- ### Summary of activities/interests
+1. * Cognitive mapping, inclusive urbanism studies and tactical urbanism solutions -->
 
-1. * Cognitive mapping, inclusive urbanism studies and tactical urbanism solutions
 
 ### Courses
 1. * Basic Studiolab 3

@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # teacher portrait
-image: "images/team/Sandhya.jpg"
+image: "images/team/SandhyaRao-02.png"
 # course
 course: "Giảng Viên Cao Cấp"
 position: "Director"
@@ -15,6 +15,7 @@ bio: "Sandhya là giảng viên cao cấp tại ISCM. Sau khi hoàn thành chư�
 
 
 Những thành tựu đáng chú ý khác của cô bao gồm đồng sáng lập Citylabs * BLR - một công ty khởi nghiệp trong lĩnh vực công nghệ Data Mapping; và đóng vai trò là cộng tác viên chính cho trung tâm CITYMAKERS ở Barcelona để tạo ra một nền tảng kết nối các ý tưởng và thực tiễn về đô thị hóa của khu vực châu Âu và Đông Nam Á. Cô là tác giả của nhiều tạp chí và tài liệu tham khảo được xuất bản với nội dung liên quan đến kỹ thuật cognitive mapping, đọc và tổng hợp dữ liệu đa lớp cho các thành phố Ấn Độ."
+
 
 # contact info
 contact:
@@ -25,7 +26,7 @@ contact:
 
   # contact item loop
   # contact item loop
-  - name : "+91- 9945995760"
+  - name : "+840909603926"
     icon : "ti-world" # icon pack : https://themify.me/themify-icons
     link : ""
 
@@ -33,13 +34,15 @@ contact:
   # - name : "1313 Boulevard Cremazie,Quebec"
   #   icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
   #   link : "#"
+# interest
+interest: ["Các nguyên cứu liên quan đến lĩnh vực Đô thị học & giải pháp cho chiến lược đô thị hóa"]
 
 # type
 type: "teacher"
 weight: 6
 ---
-### Lĩnh vực nguyên cứu
-1. * Cognitive Mapping liên quan đến lĩnh vực Đô thị học và giải pháp cho chiến lược đô thị hóa.
+<!-- ### Lĩnh vực nguyên cứu
+1. * Cognitive Mapping liên quan đến lĩnh vực Đô thị học và giải pháp cho chiến lược đô thị hóa. -->
 
 ### Giảng Dạy
 1. * Basic Studiolab 3
