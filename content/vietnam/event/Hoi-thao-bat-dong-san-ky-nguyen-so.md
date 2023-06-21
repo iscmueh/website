@@ -2,10 +2,10 @@
 title: "Hội Thảo Trực Tuyến: R&D - Nghiên Cứu Phát Triển Bất Động Sản Kỷ Nguyên Số"
 author: ISCM
 publishDate: "2021-10-09T18:00:00Z"
-bg_image: "images/events/Hoi-thao-bat-dong-san-ky-nguyen-so.jpg"
+bg_image: "images/events/page-title.jpg"
 description: ""
 location: "ISCM, Ho Chi Minh City, Vietnam"
-image: /images/events/page-title.jpg
+image: /images/events/r&d.jpg
 showImage: true
 ---
 
