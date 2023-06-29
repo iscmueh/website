@@ -11,7 +11,7 @@ image: "images/team/intern/Ba-Van.png"
 course: "Nhân Viên Sinh Viên"
 position: ""
 # biograph
-bio: ""
+bio: "Hiện tại, Văn đang theo học tại Đại học Kinh tế TP. Hồ Chí Minh (UEH) và làm việc tại ISCM với vai trò là Student Staff mảng Marketing và PR, cũng như tham gia và hỗ trợ các hoạt động của ISCM. Anh quan tâm tới các lĩnh vực liên quan đến truyền thông, giáo dục, và phát triển bền vững. Văn luôn hướng đến phát triển và sử dụng kỹ năng của bản thân trong các lĩnh vực nói trên để tạo ra các giá trị tích cực cho cộng đồng."
 
 # contact info
 contact:
@@ -55,7 +55,10 @@ type: "teacher"
 weight: 17
 ---
 
-1. - Chịu trách nhiệm phụ trách quản lý nội dung (bao gồm viết nội dung, trình bày nội dung,…) trên các kênh mạng xã hội.
-1. - Tham gia sản xuất các nội dung truyền thông (Digital / Offline, ...) như các bài báo, video / hình ảnh ý tưởng, v.v.
-1. - Viết bài PR theo nội dung yêu cầu.
-1. - Tham gia hỗ trợ các sự kiện và hoạt động của Viện.
+Kinh Nghiệm:
+
+Trưởng bộ phận Truyền thông, Vietnam School of Development (2021)
+
+Content Writer, Vietnam Halography, RIO Agency (2021)
+
+Thành viên bộ phận Đối ngoại, ECO Vietnam Group (2019 -2020)

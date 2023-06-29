@@ -11,17 +11,17 @@ image: "images/team/intern/Ba-Van.png"
 course: "Student Staff"
 position: ""
 # biograph
-bio: ""
+bio: "Van is a young person with a positive attitude who is driven to make outstanding changes and eager to learn more to be ready to embrace indefinite challenges. Currently, he is studying at the University of Economics Ho Chi Minh City (UEH) and working at ISCM as a Student Staff in the field of Marketing and PR, while also supporting the operation of ISCM. His interests lie in communication, education, and sustainable development. He is committed to developing his skills in these areas and using them to make a positive impact on society."
 
 # contact info
 contact:
   # contact item loop
   - name : "iscm@ueh.edu.vn"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "iscm@ueh.edu.vn"
+    link : "vanltb@ueh.edu.vn"
 
   # contact item loop
-  - name : "+84-28-3930-9589/ +84-28-3930-9269"
+  - name : "+84 338370151"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
     link : "tel:+120345876"
 
@@ -54,8 +54,10 @@ contact:
 type: "teacher"
 weight: 17
 ---
-1. - Marketing intern
-1. - In charge of content management (including content writing, content presentation, etc) on social media channels.
-1. - Participate in the production of media content (Digital/Offline,...) such as articles, idea videos/images, etc.
-1. - Write PR articles according to the required content.
-1. - Participate in supporting events and activities of the Institute.
+Experiences
+
+Head of Communication, Vietnam School of Development (2021)
+
+Content Writer, Vietnam Halography, RIO Agency (2021)
+
+External Relations Member, ECO Vietnam Group (2019 - 2020)

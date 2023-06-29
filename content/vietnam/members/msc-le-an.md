@@ -11,8 +11,7 @@ image: "images/team/TAN.JPG"
 course: "Nghiên Cứu Viên"
 position: ""
 # biograph
-bio: "Before joining ISCM, An had one year working as a developer for a well-known Japanese corporation, and a Vietnamese start-up developing enterprise. During this time, he had published two significant works: interactive digital signage and an education website. Currently, he is the youngest IT-Researcher at ISCM, mainly in charge of a platform for Interactive Simulation of
-pedestrian behaviour from the viewpoint of urban design towards walkability. He is also a postgraduate in Urban Design and Smart City at National Seoul University to reinforce his knowledge. An always brings his best-offering as a core member in performing in-depth research for Smart City development."
+bio: "Trước khi gia nhập ISCM, An là lập trình viên trong một tập đoàn Nhật Bản có tiếng và một công ty lập trình start-up Việt Nam. Trong khoảng thời gian này, hai sản phẩm nổi bậc nhất mà anh đã hoàn thiện là bảng hiệu kỹ thuật số tương tác (interactive digital signage) và một website về giáo dục. Hiện tại, anh đang là nghiên cứu viên IT trẻ tuổi tại ISCM, chịu trách nhiệm dự án Interactive Simulation of pedestrian behaviour from the viewpoint of urban design towards walkability. Anh cũng đang theo học chương trình thạc sĩ Urban Design and Smart City tại Trường Đại học Quốc gia Seoul để có thể tiếp tục trau dồi kiến thức của bản thân. An luôn nỗ lực hết mình với tư cách là thành viên nòng cốt trong các dự án nghiên cứu chuyên sâu về phát triển Thành phố thông minh."
 # interest
 interest: ["Machine Learning","Artificial Intelligence", "Computer Vision", "Agent Based Modelling"]
 # contact info
