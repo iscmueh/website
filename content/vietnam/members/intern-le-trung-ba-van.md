@@ -16,9 +16,9 @@ bio: "Hiện tại, Văn đang theo học tại Đại học Kinh tế TP. Hồ 
 # contact info
 contact:
   # contact item loop
-  - name : "iscm@ueh.edu.vn"
+  - name : "vanltb@ueh.edu.vn"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "iscm@ueh.edu.vn"
+    link : "vanltb@ueh.edu.vn"
 
   # contact item loop
   - name : "+84-28-3930-9589/ +84-28-3930-9269"

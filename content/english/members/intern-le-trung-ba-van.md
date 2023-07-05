@@ -16,14 +16,14 @@ bio: "Van is a young person with a positive attitude who is driven to make outst
 # contact info
 contact:
   # contact item loop
-  - name : "iscm@ueh.edu.vn"
+  - name : "vanltb@ueh.edu.vn"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
     link : "vanltb@ueh.edu.vn"
 
   # contact item loop
   - name : "+84 338370151"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+120345876"
+    link : "+84 338370151"
 
   # contact item loop
   # - name : "Clark Malik"
