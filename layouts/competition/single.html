@@ -65,17 +65,30 @@
                 <img style="height: auto;width: 100%;object-fit: contain;" src="{{ .Params.partners | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
             </div>
 
-            <div class="text-center col-12 mb-50 content" id="compRegister">
-                {{ if .Params.register}}
-                <a href="{{.Params.linkRegister}}" target="_blank">
-                    <img style="height: auto;width: 30%;" src="{{ .Params.register | relURL }}" alt="{{ .Title }}">
-                </a>
-                {{end}} {{ if .Params.fb}}
-                <a href="{{.Params.linkFB}}" target="_blank">
-                    <img style="height: auto;width: 30%;" src="{{ .Params.fb | relURL }}" alt="{{ .Title }}">
-                </a>
-                {{end}}
-            </div>
+            <div class="text-justify col-12 mb-50 content" id="compRegister">
+                <h3>REGISTRATON</h3>
+                <div class="text-center col-12 mb-50 content" id="compRegister">
+                    {{ if .Params.register}}
+                    <a href="{{.Params.linkRegister}}" target="_blank">
+                        <img style="height: auto;width: 30%;" src="{{ .Params.register | relURL }}" alt="{{ .Title }}">
+                    </a>
+    
+                    {{end}} {{ if .Params.fb}}
+                    <a href="{{.Params.linkFB}}" target="_blank">
+                        <img style="height: auto;width: 30%;" src="{{ .Params.fb | relURL }}" alt="{{ .Title }}">
+                    </a>
+    
+                    <br>
+                        <a href="{{.Params.linkFAQ}}" target="_blank">
+                        <img style="height: auto;width: 100%;" src="{{ .Params.faq | relURL }}" alt="{{ .Title }}">
+                    </a></br>
+                    
+                    {{end}}
+                </div>
+                
+            </div>  
+
+
 
             <div class="text-justify col-12 mb-50 content" id="compSponsor">
                 <h3></h3>

@@ -29,6 +29,7 @@ sponsor: "images/competitive/carbon/sponser.jpg"
 
 # "images/competitive/carbon/sponsor.png"
 
+faq: "images/competitive/carbon/FAQ en.png" 
 
 contact: "" 
 
