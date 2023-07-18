@@ -29,7 +29,36 @@ sponsor: "images/competitive/carbon/sponser.jpg"
 
 # "images/competitive/carbon/sponsor.png"
 
-faq: "images/competitive/carbon/FAQ en.png" 
+overview_04: FAQS
+
+overview_05: I am Student, can I enroll for the competition?
+
+overview_06: Registration is open to all students of universities around the world; 
+
+overview_07: Contestants participate individually or in teams (maximum 3 people/team). 
+
+overview_08: Members of the organizing committee are not allowed to participate in the competition.
+
+overview_09: What is the registration procedure ?
+
+overview_10: The registration and submission procedure must be done online by only the group leader
+
+overview_11: Access and fill your information in the registration form of “Reimagining Cities Towards Carbon Naturality” competition https://bit.ly/comp23register ;
+
+
+overview_12: Call for registration From Apr 24th, 2023
+
+overview_13: Registration deadline Oct 15th, 2023
+
+overview_14: Once the registration is completed, you will receive a confirmation email with the “Identity code” and the link to download the competition brief and guideline. 
+
+overview_15: Where can I find more information about this competition’s challenge ?
+
+overview_16: You can find it out in the competition’s booklet https://bit.ly/ISCM_BroComp2023 
+
+overview_17: It is also worth noting down that more detailed information about the challenge, competition data as well as the chosen site in Vung Tau city will be delivered to you after successful registration.
+
+overview_18:  Our bold and creative competitors, do not forget to update news about our 3rd International Design Competition Reimagining Cities towards Carbon Neutrality through ISCM’s Facebook page.
 
 contact: "" 
 
