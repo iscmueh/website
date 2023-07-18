@@ -15,12 +15,6 @@ Executive Vice Chairman, National Traffic Safety Committee of Vietnam
 
 ![image alt ](/images/team/AdvisoryBoard/nguyendongphong.jpg)
 
-#### [Dr. Hyung Tae Gun](/people/dr-hyung-tae-gun)
-
-Principle Strategy Advisor, RMS Consulting, Former Vice Minister of ICT of Korea.
-
-![image alt ](/images/team/AdvisoryBoard/hyung.png)
-
 #### [Dr. Khuat Viet Hung](/people/dr-khuat-viet-hung)
 
 Executive Vice Chairman, National Traffic Safety Committee of Vietnam
@@ -28,11 +22,6 @@ Executive Vice Chairman, National Traffic Safety Committee of Vietnam
  ![image alt ](/images/team/AdvisoryBoard/khuatviethung.jpg)
 
 
-#### [Dr. Lee Ju-ho](/people/dr-lee-ju-ho)
-
-Chairman, The Education Commission AISA, Former Minister of Education of Korea
-
-![image alt ](/images/team/AdvisoryBoard/leejuho.jpg)
 
 
 #### [Dr. Park Young June](/people/dr-khuat-viet-hung)
