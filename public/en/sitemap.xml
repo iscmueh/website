@@ -208,18 +208,6 @@
                 href="https://www.iscm.ueh.edu.vn/members/dr-ducsu-seo/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/advisory/dr-hyung-tae-gun/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/advisory/dr-hyung-tae-gun/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/advisory/dr-hyung-tae-gun/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/scholarship/graduate-international-students/</loc>
     <xhtml:link
                 rel="alternate"
@@ -980,7 +968,7 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/</loc>
-    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -993,7 +981,7 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/</loc>
-    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -1003,6 +991,58 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.iscm.ueh.edu.vn/event/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2023-43/</loc>
+    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2023-43/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/event/2023-43/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2023-47/</loc>
+    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2023-47/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/event/2023-47/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2023-46/</loc>
+    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2023-46/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/event/2023-46/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2023-44/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2023-44/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/event/2023-44/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/2023-28/</loc>
