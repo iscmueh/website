@@ -78,7 +78,7 @@ about:
   enable : true
   title : "About ISCM"
   image : "images/about/about-page.jpg"
-  content : "Institute of Smart City and Management (ISCM) is a research institute which belongs to the College of Technology and Design (CTD) of the UEH University. Research and education activities are fundementally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling."
+  content : "Institute of Smart City and Management - ISCM is a research institute which belongs to the College of Technology and Design - CTD of the UEH University. Research and education activities are fundamentally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling."
   button:
     enable : true
     label : "Learn more"
@@ -115,7 +115,7 @@ success_story:
 
 
 
-  Dr. Tu-Anh Trinh - Director "
+  Dr. Tu Anh Trinh - Director "
   # video link
   video_link : "https://www.youtube.com/watch?v=sqwcbOpMhnA"
 

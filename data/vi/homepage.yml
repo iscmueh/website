@@ -76,7 +76,7 @@ about:
   enable : true
   title : "Giới thiệu về ISCM"
   image : "images/about/about-page.jpg"
-  content : "Viện Đô Thị Thông Minh và Quản Lý (ISCM) là một Viện nghiên cứu thuộc Trường Công Nghệ và Thiết Kế (CTD) thuộc hệ thống trường Đại Học UEH. Nghiên cứu và giảng dạy của ISCM được xây dựng trên nền tảng tích hợp các ứng dụng công nghệ trong nhiều lĩnh vực như thiết kế đô thị, thiết kế cảnh quan, giao thông, quản lý cơ sở hạ tầng và các mô hình quản lý và toán tối ưu nhằm xây dựng và phát triển các đô thị thông minh, xanh, và bền vững. "
+  content : "Viện Đô Thị Thông Minh và Quản Lý - ISCM là một Viện nghiên cứu thuộc Trường Công Nghệ và Thiết Kế - CTD thuộc hệ thống trường Đại Học UEH. Nghiên cứu và giảng dạy của ISCM được xây dựng trên nền tảng tích hợp các ứng dụng công nghệ trong nhiều lĩnh vực như thiết kế đô thị, thiết kế cảnh quan, giao thông, quản lý cơ sở hạ tầng và các mô hình quản lý và toán tối ưu nhằm xây dựng và phát triển các đô thị thông minh, xanh, và bền vững."
   button:
     enable : true
     label : "Tìm hiểu thêm"

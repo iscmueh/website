@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/LePhucToan.jpg"
 # course
-course: "Designer"
+course: "Staff"
 position: ""
 # biograph
 bio: ""

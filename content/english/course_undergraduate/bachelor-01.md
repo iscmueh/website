@@ -9,7 +9,7 @@ description : ""
 # course thumbnail
 image: "images/courses/course-1.jpg"
 # taxonomy
-category: "under-graduate"
+category: "Under-graduate"
 # teacher
 #teacher: "Clark Malik"
 # duration
