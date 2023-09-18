@@ -23,7 +23,7 @@ partners: "images/competitive/futurecity/partners.jpg"
 
 contact: "" 
 
-weight: 2
+weight: 3
 ---
 
 #### Activities:

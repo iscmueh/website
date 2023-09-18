@@ -4,7 +4,7 @@ date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
-# meta description
+# meta descriptio
 description : ""
 # course thumbnail
 image: "images/courses/course-1.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "Nghiên Cứ và Phát Triển"
+title: "Nghiên Cứu và Phát Triển"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"

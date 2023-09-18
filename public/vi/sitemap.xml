@@ -847,6 +847,45 @@
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/members/intern-nguyen-anh-quan/</loc>
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/</loc>
+    <lastmod>2023-09-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/event/</loc>
+    <lastmod>2023-09-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/event/2023-48/</loc>
+    <lastmod>2023-09-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.iscm.ueh.edu.vn/event/2023-48/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2023-48/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/event/2023-43/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -858,19 +897,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://www.iscm.ueh.edu.vn/vi/event/2023-43/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/</loc>
-    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/event/2023-41/</loc>
@@ -897,19 +923,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://www.iscm.ueh.edu.vn/vi/event/2023-42/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/event/</loc>
-    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.iscm.ueh.edu.vn/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://www.iscm.ueh.edu.vn/vi/event/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/event/2023-39/</loc>

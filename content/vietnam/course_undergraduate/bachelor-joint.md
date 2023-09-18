@@ -1,5 +1,5 @@
 ---
-title: "Chương trình cử nhân liên kết song bằng Kiến trúc và Thiết kế đô thị thông minh (UEH) và Kiến trúc (ĐH Auckland, New Zealand)"
+title: "Chương trình Cử nhân Liên kết Song bằng Kiến trúc và Thiết kế Đô thị Thông minh (UEH) và Kiến trúc (ĐH Auckland, New Zealand)"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -26,7 +26,7 @@ type_dual: "course"
 
 courseStuctureImage: "images/courses/structure/UEH-UOA.jpg"
 summary: " "
-post: "Chương trình liên kết đào tạo đại học chính quy với trường Đại học Auckland, New Zealand"
+post: "Chương trình Cử nhân Liên kết Song bằng Kiến trúc, Thiết kế Đô thị Thông minh (UEH) và Kiến trúc (ĐH Auckland, New Zealand)"
 weight: 2
 ---
 

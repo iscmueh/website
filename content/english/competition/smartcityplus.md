@@ -23,7 +23,7 @@ partners: "images/competitive/smartcity+/partners.jpg"
 
 contact: "" 
 
-weight: 1
+weight: 2
 ---
 ### [Winning Projects](https://drive.google.com/file/d/1J7g4gAMmP9sfHzmTgxjMIiHc-n_uvhg9/view?usp=sharing)
 

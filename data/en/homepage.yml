@@ -37,7 +37,6 @@ slider:
         label : "Apply now"
         link : "contact"
 
-
 ############################### Banner feature ###############################
 banner_feature:
   enable : false
@@ -115,7 +114,7 @@ success_story:
 
 
 
-  Dr. Tu Anh Trinh - Director "
+  Dr. Tú Anh Trịnh - Director of Institute of Smart City and Management "
   # video link
   video_link : "https://www.youtube.com/watch?v=sqwcbOpMhnA"
 
@@ -123,7 +122,7 @@ success_story:
 ############################# event ################################
 event:
   enable : true
-  title : "Upcoming Events"
+  title : "News & Event"
   # event item comes from "content/**/event" folder.
 
 
