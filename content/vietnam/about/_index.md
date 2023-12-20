@@ -10,7 +10,7 @@ description : " Viện Đô Thị Thông Minh và Quản Lý (ISCM) là một Vi
 ---
 
 ### Tóm Tắt
-Được thành lập vào tháng 5 năm 2020, Viện Đô thị Thông minh và Quản lý (ISCM) là viện tiên phong trong hệ thống trường Đại Học Kinh Tế Thành PHố Hồ Chí Minh (UEH) hướng tới đa dạng hóa các chương trình giảng dạy, từ kinh tế và quản lý đến thiết kế và kĩ thuật. ISCM là viện đầu tiên của UEH và của Việt Nam trong lĩnh vực quản lý và thiết kế đô thị thông minh dựa trên nền tảng kiến thức tích hợp đa ngành tiên tiến trên thế giới.
+Được thành lập vào tháng 5 năm 2020, Viện Đô thị Thông minh và Quản lý (ISCM) là viện tiên phong trong hệ thống Đại Học Kinh Tế Thành PHố Hồ Chí Minh (UEH) hướng tới đa dạng hóa các chương trình giảng dạy, từ kinh tế và quản lý đến thiết kế và kĩ thuật. ISCM là viện đầu tiên của UEH và của Việt Nam trong lĩnh vực quản lý và thiết kế đô thị thông minh dựa trên nền tảng kiến thức tích hợp đa ngành tiên tiến trên thế giới.
 
 ISCM có đội ngũ giáo sư, cán bộ nghiên cứu và giảng viên được đào tạo bài bản, là những chuyên gia đầu ngành được đào tạo và nghiên cứu tại các trường đại học danh tiếng từ Nhật Bản, Mỹ, Đan Mạch, Bỉ, Thụy Sĩ, Hàn Quốc, Úc và New Zealand.
 
