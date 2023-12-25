@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/LePhucToan.jpg"
 # course
-course: "Cộng tác viên ISCM"
+course: "Nhân viên"
 position: ""
 # biograph
 bio: ""
