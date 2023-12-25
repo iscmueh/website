@@ -51,6 +51,8 @@ Chương trình cử nhân liên kết song bằng Kiến trúc và Thiết kế
 #### Giới thiệu tổng quan về đơn vị liên kết:
 1. Được thành lập từ năm 1883, Auckland là trường đại học lớn nhất New Zealand với hơn 40 nghìn sinh viên, gần 10 nghìn sinh viên tốt nghiệp hàng năm. Trường Auckland toạ tạc tại thành phố cảng Auckland, là trung tâm kinh tế, văn hoá của New Zealand, với cảnh quan rừng nhiệt đới và những bãi biển trải dài tuyệt đẹp. Auckland được xếp hạng là một trong ba thành phố hàng đầu thế giới về chất lượng cuộc sống theo Mercer và nằm trong TOp 30 thành phố học tập tốt nhất theo QS vào năm 2017. Đại học Auckland có 5 cơ sở chính, cơ sở lớn nhất nằm giữa trung tâm thành phố Auckland, được cung cấp đầy đủ các dịch vụ thiết yếu và dễ dàng tiếp cận với cuộc sống nhộn nhịp tại đây.
 
+#### [Cấu trúc chương trình:](https://drive.google.com/file/d/1YMFuO2xwNJ-HO-OoYBqLUDEd90CBJhid/view)
+
 #### Liên hệ tuyển sinh: 
 1. Viện Đô thị thông minh và quản lý (ISCM)
 2. * Đ/c: 232/6 Võ Thị Sáu, Phường Võ Thị Sáu, Quận 3, TP.HCM
@@ -58,5 +60,3 @@ Chương trình cử nhân liên kết song bằng Kiến trúc và Thiết kế
 4. * Email: iscm@ueh.edu.vn
 4. * Website: www.iscm.ueh.edu.vn
 5. * Facebook: http://www.facebook.com/ISCM.UEH
-
-#### [Cấu trúc chương trình:](https://drive.google.com/file/d/1YMFuO2xwNJ-HO-OoYBqLUDEd90CBJhid/view)
