@@ -39,7 +39,7 @@ interest: ["Các nguyên cứu liên quan đến lĩnh vực Đô thị học & 
 
 # type
 type: "teacher"
-weight: 6
+weight: 8
 ---
 <!-- ### Lĩnh vực nguyên cứu
 1. * Cognitive Mapping liên quan đến lĩnh vực Đô thị học và giải pháp cho chiến lược đô thị hóa. -->
