@@ -155,3 +155,6 @@ event:
 #   enable : true
 #   title : "Tin tức mới"
   # blog item comes from "content/**/blog" folder.
+
+iscmname: 
+  title: "Viện Đô thị Thông minh và Quản lý"

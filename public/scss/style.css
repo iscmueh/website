@@ -8,67 +8,85 @@ VERSION:	Versoin Number
 [TABLE OF CONTENTS]
 -------------------------------------------------------------------*/
 /*  typography */
-@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
+@import url("https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 @font-face {
-  font-family: 'gentium-bold';
+  font-family: "gentium-bold";
   src: url("../fonts/gentium-basic-v12-latin-regular.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
 body {
   line-height: 1.2;
-  font-family: "Poppins", sans-serif;
+  font-family: "Barlow", sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
   color: #5c5c77; }
 
-p, .paragraph {
+p,
+.paragraph {
   font-weight: 400;
   color: #5c5c77;
   font-size: 15px;
   line-height: 1.9;
-  font-family: "Poppins", sans-serif; }
+  font-family: "Barlow", sans-serif; }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: #141519;
-  font-family: "futura-bold";
+  font-family: "Barlow", sans-serif;
   font-weight: 700;
   line-height: 1.2; }
 
-h1, .h1 {
+h1,
+.h1 {
   font-size: 60px; }
   @media (max-width: 575px) {
-    h1, .h1 {
+    h1,
+    .h1 {
       font-size: 45px; } }
-h2, .h2 {
+h2,
+.h2 {
   font-size: 40px; }
   @media (max-width: 575px) {
-    h2, .h2 {
+    h2,
+    .h2 {
       font-size: 30px; } }
-h3, .h3 {
+h3,
+.h3 {
   font-size: 25px; }
   @media (max-width: 575px) {
-    h3, .h3 {
+    h3,
+    .h3 {
       font-size: 20px; } }
-h4, .h4 {
+h4,
+.h4 {
   font-size: 20px; }
   @media (max-width: 575px) {
-    h4, .h4 {
+    h4,
+    .h4 {
       font-size: 18px; } }
-h5, .h5 {
+h5,
+.h5 {
   font-size: 18px; }
   @media (max-width: 575px) {
-    h5, .h5 {
+    h5,
+    .h5 {
       font-size: 16px; } }
-h6, .h6 {
+h6,
+.h6 {
   font-size: 16px; }
   @media (max-width: 575px) {
-    h6, .h6 {
+    h6,
+    .h6 {
       font-size: 14px; } }
 /* Button style */
 .btn {
   font-size: 16px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Barlow", sans-serif;
   text-transform: capitalize;
   padding: 15px 40px;
   border-radius: 0;
@@ -280,7 +298,7 @@ a h4:hover {
   color: #141519 !important; }
 
 .font-secondary {
-  font-family: "futura-bold"; }
+  font-family: "Barlow", sans-serif; }
 
 .mb-10 {
   margin-bottom: 10px !important; }
@@ -453,7 +471,7 @@ textarea.form-control {
 
 .top-header {
   font-size: 12px;
-  transition: transform .2s ease;
+  transition: transform 0.2s ease;
   transform-origin: top;
   font-weight: 600; }
   .top-header.hide {
@@ -462,10 +480,16 @@ textarea.form-control {
 
 .navigation {
   background: linear-gradient(to right, transparent 50%, #141414 50%);
-  transition: .2s ease; }
+  transition: 0.2s ease; }
   @media (max-width: 991px) {
     .navigation {
       background: #971919; } }
+  @media (max-width: 767px) {
+    .navigation {
+      max-height: 100vh;
+      overflow-y: auto; }
+      .navigation::-webkit-scrollbar {
+        display: none; } }
 @media (max-width: 991px) {
   .navbar-collapse {
     background: #971919; } }
@@ -502,7 +526,7 @@ textarea.form-control {
     background: #fff;
     transform: scaleY(0);
     transform-origin: top;
-    transition: transform .3s ease; }
+    transition: transform 0.3s ease; }
   .nav-item:hover::before, .nav-item.active::before {
     transform: scaleY(1);
     transform-origin: bottom; }
@@ -542,11 +566,11 @@ link:focus,
   box-shadow: 0px 3px 9px 0px rgba(0, 0, 0, 0.12);
   border-bottom: 5px solid #141414;
   padding: 15px;
-  top: 96px;
+  top: calc(100% - 1px);
   border-radius: 0;
   display: block;
   visibility: hidden;
-  transition: .3s ease;
+  transition: 0.3s ease;
   opacity: 0;
   transform: translateY(20px);
   background: #fff; }
@@ -566,9 +590,9 @@ link:focus,
 .navbar .dropdown-item {
   position: relative;
   color: #141519;
-  transition: .2s ease;
+  transition: 0.2s ease;
   text-transform: capitalize;
-  font-family: "Poppins", sans-serif; }
+  font-family: "Barlow", sans-serif; }
   @media (max-width: 991px) {
     .navbar .dropdown-item {
       text-align: center; } }
@@ -644,7 +668,7 @@ ul > li {
   margin-right: auto;
   overflow: hidden !important;
   color: whitesmoke;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; }
+  font-family: 'Barlow', sans-serif; }
 
 .row-design {
   height: 290px;
@@ -766,7 +790,7 @@ ul > li {
 .card-date {
   position: absolute;
   background: #141414;
-  font-family: "futura-bold";
+  font-family: "Barlow", sans-serif;
   text-align: center;
   padding: 10px;
   color: #fff;

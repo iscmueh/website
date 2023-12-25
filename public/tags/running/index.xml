@@ -7,15 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
-    <lastBuildDate>Tue, 06 Jul 2021 15:27:17 +0600</lastBuildDate><atom:link href="https://www.iscm.ueh.edu.vn/tags/running/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jul 2021 15:27:17 +0600</lastBuildDate>
+    <atom:link href="https://www.iscm.ueh.edu.vn/tags/running/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Under Construction</title>
       <link>https://www.iscm.ueh.edu.vn/blog/blog-post-1/</link>
       <pubDate>Tue, 06 Jul 2021 15:27:17 +0600</pubDate>
-      
       <guid>https://www.iscm.ueh.edu.vn/blog/blog-post-1/</guid>
       <description>The standard Lorem Ipsum passage, used since the 1500s </description>
     </item>
-    
   </channel>
 </rss>
