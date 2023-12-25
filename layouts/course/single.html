@@ -6,8 +6,11 @@
     <div class="row">
       <div class="col-12 mb-4">
         <!-- course thumb -->
-        <img style="height: 500px;width: 100%;object-fit: cover;" src="{{ .Params.image | relURL }}"
-          class="img-fluid w-100">
+        <img
+          style="height: 500px; width: 100%; object-fit: cover"
+          src="{{ .Params.image | relURL }}"
+          class="img-fluid w-100"
+        />
       </div>
     </div>
     <!-- course info -->
@@ -16,7 +19,7 @@
         <h2>{{ .Title }}</h2>
       </div>
       <div class="col-xl-6 order-sm-3 order-1 col-12 order-2">
-        <ul class="list-inline text-xl-center" style="align-items: right;">
+        <ul class="list-inline text-xl-center" style="align-items: right">
           <li class="list-inline-item mr-4 mb-3 mb-sm-0">
             <div class="d-flex align-items-center">
               <i class="ti-calendar text-primary icon-md mr-2"></i>
@@ -54,9 +57,22 @@
     </div>
     <!-- course details -->
     <div class="row">
+      {{ $sectionDelimiter := "<!-- course structure image -->" }} {{ $rawContentSections
+      := split .RawContent $sectionDelimiter }} {{ if gt (len
+      $rawContentSections) 1 }}
       <div class="col-12 mb-4 content">
-        {{ .Content }}
+        {{ index $rawContentSections 0 | .RenderString }}
       </div>
+      <img
+        style="height: auto; width: 100%; object-fit: cover"
+        src="{{ .Params.courseStuctureImage | relURL }}"
+      />
+      <div class="col-12 mb-4 content">
+        {{ index $rawContentSections 1 | .RenderString }}
+      </div>
+      {{ else }}
+      <div class="col-12 mb-4 content">{{ .Content }}</div>
+      {{ end }}
       <!-- teacher -->
       <!--
       <div class="col-12">
@@ -82,8 +98,6 @@
         {{ end }}
         <div class="border-bottom border-primary mt-4"></div>
       </div> -->
-
-      <img style="height: auto;width: 100%;object-fit: cover;" src="{{ .Params.courseStuctureImage | relURL }}"/>
     </div>
   </div>
 </section>
@@ -99,13 +113,11 @@
     </div>
     <div class="row">
       <!-- course item -->
-      {{ $related := (where site.RegularPages "Type" "course") | intersect (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) | shuffle | first 3}}
-      {{ range first 3 $related }}
-      <div class="col-lg-4 col-sm-6 mb-5">
-        {{ .Render "course"}}
-      </div>
+      {{ $related := (where site.RegularPages "Type" "course") | intersect
+      (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related
+      . ) | shuffle | first 3}} {{ range first 3 $related }}
+      <div class="col-lg-4 col-sm-6 mb-5">{{ .Render "course"}}</div>
       {{ end }}
-      
     </div>
   </div>
 </section>

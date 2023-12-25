@@ -60,3 +60,4 @@ After graduation, students have competence to work for public or private, intern
 
 #### Program structure 
 <!-- ![](/images/courses/structure/bachelor.jpg) -->
+<!-- course structure image -->

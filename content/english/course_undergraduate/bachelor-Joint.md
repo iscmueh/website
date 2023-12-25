@@ -50,6 +50,9 @@ The Bachelor of Architecture and Urban design inclusive Smart city/ Bachelor of 
 #### General information of partner university:
 1. Founded in 1883, Auckland is the country’s largest university with over 40,000 students, nearly 10,000 of whom graduate annually. The University is located in the harbor city of Auckland, New Zealand’s economic and cultural hub, with easy access to stunning beaches and rainforests. Auckland is ranked as one of the world's top three cities for quality of living, according to the 2017 Mercer Quality of Living Survey. It is also ranked in the top 30 of the QS Best Student Cities 2017. The University of Auckland has five main campuses, the largest of which is nestled within Auckland's bustling city center.phố Auckland, được cung cấp đầy đủ các dịch vụ thiết yếu và dễ dàng tiếp cận với cuộc sống nhộn nhịp tại đây.
 
+#### [Program structure:](https://drive.google.com/file/d/1YMFuO2xwNJ-HO-OoYBqLUDEd90CBJhid/view)
+<!-- course structure image -->
+
 #### Admissions contact: 
 1. Institute of Smart City and Management (ISCM)
 2. * Address: 232/6 Vo Thi Sau, Vo Thi Sau Ward, District 3, Ho Chi Minh City
@@ -57,5 +60,3 @@ The Bachelor of Architecture and Urban design inclusive Smart city/ Bachelor of 
 3. * Email: iscm@ueh.edu.vn 
 3. * Website: www.iscm.ueh.edu.vn
 5. * Facebook: http://www.facebook.com/ISCM.UEH
-
-#### [Program structure:](https://drive.google.com/file/d/1YMFuO2xwNJ-HO-OoYBqLUDEd90CBJhid/view)
