@@ -72,7 +72,7 @@
               <a class="nav-link" href="{{ site.BaseURL | absLangURL }}">{{ site.Params.Home }}</a>
             </li> -->
             {{ range site.Menus.main }} {{ if .HasChildren }}
-            <li class="nav-item dropdown" style="align-self: stretch; display: flex; align-items: center;">
+            <li class="nav-item dropdown align-self-lg-stretch" style="display: flex; align-items: center;">
               <a
                 class="nav-link dropdown-toggle"
                 href="#"
@@ -90,7 +90,7 @@
               </div>
             </li>
             {{ else }}
-            <li class="nav-item" style="align-self: stretch; display: flex; align-items: center;">
+            <li class="nav-item align-self-lg-stretch" style="display: flex; align-items: center;">
               <a class="nav-link" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
             </li>
             {{ end }} {{ end }}
