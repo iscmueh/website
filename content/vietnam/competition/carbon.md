@@ -1,6 +1,5 @@
 ---
-title: "The 3rd International Design Competition: 
-REIMAGING CITIES TOWARDS CARBON NEUTRALITY"
+title: "Cuộc thi thiết kế quốc tế lần thứ 3: REIMAGING CITIES TOWARDS CARBON NEUTRALITY"
 author: iscm
 bg_image: "images/backgrounds/page-title.jpg"
 description : " "

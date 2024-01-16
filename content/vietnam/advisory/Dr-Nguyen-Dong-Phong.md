@@ -1,5 +1,5 @@
 ---
-title: "GS. Nguyễn Đông Phong"
+title: "GS. TS. Nguyễn Đông Phong"
 draft: false
 
 
@@ -10,7 +10,7 @@ description : ""
 # teacher portrait
 image: "images/team/AdvisoryBoard/nguyendongphong.jpg"
 # course
-course: "Chủ tịch Hội đồng Trường Đại học Kinh tế TP.HCM"
+course: "Chủ tịch Hội đồng Đại học Kinh tế TP. Hồ Chí Minh"
 # biography
 bio: ""
 # interest

@@ -524,42 +524,42 @@ hasChildren =true
 
 [[Languages.vi.menu.main]]
 weight = 8
-name = "Mục"
+name = "Khác"
 hasChildren = true
 
 
   [[Languages.vi.menu.main]]
-  parent = "Mục"
+  parent = "Khác"
   weight = 1
   name = "Thông Báo"
   url = "notice"
 
   [[Languages.vi.menu.main]]
-  parent = "Mục"
+  parent = "Khác"
   weight = 2
   name = "Tư Vấn"
   url = "consultancy"
 
   [[Languages.vi.menu.main]]
-  parent = "Mục"
+  parent = "Khác"
   weight = 3
   name = "Học Bổng"
   url = "scholarship"
 
   [[Languages.vi.menu.main]]
-  parent = "Mục"
+  parent = "Khác"
   weight = 4
   name = "Thư Viện"
   url = "library"
 
   [[Languages.vi.menu.main]]
-  parent = "Mục"
+  parent = "Khác"
   weight = 5
   name = "Đối Tác"
   url = "partner"
 
   [[Languages.vi.menu.main]]
-  parent = "Mục"
+  parent = "Khác"
   weight = 6
   name = "Tuyển Dụng"
   url = "recruit"

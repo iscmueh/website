@@ -1,7 +1,7 @@
 ---
 title: NHÌN LẠI CHUỖI SỰ KIỆN VUNG TAU FUTURE TẠI THÀNH PHỐ VŨNG TÀU NĂM 2024
 author: ISCM
-publishDate: "2024-01-15T00:00:00.000Z"
+publishDate: "2024-01-09T00:00:00.000Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description: ""
 #Event image
@@ -75,7 +75,8 @@ _<center style="margin-top: -30px">Đại diện nhóm CNDC0100 nhận giải nh
 ![](/images/events/vung_tau_future_2024/final-11.png)
 _<center style="margin-top: -30px">Đại diện các nhóm CNDC0013 và CNDC0137 nhận các giải thưởng Bài thi được yêu thích nhất và Bài thi được Nhà tài trợ bình chọn</center>_
 
-![](/images/events/vung_tau_future_2024/final-06.png)_<center style="margin-top: -30px">Tri ân các giám khảo và nhà tài trợ của Cuộc thi Thiết kế Quốc tế lần 3.</center>_
+![](/images/events/vung_tau_future_2024/final-06.png)
+_<center style="margin-top: -30px">Tri ân các giám khảo và nhà tài trợ của Cuộc thi Thiết kế Quốc tế lần 3.</center>_
 
 **Các cơ quan báo chí, truyền thông đưa tin về sự kiện:**
 

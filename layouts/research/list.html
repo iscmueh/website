@@ -3,12 +3,14 @@
 <!-- research -->
 <section class="section">
   <div class="container">
-    <p style="font-size:30px; font-weight: bold;">Current projects</p>
+    <p style="font-size: 30px; font-weight: bold">
+      {{ $pageLang := .Page.Lang}} {{ if eq $pageLang "vi"}} Dự án Hiện tại {{
+      else}} Current Project {{end}}
+    </p>
     <div class="row">
       {{ range .Data.Pages}}
       <!-- recharch item -->
-      <div class="col-lg-4 col-sm-6 mb-4">
-        {{ .Render "research" }}</div>
+      <div class="col-lg-4 col-sm-6 mb-4">{{ .Render "research" }}</div>
       {{ end }}
     </div>
   </div>

@@ -1,7 +1,7 @@
 ---
 title: LOOKING BACK AT THE SERIES OF VUNG TAU FUTURE EVENTS IN VUNG TAU CITY IN 2024
 author: ISCM
-publishDate: "2024-01-15T00:00:00.000Z"
+publishDate: "2024-01-09T00:00:00.000Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description: ""
 #Event image
@@ -21,12 +21,13 @@ The Vung Tau Future event series also had the participation of Dr. Ducksu Seo (H
 
 Within the framework of the Vung Tau Future Event Series, the exhibition of 15 best proposals of the 3rd International Design Competition: Reimagining Cities towards Carbon Neutrality was held on January 9, 2024, and open to the public.
 
-![](/images/events/vung_tau_future_2024/final-09.png)
+<img src="/images/events/vung_tau_future_2024/final-09.png" loading="lazy" />
 _<center style="margin-top: -30px">From left to right: Mr. Steven Petit, Dr. Dinh Cong Khai, Mr. Vu Hong Thuan, Dr. Trinh Tu Anh and Mr. Park Jinho.</center>_
 
 These TOP 15 proposals received high praise from the judges for applying unique planning strategies and innovative designs to new urban planning directions. These solutions are also expressed in diverse aspects of an urban area, such as architecture, infrastructure, transportation, landscape, etc., which additionally provide a suitable orientation to sustainable development for North Phuoc Thang.
 
-![](/images/events/vung_tau_future_2024/final-01.png)
+<!-- ![](/images/events/vung_tau_future_2024/final-01.png) -->
+<img src="/images/events/vung_tau_future_2024/final-01.png" loading="lazy" />
 _<center style="margin-top: -30px">Mr. Vu Hong Thuan - Deputy Chairman of Vung Tau City People's Committee visited the exhibition.</center>_
 
 With the participation of the contestants of Top 15 from Vietnam and abroad, the Exhibition of TOP 15 of the 3rd International Design Competition: Reimagining Cities towards Carbon Neutrality is not only a display of development proposals for North Phuoc Thang area, but also a place to meet and talk with students who have excellent urban planning and design ideas.

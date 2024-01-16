@@ -25,6 +25,7 @@ type: "course"
 courseStuctureImage: "images/courses/structure/UEH.jpg"
 summary: " "
 post: "Master of Smart City and Innovation Management"
+weight: 1
 ---
 
 
