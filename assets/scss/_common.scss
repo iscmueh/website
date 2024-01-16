@@ -16,7 +16,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #FFDC11;
+  background-color: #ffdc11;
   z-index: 999999;
   display: flex;
   align-items: center;
@@ -42,9 +42,8 @@ img[alt$="><"] {
   max-width: 100%;
   height: auto;
   margin: auto;
-  float: none!important;
+  float: none !important;
 }
-
 
 img {
   vertical-align: middle;
@@ -57,7 +56,7 @@ a:focus {
   text-decoration: none;
 }
 
-a{
+a {
   color: inherit;
 }
 
@@ -65,7 +64,7 @@ a,
 button,
 select {
   cursor: pointer;
-  transition: .2s ease;
+  transition: 0.2s ease;
 
   &:focus {
     outline: 0;
@@ -77,18 +76,18 @@ a:hover {
 }
 
 a.text-primary:hover {
-  color: $primary-color!important;
+  color: $primary-color !important;
 }
 
 a.text-light:hover {
-  color: $primary-color!important;
+  color: $primary-color !important;
 }
 
-h4{
-  transition: .2s ease;
+h4 {
+  transition: 0.2s ease;
 }
-a h4{
-  &:hover{
+a h4 {
+  &:hover {
     color: $primary-color;
   }
 }
@@ -128,13 +127,13 @@ a h4{
 
   &::before {
     position: absolute;
-    content: '';
+    content: "";
     height: 100%;
     width: 100%;
     top: 0;
     left: 0;
     background: $secondary-color;
-    opacity: .0;
+    opacity: 0;
   }
 }
 
@@ -170,7 +169,7 @@ a h4{
   color: $text-color-light !important;
 }
 
-.text-lighten{
+.text-lighten {
   color: #d6d6e0 !important;
 }
 
@@ -240,11 +239,11 @@ a h4{
   }
 }
 
-.vertical-align-middle{
+.vertical-align-middle {
   vertical-align: middle;
 }
 
-.icon-md{
+.icon-md {
   font-size: 36px;
 }
 
@@ -275,12 +274,12 @@ a h4{
 
 /* /page title */
 
-.list-styled{
+.list-styled {
   padding-left: 25px;
-  li{
+  li {
     position: relative;
     margin-bottom: 15px;
-    &::before{
+    &::before {
       position: absolute;
       content: "";
       height: 10px;
@@ -293,21 +292,18 @@ a h4{
   }
 }
 
-textarea.form-control{
+textarea.form-control {
   height: 200px;
   padding: 20px;
 }
 
-#map_canvas{
+#map_canvas {
   height: 500px;
 }
-
-
 
 .post-thumb-sm {
   max-width: 100px;
 }
-
 
 /* pagination */
 .pagination {
@@ -333,7 +329,6 @@ textarea.form-control{
     }
   }
 }
-
 
 .content {
   * {
@@ -374,7 +369,7 @@ textarea.form-control{
         left: 0;
         top: 1px;
         color: $primary-color;
-        transition: .3s ease;
+        transition: 0.3s ease;
       }
     }
   }
@@ -388,9 +383,9 @@ textarea.form-control{
 
     th,
     td {
-      padding: .75rem;
+      padding: 0.75rem;
       vertical-align: top;
-      border: 1px solid #dee2e6
+      border: 1px solid #dee2e6;
     }
 
     thead {
@@ -406,7 +401,6 @@ textarea.form-control{
     }
   }
 
-
   blockquote {
     p {
       margin-bottom: 0;
@@ -415,14 +409,17 @@ textarea.form-control{
     }
   }
 
-
   pre {
     padding: 10px 20px;
     background: $light;
   }
+
+  img {
+    width: 100%;
+  }
 }
 
-.teacher-thumb-sm{
+.teacher-thumb-sm {
   height: 85px;
   width: 85px;
   object-fit: cover;

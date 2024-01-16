@@ -15,6 +15,12 @@ disqusShortname = "iscmueh" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
 
 ############################# Plugins ##############################
 
@@ -148,7 +154,6 @@ weight = 1
 home = "Home"
 # copyright
 copyright = "Copyright &copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)"
-
 
 
 ################### English navigation ####################
