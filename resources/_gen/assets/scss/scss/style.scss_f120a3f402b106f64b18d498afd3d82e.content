@@ -455,6 +455,9 @@ textarea.form-control {
     .content table tbody td {
       text-align: left !important; }
 
+.content p {
+  text-align: justify; }
+
 .content blockquote p {
   margin-bottom: 0;
   color: #5c5c77;

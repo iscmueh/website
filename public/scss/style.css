@@ -170,7 +170,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #FFDC11;
+  background-color: #ffdc11;
   z-index: 999999;
   display: flex;
   align-items: center;
@@ -210,7 +210,7 @@ a,
 button,
 select {
   cursor: pointer;
-  transition: .2s ease; }
+  transition: 0.2s ease; }
   a:focus,
   button:focus,
   select:focus {
@@ -226,7 +226,7 @@ a.text-light:hover {
   color: #141414 !important; }
 
 h4 {
-  transition: .2s ease; }
+  transition: 0.2s ease; }
 
 a h4:hover {
   color: #141414; }
@@ -256,13 +256,13 @@ a h4:hover {
   position: relative; }
   .overlay::before {
     position: absolute;
-    content: '';
+    content: "";
     height: 100%;
     width: 100%;
     top: 0;
     left: 0;
     background: #971919;
-    opacity: .0; }
+    opacity: 0; }
 
 .outline-0 {
   outline: 0 !important; }
@@ -435,7 +435,7 @@ textarea.form-control {
       left: 0;
       top: 1px;
       color: #141414;
-      transition: .3s ease; }
+      transition: 0.3s ease; }
 
 .content table {
   text-align: left;
@@ -445,7 +445,7 @@ textarea.form-control {
   border: 1px solid #dee2e6; }
   .content table th,
   .content table td {
-    padding: .75rem;
+    padding: 0.75rem;
     vertical-align: top;
     border: 1px solid #dee2e6; }
   .content table thead {
@@ -463,6 +463,9 @@ textarea.form-control {
 .content pre {
   padding: 10px 20px;
   background: #f8f9fe; }
+
+.content img {
+  width: 100%; }
 
 .teacher-thumb-sm {
   height: 85px;

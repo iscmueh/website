@@ -1,5 +1,5 @@
 ---
-title: NHÌN LẠI CHUỖI SỰ KIỆN VUNG TAU FUTURE TẠI THÀNH PHỐ VŨNG TÀU NĂM 2024"
+title: NHÌN LẠI CHUỖI SỰ KIỆN VUNG TAU FUTURE TẠI THÀNH PHỐ VŨNG TÀU NĂM 2024
 author: ISCM
 publishDate: "2024-01-15T00:00:00.000Z"
 bg_image: "images/backgrounds/page-title.jpg"
@@ -60,6 +60,7 @@ _<center style="margin-top: -30px">Nhóm CNDC0012 đến từ Việt Nam đã gi
 Theo đó, giải nhất đã thuộc về bài dự thi GreenScape City: A path to Carbon Neutrality của nhóm CNDC0012 đến từ Việt Nam, giải nhì thuộc về bài dự thi Bluetopia của nhóm CNDC0100 đến từ Nhật Bản, giải ba thuộc về nhóm CNDC0136 đến từ Anh Quốc với bài dự thi Urban Stitches, Giải thưởng Bài thi được yêu thích nhất dành cho nhóm CNDC0013 (Việt Nam) với bài dự thi (Re)forming (Anh Quốc), và nhóm CNDC0137 chính là chủ nhân của giải thưởng được Giải do nhà tài trợ bình chọn.
 
 **Một số hình ảnh khác về sự kiện:**
+
 ![](/images/events/vung_tau_future_2024/final-14.png)
 _<center style="margin-top: -30px">Lãnh đạo, đại diện các sở ban ngành, phường xã, cùng các giáo sư, chuyên gia tham dự hội thảo</center>_
 
