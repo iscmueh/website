@@ -41,19 +41,22 @@
                 href="https://www.iscm.ueh.edu.vn/vi/consultancy/assetmanagement/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/admission_undergraduate/master_admission_2022/</loc>
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/competition/smartcityplus/</loc>
+    <loc>https://www.iscm.ueh.edu.vn/vi/course_graduate/master-02/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/competition/smartcityplus/"
+                href="https://www.iscm.ueh.edu.vn/course_graduate/master-02/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/competition/smartcityplus/"
+                href="https://www.iscm.ueh.edu.vn/vi/course_graduate/master-02/"
                 />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/admission_undergraduate/master_admission_2022/</loc>
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/competition/carbon/</loc>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/adjunctprofessors/prof-katharinanord/</loc>
     <xhtml:link
@@ -127,8 +130,6 @@
                 href="https://www.iscm.ueh.edu.vn/vi/admission_master/master_admission_2022/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/competition/carbon/</loc>
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/admission_announcement/master_admission_2022/</loc>
     <xhtml:link
                 rel="alternate"
@@ -179,16 +180,16 @@
                 href="https://www.iscm.ueh.edu.vn/vi/consultancy/spatial-analysis/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/competition/futurecity/</loc>
+    <loc>https://www.iscm.ueh.edu.vn/vi/competition/smartcityplus/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/competition/futurecity/"
+                href="https://www.iscm.ueh.edu.vn/competition/smartcityplus/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/competition/futurecity/"
+                href="https://www.iscm.ueh.edu.vn/vi/competition/smartcityplus/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/adjunctprofessors/prof-lee-youngsang/</loc>
@@ -276,6 +277,18 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/course_shortcourse/sc-smartcity/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/competition/futurecity/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/competition/futurecity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/competition/futurecity/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/adjunctprofessors/prof-youngsang-kwon/</loc>
@@ -817,7 +830,7 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/</loc>
-    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -830,10 +843,20 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/event/vung_tau_future_2024/</loc>
-    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/vung_tau_future_2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/vung_tau_future_2024/"
+                />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/event/</loc>
-    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -2467,19 +2490,6 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/network/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/course_graduate/master-02/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/course_graduate/master-02/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/course_graduate/master-02/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/teacher/alex-rook/</loc>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
-    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.iscm.ueh.edu.vn/vi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Handong Global University</title>
@@ -31,6 +31,13 @@
       <description>Tối ưu hóa hệ thống quản lý bằng các mô hình toán thống kê cao cấp, giúp chủ đầu tư tiết kiệm chi phí vận hành.</description>
     </item>
     <item>
+      <title>Thạc Sĩ Quản Lý Đô Thị Thông Minh và Sáng Tạo</title>
+      <link>https://www.iscm.ueh.edu.vn/vi/course_graduate/master-02/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/vi/course_graduate/master-02/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>ADMISSION PLAN FOR MASTER - 2022</title>
       <link>https://www.iscm.ueh.edu.vn/vi/admission_undergraduate/master_admission_2022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -38,11 +45,11 @@
       <description>Đối với chương trình tiếng Việt:&#xA;02 Hạng Xuất sắc: 100% học phí + phí ăn ở (tương đương $ 4.</description>
     </item>
     <item>
-      <title>Cuộc thi thiết kế quốc tế lần thứ 2: SMART CITY &#43; </title>
-      <link>https://www.iscm.ueh.edu.vn/vi/competition/smartcityplus/</link>
+      <title>Cuộc thi thiết kế quốc tế lần thứ 3: REIMAGING CITIES TOWARDS CARBON NEUTRALITY</title>
+      <link>https://www.iscm.ueh.edu.vn/vi/competition/carbon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/competition/smartcityplus/</guid>
-      <description>Các dự án đã đoạt giải Booklet </description>
+      <guid>https://www.iscm.ueh.edu.vn/vi/competition/carbon/</guid>
+      <description>Booklet </description>
     </item>
     <item>
       <title>GS. Catharina Nord</title>
@@ -52,7 +59,7 @@
       <description>Giảng Dạy Phương pháp nghiên cứu khoa học Quy hoạch không gian Thiết kế đô thị Tiểu Sử Nghiên Cứu và Học Thuật Giáo sư, Bộ môn Quy Hoạch Không Gian, Viện Kỹ Thuật Blekinge, BTH (2016 - Hiện tại) Cố vấn tại UN Academic Impact, Hàn Quốc (2016 - HIện tại) Giảng viên cao cấp, NISAL, Đại học Linköping (2011 - 2016) Trợ lý giáo sư, NISAL, Đại học Linköping (2007 - 2010) Phó giáo sư KTH (2009) Nghiên cứu viên, Đơn vị Nghiên cứu Kiến trúc Y tế, Đại học London South Bank (2006) Nghiên cứu viên, Phân tích Môi trường Xây dựng, KTH (2004 - 2005) Tiến sĩ, Phân tích Môi trường Xây dựng, KTH (2004) Nghiên cứu sinh tiến sĩ, Khoa Cơ sở hạ tầng, Phân tích Môi trường Xây dựng, KTH (1990 - 2003) Thạc sĩ Kiến trúc KTH (1990) Các Dự Án Đang Thực Hiện CollAGE.</description>
     </item>
     <item>
-      <title>GS. Nguyễn Đông Phong</title>
+      <title>GS. TS. Nguyễn Đông Phong</title>
       <link>https://www.iscm.ueh.edu.vn/vi/advisory/dr-nguyen-dong-phong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.iscm.ueh.edu.vn/vi/advisory/dr-nguyen-dong-phong/</guid>
@@ -87,13 +94,6 @@
       <description>Đối với chương trình tiếng Việt:&#xA;02 Hạng Xuất sắc: 100% học phí + phí ăn ở (tương đương $ 4.</description>
     </item>
     <item>
-      <title>The 3rd International Design Competition: REIMAGING CITIES TOWARDS CARBON NEUTRALITY</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/competition/carbon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/competition/carbon/</guid>
-      <description>Booklet </description>
-    </item>
-    <item>
       <title>Thông báo tuyển sinh chương trình Thạc sĩ Điều hành cao cấp 2022</title>
       <link>https://www.iscm.ueh.edu.vn/vi/admission_announcement/master_admission_2022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -122,11 +122,11 @@
       <description>Phân tích và trực quan hóa không gian sử dụng nền tảng GIS, các mô hình thống kê và các công cụ để quy hoạch và quản lý đô thị.</description>
     </item>
     <item>
-      <title>Cuộc thi thiết kế quốc tế lần thứ 1 - Thành phố tương lai: Thiết kế thông minh cho thế giới hậu đại dịch </title>
-      <link>https://www.iscm.ueh.edu.vn/vi/competition/futurecity/</link>
+      <title>Cuộc thi thiết kế quốc tế lần thứ 2: SMART CITY &#43; </title>
+      <link>https://www.iscm.ueh.edu.vn/vi/competition/smartcityplus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/competition/futurecity/</guid>
-      <description>Các hoạt động: International Launch Event of UEH - ISCM Viện Đô thị Thông minh và Quản lý (ISCM) - Đại học Kinh tế TP.</description>
+      <guid>https://www.iscm.ueh.edu.vn/vi/competition/smartcityplus/</guid>
+      <description>Các dự án đã đoạt giải Booklet </description>
     </item>
     <item>
       <title>GS. Lee Jongsang</title>
@@ -176,6 +176,13 @@
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       <guid>https://www.iscm.ueh.edu.vn/vi/course_shortcourse/sc-smartcity/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Cuộc thi thiết kế quốc tế lần thứ 1 - Thành phố tương lai: Thiết kế thông minh cho thế giới hậu đại dịch </title>
+      <link>https://www.iscm.ueh.edu.vn/vi/competition/futurecity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/vi/competition/futurecity/</guid>
+      <description>Các hoạt động: International Launch Event of UEH - ISCM Viện Đô thị Thông minh và Quản lý (ISCM) - Đại học Kinh tế TP.</description>
     </item>
     <item>
       <title>GS. Youngsang Kwon</title>
@@ -479,9 +486,9 @@
       <description></description>
     </item>
     <item>
-      <title>NHÌN LẠI CHUỖI SỰ KIỆN VUNG TAU FUTURE TẠI THÀNH PHỐ VŨNG TÀU NĂM 2024&#34;</title>
+      <title>NHÌN LẠI CHUỖI SỰ KIỆN VUNG TAU FUTURE TẠI THÀNH PHỐ VŨNG TÀU NĂM 2024</title>
       <link>https://www.iscm.ueh.edu.vn/vi/event/vung_tau_future_2024/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://www.iscm.ueh.edu.vn/vi/event/vung_tau_future_2024/</guid>
       <description>Ngày 09/01/2024 vừa qua, Đại học Kinh tế Thành phố Hồ Chí Minh, kết hợp cùng Uỷ ban Nhân dân Thành phố Vũng Tàu và các đối tác tổ chức chuỗi sự kiện Vũng Tàu Future gồm triển lãm, hội thảo Phát triển Thành phố Vũng Tàu thành trung tâm du lịch chất lượng cao và đẳng cấp quốc tế và Lễ trao giải Cuộc thi Thiết kế Quốc tế lần 3: Reimagining Cities towards Carbon Neutrality.</description>
     </item>
@@ -1303,13 +1310,6 @@
       <pubDate>Tue, 22 Sep 2020 18:00:00 +0000</pubDate>
       <guid>https://www.iscm.ueh.edu.vn/vi/event/future-outlook/</guid>
       <description>Không còn nghi ngờ gì việc thế giới đang thay đổi, vì vậy việc lên kế hoạch cho một viễn cảnh tương lai mà trong đó con người luôn giữ vai trò chủ động trong hoạt động là rất quan trọng.</description>
-    </item>
-    <item>
-      <title>Thạc Sĩ Quản Lý Đô Thị Thông Minh và Sáng Tạo</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/course_graduate/master-02/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/course_graduate/master-02/</guid>
-      <description></description>
     </item>
     <item>
       <title>Alex Rook</title>
