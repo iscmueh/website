@@ -68,6 +68,18 @@
                 href="https://www.iscm.ueh.edu.vn/admission_master/master_admission_2022/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/adjunctprofessors/dr-chinh-ho/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/adjunctprofessors/dr-chinh-ho/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/adjunctprofessors/dr-chinh-ho/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/members/dr-trinh-tu-anh/</loc>
     <xhtml:link
                 rel="alternate"
@@ -126,6 +138,30 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/advisory/dr-nguyen-dong-phong/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/adjunctprofessors/prof_sung_jin_kang/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/adjunctprofessors/prof_sung_jin_kang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/adjunctprofessors/prof_sung_jin_kang/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/adjunctprofessors/prof_tae_yong_jung/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/adjunctprofessors/prof_tae_yong_jung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/adjunctprofessors/prof_tae_yong_jung/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/activities/r4n-2022/</loc>
