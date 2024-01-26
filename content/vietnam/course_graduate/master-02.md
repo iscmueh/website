@@ -22,7 +22,7 @@ duration : "2 năm"
 apply_url : "#"
 # type
 type: "course"
-courseStuctureImage: "images/courses/structure/UEH.jpg"
+courseStuctureImage: "images/courses/structure/master-ueh.JPG"
 post: "Thạc Sĩ Quản Lý Đô Thị Thông Minh và Sáng Tạo"
 
 summary: " "
@@ -62,4 +62,5 @@ Thí sinh đăng ký dự thi phải đáp ứng các điều kiện sau:
 #### [Bấm vào đây để xem chi tiết](https://www.ueh.edu.vn/dao-tao/thac-si-tien-si/thac-si-dieu-hanh-cao-cap-emba/quan-ly-do-thi-thong-minh-va-sang-tao/?fbclid=IwAR09xSUOK2WxPuLZdZ4whONMLsnSDkAyvQqkoX0iioGizyCGdkdtBUqgig4)
 
 #### Cấu Trúc Chương Trình 
-![](images/courses/structure/master-ueh.JPG)
+<!-- ![](images/courses/structure/master-ueh.JPG) -->
+<!-- course structure image -->

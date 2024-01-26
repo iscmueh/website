@@ -6,12 +6,19 @@
     <div class="row">
       {{ range .Data.Pages}}
       <!-- recharch item -->
-      <div class="col-lg-4 col-sm-6 mb-4">
-        {{ .Render "teacher" }}</div>
+      <div class="col-lg-4 col-sm-6 mb-4">{{ .Render "teacher" }}</div>
       {{ end }}
     </div>
   </div>
 </section>
 <!-- /research -->
+
+<style>
+  .card img {
+    width: 100%;
+    height: 371px;
+    object-fit: cover;
+  }
+</style>
 
 {{ end }}

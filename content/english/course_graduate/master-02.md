@@ -63,3 +63,4 @@ Candidates applying for the entrance examination must satisfy the following cond
 #### [Click HERE for more Details](https://www.ueh.edu.vn/dao-tao/thac-si-tien-si/thac-si-dieu-hanh-cao-cap-emba/quan-ly-do-thi-thong-minh-va-sang-tao/?fbclid=IwAR09xSUOK2WxPuLZdZ4whONMLsnSDkAyvQqkoX0iioGizyCGdkdtBUqgig4)
 
 #### Program structure
+<!-- course structure image -->
