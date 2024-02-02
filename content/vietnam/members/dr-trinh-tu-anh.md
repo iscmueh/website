@@ -18,15 +18,15 @@ Với vai trò là một chuyên gia và có sức ảnh hưởng rộng lớn t
 # contact info
 contact:
   # contact item loop
-  - name : "trinhtuanh@ueh.edu.vn"
-    icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:namlt@ueh.edu.vn"
+  # - name : "trinhtuanh@ueh.edu.vn"
+  #   icon : "ti-email" # icon pack : https://themify.me/themify-icons
+  #   link : "mailto:namlt@ueh.edu.vn"
 
   # contact item loop
   # contact item loop
-  - name : "+84-28-3930-9589/ +84-28-3930-9269"
-    icon : "ti-world" # icon pack : https://themify.me/themify-icons
-    link : "https://namkyodai.github.io"
+  # - name : "+84-28-3930-9589/ +84-28-3930-9269"
+  #   icon : "ti-world" # icon pack : https://themify.me/themify-icons
+  #   link : "https://namkyodai.github.io"
 
   # contact item loop
   # - name : "1313 Boulevard Cremazie,Quebec"
@@ -38,37 +38,37 @@ type: "teacher"
 weight: 1
 ---
 
-
 ### Giảng Dạy
-1. * Kinh tế đô thị mới và tiếp thị thành phố
-1. * Đồ án thiết kế đô thị thông minh
-1. * Quản lý đô thị
-1. * Thành phố thông minh
-1. * An toàn đường bộ
-1. * Giao thông và sử dụng đất
-1. * Hoạt động hàng không
 
+1. - Kinh tế đô thị mới và tiếp thị thành phố
+1. - Đồ án thiết kế đô thị thông minh
+1. - Quản lý đô thị
+1. - Thành phố thông minh
+1. - An toàn đường bộ
+1. - Giao thông và sử dụng đất
+1. - Hoạt động hàng không
 
 ### Tiểu Sử Học Thuật
-1. * Tiến sĩ kỹ thuật, Giao thông, Đại học Hasselt , Bỉ, 2008 -2013
-1. * Thạc sĩ kỹ thuật, Giao thông, Viện Công Nghệ Á Châu, Thái Lan, 2001 - 2003
-1. * Cử nhân kỹ thuật, Giao thông - Bộ môn Kinh Tế, Đại học Giao Thông Vận Tải, Việt Nam, 1996 - 2000
+
+1. - Tiến sĩ kỹ thuật, Giao thông, Đại học Hasselt , Bỉ, 2008 -2013
+1. - Thạc sĩ kỹ thuật, Giao thông, Viện Công Nghệ Á Châu, Thái Lan, 2001 - 2003
+1. - Cử nhân kỹ thuật, Giao thông - Bộ môn Kinh Tế, Đại học Giao Thông Vận Tải, Việt Nam, 1996 - 2000
 
 ### Kinh Nghiệm
-1. * Viện trưởng, Viện Đô Thị Thông Minh và Quản Lý, Đại học Kinh Tế TP. Hồ Chí Minh, 2020 - hiện tại
-1. * Trưởng Bộ môn Quy Hoạch, Đại học Tôn Đức Thắng, 2014 - 2020
-1. * Trưởng Khoa Hàng Không, Học Viện Hàng Không Việt Nam, 2007 – 2013
-1. * Giảng viên, Đại học Giao Thông Vận Tải, 2003- 2007
-1. * Trợ Giảng, 2000 – 2001
+
+1. - Viện trưởng, Viện Đô Thị Thông Minh và Quản Lý, Đại học Kinh Tế TP. Hồ Chí Minh, 2020 - hiện tại
+1. - Trưởng Bộ môn Quy Hoạch, Đại học Tôn Đức Thắng, 2014 - 2020
+1. - Trưởng Khoa Hàng Không, Học Viện Hàng Không Việt Nam, 2007 – 2013
+1. - Giảng viên, Đại học Giao Thông Vận Tải, 2003- 2007
+1. - Trợ Giảng, 2000 – 2001
 
 ### Thành Viên Hiệp Hội Nghiên Cứu
 
-1. * Mạng Lưới học về Sự Bền Vững (LENS)
-1. * Hội Thảo Phụ Nữ trong Khả Năng Lãnh Đạo trong Giao Thông (WiTL)
-1. * Mạng Lưới Nghiên Cứu Tai Nạn Giao Thông Đường Bộ (RTIRN)
-1. * Mạng Lưới Quản Lý Môi Trường Đô Thị (UEM Network)
-1. * Hiệp Hội Nghiên Cứu Giao Thông Đông Á (EASTS)
-1. * Hiệp Hội Nghiên Cứu Giao Thông Việt Nam (TSSV)
-1. * Mạng Lưới Sinh Viên Quốc Tế trong Nghiên Cứu Giao Thông (ISSOT)
+1. - Mạng Lưới học về Sự Bền Vững (LENS)
+1. - Hội Thảo Phụ Nữ trong Khả Năng Lãnh Đạo trong Giao Thông (WiTL)
+1. - Mạng Lưới Nghiên Cứu Tai Nạn Giao Thông Đường Bộ (RTIRN)
+1. - Mạng Lưới Quản Lý Môi Trường Đô Thị (UEM Network)
+1. - Hiệp Hội Nghiên Cứu Giao Thông Đông Á (EASTS)
+1. - Hiệp Hội Nghiên Cứu Giao Thông Việt Nam (TSSV)
 
-### [Bấm vào ĐÂY để xem các bài báo](https://scholar.google.com.vn/citations?hl=en&user=aaTLa1UAAAAJ&view_op=list_works&sortby=pubdate)
+### [Bấm vào ĐÂY để xem các bài báo](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH70aAXRdl6O1RpzMQTHBN-SOAF7oUQMawjO4TlCcrUTMi0wgP5URi2cR4_i24RhDbn5oLhz_QlRMTa2J9w8ew&user=bQrm2JYAAAAJ)

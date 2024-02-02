@@ -17,17 +17,17 @@ bio: "Dr. Tu Anh Trinh is the Director Institute of Smart City and Management, C
 Dr. Trinh has worked on local and international projects as a specialist and team leader in fields of sustainability, smart cities, urban and transportation planning, traffic safety, transport economics, and aviation operation. She is recognized for her academic excellence during her tenure, as evidenced by her numerous publications in prestigious journals and proceedings for academic and press conferences"
 
 # contact info
-contact:
+# contact:
   # contact item loop
-  - name : "trinhtuanh@ueh.edu.vn"
-    icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:namlt@ueh.edu.vn"
+  # - name : "trinhtuanh@ueh.edu.vn"
+  #   icon : "ti-email" # icon pack : https://themify.me/themify-icons
+  #   link : "mailto:namlt@ueh.edu.vn"
 
   # contact item loop
   # contact item loop
-  - name : "+84-28-3930-9589/ +84-28-3930-9269"
-    icon : "ti-world" # icon pack : https://themify.me/themify-icons
-    link : "https://namkyodai.github.io"
+  # - name : "+84-28-3930-9589/ +84-28-3930-9269"
+  #   icon : "ti-world" # icon pack : https://themify.me/themify-icons
+  #   link : "https://namkyodai.github.io"
 
   # contact item loop
   # - name : "1313 Boulevard Cremazie,Quebec"
@@ -39,37 +39,37 @@ type: "teacher"
 weight: 1
 ---
 
-
 ### Courses
-1. * New urban Economics and city marketing
-1. * Smart Urban Design StudioLab
-1. * Urban Management
-1. * Smart City
-1. * Road Safety
-1. * Land-use and Transportation
-1. * Aviation Operation
 
+1. - New urban Economics and city marketing
+1. - Smart Urban Design StudioLab
+1. - Urban Management
+1. - Smart City
+1. - Road Safety
+1. - Land-use and Transportation
+1. - Aviation Operation
 
 ### Academic
-1. * Doctor of Engineering, Transportation, Hasselt University, Belgium, 2008 -2013
-1. * Master of Engineering, Transportation, Asian Institute of Technology, international institution based in Bangkok, Thailand 2001 - 2003
-1. * Bachelor of Engineering, Transport - Economics Department, University of Transport and Communication, Vietnam 1996 - 2000
+
+1. - Doctor of Engineering, Transportation, Hasselt University, Belgium, 2008 -2013
+1. - Master of Engineering, Transportation, Asian Institute of Technology, international institution based in Bangkok, Thailand 2001 - 2003
+1. - Bachelor of Engineering, Transport - Economics Department, University of Transport and Communication, Vietnam 1996 - 2000
 
 ### Academic Experiences
-1. * Director, Institute of Smart City and Management, University of Economics HCMC, May 2020 - Present
-1. * Head, Planning Department, Ton Duc Thang University, September 2014 - May 2020
-1. * Dean, Aviation Faculty, Vietnam Aviation Academy, 2007 – December 2013
-1. * Lecturer, University of Transport and Communication, September 2003- 2007
-1. * Assistant Lecturer, September 2000 – August 2001
+
+1. - Director, Institute of Smart City and Management, University of Economics HCMC, May 2020 - Present
+1. - Head, Planning Department, Ton Duc Thang University, September 2014 - May 2020
+1. - Dean, Aviation Faculty, Vietnam Aviation Academy, 2007 – December 2013
+1. - Lecturer, University of Transport and Communication, September 2003- 2007
+1. - Assistant Lecturer, September 2000 – August 2001
 
 ### Professional Memberships
 
-1. * LENS (Learning Network on Sustainability)
-1. * WiTL (Woman in Transport Leadership Workshop)
-1. * RTIRN (Road Traffic Injuries Research Network)
-1. * UEM Network (Urban Environmental Management Network)
-1. * EASTS (Eastern Asia Society for Transportation Studies)
-1. * TSSV (Transportation Studies Society of Vietnam)
-1. * ISSOT (International Student Network on Transport Research)
+1. - LENS (Learning Network on Sustainability)
+1. - WiTL (Woman in Transport Leadership Workshop)
+1. - RTIRN (Road Traffic Injuries Research Network)
+1. - UEM Network (Urban Environmental Management Network)
+1. - EASTS (Eastern Asia Society for Transportation Studies)
+1. - TSSV (Transportation Studies Society of Vietnam)
 
-### [Click HERE for Publication](https://scholar.google.com.vn/citations?hl=en&user=aaTLa1UAAAAJ&view_op=list_works&sortby=pubdate)
+### [Click HERE for Publication](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH70aAXRdl6O1RpzMQTHBN-SOAF7oUQMawjO4TlCcrUTMi0wgP5URi2cR4_i24RhDbn5oLhz_QlRMTa2J9w8ew&user=bQrm2JYAAAAJ)
