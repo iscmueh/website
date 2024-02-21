@@ -9,11 +9,11 @@
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
     <atom:link href="https://www.iscm.ueh.edu.vn/adjunctprofessors/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Dr. Chinh Ho</title>
-      <link>https://www.iscm.ueh.edu.vn/adjunctprofessors/dr-chinh-ho/</link>
+      <title>Assoc.Prof. Elena Marchigiani</title>
+      <link>https://www.iscm.ueh.edu.vn/adjunctprofessors/prof-elena-marchigiani/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/adjunctprofessors/dr-chinh-ho/</guid>
-      <description>Academic and Research Profile Doctor of Philosophy (Transport Economics), the University of Sydney Business School, Australia (2013) Master of Civil Engineering (Transport Planning), Nagoya University, Japan (2010) Bachelor Civil Engineering (1st class Honours Bridge and Highway Engineering), Vietnam National University, Ho Chi Minh City, Vietnam More Information about Dr.</description>
+      <guid>https://www.iscm.ueh.edu.vn/adjunctprofessors/prof-elena-marchigiani/</guid>
+      <description>Courses Town Planning and Urban design Academic and Research Profile Associate Professor in Urban Planning, Department of engineering and Architecture, University of Trieste (IT) (2019 – now) Researcher in Urban Planning, Department of Engineering and Architecture, University of Trieste (IT) (2004 – 2019) Deputy Major at the Municipality of Trieste (Public Works, Private Building, Urban Planning, Mobility and Traffic, Housing Policies and Complex Urban Projects), Municipality of Trieste (IT) (2011 – 2016) Post-Ph.</description>
     </item>
     <item>
       <title>Prof. Catharina Nord</title>
@@ -21,6 +21,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.iscm.ueh.edu.vn/adjunctprofessors/prof-katharinanord/</guid>
       <description>Courses Research Methodology Spatial Planning Urban Design Academic and Research Profile Professor, Dep.</description>
+    </item>
+    <item>
+      <title>Prof. Lee Jongsang</title>
+      <link>https://www.iscm.ueh.edu.vn/adjunctprofessors/prof-lee-youngsang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/adjunctprofessors/prof-lee-youngsang/</guid>
+      <description>Academic and Research Profile Professor, Kongju National University (2012 – Now) Visiting Professor, The University of the Philippines (2010 – 2011) Associate Professor, Kongju National University (2007 – 2012) Assistant Professor, Kongju National University (2004 – 2007) Senior Researcher, Chung-Nam Development Institute (1996 – 2004) Researcher, Korea Forest Research Institute (1995) Chief of Planning Department, Geonggi Development Institute (1993 – 1994) Ph.</description>
     </item>
     <item>
       <title>Prof. Sung Jin Kang</title>
@@ -37,13 +44,6 @@
       <description>Academic and Research Profile Ph. D. Economics, Rutgers, The State University of New Jersey, 1991 MA.</description>
     </item>
     <item>
-      <title>Prof. Lee Jongsang</title>
-      <link>https://www.iscm.ueh.edu.vn/adjunctprofessors/prof-lee-youngsang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/adjunctprofessors/prof-lee-youngsang/</guid>
-      <description>Academic and Research Profile Professor, Kongju National University (2012 – Now) Visiting Professor, The University of the Philippines (2010 – 2011) Associate Professor, Kongju National University (2007 – 2012) Assistant Professor, Kongju National University (2004 – 2007) Senior Researcher, Chung-Nam Development Institute (1996 – 2004) Researcher, Korea Forest Research Institute (1995) Chief of Planning Department, Geonggi Development Institute (1993 – 1994) Ph.</description>
-    </item>
-    <item>
       <title>Prof. Youngsang Kwon</title>
       <link>https://www.iscm.ueh.edu.vn/adjunctprofessors/prof-youngsang-kwon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -51,11 +51,11 @@
       <description>Courses Urban Design Planning and Design of Future City Urban Design Studio Introduction of Smart City Academic and Research Profile Professor of the Department of Civil and Environmental Engineering (Urban design major), Seoul National University (2014 – Now) Visiting Scholar, University of California, Berkeley (2017-2018) Assistant Professor of the Department of Architecture and Urban Design (Urban design major), Incheon National University (2012 – 2014) Lecturer at Ton Duc Thang University, Vietnam (2015 – Now) Senior Researcher at AURI (Architecture and Urban Research Institute), Director of the National Hanok (Korean traditional housing) Center (2007 – 2012) Researcher at KRIHS (Korean Research Institute for Human Settlement) Urban Planning Division (2005 – 2007) Ph.</description>
     </item>
     <item>
-      <title>Assoc.Prof. Elena Marchigiani</title>
-      <link>https://www.iscm.ueh.edu.vn/adjunctprofessors/prof-elena-marchigiani/</link>
+      <title>Dr. Chinh Ho</title>
+      <link>https://www.iscm.ueh.edu.vn/adjunctprofessors/dr-chinh-ho/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/adjunctprofessors/prof-elena-marchigiani/</guid>
-      <description>Courses Town Planning and Urban design Academic and Research Profile Associate Professor in Urban Planning, Department of engineering and Architecture, University of Trieste (IT) (2019 – now) Researcher in Urban Planning, Department of Engineering and Architecture, University of Trieste (IT) (2004 – 2019) Deputy Major at the Municipality of Trieste (Public Works, Private Building, Urban Planning, Mobility and Traffic, Housing Policies and Complex Urban Projects), Municipality of Trieste (IT) (2011 – 2016) Post-Ph.</description>
+      <guid>https://www.iscm.ueh.edu.vn/adjunctprofessors/dr-chinh-ho/</guid>
+      <description>Academic and Research Profile Doctor of Philosophy (Transport Economics), the University of Sydney Business School, Australia (2013) Master of Civil Engineering (Transport Planning), Nagoya University, Japan (2010) Bachelor Civil Engineering (1st class Honours Bridge and Highway Engineering), Vietnam National University, Ho Chi Minh City, Vietnam More Information about Dr.</description>
     </item>
   </channel>
 </rss>

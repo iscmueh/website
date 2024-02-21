@@ -53,7 +53,7 @@ contact:
 
 # type
 type: "teacher"
-weight: 4
+weight: 1
 ---
 ### Courses
 1. * Town Planning and Urban design

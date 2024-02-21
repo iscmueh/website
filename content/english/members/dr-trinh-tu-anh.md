@@ -17,17 +17,17 @@ bio: "Dr. Tu Anh Trinh is the Director Institute of Smart City and Management, C
 Dr. Trinh has worked on local and international projects as a specialist and team leader in fields of sustainability, smart cities, urban and transportation planning, traffic safety, transport economics, and aviation operation. She is recognized for her academic excellence during her tenure, as evidenced by her numerous publications in prestigious journals and proceedings for academic and press conferences"
 
 # contact info
-# contact:
+contact:
   # contact item loop
-  # - name : "trinhtuanh@ueh.edu.vn"
-  #   icon : "ti-email" # icon pack : https://themify.me/themify-icons
-  #   link : "mailto:namlt@ueh.edu.vn"
+  - name : "trinhtuanh@ueh.edu.vn"
+    icon : "ti-email" # icon pack : https://themify.me/themify-icons
+    link : "mailto:trinhtuanh@ueh.edu.vn"
 
   # contact item loop
   # contact item loop
-  # - name : "+84-28-3930-9589/ +84-28-3930-9269"
-  #   icon : "ti-world" # icon pack : https://themify.me/themify-icons
-  #   link : "https://namkyodai.github.io"
+  - name : "+84-28-3930-9589 / +84-28-3930-9269"
+    icon : "ti-world" # icon pack : https://themify.me/themify-icons
+    link : "tel:+84-28-3930-9589"
 
   # contact item loop
   # - name : "1313 Boulevard Cremazie,Quebec"

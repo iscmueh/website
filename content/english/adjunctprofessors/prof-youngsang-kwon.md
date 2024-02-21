@@ -54,7 +54,7 @@ contact:
 
 # type
 type: "teacher"
-weight: 3
+weight: 1
 ---
 
 ### Courses

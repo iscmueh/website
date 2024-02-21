@@ -267,69 +267,69 @@ hasChildren = true
 
 [[Languages.en.menu.main]]
 weight = 8
-name = "Pages"
+name = "Others"
 hasChildren = true
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
+  parent = "Others"
   weight = 1
   name = "notice"
   url = "notice"
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
+  parent = "Others"
   weight = 2
   name = "Consultancy"
   url = "consultancy"
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
+  parent = "Others"
   weight = 3
   name = "scholarship"
   url = "scholarship"
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
+  parent = "Others"
   weight = 4
   name = "Partner"
   url = "partner"
 
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  weight = 4
-  name = "Library"
-  url = "library"
+#  [[Languages.en.menu.main]]
+#  parent = "Others"
+#  weight = 4
+#  name = "Library"
+#  url = "library"
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
+  parent = "Others"
   weight = 5
   name = "Recruitment"
   url = "recruit"
 
-[[Languages.en.menu.main]]
-weight = 7
-name = "Admission"
-hasChildren = true
+#[[Languages.en.menu.main]]
+#weight = 7
+#name = "Admission"
+#hasChildren = true
 #url = "team"
-   [[Languages.en.menu.main]]
-   parent = "Admission"
-   weight = 1
-   name = "For Undergraduate"
-   url = "admission_undergraduate"
+#   [[Languages.en.menu.main]]
+#   parent = "Admission"
+#   weight = 1
+#   name = "For Undergraduate"
+#   url = "admission_undergraduate"
 
 
-   [[Languages.en.menu.main]]
-   parent = "Admission"
-   weight = 2
-   name = "For Graduate"
-   url = "admission_master"
+#   [[Languages.en.menu.main]]
+#   parent = "Admission"
+#   weight = 2
+#   name = "For Graduate"
+#   url = "admission_master"
 
-   [[Languages.en.menu.main]]
-   parent = "Admission"
-   weight = 3
-   name = "Announcement"
-   url = "admission_announcement"
+#   [[Languages.en.menu.main]]
+#   parent = "Admission"
+#   weight = 3
+#   name = "Announcement"
+#   url = "admission_announcement"
 
 
 [[Languages.en.menu.main]]
@@ -500,27 +500,27 @@ hasChildren = true
 #   url = "admission_announcement"
 
 
-[[Languages.vi.menu.main]]
-weight=7
-name="Tuyển Sinh"
-hasChildren =true
-  [[Languages.vi.menu.main]]
-  parent="Tuyển Sinh"
-  weight = 2
-  name="Cho Cao Học"
-  url="admission_master"
+#[[Languages.vi.menu.main]]
+#weight=7
+#name="Tuyển Sinh"
+#hasChildren =true
+#  [[Languages.vi.menu.main]]
+#  parent="Tuyển Sinh"
+#  weight = 2
+#  name="Cho Cao Học"
+#  url="admission_master"
 
-  [[Languages.vi.menu.main]]
-  parent="Tuyển Sinh"
-  weight = 1
-  name="Cho Đại Học"
-  url="admission_undergraduate"
+#  [[Languages.vi.menu.main]]
+#  parent="Tuyển Sinh"
+#  weight = 1
+#  name="Cho Đại Học"
+#  url="admission_undergraduate"
   
-  [[Languages.vi.menu.main]]
-  parent="Tuyển Sinh"
-  weight = 3
-  name="Thông Báo Tuyển Sinh"
-  url="admission_announcement"
+#  [[Languages.vi.menu.main]]
+#  parent="Tuyển Sinh"
+#  weight = 3
+#  name="Thông Báo Tuyển Sinh"
+#  url="admission_announcement"
 
 [[Languages.vi.menu.main]]
 weight = 8
@@ -546,11 +546,11 @@ hasChildren = true
   name = "Học Bổng"
   url = "scholarship"
 
-  [[Languages.vi.menu.main]]
-  parent = "Khác"
-  weight = 4
-  name = "Thư Viện"
-  url = "library"
+#  [[Languages.vi.menu.main]]
+#  parent = "Khác"
+#  weight = 4
+#  name = "Thư Viện"
+#  url = "library"
 
   [[Languages.vi.menu.main]]
   parent = "Khác"

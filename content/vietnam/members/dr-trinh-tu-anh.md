@@ -18,15 +18,15 @@ Với vai trò là một chuyên gia và có sức ảnh hưởng rộng lớn t
 # contact info
 contact:
   # contact item loop
-  # - name : "trinhtuanh@ueh.edu.vn"
-  #   icon : "ti-email" # icon pack : https://themify.me/themify-icons
-  #   link : "mailto:namlt@ueh.edu.vn"
+  - name : "trinhtuanh@ueh.edu.vn"
+    icon : "ti-email" # icon pack : https://themify.me/themify-icons
+    link : "mailto:trinhtuanh@ueh.edu.vn"
 
   # contact item loop
   # contact item loop
-  # - name : "+84-28-3930-9589/ +84-28-3930-9269"
-  #   icon : "ti-world" # icon pack : https://themify.me/themify-icons
-  #   link : "https://namkyodai.github.io"
+  - name : "+84-28-3930-9589 / +84-28-3930-9269"
+    icon : "ti-world" # icon pack : https://themify.me/themify-icons
+    link : "tel:+84-28-3930-9589"
 
   # contact item loop
   # - name : "1313 Boulevard Cremazie,Quebec"

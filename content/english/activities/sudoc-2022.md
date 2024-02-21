@@ -1,17 +1,18 @@
 ---
-title: "INTERNATIONAL CONFERENCE - SUSTAINABLE UNIVERSITY DEVELOPMENT: OPPORTUNITY AND CHALLENGE (SUDOC) 2022"
+title: "international conference - sustainable university development: opportunity and challenge (sudoc) 2022"
 author: iscm
 bg_image: "images/backgrounds/page-title.jpg"
-description : " Resilience by Technology and Design (RTD). This is the first international meeting in a series planned by CTD to take place every two years. The RTD-2022, with the theme Smart Living, serves as a forum for discussion on how to strengthen the resilience of communities using technology and human-centered design to achieve sustainability for all, and in parallel, promotes the integration of digital technology innovations and advancements in various facets of human life and business"
+description: " Resilience by Technology and Design (RTD). This is the first international meeting in a series planned by CTD to take place every two years. The RTD-2022, with the theme Smart Living, serves as a forum for discussion on how to strengthen the resilience of communities using technology and human-centered design to achieve sustainability for all, and in parallel, promotes the integration of digital technology innovations and advancements in various facets of human life and business"
 flipbook: false
 # Event image
 image: "images/activities/sudoc-2022/sudoc-2022.png"
 
 weight: 6
 ---
-<!-- ![](/images/activities/rtd-2022/rtd-2022.png) -->
-{{< figure src="/images/activities/sudoc-2022/sudoc-2022.png" width="100%" >}}
 
+<!-- ![](/images/activities/rtd-2022/rtd-2022.png) -->
+
+{{< figure src="/images/activities/sudoc-2022/sudoc-2022.png" width="100%" >}}
 
 #### [INTERNATIONAL CONFERENCE - SUSTAINABLE UNIVERSITY DEVELOPMENT: OPPORTUNITY AND CHALLENGE (SUDOC) 2022](http://sudoc.info/)
 
@@ -24,38 +25,37 @@ Welcome to UEH - Vietnam, and to the international conference SUDOC 2022 toward 
 #### KEY DATES
 
 - 05.10.2022: Full Paper Submission
->
+  >
 - 05.11.2022: Full Paper Acceptance
->
+  >
 - 10.11.2022: Registration and Payment
->
+  >
 - 08 - 11.12-2022: Conference Dates
->
+  >
 
 #### REGISTRATION FEE
 
 - Regular registration: US$100
->
+  >
 - Additional paper: US$80
->
+  >
 - Student: US$80
->
+  >
 - Co-author/Attendee : US$50
->
+  >
 - Field trip: Update later
->
+  >
 
 Contact Email: <sudoc@ueh.edu.vn>
 
 ##### Publication chance for selected papers:
 
-* Journal of Asian Business and Economic Studies (JABES) 
->
-* International Journal of Building, Urban, Interior and Landscape Technology (BUILT)
->
-* Evaluation Review SAGE
->
-* Australian Marketing Journal
-
+- Journal of Asian Business and Economic Studies (JABES)
+  >
+- International Journal of Building, Urban, Interior and Landscape Technology (BUILT)
+  >
+- Evaluation Review SAGE
+  >
+- Australian Marketing Journal
 
 </html>

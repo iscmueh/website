@@ -52,7 +52,7 @@ contact:
 
 # type
 type: "teacher"
-weight: 2
+weight: 1
 ---
 
 ### Academic and Research Profile
