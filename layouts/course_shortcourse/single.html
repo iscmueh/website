@@ -6,23 +6,26 @@
     <div class="row">
       <div class="col-12 mb-4">
         <!-- course thumb -->
-        <img style="height: 500px;width: 100%;object-fit: cover;" src="{{ .Params.image | relURL }}"
-          class="img-fluid w-100">
+        <img
+          style="height: 500px; width: 100%; object-fit: cover"
+          src="{{ .Params.image | relURL }}"
+          class="img-fluid w-100"
+        />
       </div>
     </div>
     <!-- course info -->
     <div class="row align-items-center mb-5">
-      <div class="col-xl-4 order-1 col-sm-6 mb-4 mb-xl-0 text-center">
-        <h4 style="font-size: 22pt;">{{ .Title }}</h4>
+      <div class="col-xl-7 order-1 col-sm-6 mb-4 mb-xl-0">
+        <h4 style="font-size: 22pt">{{ .Title }}</h4>
       </div>
-      <div class="col-xl-6 order-sm-3 order-xl-2 col-12 order-2">
+      <div class="col-xl-5 order-sm-3 order-xl-2 col-12 order-2">
         <ul class="list-inline text-xl-center">
           <li class="list-inline-item mr-4 mb-3 mb-sm-0">
             <div class="d-flex align-items-left">
               <i class="ti-calendar text-primary icon-md mr-2"></i>
-              <div class="text-left" style="width: 100pt;">
+              <div class="text-left" style="width: 100pt">
                 <h6 class="mb-0">{{ i18n "duration" | upper }}</h6>
-                <p class="mb-0" >{{ .Params.Duration }}</p>
+                <p class="mb-0">{{ .Params.Duration }}</p>
               </div>
             </div>
           </li>
@@ -56,9 +59,13 @@
     </div>
     <!-- course details -->
     <div class="row">
-      <div class="col-12 mb-4 content">
-        {{ .Content }}
-      </div>
+      <div class="col-12 mb-4 content">{{ .Content }}</div>
+      {{ if .Params.courseStuctureImage }}
+      <img
+        src="{{ .Params.courseStuctureImage | relURL }}"
+        style="height: auto; width: 100%; object-fit: cover"
+      />
+      {{ end}}
       <!-- teacher
       <div class="col-12">
         <h5 class="mb-3">{{ i18n "teacher" }}</h5>
@@ -84,15 +91,13 @@
         <div class="border-bottom border-primary mt-4"></div>
       </div>-->
     </div>
-    <div class="col-12 mb-4">
-      <img style="height: auto;width: 100%;object-fit: cover;" src="{{ .Params.courseStuctureImage | relURL }}"
-        class="img-fluid w-100">
-    </div>
   </div>
 </section>
 <!-- /section -->
 
 <!-- related course -->
+{{ $related := (where site.RegularPages "Section" "course_shortcourse") |
+intersect (where site.Pages "Title" "!=" .Title) }} 
 <section class="section pt-0">
   <div class="container">
     <div class="row">
@@ -102,15 +107,13 @@
     </div>
     <div class="row">
       <!-- course item -->
-      {{ $related := (where site.RegularPages "Type" "course") | intersect (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) | shuffle | first 3}}
-      {{ range first 3 $related }}
-      <div class="col-lg-4 col-sm-6 mb-5">
-        {{ .Render "course"}}
-      </div>
+      {{ range $related }}
+      <div class="col-lg-4 col-sm-6 mb-5">{{ .Render "course"}}</div>
       {{ end }}
     </div>
   </div>
 </section>
+
 <!-- /related course -->
 
 {{ end }}

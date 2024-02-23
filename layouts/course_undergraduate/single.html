@@ -6,16 +6,19 @@
     <div class="row">
       <div class="col-12 mb-4">
         <!-- course thumb -->
-        <img style="height: 500px;width: 100%;object-fit: cover;" src="{{ .Params.image | relURL }}"
-          class="img-fluid w-100">
+        <img
+          style="height: 500px; width: 100%; object-fit: cover"
+          src="{{ .Params.image | relURL }}"
+          class="img-fluid w-100"
+        />
       </div>
     </div>
     <!-- course info -->
     <div class="row align-items-center mb-5">
-      <div class="col-xl-3 order-1 col-sm-6 mb-4 mb-xl-0">
+      <div class="col-xl-7 order-1 col-sm-6 mb-4 mb-xl-0">
         <h2>{{ .Title }}</h2>
       </div>
-      <div class="col-xl-6 order-sm-3 order-xl-2 col-12 order-2">
+      <div class="col-xl-5 order-sm-3 order-xl-2 col-12 order-2">
         <ul class="list-inline text-xl-center">
           <li class="list-inline-item mr-4 mb-3 mb-sm-0">
             <div class="d-flex align-items-center">
@@ -46,9 +49,15 @@
           </li> -->
         </ul>
       </div>
-      <div class="col-xl-3 text-sm-right text-left order-sm-2 order-3 order-xl-3 col-sm-6 mb-4 mb-xl-0">
-        <a href="{{ .Params.Apply_url | safeURL }}" class="btn btn-primary">{{ i18n "apply_now" }}</a>
+      {{/*
+      <div
+        class="col-xl-3 text-sm-right text-left order-sm-2 order-3 order-xl-3 col-sm-6 mb-4 mb-xl-0"
+      >
+        <a href="{{ .Params.Apply_url | safeURL }}" class="btn btn-primary"
+          >{{ i18n "apply_now" }}</a
+        >
       </div>
+      */}}
       <!-- border -->
       <div class="col-12 mt-4 order-4">
         <div class="border-bottom border-primary"></div>
@@ -56,9 +65,13 @@
     </div>
     <!-- course details -->
     <div class="row">
-      <div class="col-12 mb-4 content">
-        {{ .Content }}
-      </div>
+      <div class="col-12 mb-4 content">{{ .Content }}</div>
+      {{ if .Params.courseStuctureImage }}
+      <img
+        src="{{ .Params.courseStuctureImage | relURL }}"
+        style="height: auto; width: 100%; object-fit: cover"
+      />
+      {{ end}}
       <!-- teacher -->
       <!--
       <div class="col-12">
@@ -90,6 +103,10 @@
 <!-- /section -->
 
 <!-- related course -->
+{{ $related := (where site.RegularPages "Section" "course_undergraduate") |
+intersect (where site.Pages ".Title" "!=" .Title) }} {{ if gt (len $related) 1
+}}
+
 <section class="section pt-0">
   <div class="container">
     <div class="row">
@@ -99,16 +116,14 @@
     </div>
     <div class="row">
       <!-- course item -->
-      {{ $related := (where site.RegularPages "Type" "course") | intersect (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) | shuffle | first 3}}
-      {{ range first 3 $related }}
-      <div class="col-lg-4 col-sm-6 mb-5">
-        {{ .Render "course"}}
-      </div>
+      {{ range $related }}
+      <div class="col-lg-4 col-sm-6 mb-5">{{ .Render "course"}}</div>
       {{ end }}
-      
     </div>
   </div>
 </section>
+
+{{end}}
 <!-- /related course -->
 
 {{ end }}

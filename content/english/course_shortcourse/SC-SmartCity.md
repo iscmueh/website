@@ -21,8 +21,7 @@ duration : "06 sessions"
 # apply url
 apply_url : "#"
 # type
-type: "course"
-courseStuctureImage: ""
+course_type: "course"
 summary: " "
 post: "Smart cities: Context, background, principles, and development"
 
