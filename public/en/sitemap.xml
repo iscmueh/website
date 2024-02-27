@@ -941,7 +941,7 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/</loc>
-    <lastmod>2024-01-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-29T09:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
@@ -951,6 +951,45 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/playzedu/</loc>
+    <lastmod>2024-01-29T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/playzedu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/playzedu/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/</loc>
+    <lastmod>2024-01-29T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/sutd-course/</loc>
+    <lastmod>2024-01-15T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/sutd-course/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/sutd-course/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/vung_tau_future_2024/</loc>
@@ -964,19 +1003,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/event/vung_tau_future_2024/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/event/</loc>
-    <lastmod>2024-01-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/event/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/2023-48/</loc>
