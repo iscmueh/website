@@ -21,7 +21,7 @@ duration : "3.5 năm"
 # apply url
 apply_url : "#"
 # type
-type: "course"
+course_type: "course"
 courseStuctureImage: "images/courses/structure/bachelor.jpg"
 summary: " "
 post: "Kiến Trúc và Thiết Kế Đô Thị Thông Minh"

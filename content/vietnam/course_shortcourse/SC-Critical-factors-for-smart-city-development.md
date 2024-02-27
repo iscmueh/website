@@ -21,7 +21,7 @@ duration : "06 buổi"
 # apply url
 apply_url : "#"
 # type
-type: "course"
+course_type: "course"
 courseStuctureImage: ""
 summary: " "
 post: "Các nhân tố chính phát triển thành phố thông minh"

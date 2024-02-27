@@ -21,7 +21,7 @@ duration : "06 buổi"
 # apply url
 apply_url : "#"
 # type
-type: "course"
+course_type: "course"
 courseStuctureImage: ""
 summary: " "
 post: "Thành phố thông minh: Bối cảnh, nền tảng, nguyên lý và sự phát triển"
