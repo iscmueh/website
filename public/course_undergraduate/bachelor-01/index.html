@@ -426,14 +426,6 @@
             ds-yearIndex="0"
             onclick="handleChangeStructure(event)"
           >
-            2024
-          </li>
-            
-          <li
-            class="year-tab"
-            ds-yearIndex="1"
-            onclick="handleChangeStructure(event)"
-          >
             2021
           </li>
            
@@ -441,7 +433,7 @@
         <figure style="min-height: 500px">
           <img
             id="course-structures-image"
-            src="http://surl.li/qzxhz"
+            src="/images/courses/structure/bachelor.jpg"
             style="width: 100%; object-fit: cover"
           />
         </figure>
@@ -475,17 +467,12 @@
 
 <script>
   function handleChangeStructure(e) {
-    
+    if (e.target.classList.contains("year-tab--active")) return;
     const courseStructureImg = $("#course-structures-image")[0];
     let target = e.target.attributes[1].value;
     let indexTemp, image;
     
       indexTemp = "0"
-      if (indexTemp == target) {
-        image = "http:\/\/surl.li\/qzxhz";
-      }
-    
-      indexTemp = "1"
       if (indexTemp == target) {
         image = "\/images\/courses\/structure\/bachelor.jpg";
       }

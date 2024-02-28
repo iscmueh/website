@@ -21,8 +21,8 @@ duration: "3.5 years"
 # apply url
 apply_url: "#"
 course_type: "course"
-courseStructureYear: [2024, 2021]
-courseStuctureImage: ["http://surl.li/qzxhz", "/images/courses/structure/bachelor.jpg"]
+courseStructureYear: [2021]
+courseStuctureImage: ["/images/courses/structure/bachelor.jpg"]
 summary: " "
 post: "Architectural and Urban Design Inclusive Smart City"
 weight: 1

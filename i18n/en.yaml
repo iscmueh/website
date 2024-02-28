@@ -47,7 +47,7 @@
   translation: Category
 
 - id: related_course
-  translation: Related Course
+  translation: Similar Courses
 
 - id: duration
   translation: duration

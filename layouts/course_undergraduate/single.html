@@ -168,7 +168,7 @@ intersect (where site.Pages ".Title" "!=" .Title) }} {{ if gt (len $related) 1
 
 <script>
   function handleChangeStructure(e) {
-    {{/*  if (e.target.classList.contain)  */}}
+    if (e.target.classList.contains("year-tab--active")) return;
     const courseStructureImg = $("#course-structures-image")[0];
     let target = e.target.attributes[1].value;
     let indexTemp, image;

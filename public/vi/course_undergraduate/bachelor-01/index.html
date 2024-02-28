@@ -457,7 +457,7 @@ Phù hợp với nhiều định hướng khác nhau của sinh viên, đề cao
 
 <script>
   function handleChangeStructure(e) {
-    
+    if (e.target.classList.contains("year-tab--active")) return;
     const courseStructureImg = $("#course-structures-image")[0];
     let target = e.target.attributes[1].value;
     let indexTemp, image;
