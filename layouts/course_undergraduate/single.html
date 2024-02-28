@@ -88,11 +88,13 @@
           </li>
           {{end}} {{ end }}
         </ul>
-        <img
-          id="course-structures-image"
-          src="{{ index .Params.courseStuctureImage 0 | relURL }}"
-          style="height: auto; width: 100%; object-fit: cover"
-        />
+        <figure style="min-height: 500px">
+          <img
+            id="course-structures-image"
+            src="{{ index .Params.courseStuctureImage 0 | relURL }}"
+            style="width: 100%; object-fit: cover"
+          />
+        </figure>
         {{ end }}
       </div>
       <!-- teacher -->
@@ -166,6 +168,7 @@ intersect (where site.Pages ".Title" "!=" .Title) }} {{ if gt (len $related) 1
 
 <script>
   function handleChangeStructure(e) {
+    {{/*  if (e.target.classList.contain)  */}}
     const courseStructureImg = $("#course-structures-image")[0];
     let target = e.target.attributes[1].value;
     let indexTemp, image;
@@ -178,7 +181,7 @@ intersect (where site.Pages ".Title" "!=" .Title) }} {{ if gt (len $related) 1
 
     courseStructureImg.style.display = "none";
 
-    $("#course-structures-image").fadeIn({duration: 10000, easing: "easOut"})
+    $("#course-structures-image").fadeIn()
 
     courseStructureImg.setAttribute(
       "src",

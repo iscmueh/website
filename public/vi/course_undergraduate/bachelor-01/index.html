@@ -420,11 +420,13 @@ Phù hợp với nhiều định hướng khác nhau của sinh viên, đề cao
           </li>
            
         </ul>
-        <img
-          id="course-structures-image"
-          src="/images/courses/structure/bachelor.jpg"
-          style="height: auto; width: 100%; object-fit: cover"
-        />
+        <figure style="min-height: 500px">
+          <img
+            id="course-structures-image"
+            src="/images/courses/structure/bachelor.jpg"
+            style="width: 100%; object-fit: cover"
+          />
+        </figure>
         
       </div>
       
@@ -455,6 +457,7 @@ Phù hợp với nhiều định hướng khác nhau của sinh viên, đề cao
 
 <script>
   function handleChangeStructure(e) {
+    
     const courseStructureImg = $("#course-structures-image")[0];
     let target = e.target.attributes[1].value;
     let indexTemp, image;
@@ -467,7 +470,7 @@ Phù hợp với nhiều định hướng khác nhau của sinh viên, đề cao
 
     courseStructureImg.style.display = "none";
 
-    $("#course-structures-image").fadeIn({duration: 10000, easing: "easOut"})
+    $("#course-structures-image").fadeIn()
 
     courseStructureImg.setAttribute(
       "src",
