@@ -352,7 +352,8 @@
     </div>
     
     <div class="row">
-      <div class="col-12 mb-4 content"><h5 id="giới-thiệu-chung">Giới Thiệu Chung</h5>
+      <div class="col-12 mb-4 content">
+        <h5 id="giới-thiệu-chung">Giới Thiệu Chung</h5>
 <!--StartFragment-->
 <p>Chương trình cung cấp kiến thức chuyên môn sâu rộng và năng lực làm chủ các lĩnh vực quản lý, khoa học và công nghệ liên quan đến các giải pháp tích hợp trong quy hoạch và thiết kế đô thị cho thành phố thông minh.</p>
 <p>Sau khi tốt nghiệp, người học được trang bị tư duy logic, kiến thức và kỹ năng quản lý, nền tảng khoa học, chuyên môn cao và kỹ năng thực hành tốt. Người học có khả năng nghiên cứu khoa học độc lập, sáng tạo và đưa ra các giải pháp hiệu quả cho các vấn đề đô thị với sự kết hợp giữa quản lý, khoa học và công nghệ nhằm hướng tới một thành phố thông minh đáp ứng sự tiến bộ của điều kiện kinh tế - xã hội.</p>
@@ -406,15 +407,29 @@
 </li>
 </ol>
 <h4 id="bấm-vào-đây-để-xem-chi-tiếthttpswwwueheduvndao-taothac-si-tien-sithac-si-dieu-hanh-cao-cap-embaquan-ly-do-thi-thong-minh-va-sang-taofbclidiwar09xsuok2wxpulzdz4whonmlsnsdkayvqqkox0iiogizycgdkdtbuqgig4"><a href="https://www.ueh.edu.vn/dao-tao/thac-si-tien-si/thac-si-dieu-hanh-cao-cap-emba/quan-ly-do-thi-thong-minh-va-sang-tao/?fbclid=IwAR09xSUOK2WxPuLZdZ4whONMLsnSDkAyvQqkoX0iioGizyCGdkdtBUqgig4">Bấm vào đây để xem chi tiết</a></h4>
-<h4 id="cấu-trúc-chương-trình">Cấu Trúc Chương Trình</h4>
-<!-- ![](images/courses/structure/master-ueh.JPG) -->
-<!-- course structure image --></div>
-      
-      <img
-        src="/images/courses/structure/master-ueh.JPG"
-        style="height: auto; width: 100%; object-fit: cover"
-      />
-      
+
+        
+          <h4>Program structure</h4>
+          <ul class="year-tabs-list mb-0">
+             
+            <li
+              class="year-tab year-tab--active"
+              ds-yearIndex="0"
+              onclick="handleChangeStructure(event)"
+            >
+              2021
+            </li>
+             
+          </ul>
+          <img
+            id="course-structures-image"
+            src="/images/courses/structure/UEH.jpg"
+            style="height: auto; width: 100%; object-fit: cover"
+          />
+        
+
+      </div>
+
       
       
     </div>
@@ -424,6 +439,52 @@
 
 
  
+
+
+
+
+<style>
+  .year-tab {
+    cursor: pointer;
+  }
+
+  .year-tab--active {
+    color: #ffa500;
+  }
+
+  li.year-tab::before {
+    content: "";
+    display: none;
+  }
+</style>
+
+<script>
+  function handleChangeStructure(e) {
+    const courseStructureImg = $("#course-structures-image")[0];
+    let target = e.target.attributes[1].value;
+    let indexTemp, image;
+    
+      indexTemp = "0"
+      if (indexTemp == target) {
+        image = "\/images\/courses\/structure\/UEH.jpg";
+      }
+    
+
+    courseStructureImg.setAttribute(
+      "src",
+      image
+    );
+
+    const yearTabs = $(".year-tab").get();
+    $(".year-tab--active").removeClass("year-tab--active")
+    for (var tab of yearTabs) {
+      if (tab.attributes[1].value == target) {
+        tab.classList.add("year-tab--active")
+      }
+    }
+
+  }
+</script>
 
 
 

@@ -65,13 +65,36 @@
     </div>
     <!-- course details -->
     <div class="row">
-      <div class="col-12 mb-4 content">{{ .Content }}</div>
-      {{ if .Params.courseStuctureImage }}
-      <img
-        src="{{ .Params.courseStuctureImage | relURL }}"
-        style="height: auto; width: 100%; object-fit: cover"
-      />
-      {{ end}}
+      <div class="col-12 mb-4 content">
+        {{ .Content }} {{ if .Params.courseStructureYear }}
+        <h4>Program structure</h4>
+        <ul class="year-tabs-list mb-0">
+          {{ range $index, $year := .Params.courseStructureYear }} {{ if eq
+          $index 0 }}
+          <li
+            class="year-tab year-tab--active"
+            ds-yearIndex="{{ $index }}"
+            onclick="handleChangeStructure(event)"
+          >
+            {{ $year }}
+          </li>
+          {{else}}
+          <li
+            class="year-tab"
+            ds-yearIndex="{{ $index }}"
+            onclick="handleChangeStructure(event)"
+          >
+            {{ $year }}
+          </li>
+          {{end}} {{ end }}
+        </ul>
+        <img
+          id="course-structures-image"
+          src="{{ index .Params.courseStuctureImage 0 | relURL }}"
+          style="height: auto; width: 100%; object-fit: cover"
+        />
+        {{ end }}
+      </div>
       <!-- teacher -->
       <!--
       <div class="col-12">
@@ -125,5 +148,48 @@ intersect (where site.Pages ".Title" "!=" .Title) }} {{ if gt (len $related) 1
 
 {{end}}
 <!-- /related course -->
+{{ if .Params.courseStructureYear }}
+<style>
+  .year-tab {
+    cursor: pointer;
+  }
 
-{{ end }}
+  .year-tab--active {
+    color: #ffa500;
+  }
+
+  li.year-tab::before {
+    content: "";
+    display: none;
+  }
+</style>
+
+<script>
+  function handleChangeStructure(e) {
+    const courseStructureImg = $("#course-structures-image")[0];
+    let target = e.target.attributes[1].value;
+    let indexTemp, image;
+    {{ range $index, $image := .Params.courseStuctureImage }}
+      indexTemp = "{{ $index }}"
+      if (indexTemp == target) {
+        image = "{{ $image | relURL}}";
+      }
+    {{ end }}
+
+    courseStructureImg.style.display = "none";
+
+    $("#course-structures-image").fadeIn({duration: 10000, easing: "easOut"})
+
+    courseStructureImg.setAttribute(
+      "src",
+      image
+    );
+
+
+    $(".year-tab--active").removeClass("year-tab--active")
+    e.target.classList.add("year-tab--active");
+
+  }
+</script>
+
+{{ end }} {{ end }}

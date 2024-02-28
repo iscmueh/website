@@ -154,7 +154,7 @@
               <div class="dropdown-menu">
                 
                 <a class="dropdown-item" href="https://www.iscm.ueh.edu.vn/course_shortcourse"
-                  >ShortCourse</a
+                  >Short Course</a
                 >
                 
                 <a class="dropdown-item" href="https://www.iscm.ueh.edu.vn/course_undergraduate"
@@ -255,7 +255,7 @@
                   >Partner</a
                 >
                 
-                <a class="dropdown-item" href="https://www.iscm.ueh.edu.vn/recruit"
+                <a class="dropdown-item" href="https://iscm.notion.site/Job-Board-96512d630e1642698e921c64714594a6"
                   >Recruitment</a
                 >
                 
@@ -356,7 +356,8 @@
     </div>
     
     <div class="row">
-      <div class="col-12 mb-4 content"><h4 id="about-course">About Course</h4>
+      <div class="col-12 mb-4 content">
+        <h4 id="about-course">About Course</h4>
 <p>The program is designed following international standards and provides expertise with the integration of international knowledge and skills from various fields such as landscape architecture, transportation and infrastructure, economics, society, environment and technology to the field of architectural and urban design for inclusive smart city.</p>
 <p>After graduation, students have competence to work for public or private, international, NGOs, state agencies. To advance the profession, students could follow a master’s degree program for two years to obtain a master’s degree and an architect’s degree.</p>
 
@@ -416,14 +417,34 @@
 </li>
 </ol>
 <h4 id="click-here-for-more-detailshttpswwwueheduvndao-taodai-hoc-chinh-quycu-nhan-chinh-quy-chuankien-truc-va-thiet-ke-do-thi-thong-minhfbclidiwar2npsrtykgf7cpvm--jjoa42jbvd-inhwmr1uldk9jfbr3kvyr_8rtcudu"><a href="https://www.ueh.edu.vn/dao-tao/dai-hoc-chinh-quy/cu-nhan-chinh-quy-chuan/kien-truc-va-thiet-ke-do-thi-thong-minh/?fbclid=IwAR2NpSrtyKgf7cPVM--jJOa42jbvd-inHWMR1ULdk9jFbr3KvYR_8rTCuDU">Click HERE for more Details</a></h4>
-<h4 id="program-structure">Program structure</h4>
-</div>
-      
-      <img
-        src="/images/courses/structure/bachelor.jpg"
-        style="height: auto; width: 100%; object-fit: cover"
-      />
-      
+ 
+        <h4>Program structure</h4>
+        <ul class="year-tabs-list mb-0">
+           
+          <li
+            class="year-tab year-tab--active"
+            ds-yearIndex="0"
+            onclick="handleChangeStructure(event)"
+          >
+            2024
+          </li>
+            
+          <li
+            class="year-tab"
+            ds-yearIndex="1"
+            onclick="handleChangeStructure(event)"
+          >
+            2021
+          </li>
+           
+        </ul>
+        <img
+          id="course-structures-image"
+          src="http://surl.li/qzxhz"
+          style="height: auto; width: 100%; object-fit: cover"
+        />
+        
+      </div>
       
       
     </div>
@@ -435,7 +456,55 @@
  
 
 
+<style>
+  .year-tab {
+    cursor: pointer;
+  }
 
+  .year-tab--active {
+    color: #ffa500;
+  }
+
+  li.year-tab::before {
+    content: "";
+    display: none;
+  }
+</style>
+
+<script>
+  function handleChangeStructure(e) {
+    const courseStructureImg = $("#course-structures-image")[0];
+    let target = e.target.attributes[1].value;
+    let indexTemp, image;
+    
+      indexTemp = "0"
+      if (indexTemp == target) {
+        image = "http:\/\/surl.li\/qzxhz";
+      }
+    
+      indexTemp = "1"
+      if (indexTemp == target) {
+        image = "\/images\/courses\/structure\/bachelor.jpg";
+      }
+    
+
+    courseStructureImg.style.display = "none";
+
+    $("#course-structures-image").fadeIn({duration: 10000, easing: "easOut"})
+
+    courseStructureImg.setAttribute(
+      "src",
+      image
+    );
+
+
+    $(".year-tab--active").removeClass("year-tab--active")
+    e.target.classList.add("year-tab--active");
+
+  }
+</script>
+
+ 
 <footer>
   
   

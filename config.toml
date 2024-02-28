@@ -176,7 +176,7 @@ weight = 3
   [[Languages.en.menu.main]]
   parent= "Education"
   weight = 1
-  name="ShortCourse"
+  name="Short Course"
   url="course_shortcourse"
 
   [[Languages.en.menu.main]]
@@ -305,7 +305,7 @@ hasChildren = true
   parent = "Others"
   weight = 5
   name = "Recruitment"
-  url = "recruit"
+  url = "https://iscm.notion.site/Job-Board-96512d630e1642698e921c64714594a6"
 
 #[[Languages.en.menu.main]]
 #weight = 7

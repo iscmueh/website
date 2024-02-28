@@ -1,6 +1,4 @@
-{{ define "main" }}
-
-{{ $data := index site.Data site.Language.Lang }}
+{{ define "main" }} {{ $data := index site.Data site.Language.Lang }}
 
 <!-- about -->
 <section class="section">
@@ -8,14 +6,24 @@
     <div class="row">
       <div class="col-12 text-justify">
         {{ with .Params.image }}
-        <img class="img-fluid w-100 mb-4" src="{{ . | relURL }}" alt="about image">
-        {{ end }}
-        {{ .Content }}
+        <img
+          class="img-fluid w-100 mb-4"
+          src="{{ . | relURL }}"
+          alt="about image"
+        />
+        {{ end }} {{ .Content }}
       </div>
     </div>
   </div>
 </section>
-<!-- /about --> 
+<!-- /about -->
+
+<style>
+  li > p {
+    display: list-item;
+    list-style-type: disc;
+  }
+</style>
 
 <!-- funfacts -->
 <!-- {{ if $data.homepage.funfacts.enable }}
@@ -24,7 +32,7 @@
   <div class="container">
     <div class="row">
       <!-- funfacts item -->
-      <!-- {{ range .funfact_item }}
+<!-- {{ range .funfact_item }}
       <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
         <div class="text-center">
           <h2 class="count text-white" data-count="{{ .count }}">0</h2>
@@ -36,7 +44,8 @@
   </div>
 </section>
 {{ end }}
-{{ end }} --> -->
+{{ end }} -->
+-->
 <!-- /funfacts -->
 
 <!-- success story -->
@@ -54,7 +63,7 @@
     </div>
     <div class="row justify-content-center">
       <!-- teacher -->
-      <!-- {{ range first 3 (where site.RegularPages "Type" "teacher")}}
+<!-- {{ range first 3 (where site.RegularPages "Type" "teacher")}}
       <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
         {{ .Render "teacher" }}
       </div>

@@ -9,7 +9,7 @@ description: ""
 # course thumbnail
 image: "images/courses/course-1.jpg"
 # taxonomy
-category: "Under-graduate"
+category: "Undergraduate"
 # teacher
 #teacher: "Clark Malik"
 # duration
@@ -21,7 +21,8 @@ duration: "3.5 years"
 # apply url
 apply_url: "#"
 course_type: "course"
-courseStuctureImage: "/images/courses/structure/bachelor.jpg"
+courseStructureYear: [2024, 2021]
+courseStuctureImage: ["http://surl.li/qzxhz", "/images/courses/structure/bachelor.jpg"]
 summary: " "
 post: "Architectural and Urban Design Inclusive Smart City"
 weight: 1
@@ -53,5 +54,3 @@ After graduation, students have competence to work for public or private, intern
 2. - No aptitude tests. Talent subject will be trained after entry into Squeeze.
 
 #### [Click HERE for more Details](https://www.ueh.edu.vn/dao-tao/dai-hoc-chinh-quy/cu-nhan-chinh-quy-chuan/kien-truc-va-thiet-ke-do-thi-thong-minh/?fbclid=IwAR2NpSrtyKgf7cPVM--jJOa42jbvd-inHWMR1ULdk9jFbr3KvYR_8rTCuDU)
-
-#### Program structure
