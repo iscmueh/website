@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
-    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 15:27:17 +0600</lastBuildDate>
     <atom:link href="https://www.iscm.ueh.edu.vn/course_shortcourse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Smart cities: Context, background, principles, and development</title>
@@ -35,6 +35,13 @@
       <link>https://www.iscm.ueh.edu.vn/course_shortcourse/sc-smartcity-development/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       <guid>https://www.iscm.ueh.edu.vn/course_shortcourse/sc-smartcity-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Customized Programs</title>
+      <link>https://www.iscm.ueh.edu.vn/course_shortcourse/customize-program/</link>
+      <pubDate>Mon, 04 Mar 2024 15:27:17 +0600</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/course_shortcourse/customize-program/</guid>
       <description></description>
     </item>
   </channel>

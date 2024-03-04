@@ -2,19 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.iscm.ueh.edu.vn/course_undergraduate/bachelor-01/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/course_undergraduate/bachelor-01/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/course_undergraduate/bachelor-01/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/consultancy/assetmanagement/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -26,6 +13,19 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/consultancy/assetmanagement/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/course_undergraduate/bachelor-01/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/course_undergraduate/bachelor-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/course_undergraduate/bachelor-01/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/handong-global-uni/</loc>
@@ -242,18 +242,6 @@
                 href="https://www.iscm.ueh.edu.vn/consultancy/spatial-analysis/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/competition/futurecity/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/competition/futurecity/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/competition/futurecity/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/adjunctprofessors/dr-chinh-ho/</loc>
     <xhtml:link
                 rel="alternate"
@@ -314,6 +302,18 @@
                 href="https://www.iscm.ueh.edu.vn/recruit/gv-qldttm/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/competition/smartcityplus/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/competition/smartcityplus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/competition/smartcityplus/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/bth/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -351,6 +351,18 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/consultancy/tdd/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/competition/futurecity/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/competition/futurecity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/competition/futurecity/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/activities/arttech/</loc>
@@ -401,18 +413,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/recruit/junior-researcher/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/competition/smartcityplus/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/competition/smartcityplus/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/competition/smartcityplus/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/course_shortcourse/sc-critical-factors-for-smart-city-development/</loc>
@@ -626,6 +626,9 @@
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/recruit/intern-pr-marketing/"
                 />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/course_shortcourse/customize-program/</loc>
+    <lastmod>2024-03-04T15:27:17+06:00</lastmod>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/visco/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
@@ -940,6 +943,32 @@
                 href="https://www.iscm.ueh.edu.vn/partner/wscf/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/</loc>
+    <lastmod>2024-03-04T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/course_shortcourse/</loc>
+    <lastmod>2024-03-04T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/course_shortcourse/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/course_shortcourse/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/masterthailandtrip/</loc>
     <lastmod>2024-02-27T15:20:00+00:00</lastmod>
     <xhtml:link
@@ -951,19 +980,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/event/masterthailandtrip/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/</loc>
-    <lastmod>2024-02-27T15:20:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/</loc>
@@ -2633,19 +2649,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/network/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/course_shortcourse/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/course_shortcourse/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/course_shortcourse/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/apps/</loc>

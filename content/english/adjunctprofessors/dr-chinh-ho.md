@@ -62,4 +62,4 @@ weight: 2
 2. - Master of Civil Engineering (Transport Planning), Nagoya University, Japan (2010)
 3. - Bachelor Civil Engineering (1st class Honours Bridge and Highway Engineering), Vietnam National University, Ho Chi Minh City, Vietnam
 
-### More Information about Dr. Ho Chinh can be found [here](https://www.sydney.edu.au/AcademicProfiles/profile/resource?urlid=quoc.ho&type=cv).
+<!-- ### More Information about Dr. Ho Chinh can be found [here](https://www.sydney.edu.au/AcademicProfiles/profile/resource?urlid=quoc.ho&type=cv). -->

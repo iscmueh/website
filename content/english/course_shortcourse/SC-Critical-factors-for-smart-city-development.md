@@ -34,10 +34,10 @@ weight: 4
 The program provides a deeper understanding of the development dynamics of smart cities, with a focus on developing smart urban residential communities. The program will aim to form, develop, perfect and realize innovative ideas towards smart, sustainable, and livable urban development. At the end of the course, learners will have mastered the fundamental knowledge and methods of smart city construction and management to develop smart urban communities and urban improvement.
 
   
-1. * Candidate: All
+1. * Candidate: The course is open to all candidates of various backgrounds.
 2. * Class size: 15 students
 
-#### Admissions contact: 
+#### Contact information: 
 1. Institute of Smart City and Management (ISCM)
 2. * Address: 232/6 Vo Thi Sau, Vo Thi Sau Ward, District 3, Ho Chi Minh City
 3. * Tel: 028. 3930 9589

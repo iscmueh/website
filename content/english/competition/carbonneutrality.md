@@ -27,6 +27,8 @@ partners: "images/competitive/carbon/organizer.png"
 
 sponsor: "images/competitive/carbon/sponser.png"
 
+isLaunch: false
+
 # "images/competitive/carbon/sponsor.png"
 
 overview_04: FAQS
@@ -66,6 +68,4 @@ weight: 1
 
 ---
 
-
 ### [Booklet](https://drive.google.com/file/d/1tepmI59FPfrtMU9kdStOSLMqhlk7NHkX/view?usp=sharing)
-

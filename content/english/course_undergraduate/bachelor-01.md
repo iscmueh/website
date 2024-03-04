@@ -1,5 +1,5 @@
 ---
-title: "Architectural and Urban Design Inclusive Smart City"
+title: "Bachelor in Architectural and Urban Design Inclusive Smart City"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -10,6 +10,7 @@ description: ""
 image: "images/courses/course-1.jpg"
 # taxonomy
 category: "Undergraduate"
+chance: "Chance to obtain 2 degrees issued by UEH and another international partner university"
 # teacher
 #teacher: "Clark Malik"
 # duration
@@ -24,28 +25,28 @@ course_type: "course"
 courseStructureYear: [2021]
 courseStuctureImage: ["/images/courses/structure/bachelor.jpg"]
 summary: " "
-post: "Architectural and Urban Design Inclusive Smart City"
+post: "Bachelor in Architectural and Urban Design Inclusive Smart City (BAUD)"
 weight: 1
 ---
 
 #### About Course
 
-The program is designed following international standards and provides expertise with the integration of international knowledge and skills from various fields such as landscape architecture, transportation and infrastructure, economics, society, environment and technology to the field of architectural and urban design for inclusive smart city.
+BAUD is designed to international standards and provides expertise in a wide range of fields such as landscape architecture, transportation and infrastructure, economics, society, environment, and technology relating to architectural and urban design for inclusive smart cities.
 
-After graduation, students have competence to work for public or private, international, NGOs, state agencies. To advance the profession, students could follow a master’s degree program for two years to obtain a master’s degree and an architect’s degree.
+Upon graduation, students are qualified to perform well in various organizations in different sectors or pursue further education with a master’s degree program.
+
 
 {{< youtube id="on_ZGjx4p5U" title="Smart Urban Architecture and Design" >}}
 
 #### Advantage
 
-1. - Becoming a global citizen with he knowledge of planning and urban design following international standards, using fluent English as the basis for students’ lifelong learning;
-2. - Multi-sectoral integrated approach from the fields of environment, art, engineering, planning, public policy, etc. and gain diverse experiences from lectures, seminars, field visits, etc. Some subjects will be taught by international professors, lectureres and experts;
-3. - Drawings and courses are designed based on research to solve practical problems (ordered by state management agencies, domestic and foreign private companies);
-4. - Applications of advancded technologies: VR, AR, 3D printing, urban simulation, etc.;
-
-5. - Using the modern smart urban studioLab;
-6. - Comprehensive cooperation with international university partners from Belgium, Korea, the Netherlands, New Zeland, Australia, France, Thailand, Myanmar, India etc;
-7. - Enhancing work ethic, integrity, and social responsibility.
+1. - Becoming a global citizen with comprehensive knowledge, fluent in English, and ready for lifelong learning;
+2. - Multi-sectoral approach relating to environment, art, engineering, planning, and public policy, ... gained through lectures, seminars, field visits, etc., with the participation of international professors and experts;
+3. - Projects integrated into courses are designed based on practical problems inspired by industry partners and the public community;
+4. - Leveraging the modern StudioLab with the application of advanced technologies: VR, AR, 3D printing, urban simulation, etc.;
+5. - Global bonds with international student communities in Belgium, Korea, the Netherlands, New Zealand, Australia, France, Thailand, Myanmar, India, etc;
+6. - Chances for exchange studies at foreign partner universities to obtain their degree besides UEH's degree;
+7. - Improving personal values, including work ethic, integrity, and social responsibility.
 
 #### How to Apply
 

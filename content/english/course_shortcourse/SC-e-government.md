@@ -33,10 +33,10 @@ weight: 5
 This program provides an understanding of the background and goals of e-government; study current trends in the world and the practice of e-government development in Vietnam; improve the capacity of planning and implementing digital transformation solutions in urban management. At the end of the course, students will have a clear understanding of the central principles of e-government and analyze, develop, evaluate and refine policies and actions related to the field of e-government.
 
   
-1. * Candidate: All
+1. * Candidate: The course is open to all candidates of various backgrounds.
 2. * Class size: 15 students
 
-#### Admissions contact: 
+#### Contact information: 
 1. Institute of Smart City and Management (ISCM)
 2. * Address: 232/6 Vo Thi Sau, Vo Thi Sau Ward, District 3, Ho Chi Minh City
 3. * Tel: 028. 3930 9589

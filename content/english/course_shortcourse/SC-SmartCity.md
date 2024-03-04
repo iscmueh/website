@@ -33,10 +33,10 @@ weight: 3
 This course will provide the essential background knowledge about the development context of smart cities, the foundation and components, the principles and trends of smart city development in the world, and practice in Vietnam. The program's content also mentions the solutions to develop smart cities that are being implemented, why they are formed, and the problems they are solving from strategy, implementation method, and management. Throughout the course, learners will be introduced to technologies that play an important role in developing smart cities around the world and in Vietnam. At the end of the course, learners will have an overview and comprehensive knowledge of the smart city development trend, compare it with the development practice in the city they live and work in, and make recommendations for development orientations.
 
   
-1. * Candidate: All
+1. * Candidate: The course is open to all candidates of various backgrounds.
 2. * Class size: 15 students
 
-#### Admissions contact: 
+#### Contact information: 
 1. Institute of Smart City and Management (ISCM)
 2. * Address: 232/6 Vo Thi Sau, Vo Thi Sau Ward, District 3, Ho Chi Minh City
 3. * Tel: 028. 3930 9589

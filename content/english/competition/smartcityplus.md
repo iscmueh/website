@@ -19,16 +19,18 @@ price: "images/competitive/smartcity+/price.jpg"
 
 register: ""
 
-partners: "images/competitive/smartcity+/partners.jpg"
+sponsor: "images/competitive/smartcity+/partners.jpg"
 
 contact: "" 
 
-weight: 3
+isLaunch: false
+
+weight: 2
 ---
 ### [Winning Projects](https://drive.google.com/file/d/1J7g4gAMmP9sfHzmTgxjMIiHc-n_uvhg9/view?usp=sharing)
 
 
-
+<!-- 
 ![](/images/competitive/smartcity+/winning/Artboard-1.png)
 ![](/images/competitive/smartcity+/winning/Artboard-2.png)
 ![](/images/competitive/smartcity+/winning/Artboard-3.png)
@@ -57,7 +59,7 @@ weight: 3
 ![](/images/competitive/smartcity+/winning/Artboard-26.png)
 ![](/images/competitive/smartcity+/winning/Artboard-27.png)
 ![](/images/competitive/smartcity+/winning/Artboard-28.png)
-![](/images/competitive/smartcity+/winning/Artboard-29.png)
+![](/images/competitive/smartcity+/winning/Artboard-29.png) -->
 
 ### [Booklet](https://drive.google.com/file/d/1fPYLsbkyMJ5GnQe33_qKcFRE01U01ufK/view?usp=sharing)
 

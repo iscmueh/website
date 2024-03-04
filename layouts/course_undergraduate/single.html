@@ -16,7 +16,7 @@
     <!-- course info -->
     <div class="row align-items-center mb-5">
       <div class="col-xl-7 order-1 col-sm-6 mb-4 mb-xl-0">
-        <h2>{{ .Title }}</h2>
+        <h2>{{ .Params.Post }}</h2>
       </div>
       <div class="col-xl-5 order-sm-3 order-xl-2 col-12 order-2">
         <ul class="list-inline text-xl-center">
@@ -66,8 +66,12 @@
     <!-- course details -->
     <div class="row">
       <div class="col-12 mb-4 content">
-        {{ .Content }} {{ if .Params.courseStructureYear }}
+        {{ .Content }} {{ if .Params.courseStructureYear }} {{ if eq (trim
+        site.Language " ") "en"}}
         <h4>Program structure</h4>
+        {{else}}
+        <h4>Cấu trúc chương trình</h4>
+        {{ end }}
         <ul class="year-tabs-list mb-0">
           {{ range $index, $year := .Params.courseStructureYear }} {{ if eq
           $index 0 }}
@@ -154,6 +158,8 @@ intersect (where site.Pages ".Title" "!=" .Title) }} {{ if gt (len $related) 1
 <style>
   .year-tab {
     cursor: pointer;
+    font-weight: bold;
+    font-size: 20px;
   }
 
   .year-tab--active {

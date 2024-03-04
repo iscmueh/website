@@ -79,4 +79,4 @@ weight: 1
 3. * What places? What ageing? Ageing‐in‐place in contemporary African urbanities; the cases of Namibia and Uganda. A three year project funded by Jubileumsfonden.
 
 
-### [Click HERE for Publication](https://www.bth.se/eng/staff/catharina-nord-cnx/)
+<!-- ### [Click HERE for Publication](https://www.bth.se/eng/staff/catharina-nord-cnx/) -->
