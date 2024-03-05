@@ -433,9 +433,130 @@ Phù hợp với nhiều định hướng khác nhau của sinh viên, đề cao
       
       
     </div>
+    
+    <div class="row flex-column align-items-center">
+      <h2>Contact information for queries:</h2>
+      <form class="contact-form col-12 col-md-6">
+        <div>
+          <label for="name">Full name</label>
+          <input
+            type="text"
+            name="name"
+            id="name"
+            placeholder="Enter your fullname"
+          />
+        </div>
+        <div>
+          <label for="email">Email</label>
+          <input
+            type="email"
+            name="email"
+            id="email"
+            placeholder="Enter your email"
+          />
+        </div>
+        <div>
+          <label for="phone">Phone Number</label>
+          <input
+            type="text"
+            name="phone"
+            id="phone"
+            placeholder="Enter your phone number"
+          />
+        </div>
+        <div>
+          <label for="work-place">Work Place/ Study Place</label>
+          <input
+            type="text"
+            name="workplace"
+            id="work-place"
+            placeholder="Enter your Work Place/ Study Place"
+          />
+        </div>
+        <div>
+          <label for="participation">Number of Participation</label>
+          <input type="number" min="1" value="1" name="participation" />
+        </div>
+        <button type="submit">Send</button>
+      </form>
+      <script>
+        const form = document.getElementsByClassName("contact-form")[0];
+
+        form.addEventListener("submit", (e) => {
+          e.preventDefault();
+
+          let data = new FormData(form);
+          data.append("course", "undergraduate");
+
+          fetch(
+            "https://script.google.com/macros/s/AKfycby-94TZOCsq2PqOsBo5eOfpvctYM0pf_DaW4eH-lrUIjoKb4lpzHE6rqLVJkh4i-S5vqw/exec",
+            {
+              method: "POST",
+              body: data,
+            }
+          ).then(() => {
+            location.reload();
+          });
+        });
+      </script>
+    </div>
   </div>
 </section>
 
+
+<style>
+  .contact-form {
+    margin-top: 16px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .contact-form button {
+    margin-top: 30px;
+    width: max-content;
+    outline: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border: none;
+    border-radius: 6px;
+    padding: 10px 40px;
+    background-color: #141414;
+    color: #fff;
+  }
+
+  .contact-form > div {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .contact-form div input {
+    display: inline-block;
+    width: 50%;
+    margin: 4px 0;
+    padding: 6px;
+    border: none;
+    border-bottom: 2px solid #921119;
+    font-family: "Barlow", sans-serif;
+    font-size: 16px;
+    outline: none;
+  }
+
+  .contact-form div input::placeholder {
+    font-size: 14px;
+    text-transform: capitalize;
+  }
+
+  .contact-form div label::after {
+    content: ":";
+  }
+</style>
 
 
  
