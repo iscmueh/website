@@ -474,8 +474,13 @@ Phù hợp với nhiều định hướng khác nhau của sinh viên, đề cao
           />
         </div>
         <div>
-          <label for="participation">Number of Participation</label>
-          <input type="number" min="1" value="1" name="participation" />
+          <label for="question">Your Question</label>
+          <div class="question-editor">
+            <textarea
+              name="question"
+              placeholder="Enter your question here..."
+            ></textarea>
+          </div>
         </div>
         <button type="submit">Send</button>
       </form>
@@ -486,10 +491,10 @@ Phù hợp với nhiều định hướng khác nhau của sinh viên, đề cao
           e.preventDefault();
 
           let data = new FormData(form);
-          data.append("course", "undergraduate");
+          data.append("course", "Undergraduate");
 
           fetch(
-            "https://script.google.com/macros/s/AKfycby-94TZOCsq2PqOsBo5eOfpvctYM0pf_DaW4eH-lrUIjoKb4lpzHE6rqLVJkh4i-S5vqw/exec",
+            "https://script.google.com/macros/s/AKfycbyVJApSU_6-Zts9Px9fyrRAT3vZr0n-PrTB8mz2kAuTQ4TbVTxaOHrjxGnrSxKsz4toow/exec",
             {
               method: "POST",
               body: data,
@@ -555,6 +560,31 @@ Phù hợp với nhiều định hướng khác nhau của sinh viên, đề cao
 
   .contact-form div label::after {
     content: ":";
+  }
+
+  .contact-form .question-editor {
+    margin-top: 10px;
+    width: 50%;
+    height: 100px;
+  }
+
+  .contact-form .question-editor textarea {
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    resize: none;
+    font-family: "Barlow", sans-serif;
+    font-size: 15px;
+    outline: none;
+  }
+
+  .contact-form .question-editor textarea::-webkit-scrollbar {
+    width: 5px;
+  }
+
+  .contact-form .question-editor textarea::-webkit-scrollbar-thumb {
+    border-radius: 6px;
+    background: #ccc;
   }
 </style>
 
