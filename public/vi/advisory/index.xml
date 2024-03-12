@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ban Cố Vấn on Institute of Smart City &amp; Management</title>
-    <link>http://localhost:1313/vi/advisory/</link>
+    <link>https://www.iscm.ueh.edu.vn/vi/advisory/</link>
     <description>Recent content in Ban Cố Vấn on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
-    <atom:link href="http://localhost:1313/vi/advisory/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.iscm.ueh.edu.vn/vi/advisory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GS. TS. Nguyễn Đông Phong</title>
-      <link>http://localhost:1313/vi/advisory/dr-nguyen-dong-phong/</link>
+      <link>https://www.iscm.ueh.edu.vn/vi/advisory/dr-nguyen-dong-phong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/vi/advisory/dr-nguyen-dong-phong/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/vi/advisory/dr-nguyen-dong-phong/</guid>
       <description></description>
     </item>
     <item>
       <title>TS. Khuất Việt Hùng</title>
-      <link>http://localhost:1313/vi/advisory/dr-khuat-viet-hung/</link>
+      <link>https://www.iscm.ueh.edu.vn/vi/advisory/dr-khuat-viet-hung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/vi/advisory/dr-khuat-viet-hung/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/vi/advisory/dr-khuat-viet-hung/</guid>
       <description></description>
     </item>
   </channel>

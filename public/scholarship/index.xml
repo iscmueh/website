@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scholarship on Institute of Smart City &amp; Management</title>
-    <link>http://localhost:1313/scholarship/</link>
+    <link>https://www.iscm.ueh.edu.vn/scholarship/</link>
     <description>Recent content in Scholarship on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
-    <atom:link href="http://localhost:1313/scholarship/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.iscm.ueh.edu.vn/scholarship/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Undergraduate International Students</title>
-      <link>http://localhost:1313/scholarship/undergraduate-international-students/</link>
+      <link>https://www.iscm.ueh.edu.vn/scholarship/undergraduate-international-students/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/scholarship/undergraduate-international-students/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/scholarship/undergraduate-international-students/</guid>
       <description>100 Scholarships for Undergraduate International Students: For Standard Program (Vietnamese instructions):</description>
     </item>
     <item>
       <title>Graduate International Students</title>
-      <link>http://localhost:1313/scholarship/graduate-international-students/</link>
+      <link>https://www.iscm.ueh.edu.vn/scholarship/graduate-international-students/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/scholarship/graduate-international-students/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/scholarship/graduate-international-students/</guid>
       <description>50 Scholarships for Graduate International Students: For Vietnamese - instruction programs:</description>
     </item>
     <item>
       <title>International PhDs</title>
-      <link>http://localhost:1313/scholarship/international-phds/</link>
+      <link>https://www.iscm.ueh.edu.vn/scholarship/international-phds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/scholarship/international-phds/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/scholarship/international-phds/</guid>
       <description>20 Scholarships for International PhDs: Vietnamese - instruction programs:&#xA;100% tuition + accommodation fees, equivalent to $11,000 USD).</description>
     </item>
   </channel>
