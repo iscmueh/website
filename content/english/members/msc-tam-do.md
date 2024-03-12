@@ -53,7 +53,7 @@ contact:
 
 # type
 type: "teacher"
-weight: 11
+weight: 12
 ---
 
 ### Courses

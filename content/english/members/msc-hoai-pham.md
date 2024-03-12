@@ -18,7 +18,7 @@ Sciences from Hasselt University (2019). He is currently pursuing a Ph.D in Tran
 (2020-2024). His research interests revolve primarily around the areas of gamification and virtual reality in education and
 transport, smart mobility and infrastructure, traffic behaviour, urban transportation planning and transport economics."
 # interest
-interest: ["Augmetned Virtual Reality", "Transportation Safety"]
+interest: ["Augmentned Virtual Reality", "Transportation Safety"]
 # contact info
 contact:
   # contact item loop

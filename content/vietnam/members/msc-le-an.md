@@ -53,7 +53,7 @@ contact:
 
 # type
 type: "teacher"
-weight: 13
+weight: 12
 ---
 
 ### Giảng Dạy

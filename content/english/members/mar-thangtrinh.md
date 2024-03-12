@@ -54,7 +54,7 @@ contact:
 
 # type
 type: "teacher"
-weight: 16
+weight: 17
 ---
 
 ### Academic and Research Profile

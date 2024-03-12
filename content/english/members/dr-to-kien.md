@@ -33,7 +33,7 @@ contact:
 
 # type
 type: "teacher"
-weight: 5
+weight: 6
 ---
 
 ### Courses

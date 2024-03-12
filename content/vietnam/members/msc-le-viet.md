@@ -53,7 +53,7 @@ contact:
 
 # type
 type: "teacher"
-weight: 10
+weight: 9
 ---
 
 ### Tiểu Sử Nghiên Cứu và Học Thuật
