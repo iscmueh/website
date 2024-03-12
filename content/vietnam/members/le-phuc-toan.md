@@ -52,7 +52,7 @@ contact:
 
 # type
 type: "teacher"
-weight: 18
+weight: 17
 ---
 
 1. - Thiết kế các ấn phẩm truyền thông.

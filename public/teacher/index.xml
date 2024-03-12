@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Our Courses on Institute of Smart City &amp; Management</title>
-    <link>https://www.iscm.ueh.edu.vn/teacher/</link>
+    <link>http://localhost:1313/teacher/</link>
     <description>Recent content in Our Courses on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
-    <atom:link href="https://www.iscm.ueh.edu.vn/teacher/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/teacher/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alex Rook</title>
-      <link>https://www.iscm.ueh.edu.vn/teacher/alex-rook/</link>
+      <link>http://localhost:1313/teacher/alex-rook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/teacher/alex-rook/</guid>
+      <guid>http://localhost:1313/teacher/alex-rook/</guid>
       <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
       <title>Alex Rook</title>
-      <link>https://www.iscm.ueh.edu.vn/teacher/tu-anh/</link>
+      <link>http://localhost:1313/teacher/tu-anh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/teacher/tu-anh/</guid>
+      <guid>http://localhost:1313/teacher/tu-anh/</guid>
       <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
       <title>Clark Malik</title>
-      <link>https://www.iscm.ueh.edu.vn/teacher/clark-malik/</link>
+      <link>http://localhost:1313/teacher/clark-malik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/teacher/clark-malik/</guid>
+      <guid>http://localhost:1313/teacher/clark-malik/</guid>
       <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
       <title>Devid Luis</title>
-      <link>https://www.iscm.ueh.edu.vn/teacher/devid-luis/</link>
+      <link>http://localhost:1313/teacher/devid-luis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/teacher/devid-luis/</guid>
+      <guid>http://localhost:1313/teacher/devid-luis/</guid>
       <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
       <title>Duis Rio</title>
-      <link>https://www.iscm.ueh.edu.vn/teacher/duis-rio/</link>
+      <link>http://localhost:1313/teacher/duis-rio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/teacher/duis-rio/</guid>
+      <guid>http://localhost:1313/teacher/duis-rio/</guid>
       <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
       <title>Jacke Mastio</title>
-      <link>https://www.iscm.ueh.edu.vn/teacher/jacke-mastio/</link>
+      <link>http://localhost:1313/teacher/jacke-mastio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/teacher/jacke-mastio/</guid>
+      <guid>http://localhost:1313/teacher/jacke-mastio/</guid>
       <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
       <title>Zim Cook</title>
-      <link>https://www.iscm.ueh.edu.vn/teacher/zim-cook/</link>
+      <link>http://localhost:1313/teacher/zim-cook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/teacher/zim-cook/</guid>
+      <guid>http://localhost:1313/teacher/zim-cook/</guid>
       <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
   </channel>

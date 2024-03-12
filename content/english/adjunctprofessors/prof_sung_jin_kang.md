@@ -17,14 +17,14 @@ interest: ["TEconomic Growth and Development"]
 # contact info
 contact:
   # contact item loop
-  - name: "sjkang@korea.ac.kr"
-    icon: "ti-email" # icon pack : https://themify.me/themify-icons
-    link: "sjkang@korea.ac.kr"
+  - name: 
+    icon: # icon pack : https://themify.me/themify-icons
+    link:
 
   # contact item loop
-  - name: "+82 2-3290-2225"
-    icon: "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link: "tel:+82 2-3290-2225"
+  - name: 
+    icon:  # icon pack : https://themify.me/themify-icons
+    link: 
 
   # contact item loop
   # - name : "Clark Malik"
@@ -67,4 +67,3 @@ weight: 1
 1. - Chairman, Policy Board, Hansun Foundation for Freedom & Happiness (2020.09-Present)
 1. - Member, Private Expert Committee, Council on Grants, Ministry of Foreign Affairs (2020.02-Present )
 
-### Find out more about Prof. Sung Jin Kang [here](https://www.bth.se/eng/staff/catharina-nord-cnx/)

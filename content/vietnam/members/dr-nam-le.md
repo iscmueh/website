@@ -34,7 +34,7 @@ contact:
 
 # type
 type: "teacher"
-weight: 8
+weight: 7
 ---
 
 
