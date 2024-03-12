@@ -12,9 +12,9 @@ course: "Executive Vice Chairman, National Traffic Safety Committee of Vietnam"
 # biography
 bio: ""
 # interest
-interest: [""]
+# interest: [""]
 # contact info
-contact:
+# contact:
   # contact item loop
   # - name : "clarkmalik@email.com"
   #   icon : "ti-email" # icon pack : https://themify.me/themify-icons

@@ -15,9 +15,9 @@ course: "Chairman, University Council, UEH University"
 # biography
 bio: ""
 # interest
-interest: [""]
+# interest: [""]
 # contact info
-contact:
+# contact:
   # contact item loop
   # contact item loop
   # - name : "iscm@ueh.edu.vn"

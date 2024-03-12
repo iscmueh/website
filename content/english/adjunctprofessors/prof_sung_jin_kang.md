@@ -17,14 +17,14 @@ interest: ["TEconomic Growth and Development"]
 # contact info
 contact:
   # contact item loop
-  - name: 
-    icon: # icon pack : https://themify.me/themify-icons
-    link:
+  # - name:
+  #   icon: # icon pack : https://themify.me/themify-icons
+  #   link:
 
   # contact item loop
-  - name: 
-    icon:  # icon pack : https://themify.me/themify-icons
-    link: 
+  # - name:
+  #   icon: # icon pack : https://themify.me/themify-icons
+  #   link:
 
   # contact item loop
   # - name : "Clark Malik"
@@ -56,7 +56,7 @@ type: "teacher"
 weight: 1
 ---
 
-### Tiểu Sử Nghiên Cứu và Học Thuật
+### Academic and Research Profile
 
 1. - Professor, Department of Economics, Korea University (2009.09-Present)
 1. - Director, Institute of Economic Research, Korea University (2019.12-Present)
@@ -66,4 +66,3 @@ weight: 1
 1. - Advisory Member, Korean New Deal Working-level Task Force (2020.09-Present)
 1. - Chairman, Policy Board, Hansun Foundation for Freedom & Happiness (2020.09-Present)
 1. - Member, Private Expert Committee, Council on Grants, Ministry of Foreign Affairs (2020.02-Present )
-

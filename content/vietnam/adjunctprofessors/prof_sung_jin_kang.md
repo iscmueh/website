@@ -17,14 +17,14 @@ interest: ["Tăng trưởng và Phát triển Kinh tế"]
 # contact info
 contact:
   # contact item loop
-  - name: "sjkang@korea.ac.kr"
-    icon: "ti-email" # icon pack : https://themify.me/themify-icons
-    link: "sjkang@korea.ac.kr"
+  # - name:
+  #   icon: "ti-email" # icon pack : https://themify.me/themify-icons
+  #   link:
 
   # contact item loop
-  - name: "+82 2-3290-2225"
-    icon: "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link: "tel:+82 2-3290-2225"
+  # - name:
+  #   icon: "ti-mobile" # icon pack : https://themify.me/themify-icons
+  #   link:
 
   # contact item loop
   # - name : "Clark Malik"
@@ -65,5 +65,3 @@ weight: 1
 1. - Viện trưởng, Viện Nghiên cứu Kinh tế, Đại học Hàn Quốc (2019 - nay)
 1. - Viện trưởng, Trường Đào tạo Sau đại học của chương trình GETPPP (Graduate School of Energy and Environment Global Energy Technology Policy Professionals Program) (2015 - nay)
 1. - Phó Chủ tịch, Hiệp hội Kinh tế Quốc tế Hàn Quốc (KIEA) (2021 - nay)
-
-### Tìm hiểu thêm về GS. Sung Jin Kang tại [đây](https://www.bth.se/eng/staff/catharina-nord-cnx/)

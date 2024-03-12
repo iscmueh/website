@@ -14,9 +14,9 @@ course: "Chủ tịch Hội đồng Đại học Kinh tế TP. Hồ Chí Minh"
 # biography
 bio: ""
 # interest
-interest: [""]
+# interest: [""]
 # contact info
-contact:
+# contact:
   # contact item loop
   # contact item loop
   # - name : "iscm@ueh.edu.vn"

@@ -12,9 +12,9 @@ course: "Phó Chủ tịch điều hành, Ủy ban ATGT Quốc gia Việt Nam"
 # biography
 bio: ""
 # interest
-interest: [""]
+# interest: [""]
 # contact info
-contact:
+# contact:
   # contact item loop
   # - name : "clarkmalik@email.com"
   #   icon : "ti-email" # icon pack : https://themify.me/themify-icons
