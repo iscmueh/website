@@ -9,7 +9,7 @@ description : ""
 # Research image
 image: "images/consultancy/traffic-safety-03.png"
 # type
-type: "research"
+type: "consultancy"
 
 summary: 
 

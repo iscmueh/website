@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Institute of Smart City &amp; Management</title>
-    <link>https://www.iscm.ueh.edu.vn/vi/author/</link>
+    <link>http://localhost:65013/vi/author/</link>
     <description>Recent content in Authors on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
-    <atom:link href="https://www.iscm.ueh.edu.vn/vi/author/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:65013/vi/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>John doe</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/author/john-doe/</link>
+      <link>http://localhost:65013/vi/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/author/john-doe/</guid>
+      <guid>http://localhost:65013/vi/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
     </item>
     <item>
       <title>Mark Dinn</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/author/mark-dinn/</link>
+      <link>http://localhost:65013/vi/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/author/mark-dinn/</guid>
+      <guid>http://localhost:65013/vi/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
     </item>
   </channel>

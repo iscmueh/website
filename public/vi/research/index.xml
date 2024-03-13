@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nghiên Cứu và Phát Triển on Institute of Smart City &amp; Management</title>
-    <link>https://www.iscm.ueh.edu.vn/vi/research/</link>
+    <link>http://localhost:65013/vi/research/</link>
     <description>Recent content in Nghiên Cứu và Phát Triển on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
-    <atom:link href="https://www.iscm.ueh.edu.vn/vi/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:65013/vi/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cây Ước Nguyện AR</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/research/ar-wish-tree/</link>
+      <link>http://localhost:65013/vi/research/ar-wish-tree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/research/ar-wish-tree/</guid>
+      <guid>http://localhost:65013/vi/research/ar-wish-tree/</guid>
       <description>ISCM-UEH hợp tác với ĐH Khoa học Tự nhiên - ĐHQG HCM, ABB Research (Thụy Điển) và công ty Zeta Motion khai thác kỹ thuật thực tế tăng cường (augmented reality: AR) nhằm thiết kế cây ước nguyện số.</description>
     </item>
     <item>
       <title>Du Lịch Thông Minh</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/research/smart-tourism/</link>
+      <link>http://localhost:65013/vi/research/smart-tourism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/research/smart-tourism/</guid>
+      <guid>http://localhost:65013/vi/research/smart-tourism/</guid>
       <description>Dự án này nhằm quảng bá 178 điểm đến du lịch hấp dẫn được đề xuất của thành phố Hồ Chí Minh và khuyến khích sự tham gia của cộng đồng vào các hoạt động du lịch của thành phố.</description>
     </item>
     <item>
       <title>Phát Triển Vườn Ươm Khoa Học Ứng Dụng tại Vĩnh Long</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/research/fostering-applied-science/</link>
+      <link>http://localhost:65013/vi/research/fostering-applied-science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/research/fostering-applied-science/</guid>
+      <guid>http://localhost:65013/vi/research/fostering-applied-science/</guid>
       <description>ISCM-UEH và Viện Đổi Mới Sáng Tạo (UII-UEH) đang cộng tác với các đối tác địa phương và quốc tế để phát triển khoa học ứng dụng tại địa phương.</description>
     </item>
     <item>
       <title>Route2School: Chương Trình Giáo Dục An Toàn Giao Thông Thông Minh</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/research/route-2-school/</link>
+      <link>http://localhost:65013/vi/research/route-2-school/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/research/route-2-school/</guid>
+      <guid>http://localhost:65013/vi/research/route-2-school/</guid>
       <description>ISCM-UEH đang phát triển một chương trình giáo dục an toàn giao thông thông minh với sự tham gia của sinh viên, giáo viên và phụ huynh.</description>
     </item>
     <item>
       <title>UEH: Trường Đại Học Không Rác Thải</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/research/zero-waste/</link>
+      <link>http://localhost:65013/vi/research/zero-waste/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/research/zero-waste/</guid>
+      <guid>http://localhost:65013/vi/research/zero-waste/</guid>
       <description>Dự án này nhằm triển khai quản lý chất thải bền vững tại Trường Đại học Kinh tế Thành phố Hồ Chí Minh (UEH).</description>
     </item>
     <item>
       <title>Xây Dựng Thương Hiệu Thành Phố: Nghiên Cứu Điển Hình tại TP. Hồ Chí Minh</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/research/city-branding/</link>
+      <link>http://localhost:65013/vi/research/city-branding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/research/city-branding/</guid>
+      <guid>http://localhost:65013/vi/research/city-branding/</guid>
       <description>Các thành phố đang cạnh tranh với nhau trong bối cảnh toàn cầu hóa.</description>
     </item>
   </channel>

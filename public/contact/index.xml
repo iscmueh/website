@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Us on Institute of Smart City &amp; Management</title>
-    <link>https://www.iscm.ueh.edu.vn/contact/</link>
+    <link>http://localhost:65013/contact/</link>
     <description>Recent content in About Us on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
-    <atom:link href="https://www.iscm.ueh.edu.vn/contact/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:65013/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

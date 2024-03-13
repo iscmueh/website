@@ -9,7 +9,7 @@ description : ""
 # Research image
 image: "images/consultancy/spatialgis-01.jpg"
 # type
-type: "research"
+type: "consultancy"
 
 summary: 
 weight: 2

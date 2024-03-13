@@ -9,7 +9,7 @@ description : ""
 # Research image
 image: "images/consultancy/tdd-01.jpg"
 # type
-type: "research"
+type: "consultancy"
 
 summary: "A team of professional research engineers and architects with hand-on experiences on evaluation of buildings and engineering systems."
 

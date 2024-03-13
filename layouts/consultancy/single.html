@@ -17,6 +17,37 @@
       <div class="col-12 mb-50 content">
         {{ .Content }}
       </div>
+      <div class="col-lg-7 mb-4 mb-lg-0">
+        <form class="contact-form">
+          <input type="text" class="form-control mb-3" id="name" name="name" placeholder="Your Name">
+          <input type="email" class="form-control mb-3" id="email" name="email" placeholder="Your Email">
+          <input type="text" class="form-control mb-3" id="phone" name="phone" placeholder="Your Phone Number">
+          <input type="text" class="form-control mb-3" id="workplace" name="workplace" placeholder="Your Workplace/Study Place">
+          <input type="text" class="form-control mb-3" id="consultancyType" name="consultancyType" placeholder="Kinds of Consultancy">
+          <textarea name="question" id="question" class="form-control mb-3" placeholder="Your Question"></textarea>
+          <button type="submit" value="send" class="btn btn-primary">{{ i18n "send" }}</button>
+        </form>
+        <script>
+          const form = document.getElementsByClassName("contact-form")[0];
+  
+          form.addEventListener("submit", (e) => {
+            e.preventDefault();
+  
+            let data = new FormData(form);
+            data.append("sheet", "Consultancy");
+  
+            fetch(
+              "https://script.google.com/macros/s/AKfycbzKzQlFFCMNVkDwdO1AQCO7lh1hx6CDCXW5SGV8lih0spj6XZUO5Xi7h59cFGFKQoHZCg/exec",
+              {
+                method: "POST",
+                body: data,
+              }
+            ).then(() => {
+              location.reload();
+            });
+          });
+        </script>
+      </div>
     </div>
   </div>
 </section>

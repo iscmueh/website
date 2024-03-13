@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apps on Institute of Smart City &amp; Management</title>
-    <link>https://www.iscm.ueh.edu.vn/apps/</link>
+    <link>http://localhost:65013/apps/</link>
     <description>Recent content in Apps on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
-    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
-    <atom:link href="https://www.iscm.ueh.edu.vn/apps/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Oct 2019 11:08:22 +0800</lastBuildDate>
+    <atom:link href="http://localhost:65013/apps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Warehouse Fitout Cost</title>
-      <link>https://www.iscm.ueh.edu.vn/apps/fitoutcost/</link>
+      <link>http://localhost:65013/apps/fitoutcost/</link>
       <pubDate>Sat, 19 Oct 2019 11:08:22 +0800</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/apps/fitoutcost/</guid>
+      <guid>http://localhost:65013/apps/fitoutcost/</guid>
       <description>Open the Apps</description>
     </item>
     <item>
       <title>Weibull Models</title>
-      <link>https://www.iscm.ueh.edu.vn/apps/weibulllcc/</link>
+      <link>http://localhost:65013/apps/weibulllcc/</link>
       <pubDate>Sat, 19 Oct 2019 11:08:22 +0800</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/apps/weibulllcc/</guid>
+      <guid>http://localhost:65013/apps/weibulllcc/</guid>
       <description>Open the Apps</description>
     </item>
   </channel>

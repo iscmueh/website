@@ -9,7 +9,7 @@ description : ""
 # Research image
 image: "images/consultancy/traffic-safety-04.png"
 # type
-type: "research"
+type: "consultancy"
 
 summary: "We develop deterioration models based on reliability theory and monitoring data. Determination of optimal intervention strategies for stock of assets. "
 
