@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Competition on Institute of Smart City &amp; Management</title>
-    <link>http://localhost:65013/competition/</link>
+    <link>https://www.iscm.ueh.edu.vn/competition/</link>
     <description>Recent content in Competition on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
-    <atom:link href="http://localhost:65013/competition/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.iscm.ueh.edu.vn/competition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The 3rd International Design Competition: REIMAGING CITIES TOWARDS CARBON NEUTRALITY</title>
-      <link>http://localhost:65013/competition/carbonneutrality/</link>
+      <link>https://www.iscm.ueh.edu.vn/competition/carbonneutrality/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65013/competition/carbonneutrality/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/competition/carbonneutrality/</guid>
       <description>Booklet </description>
     </item>
     <item>
       <title>The 2nd International Design Competition: SMART CITY&#43; </title>
-      <link>http://localhost:65013/competition/smartcityplus/</link>
+      <link>https://www.iscm.ueh.edu.vn/competition/smartcityplus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65013/competition/smartcityplus/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/competition/smartcityplus/</guid>
       <description>Winning Projects Booklet </description>
     </item>
     <item>
       <title>1st Competition - FUTURE CITY: SMART DESIGN FOR POST-PANDEMIC WORLD</title>
-      <link>http://localhost:65013/competition/futurecity/</link>
+      <link>https://www.iscm.ueh.edu.vn/competition/futurecity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65013/competition/futurecity/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/competition/futurecity/</guid>
       <description>Activities: International Launch Event of UEH - ISCM The Institute of Smart Cities and Management (ISCM) - University of Economics Ho Chi Minh City (UEH) successfully organized the international launch event, along with the award ceremony of the first international design competition.</description>
     </item>
   </channel>

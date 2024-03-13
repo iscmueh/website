@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dịch Vụ Tư Vấn on Institute of Smart City &amp; Management</title>
-    <link>http://localhost:65013/vi/consultancy/</link>
+    <link>https://www.iscm.ueh.edu.vn/vi/consultancy/</link>
     <description>Recent content in Dịch Vụ Tư Vấn on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
     <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
-    <atom:link href="http://localhost:65013/vi/consultancy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.iscm.ueh.edu.vn/vi/consultancy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quản Lý Tài Sản</title>
-      <link>http://localhost:65013/vi/consultancy/assetmanagement/</link>
+      <link>https://www.iscm.ueh.edu.vn/vi/consultancy/assetmanagement/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:65013/vi/consultancy/assetmanagement/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/vi/consultancy/assetmanagement/</guid>
       <description>Tối ưu hóa hệ thống quản lý bằng các mô hình toán thống kê cao cấp, giúp chủ đầu tư tiết kiệm chi phí vận hành.</description>
     </item>
     <item>
       <title>Phân Tích Không Gian Địa Lý</title>
-      <link>http://localhost:65013/vi/consultancy/spatial-analysis/</link>
+      <link>https://www.iscm.ueh.edu.vn/vi/consultancy/spatial-analysis/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:65013/vi/consultancy/spatial-analysis/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/vi/consultancy/spatial-analysis/</guid>
       <description>Phân tích và trực quan hóa không gian sử dụng nền tảng GIS, các mô hình thống kê và các công cụ để quy hoạch và quản lý đô thị.</description>
     </item>
     <item>
       <title>Đánh Giá Kĩ Thuật</title>
-      <link>http://localhost:65013/vi/consultancy/tdd/</link>
+      <link>https://www.iscm.ueh.edu.vn/vi/consultancy/tdd/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:65013/vi/consultancy/tdd/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/vi/consultancy/tdd/</guid>
       <description>Giúp nhà đầu tư đánh giá kĩ thuật các hệ thống tòa nhà và hệ thống công trình kĩ thuật.</description>
     </item>
     <item>
       <title>Đánh Giá Tác Động Giao Thông (TIA)</title>
-      <link>http://localhost:65013/vi/consultancy/traffic-impact-assessment/</link>
+      <link>https://www.iscm.ueh.edu.vn/vi/consultancy/traffic-impact-assessment/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:65013/vi/consultancy/traffic-impact-assessment/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/vi/consultancy/traffic-impact-assessment/</guid>
       <description>Phân tích kĩ thuật và đánh giá tác động về giao thông liên quan tới các dự án xây dựng đô thị và cơ sở hạ tầng.</description>
     </item>
     <item>
       <title>Lập Mô Hình Giao Thông</title>
-      <link>http://localhost:65013/vi/consultancy/traffic-modelling/</link>
+      <link>https://www.iscm.ueh.edu.vn/vi/consultancy/traffic-modelling/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:65013/vi/consultancy/traffic-modelling/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/vi/consultancy/traffic-modelling/</guid>
       <description>Xây dựng các mô hình giao thông từ vi mô đến vĩ mô, tính toán bài toán đầu tư lớn tuyến hay giao thông qua mô hình VISIM, VISUM và Agent Based Modelling.</description>
     </item>
     <item>
       <title>An Toàn Giao Thông</title>
-      <link>http://localhost:65013/vi/consultancy/traffic-safety/</link>
+      <link>https://www.iscm.ueh.edu.vn/vi/consultancy/traffic-safety/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:65013/vi/consultancy/traffic-safety/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/vi/consultancy/traffic-safety/</guid>
       <description>Phân tích và đánh giá hành vi của người tham gia giao thông.</description>
     </item>
   </channel>

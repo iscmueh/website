@@ -2,53 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Consultancy Services on Institute of Smart City &amp; Management</title>
-    <link>http://localhost:1313/consultancy/</link>
+    <link>https://www.iscm.ueh.edu.vn/consultancy/</link>
     <description>Recent content in Consultancy Services on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
     <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/consultancy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.iscm.ueh.edu.vn/consultancy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Asset Management</title>
-      <link>http://localhost:1313/consultancy/assetmanagement/</link>
+      <link>https://www.iscm.ueh.edu.vn/consultancy/assetmanagement/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/consultancy/assetmanagement/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/consultancy/assetmanagement/</guid>
       <description>We develop deterioration models based on reliability theory and monitoring data. Determination of optimal intervention strategies for stock of assets.</description>
     </item>
     <item>
       <title>Spatial Analysis</title>
-      <link>http://localhost:1313/consultancy/spatial-analysis/</link>
+      <link>https://www.iscm.ueh.edu.vn/consultancy/spatial-analysis/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/consultancy/spatial-analysis/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/consultancy/spatial-analysis/</guid>
       <description>Spatial analysis and visualization using GIS platforms and statistical models and tools for urban planning and management.</description>
     </item>
     <item>
       <title>Technical Due Diligence</title>
-      <link>http://localhost:1313/consultancy/tdd/</link>
+      <link>https://www.iscm.ueh.edu.vn/consultancy/tdd/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/consultancy/tdd/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/consultancy/tdd/</guid>
       <description>A team of professional research engineers and architects with hand-on experiences on evaluation of buildings and engineering systems.</description>
     </item>
     <item>
-      <title>Traffic Impact Assessment</title>
-      <link>http://localhost:1313/consultancy/traffic-impact-assessment/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/consultancy/traffic-impact-assessment/</guid>
-      <description>A group of experienced and senior traffic engineers to help you conducting in-depth traffic impact assessment for your projects.</description>
-    </item>
-    <item>
       <title>Traffic Modelling</title>
-      <link>http://localhost:1313/consultancy/traffic-modelling/</link>
+      <link>https://www.iscm.ueh.edu.vn/consultancy/traffic-modelling/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/consultancy/traffic-modelling/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/consultancy/traffic-modelling/</guid>
       <description>We apply latest models to perform simulations of micro and macro traffic simulations and OD matrix analysis for you to estimate traffic demands.</description>
     </item>
     <item>
       <title>Traffic Safety</title>
-      <link>http://localhost:1313/consultancy/traffic-safety/</link>
+      <link>https://www.iscm.ueh.edu.vn/consultancy/traffic-safety/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/consultancy/traffic-safety/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/consultancy/traffic-safety/</guid>
       <description>Conducting field studies and analyzing traffic behaviors and risk factors affecting the traffic accidents and safety, and recommending solutions.</description>
     </item>
   </channel>

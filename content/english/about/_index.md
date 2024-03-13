@@ -16,7 +16,7 @@ ISCM develops partnerships by building extensive local and international network
 
 ### Vision
 
-ISCM will be a leading Institution/School in improving the quality of urban life towards sustainable and smart community development through international integrated education system, in-depth research and problem-solving projects.
+ISCM will be a leading Institution in improving the quality of urban and rural life towards sustainable and smart community development through international integrated education system, in-depth research and problem-solving projects, education, research, public policy support.
 
 ### Mission
 
@@ -27,3 +27,5 @@ ISCM will be a leading Institution/School in improving the quality of urban life
 - Developing the most advanced integrated Smart City StudioLab system with sufficient spaces and equipment to conduct thorough research.
 
 - Impacting on urban planning, design and management by changing the way of thinking and involvement of the community, local authority and stakeholders.
+
+- Connect people with people, communities with communities. From that, ISCM aims to create a co-creation community to join hands to resolve their confronted problems, towards creating a smart, strong and sustainable community.

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cuộc thi on Institute of Smart City &amp; Management</title>
-    <link>http://localhost:65013/vi/competition/</link>
+    <link>https://www.iscm.ueh.edu.vn/vi/competition/</link>
     <description>Recent content in Cuộc thi on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
-    <atom:link href="http://localhost:65013/vi/competition/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.iscm.ueh.edu.vn/vi/competition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cuộc thi thiết kế quốc tế lần thứ 3: REIMAGING CITIES TOWARDS CARBON NEUTRALITY</title>
-      <link>http://localhost:65013/vi/competition/carbon/</link>
+      <link>https://www.iscm.ueh.edu.vn/vi/competition/carbon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65013/vi/competition/carbon/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/vi/competition/carbon/</guid>
       <description>Booklet </description>
     </item>
     <item>
       <title>Cuộc thi thiết kế quốc tế lần thứ 2: SMART CITY &#43; </title>
-      <link>http://localhost:65013/vi/competition/smartcityplus/</link>
+      <link>https://www.iscm.ueh.edu.vn/vi/competition/smartcityplus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65013/vi/competition/smartcityplus/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/vi/competition/smartcityplus/</guid>
       <description>Các dự án đã đoạt giải Booklet </description>
     </item>
     <item>
       <title>Cuộc thi thiết kế quốc tế lần thứ 1 - Thành phố tương lai: Thiết kế thông minh cho thế giới hậu đại dịch </title>
-      <link>http://localhost:65013/vi/competition/futurecity/</link>
+      <link>https://www.iscm.ueh.edu.vn/vi/competition/futurecity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65013/vi/competition/futurecity/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/vi/competition/futurecity/</guid>
       <description>Các hoạt động: International Launch Event of UEH - ISCM Viện Đô thị Thông minh và Quản lý (ISCM) - Đại học Kinh tế TP.</description>
     </item>
   </channel>
