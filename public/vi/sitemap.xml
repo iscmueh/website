@@ -967,6 +967,35 @@
                 href="http://localhost:1313/vi/event/vung_tau_future_2024/"
                 />
   </url><url>
+    <loc>http://localhost:1313/vi/event/2023-53/</loc>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/vi/event/2023-50/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/event/2023-50/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/event/2023-50/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/vi/event/2023-49/</loc>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/event/2023-49/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/event/2023-49/"
+                />
+  </url><url>
     <loc>http://localhost:1313/vi/event/2023-48/</loc>
     <lastmod>2023-09-06T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -978,6 +1007,19 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="http://localhost:1313/vi/event/2023-48/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/vi/event/2023-52/</loc>
+    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/event/2023-52/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/event/2023-52/"
                 />
   </url><url>
     <loc>http://localhost:1313/vi/event/2023-43/</loc>
@@ -2589,6 +2631,18 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="http://localhost:1313/vi/network/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/vi/event/2023-51/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/event/2023-51/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/event/2023-51/"
                 />
   </url><url>
     <loc>http://localhost:1313/vi/teacher/alex-rook/</loc>
