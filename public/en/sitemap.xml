@@ -1006,6 +1006,32 @@
                 href="http://localhost:1313/course_shortcourse/"
                 />
   </url><url>
+    <loc>http://localhost:1313/event/2024-02/</loc>
+    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/event/2024-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/event/2024-02/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/event/</loc>
+    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/event/"
+                />
+  </url><url>
     <loc>http://localhost:1313/event/masterthailandtrip/</loc>
     <lastmod>2024-02-27T15:20:00+00:00</lastmod>
     <xhtml:link
@@ -1017,19 +1043,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/event/masterthailandtrip/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/event/</loc>
-    <lastmod>2024-02-27T15:20:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/event/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/playzedu/</loc>
@@ -1071,6 +1084,32 @@
                 href="http://localhost:1313/event/vung_tau_future_2024/"
                 />
   </url><url>
+    <loc>http://localhost:1313/event/2024-01/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/event/2024-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/event/2024-01/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/event/2023-57/</loc>
+    <lastmod>2023-10-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/event/2023-57/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/event/2023-57/"
+                />
+  </url><url>
     <loc>http://localhost:1313/event/2023-55/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1082,6 +1121,19 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/event/2023-55/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/event/2023-56/</loc>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/event/2023-56/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/event/2023-56/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2023-53/</loc>
@@ -2950,6 +3002,18 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/course/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/expertnetwork/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/expertnetwork/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/expertnetwork/"
                 />
   </url><url>
     <loc>http://localhost:1313/research/fostering-applied-science/</loc>
