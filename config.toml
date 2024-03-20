@@ -168,6 +168,23 @@ weight = 1
 name = "News & Events"
 url = "event"
 weight = 2
+  [[Languages.en.menu.main]]
+  parent= "News & Events"
+  weight = 1
+  name="News"
+  url="event"
+
+  [[Languages.en.menu.main]]
+  parent= "News & Events"
+  weight = 2
+  name="Events"
+  url="event"
+
+  [[Languages.en.menu.main]]
+  parent= "News & Events"
+  weight = 3
+  name="Admission"
+  url=""
 
 [[Languages.en.menu.main]]
 name = "Education"
@@ -261,7 +278,7 @@ hasChildren = true
    parent = "People"
    weight = 4
    name = "Expert Network"
-   url = "expertnetwork"
+   url = "network"
 
 
 
@@ -386,6 +403,24 @@ weight = 1
 name = "Tin & Sự Kiện"
 url = "event"
 weight = 2
+  [[Languages.vi.menu.main]]
+  parent= "Tin & Sự Kiện"
+  weight = 1
+  name="Tin tức"
+  url="event"
+
+  [[Languages.vi.menu.main]]
+  parent= "Tin & Sự Kiện"
+  weight = 2
+  name="Sự kiện"
+  url="event"
+
+  [[Languages.vi.menu.main]]
+  parent= "Tin & Sự Kiện"
+  weight = 3
+  name="Tuyển sinh"
+  url=""
+
 
 [[Languages.vi.menu.main]]
 name = "Giáo Dục"

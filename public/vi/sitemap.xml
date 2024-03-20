@@ -715,16 +715,6 @@
   </url><url>
     <loc>http://localhost:1313/vi/network/unai/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/network/unai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="http://localhost:1313/vi/network/unai/"
-                />
   </url><url>
     <loc>http://localhost:1313/vi/partner/iotlink/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
@@ -2860,18 +2850,6 @@
                 href="http://localhost:1313/vi/teacher/duis-rio/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/expertnetwork/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/expertnetwork/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="http://localhost:1313/vi/expertnetwork/"
-                />
-  </url><url>
     <loc>http://localhost:1313/vi/teacher/</loc>
     <xhtml:link
                 rel="alternate"
@@ -3015,6 +2993,8 @@
                 hreflang="vi-vi"
                 href="http://localhost:1313/vi/contact/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/vi/expertnetwork/</loc>
   </url><url>
     <loc>http://localhost:1313/vi/author/mark-dinn/</loc>
     <xhtml:link

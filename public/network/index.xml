@@ -1,19 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Network on Institute of Smart City &amp; Management</title>
+    <title>Expert Network on Institute of Smart City &amp; Management</title>
     <link>http://localhost:1313/network/</link>
-    <description>Recent content in Network on Institute of Smart City &amp; Management</description>
+    <description>Recent content in Expert Network on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
-    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/network/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coming Soon</title>
-      <link>http://localhost:1313/network/unai/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/network/unai/</guid>
+      <title>Barbara E. A. Piga</title>
+      <link>http://localhost:1313/network/barbara-piga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/network/barbara-piga/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dr. Chinh Ho</title>
+      <link>http://localhost:1313/network/dr-chinh-ho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/network/dr-chinh-ho/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dr. Tri Dung Dang</title>
+      <link>http://localhost:1313/network/dr-tri-dung-dang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/network/dr-tri-dung-dang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dr. Derlie Mateo-Babiano</title>
+      <link>http://localhost:1313/network/dr-derlie-babiano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/network/dr-derlie-babiano/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dr. Ma Sheilah G. Napalang</title>
+      <link>http://localhost:1313/network/dr-sheilah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/network/dr-sheilah/</guid>
       <description></description>
     </item>
   </channel>

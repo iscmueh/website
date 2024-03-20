@@ -1,25 +1,39 @@
 {{ define "main" }}
 
-<!-- event single -->
-<section class="section-sm">
+<!-- teacher details -->
+<section class="section">
   <div class="container">
     <div class="row">
-      <div class="col-12">
-        <h2 class="section-title">{{ .Title }}</h2>
+      <div class="col-md-5 mb-5">
+        <img class="img-fluid w-100" src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
       </div>
-      <!-- research image -->
-      <div class="col-12 mb-4">
-        <img style="height: 500px;width: 100%;object-fit: cover;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
+      <div class="col-md-6 mb-5">
+        <h3>{{ .Title }}</h3>
+        <h6 class="text-color">{{ .Params.Course }}</h6>
+        <p class="mb-5">{{ .Params.Bio | markdownify }}</p>
+        <div class="row">
+
+
+        </div>
       </div>
-    </div>
-    <!-- research details -->
-    <div class="row">
-      <div class="col-12 mb-50 content">
+      <div class="col-12 content">
         {{ .Content }}
       </div>
     </div>
-  </div>
+
+    <!-- <div class="row">
+      <div class="col-12">
+        <h4 class="mb-4">{{ i18n "courses" | upper}}</h4>
+      </div>
+      <!-- course item -->
+      <!-- {{ range where site.RegularPages "Params.teacher" .Title }}
+      <div class="col-lg-4 col-sm-6 mb-5">
+        {{ .Render "course"}}
+      </div>
+      {{ end }}
+    </div> -->
+  <!-- </div> -->
 </section>
-<!-- /event single -->
+<!-- /teacher details -->
 
 {{ end }}

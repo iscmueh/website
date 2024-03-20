@@ -1,7 +1,13 @@
-<div class="card rounded-0 hover-shadow border-top-0 border-left-0 border-right-0 h-100">
-  <img class="card-img-top rounded-0" height="150px" style="object-fit: contain;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+<div class="card border-0 rounded-0 hover-shadow mb-5">
+  <img class="card-img-top rounded-0" src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
   <div class="card-body">
-    <h4 class="card-title text-center">{{ .Title }}</a></h4>
-    <p class="card-text">{{ .Summary | truncate 100 }}</p>
+    <h4 class="card-title">{{ .Title }}</a></h4>
+    <p>{{ .Params.Course }}</p>
+    <ul class="list-inline">
+      {{ range .Params.Contact }}
+      <li class="list-inline-item"><a class="text-color" href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a>
+      </li>
+      {{ end }}
+    </ul>
   </div>
 </div>

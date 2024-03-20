@@ -80,6 +80,8 @@
                 href="http://localhost:1313/adjunctprofessors/prof-elena-marchigiani/"
                 />
   </url><url>
+    <loc>http://localhost:1313/network/barbara-piga/</loc>
+  </url><url>
     <loc>http://localhost:1313/members/dr-trinh-tu-anh/</loc>
     <xhtml:link
                 rel="alternate"
@@ -254,6 +256,8 @@
                 href="http://localhost:1313/adjunctprofessors/dr-chinh-ho/"
                 />
   </url><url>
+    <loc>http://localhost:1313/network/dr-chinh-ho/</loc>
+  </url><url>
     <loc>http://localhost:1313/members/dr-ducsu-seo/</loc>
     <xhtml:link
                 rel="alternate"
@@ -391,6 +395,8 @@
   </url><url>
     <loc>http://localhost:1313/members/dr-dong-su-yi/</loc>
   </url><url>
+    <loc>http://localhost:1313/network/dr-tri-dung-dang/</loc>
+  </url><url>
     <loc>http://localhost:1313/scholarship/international-phds/</loc>
     <xhtml:link
                 rel="alternate"
@@ -478,6 +484,8 @@
                 hreflang="en-us"
                 href="http://localhost:1313/partner/trieste-uni/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/network/dr-derlie-babiano/</loc>
   </url><url>
     <loc>http://localhost:1313/advisory/dr-khuat-viet-hung/</loc>
     <xhtml:link
@@ -577,6 +585,8 @@
                 hreflang="en-us"
                 href="http://localhost:1313/members/dr-hoang-ngoc-lan/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/network/dr-sheilah/</loc>
   </url><url>
     <loc>http://localhost:1313/activities/rtd-2022/</loc>
     <xhtml:link
@@ -790,19 +800,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/members/mar-steven/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/network/unai/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="http://localhost:1313/vi/network/unai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/network/unai/"
                 />
   </url><url>
     <loc>http://localhost:1313/partner/iotlink/</loc>
@@ -2818,19 +2815,6 @@
                 href="http://localhost:1313/course_graduate/"
                 />
   </url><url>
-    <loc>http://localhost:1313/network/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="http://localhost:1313/vi/network/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/network/"
-                />
-  </url><url>
     <loc>http://localhost:1313/apps/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url><url>
@@ -3004,16 +2988,16 @@
                 href="http://localhost:1313/course/"
                 />
   </url><url>
-    <loc>http://localhost:1313/expertnetwork/</loc>
+    <loc>http://localhost:1313/network/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/expertnetwork/"
+                href="http://localhost:1313/vi/network/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/expertnetwork/"
+                href="http://localhost:1313/network/"
                 />
   </url><url>
     <loc>http://localhost:1313/research/fostering-applied-science/</loc>
