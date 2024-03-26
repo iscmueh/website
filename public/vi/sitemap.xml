@@ -880,7 +880,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/vi/</loc>
-    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -890,6 +890,32 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="http://localhost:1313/vi/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/vi/event/</loc>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/event/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/vi/event/2024-03/</loc>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/event/2024-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/event/2024-03/"
                 />
   </url><url>
     <loc>http://localhost:1313/vi/event/2024-02/</loc>
@@ -903,19 +929,6 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="http://localhost:1313/vi/event/2024-02/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/vi/event/</loc>
-    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/"
                 />
   </url><url>
     <loc>http://localhost:1313/vi/event/masterthailandtrip/</loc>
