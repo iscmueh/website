@@ -870,7 +870,7 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/</loc>
-    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-04T08:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -882,8 +882,21 @@
                 href="https://www.iscm.ueh.edu.vn/vi/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/event/ws_thanhda_2024/</loc>
+    <lastmod>2024-04-04T08:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/ws_thanhda_2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/ws_thanhda_2024/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/event/</loc>
-    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-04T08:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -2662,6 +2675,32 @@
                 href="https://www.iscm.ueh.edu.vn/vi/course_graduate/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/admission_master/master-03/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/admission_master/master-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/admission_master/master-03/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/admission_master/master-04/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/admission_master/master-04/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/admission_master/master-04/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/consultancy/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -2725,6 +2764,32 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/network/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/admission_master/master-02/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/admission_master/master-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/admission_master/master-02/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/admission_master/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/admission_master/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/admission_master/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/teacher/alex-rook/</loc>
@@ -3191,18 +3256,6 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/admission_announcement/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/admission_master/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/admission_master/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/admission_master/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/admission_undergraduate/</loc>

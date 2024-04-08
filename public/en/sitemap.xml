@@ -965,7 +965,7 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/</loc>
-    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-04T08:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
@@ -975,6 +975,32 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/ws_thanhda_2024/</loc>
+    <lastmod>2024-04-04T08:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/ws_thanhda_2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/ws_thanhda_2024/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/</loc>
+    <lastmod>2024-04-04T08:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/2024-03/</loc>
@@ -988,19 +1014,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/event/2024-03/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/event/</loc>
-    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/event/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/course_shortcourse/</loc>
@@ -2802,6 +2815,58 @@
                 href="https://www.iscm.ueh.edu.vn/consultancy/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/admission_master/master-03/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/admission_master/master-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/admission_master/master-03/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/admission_master/master-04/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/admission_master/master-04/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/admission_master/master-04/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/admission_master/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/admission_master/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/admission_master/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/admission_master/master-02/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/admission_master/master-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/admission_master/master-02/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/course_graduate/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -3024,30 +3089,6 @@
                 href="https://www.iscm.ueh.edu.vn/admission_announcement/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/admission_master/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/admission_master/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/admission_master/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/admission_undergraduate/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/admission_undergraduate/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/admission_undergraduate/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/teacher/jacke-mastio/</loc>
     <xhtml:link
                 rel="alternate"
@@ -3258,6 +3299,18 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/research/zero-waste/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/admission_undergraduate/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/admission_undergraduate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/admission_undergraduate/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/teacher/zim-cook/</loc>
