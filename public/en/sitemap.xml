@@ -965,7 +965,7 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/</loc>
-    <lastmod>2024-04-04T08:00:00+00:00</lastmod>
+    <lastmod>2024-04-12T09:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
@@ -975,6 +975,22 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/15042024_master/</loc>
+    <lastmod>2024-04-12T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/</loc>
+    <lastmod>2024-04-12T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/ws_thanhda_2024/</loc>
@@ -988,19 +1004,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/event/ws_thanhda_2024/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/event/</loc>
-    <lastmod>2024-04-04T08:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/event/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/2024-03/</loc>
