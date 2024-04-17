@@ -107,7 +107,7 @@
         <div class="row justify-content-center">
             <!-- event -->
             {{ $related := (where site.RegularPages "Type" "event") | intersect (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) | shuffle | first 3}} {{ range first 3 $related }}
-            <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
+            <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0 event-content">
                 {{ .Render "event" }}
             </div>
             {{ end }}
@@ -117,7 +117,7 @@
 <!-- /more event -->
 
 <style>
-  ul > li {
+  .event-content ul > li {
     display: block !important;
   }
 </style>
