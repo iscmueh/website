@@ -869,21 +869,8 @@
                 href="https://www.iscm.ueh.edu.vn/vi/partner/wscf/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/event/15042024_master/</loc>
-    <lastmod>2024-04-12T09:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/event/15042024_master/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/event/15042024_master/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/</loc>
-    <lastmod>2024-04-12T09:00:00+00:00</lastmod>
+    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -896,7 +883,7 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/event/</loc>
-    <lastmod>2024-04-12T09:00:00+00:00</lastmod>
+    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -906,6 +893,32 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/event/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/event/intern_talkshow/</loc>
+    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/intern_talkshow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/intern_talkshow/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/event/15042024_master/</loc>
+    <lastmod>2024-04-12T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/15042024_master/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/15042024_master/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/event/ws_thanhda_2024/</loc>
