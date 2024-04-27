@@ -964,21 +964,21 @@
                 href="https://www.iscm.ueh.edu.vn/partner/wscf/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/event/2024-04/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+    <loc>https://www.iscm.ueh.edu.vn/event/hoi_thao_kinh_te_so_2024/</loc>
+    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/event/2024-04/"
+                href="https://www.iscm.ueh.edu.vn/vi/event/hoi_thao_kinh_te_so_2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/event/2024-04/"
+                href="https://www.iscm.ueh.edu.vn/event/hoi_thao_kinh_te_so_2024/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
@@ -991,7 +991,7 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
@@ -1001,6 +1001,19 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/event/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/2024-04/</loc>
+    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/2024-04/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/2024-04/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/intern_talkshow/</loc>
