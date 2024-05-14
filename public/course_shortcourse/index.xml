@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Short Course on Institute of Smart City &amp; Management</title>
-    <link>http://localhost:1313/course_shortcourse/</link>
+    <link>https://www.iscm.ueh.edu.vn/course_shortcourse/</link>
     <description>Recent content in Short Course on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
     <lastBuildDate>Mon, 04 Mar 2024 15:27:17 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/course_shortcourse/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.iscm.ueh.edu.vn/course_shortcourse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Smart cities: Context, background, principles, and development</title>
-      <link>http://localhost:1313/course_shortcourse/sc-smartcity/</link>
+      <link>https://www.iscm.ueh.edu.vn/course_shortcourse/sc-smartcity/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/course_shortcourse/sc-smartcity/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/course_shortcourse/sc-smartcity/</guid>
       <description></description>
     </item>
     <item>
       <title>Critical factors for smart city development</title>
-      <link>http://localhost:1313/course_shortcourse/sc-critical-factors-for-smart-city-development/</link>
+      <link>https://www.iscm.ueh.edu.vn/course_shortcourse/sc-critical-factors-for-smart-city-development/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/course_shortcourse/sc-critical-factors-for-smart-city-development/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/course_shortcourse/sc-critical-factors-for-smart-city-development/</guid>
       <description></description>
     </item>
     <item>
       <title>The digital transformation of cities: e-government</title>
-      <link>http://localhost:1313/course_shortcourse/sc-e-government/</link>
+      <link>https://www.iscm.ueh.edu.vn/course_shortcourse/sc-e-government/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/course_shortcourse/sc-e-government/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/course_shortcourse/sc-e-government/</guid>
       <description></description>
     </item>
     <item>
       <title>Smart Cities development: essential technologies</title>
-      <link>http://localhost:1313/course_shortcourse/sc-smartcity-development/</link>
+      <link>https://www.iscm.ueh.edu.vn/course_shortcourse/sc-smartcity-development/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/course_shortcourse/sc-smartcity-development/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/course_shortcourse/sc-smartcity-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Customized Programs</title>
-      <link>http://localhost:1313/course_shortcourse/customize-program/</link>
+      <link>https://www.iscm.ueh.edu.vn/course_shortcourse/customize-program/</link>
       <pubDate>Mon, 04 Mar 2024 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/course_shortcourse/customize-program/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/course_shortcourse/customize-program/</guid>
       <description></description>
     </item>
   </channel>
