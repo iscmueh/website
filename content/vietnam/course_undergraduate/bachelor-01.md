@@ -40,17 +40,19 @@ Ngoài ra, sau khi tốt nghiệp chương trình đại học, sinh viên có t
 
 #### Đặc điểm nổi bật:
 
-1. * Chương trình tạo nên một công dân toàn cầu thông thạo kiến thức về thiết kế, quy hoạch phát triển đô thị và thiết kế đô thị theo chuẩn quốc tế, sử dụng tiếng Anh thành thạo làm cơ sở cho quá trình học tập suốt đời của sinh viên.
+1. * Trở thành công dân toàn cầu với kiến thức toàn diện, thông thạo tiếng Anh và khả năng học tập suốt đời
 
-2. * Chương trình tích hợp đa ngành như môi trường, nghệ thuật, kỹ thuật, quy hoạch, chính sách công, ...thông qua các trải nghiệm đa dạng từ bài giảng, seminar, đến xưởng thiết kế/thực hành, StudioLab hiện đại, tham quan thực tế... Một số môn học sẽ do các giáo sư, chuyên gia trong và ngoài nước giảng dạy.
+2. * Tư duy đa ngành liên quan đến môi trường, nghệ thuật, kỹ thuật, quy hoạch và chính sách công,… được đúc kết qua các bài giảng, hội nghị chuyên đề, tham quan thực địa, v.v… với sự tham gia và hướng dẫn của các giáo sư, chuyên gia quốc tế
 
-3. * Các đồ án, môn học được thiết kế dựa trên nghiên cứu giải quyết các vấn đề thực tế (do các cơ quan quản lý nhà nước, công ty tư nhân trong và ngoài nước đặt hàng)
-Chương trình học tích hợp ứng dụng và sử dụng các công nghệ hiện đại: VR, AR, 3D Printing, mô phỏng đô thị... vào thiết kế, quy hoạch và thực hiện
+3. * Các dự án tích hợp vào chương trình được thiết kế dựa trên các vấn đề thực tế do các đối tác trong ngành và cộng đồng đề xuất hay khơi gợi
 
-4. * Sử dụng hệ thống phòng StudioLab đô thị thông minh hiện đại
+4. * Khai thác hiệu quả hệ thống StudioLab hiện đại ứng dụng các công nghệ tiên tiến: VR, AR, in 3D, mô phỏng đô thị, v.v
 
-5. * Có chương trình liên kết mạnh và đa dạng với các trường quốc tế từ các nước Bỉ, Hàn Quốc, Hà Lan, New Zeland, Úc, Pháp, Thái Lan, Myanmar, Ấn Độ…
-Phù hợp với nhiều định hướng khác nhau của sinh viên, đề cao đạo đức nghề nghiệp, trí tuệ liêm chính và trách nhiệm xã hội của con người hiện đại trong kỷ nguyên mới.
+5. * Kết nối toàn cầu với cộng đồng sinh viên quốc tế tại Bỉ, Hàn Quốc, Hà Lan, New Zealand, Úc, Pháp, Thái Lan, Myanmar, Ấn Độ, v.v
+
+6. * Cơ hội trao đổi học tập tại các trường đại học đối tác nước ngoài để nhận thêm bằng cấp có giá trị quốc tế
+
+7. * Trau dồi các giá trị cá nhân, bao gồm đạo đức nghề nghiệp,  trí tuệ liêm chính và trách nhiệm xã hội.
 
 #### Điều kiện đăng kí:
 

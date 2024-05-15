@@ -5,7 +5,7 @@
   translation: Contact Form
 
 - id: send
-  translation: send message
+  translation: Send
 
 - id: contact_info
   translation: Contact Info
@@ -118,3 +118,36 @@
 
 - id: download
   translation: Download
+
+- id: full_name
+  translation: Full name
+
+- id: enter_your_fullname
+  translation: Enter your full name
+
+- id: email
+  translation: Email
+
+- id: enter_your_email
+  translation: Enter your email
+
+- id: phone_number
+  translation: Phone Number
+
+- id: enter_your_phone_number
+  translation: Enter your phone number
+
+- id: work_place_or_study_place
+  translation: Work Place/ Study Place
+
+- id: enter_your_work_place_or_study_place
+  translation: Enter your work place/ study place
+
+- id: your_question
+  translation: Your Question
+
+- id: enter_your_question_here
+  translation: Enter your question here...
+
+- id: contact_information_for_queries
+  translation: Contact information for queries

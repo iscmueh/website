@@ -33,11 +33,7 @@ weight: 1
 
 <!--StartFragment-->
 
-Chương trình cung cấp kiến thức chuyên môn sâu rộng và năng lực làm chủ các lĩnh vực quản lý, khoa học và công nghệ liên quan đến các giải pháp tích hợp trong quy hoạch và thiết kế đô thị cho thành phố thông minh.
-
-Sau khi tốt nghiệp, người học được trang bị tư duy logic, kiến thức và kỹ năng quản lý, nền tảng khoa học, chuyên môn cao và kỹ năng thực hành tốt. Người học có khả năng nghiên cứu khoa học độc lập, sáng tạo và đưa ra các giải pháp hiệu quả cho các vấn đề đô thị với sự kết hợp giữa quản lý, khoa học và công nghệ nhằm hướng tới một thành phố thông minh đáp ứng sự tiến bộ của điều kiện kinh tế - xã hội.
-
-Chương trình tập trung vào việc ứng dụng công nghệ thông minh trong quản lý đổi mới đô thị theo hướng phát triển bền vững và quy hoạch tích hợp có xem xét đến các yếu tố về môi trường.
+Chương trình Thạc sĩ tại ISCM được đào tạo chính thức trong 2 năm với chương trình học và phương pháp giảng dạy quốc tế hóa. Đặc biệt, sinh viên có cơ hội tham gia các chương trình trao đổi tại các trường đại học đối tác ở nước ngoài và nhận bằng kép do Đại học kinh tế Thành phố Hồ Chí Minh và các trường đối tác cấp.
 
 <!--EndFragment-->
 

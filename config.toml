@@ -441,7 +441,7 @@ weight = 3
   [[Languages.vi.menu.main]]
   parent="Giáo Dục"
   weight=3
-  name="Cao Học"
+  name="Sau Đại Học"
   url="course_graduate"
 
 [[Languages.vi.menu.main]]

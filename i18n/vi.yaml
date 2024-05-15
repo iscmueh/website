@@ -108,3 +108,36 @@
 
 - id: download
   translation: Tải Về
+
+- id: full_name
+  translation: Họ tên
+
+- id: enter_your_fullname
+  translation: Nhập họ tên của bạn
+
+- id: email
+  translation: Email
+
+- id: enter_your_email
+  translation: Nhập email của bạn
+
+- id: phone_number
+  translation: Số điện thoại
+
+- id: enter_your_phone_number
+  translation: Nhập số điện thoại của bạn
+
+- id: work_place_or_study_place
+  translation: Nơi làm việc/ Nơi học tập
+
+- id: enter_your_work_place_or_study_place
+  translation: Nhập nơi làm việc/ Nơi học tập của bạn
+
+- id: your_question
+  translation: Câu hỏi của bạn
+
+- id: enter_your_question_here
+  translation: Nhập câu hỏi của bạn ở đây...
+
+- id: contact_information_for_queries
+  translation: Vui lòng gửi thắc mắc của bạn tại đây
