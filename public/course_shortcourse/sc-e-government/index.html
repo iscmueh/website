@@ -410,7 +410,7 @@
     </div>
     
     <div class="row flex-column align-items-center">
-      <h2>Contact information for queries:</h2>
+      <h2>Contact information for queries</h2>
       <form class="contact-form col-12 col-md-6">
         <div>
           <label for="name">Full name</label>
@@ -418,7 +418,7 @@
             type="text"
             name="name"
             id="name"
-            placeholder="Enter your fullname"
+            placeholder="Enter your full name"
           />
         </div>
         <div>
@@ -445,24 +445,29 @@
             type="text"
             name="workplace"
             id="work-place"
-            placeholder="Enter your Work Place/ Study Place"
+            placeholder="Enter your work place/ study place"
           />
         </div>
         <div>
-          <label for="participation">Number of Participation</label>
-          <input type="number" min="1" value="1" name="participation" />
+          <label for="question">Your Question</label>
+          <div class="question-editor">
+            <textarea
+              name="question"
+              placeholder="Enter your question here..."
+            ></textarea>
+          </div>
         </div>
         <button type="submit">Send</button>
       </form>
       <script>
         const form = document.getElementsByClassName("contact-form")[0];
-
+  
         form.addEventListener("submit", (e) => {
           e.preventDefault();
-
+  
           let data = new FormData(form);
-          data.append("sheet", "Short Course");
-
+          data.append("sheet", "Undergraduate");
+  
           fetch(
             "https://script.google.com/macros/s/AKfycbyVJApSU_6-Zts9Px9fyrRAT3vZr0n-PrTB8mz2kAuTQ4TbVTxaOHrjxGnrSxKsz4toow/exec",
             {
@@ -530,6 +535,31 @@
 
   .contact-form div label::after {
     content: ":";
+  }
+
+  .contact-form .question-editor {
+    margin-top: 10px;
+    width: 50%;
+    height: 100px;
+  }
+
+  .contact-form .question-editor textarea {
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    resize: none;
+    font-family: "Barlow", sans-serif;
+    font-size: 15px;
+    outline: none;
+  }
+
+  .contact-form .question-editor textarea::-webkit-scrollbar {
+    width: 5px;
+  }
+
+  .contact-form .question-editor textarea::-webkit-scrollbar-thumb {
+    border-radius: 6px;
+    background: #ccc;
   }
 </style>
 
@@ -655,8 +685,8 @@
   <img
     class="card-img-top rounded-0"
     height="253"
-    src="/images/courses/sc-nhan-to.jpg"
-    alt="Critical factors for smart city development"
+    src="/images/courses/sc-smart-city.jpg"
+    alt="Smart cities: Context, background, principles, and development"
   />
   <div class="card-body" style="min-height: fit-content; min-height: 210px">
     <ul class="list-inline mb-2">
@@ -679,7 +709,7 @@
     </ul>
     <h4 class="card-title" style="height: 50px">
       <a
-        href="http://localhost:1313/course_shortcourse/sc-critical-factors-for-smart-city-development/"
+        href="http://localhost:1313/course_shortcourse/sc-smartcity/"
         style="
           display: -webkit-box;
           -webkit-line-clamp: 2;
@@ -689,11 +719,11 @@
           text-decoration: none;
           text-overflow: ellipsis;
         "
-        >Critical factors for smart city development</a
+        >Smart cities: Context, background, principles, and development</a
       >
     </h4>
     <p class="card-text mb-4"></p>
-    <a href="http://localhost:1313/course_shortcourse/sc-critical-factors-for-smart-city-development/" class="btn btn-primary btn-sm"
+    <a href="http://localhost:1313/course_shortcourse/sc-smartcity/" class="btn btn-primary btn-sm"
       >Read more</a
     >
   </div>

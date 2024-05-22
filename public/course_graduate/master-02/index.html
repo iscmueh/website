@@ -442,7 +442,7 @@
     </div>
     
     <div class="row flex-column align-items-center">
-      <h2>Contact information for queries:</h2>
+      <h2>Contact information for queries</h2>
       <form class="contact-form col-12 col-md-6">
         <div>
           <label for="name">Full name</label>
@@ -450,7 +450,7 @@
             type="text"
             name="name"
             id="name"
-            placeholder="Enter your fullname"
+            placeholder="Enter your full name"
           />
         </div>
         <div>
@@ -477,7 +477,7 @@
             type="text"
             name="workplace"
             id="work-place"
-            placeholder="Enter your Work Place/ Study Place"
+            placeholder="Enter your work place/ study place"
           />
         </div>
         <div>
@@ -493,13 +493,13 @@
       </form>
       <script>
         const form = document.getElementsByClassName("contact-form")[0];
-
+  
         form.addEventListener("submit", (e) => {
           e.preventDefault();
-
+  
           let data = new FormData(form);
-          data.append("sheet", "Graduate");
-
+          data.append("sheet", "Undergraduate");
+  
           fetch(
             "https://script.google.com/macros/s/AKfycbyVJApSU_6-Zts9Px9fyrRAT3vZr0n-PrTB8mz2kAuTQ4TbVTxaOHrjxGnrSxKsz4toow/exec",
             {
