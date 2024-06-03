@@ -964,21 +964,8 @@
                 href="http://localhost:1313/partner/wscf/"
                 />
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="http://localhost:1313/vi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/"
-                />
-  </url><url>
     <loc>http://localhost:1313/event/</loc>
-    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
@@ -990,17 +977,59 @@
                 href="http://localhost:1313/event/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/lop_hoc_thu_2024_baud/</loc>
-    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/lop_hoc_thu_2024_baud/"
+                href="http://localhost:1313/vi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/lop_hoc_thu_2024_baud/"
+                href="http://localhost:1313/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/event/2024-05/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/event/2024-05/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/event/2024-05/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/news/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/news/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/event/lop_hoc_thu_2024_baud/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/lop_hoc_thu_2024_baud/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/news/lop_hoc_thu_2024_baud/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/news/lop_hoc_thu_2024_baud/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/hoi_thao_kinh_te_so_2024/</loc>
@@ -1029,33 +1058,36 @@
                 href="http://localhost:1313/event/2024-04/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2024-05/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/event/intern_talkshow/</loc>
+    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/intern_talkshow/</loc>
     <lastmod>2024-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/intern_talkshow/"
+                href="http://localhost:1313/vi/news/intern_talkshow/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/intern_talkshow/"
+                href="http://localhost:1313/news/intern_talkshow/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/15042024_master/</loc>
     <lastmod>2024-04-12T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/15042024_master/</loc>
+    <lastmod>2024-04-12T09:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/15042024_master/"
+                href="http://localhost:1313/vi/news/15042024_master/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/15042024_master/"
+                href="http://localhost:1313/news/15042024_master/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/ws_thanhda_2024/</loc>
@@ -1071,17 +1103,17 @@
                 href="http://localhost:1313/event/ws_thanhda_2024/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2024-03/</loc>
+    <loc>http://localhost:1313/news/2024-03/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2024-03/"
+                href="http://localhost:1313/vi/news/2024-03/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2024-03/"
+                href="http://localhost:1313/news/2024-03/"
                 />
   </url><url>
     <loc>http://localhost:1313/course_shortcourse/</loc>
@@ -1112,28 +1144,31 @@
   </url><url>
     <loc>http://localhost:1313/event/masterthailandtrip/</loc>
     <lastmod>2024-02-27T15:20:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/masterthailandtrip/</loc>
+    <lastmod>2024-02-27T15:20:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/masterthailandtrip/"
+                href="http://localhost:1313/vi/news/masterthailandtrip/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/masterthailandtrip/"
+                href="http://localhost:1313/news/masterthailandtrip/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/playzedu/</loc>
+    <loc>http://localhost:1313/news/playzedu/</loc>
     <lastmod>2024-01-29T09:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/playzedu/"
+                href="http://localhost:1313/vi/news/playzedu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/playzedu/"
+                href="http://localhost:1313/news/playzedu/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/sutd-course/</loc>
@@ -1151,28 +1186,31 @@
   </url><url>
     <loc>http://localhost:1313/event/vung_tau_future_2024/</loc>
     <lastmod>2024-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/vung_tau_future_2024/</loc>
+    <lastmod>2024-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/vung_tau_future_2024/"
+                href="http://localhost:1313/vi/news/vung_tau_future_2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/vung_tau_future_2024/"
+                href="http://localhost:1313/news/vung_tau_future_2024/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2024-01/</loc>
+    <loc>http://localhost:1313/news/2024-01/</loc>
     <lastmod>2024-01-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2024-01/"
+                href="http://localhost:1313/vi/news/2024-01/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2024-01/"
+                href="http://localhost:1313/news/2024-01/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2023-57/</loc>
@@ -1214,30 +1252,30 @@
                 href="http://localhost:1313/event/2023-56/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-53/</loc>
+    <loc>http://localhost:1313/news/2023-53/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-53/"
+                href="http://localhost:1313/vi/news/2023-53/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-53/"
+                href="http://localhost:1313/news/2023-53/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-54/</loc>
+    <loc>http://localhost:1313/news/2023-54/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-54/"
+                href="http://localhost:1313/vi/news/2023-54/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-54/"
+                href="http://localhost:1313/news/2023-54/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2023-51/</loc>
@@ -1266,17 +1304,17 @@
                 href="http://localhost:1313/event/2023-50/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-49/</loc>
+    <loc>http://localhost:1313/news/2023-49/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-49/"
+                href="http://localhost:1313/vi/news/2023-49/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-49/"
+                href="http://localhost:1313/news/2023-49/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2023-48/</loc>
@@ -1292,82 +1330,82 @@
                 href="http://localhost:1313/event/2023-48/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-52/</loc>
+    <loc>http://localhost:1313/news/2023-52/</loc>
     <lastmod>2023-08-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-52/"
+                href="http://localhost:1313/vi/news/2023-52/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-52/"
+                href="http://localhost:1313/news/2023-52/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-33/</loc>
+    <loc>http://localhost:1313/news/2023-33/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-33/"
+                href="http://localhost:1313/vi/news/2023-33/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-33/"
+                href="http://localhost:1313/news/2023-33/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-41/</loc>
+    <loc>http://localhost:1313/news/2023-41/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-41/"
+                href="http://localhost:1313/vi/news/2023-41/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-41/"
+                href="http://localhost:1313/news/2023-41/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-43/</loc>
+    <loc>http://localhost:1313/news/2023-43/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-43/"
+                href="http://localhost:1313/vi/news/2023-43/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-43/"
+                href="http://localhost:1313/news/2023-43/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-42/</loc>
+    <loc>http://localhost:1313/news/2023-42/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-42/"
+                href="http://localhost:1313/vi/news/2023-42/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-42/"
+                href="http://localhost:1313/news/2023-42/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-39/</loc>
+    <loc>http://localhost:1313/news/2023-39/</loc>
     <lastmod>2023-08-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-39/"
+                href="http://localhost:1313/vi/news/2023-39/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-39/"
+                href="http://localhost:1313/news/2023-39/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2023-32/</loc>
@@ -1383,17 +1421,17 @@
                 href="http://localhost:1313/event/2023-32/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-40/</loc>
+    <loc>http://localhost:1313/news/2023-40/</loc>
     <lastmod>2023-08-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-40/"
+                href="http://localhost:1313/vi/news/2023-40/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-40/"
+                href="http://localhost:1313/news/2023-40/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2023-31/</loc>
@@ -1422,30 +1460,30 @@
                 href="http://localhost:1313/event/2023-36/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-35/</loc>
+    <loc>http://localhost:1313/news/2023-35/</loc>
     <lastmod>2023-08-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-35/"
+                href="http://localhost:1313/vi/news/2023-35/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-35/"
+                href="http://localhost:1313/news/2023-35/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-34/</loc>
+    <loc>http://localhost:1313/news/2023-34/</loc>
     <lastmod>2023-08-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-34/"
+                href="http://localhost:1313/vi/news/2023-34/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-34/"
+                href="http://localhost:1313/news/2023-34/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2023-38/</loc>
@@ -1487,17 +1525,17 @@
                 href="http://localhost:1313/event/2023-30/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-47/</loc>
+    <loc>http://localhost:1313/news/2023-47/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-47/"
+                href="http://localhost:1313/vi/news/2023-47/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-47/"
+                href="http://localhost:1313/news/2023-47/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2023-46/</loc>
@@ -1567,15 +1605,18 @@
   </url><url>
     <loc>http://localhost:1313/event/2023-25/</loc>
     <lastmod>2023-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/2023-25/</loc>
+    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-25/"
+                href="http://localhost:1313/vi/news/2023-25/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-25/"
+                href="http://localhost:1313/news/2023-25/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2023-37/</loc>
@@ -1591,17 +1632,17 @@
                 href="http://localhost:1313/event/2023-37/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-23/</loc>
+    <loc>http://localhost:1313/news/2023-23/</loc>
     <lastmod>2023-05-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-23/"
+                href="http://localhost:1313/vi/news/2023-23/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-23/"
+                href="http://localhost:1313/news/2023-23/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2023-26/</loc>
@@ -1617,17 +1658,17 @@
                 href="http://localhost:1313/event/2023-26/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-27/</loc>
+    <loc>http://localhost:1313/news/2023-27/</loc>
     <lastmod>2023-05-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-27/"
+                href="http://localhost:1313/vi/news/2023-27/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-27/"
+                href="http://localhost:1313/news/2023-27/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2023-19/</loc>
@@ -1669,17 +1710,17 @@
                 href="http://localhost:1313/event/2023-18/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-22/</loc>
+    <loc>http://localhost:1313/news/2023-22/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-22/"
+                href="http://localhost:1313/vi/news/2023-22/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-22/"
+                href="http://localhost:1313/news/2023-22/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2023-17/</loc>
@@ -1708,30 +1749,30 @@
                 href="http://localhost:1313/event/2023-16/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-14/</loc>
+    <loc>http://localhost:1313/news/2023-14/</loc>
     <lastmod>2023-04-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-14/"
+                href="http://localhost:1313/vi/news/2023-14/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-14/"
+                href="http://localhost:1313/news/2023-14/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-15/</loc>
+    <loc>http://localhost:1313/news/2023-15/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-15/"
+                href="http://localhost:1313/vi/news/2023-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-15/"
+                href="http://localhost:1313/news/2023-15/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2023-12/</loc>
@@ -1760,17 +1801,17 @@
                 href="http://localhost:1313/event/2023-11/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-13/</loc>
+    <loc>http://localhost:1313/news/2023-13/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-13/"
+                href="http://localhost:1313/vi/news/2023-13/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-13/"
+                href="http://localhost:1313/news/2023-13/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2023-10/</loc>
@@ -1786,56 +1827,56 @@
                 href="http://localhost:1313/event/2023-10/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-09/</loc>
+    <loc>http://localhost:1313/news/2023-09/</loc>
     <lastmod>2023-03-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-09/"
+                href="http://localhost:1313/vi/news/2023-09/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-09/"
+                href="http://localhost:1313/news/2023-09/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-08/</loc>
+    <loc>http://localhost:1313/news/2023-08/</loc>
     <lastmod>2023-02-26T08:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-08/"
+                href="http://localhost:1313/vi/news/2023-08/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-08/"
+                href="http://localhost:1313/news/2023-08/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-06/</loc>
+    <loc>http://localhost:1313/news/2023-06/</loc>
     <lastmod>2023-02-15T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-06/"
+                href="http://localhost:1313/vi/news/2023-06/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-06/"
+                href="http://localhost:1313/news/2023-06/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-07/</loc>
+    <loc>http://localhost:1313/news/2023-07/</loc>
     <lastmod>2023-02-12T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-07/"
+                href="http://localhost:1313/vi/news/2023-07/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-07/"
+                href="http://localhost:1313/news/2023-07/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2023-05/</loc>
@@ -1853,41 +1894,44 @@
   </url><url>
     <loc>http://localhost:1313/event/2023-04/</loc>
     <lastmod>2023-02-09T08:36:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/2023-04/</loc>
+    <lastmod>2023-02-09T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-04/"
+                href="http://localhost:1313/vi/news/2023-04/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-04/"
+                href="http://localhost:1313/news/2023-04/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-03/</loc>
+    <loc>http://localhost:1313/news/2023-03/</loc>
     <lastmod>2023-01-21T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-03/"
+                href="http://localhost:1313/vi/news/2023-03/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-03/"
+                href="http://localhost:1313/news/2023-03/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2023-02/</loc>
+    <loc>http://localhost:1313/news/2023-02/</loc>
     <lastmod>2023-01-19T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2023-02/"
+                href="http://localhost:1313/vi/news/2023-02/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2023-02/"
+                href="http://localhost:1313/news/2023-02/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2023-01/</loc>
@@ -1903,17 +1947,17 @@
                 href="http://localhost:1313/event/2023-01/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2022-50/</loc>
+    <loc>http://localhost:1313/news/2022-50/</loc>
     <lastmod>2022-12-16T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-50/"
+                href="http://localhost:1313/vi/news/2022-50/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2022-50/"
+                href="http://localhost:1313/news/2022-50/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2022-49/</loc>
@@ -1955,19 +1999,6 @@
                 href="http://localhost:1313/event/2022-48/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2022-43/</loc>
-    <lastmod>2022-12-08T08:36:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-43/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/event/2022-43/"
-                />
-  </url><url>
     <loc>http://localhost:1313/event/2022-44/</loc>
     <lastmod>2022-12-08T08:36:00+00:00</lastmod>
     <xhtml:link
@@ -1979,6 +2010,19 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/event/2022-44/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/news/2022-43/</loc>
+    <lastmod>2022-12-08T08:36:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/news/2022-43/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/news/2022-43/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2022-46/</loc>
@@ -2007,82 +2051,82 @@
                 href="http://localhost:1313/event/2022-45/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2022-42/</loc>
+    <loc>http://localhost:1313/news/2022-42/</loc>
     <lastmod>2022-12-05T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-42/"
+                href="http://localhost:1313/vi/news/2022-42/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2022-42/"
+                href="http://localhost:1313/news/2022-42/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2022-41/</loc>
+    <loc>http://localhost:1313/news/2022-41/</loc>
     <lastmod>2022-11-25T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-41/"
+                href="http://localhost:1313/vi/news/2022-41/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2022-41/"
+                href="http://localhost:1313/news/2022-41/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2022-11/</loc>
+    <loc>http://localhost:1313/news/2022-11/</loc>
     <lastmod>2022-11-24T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-11/"
+                href="http://localhost:1313/vi/news/2022-11/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2022-11/"
+                href="http://localhost:1313/news/2022-11/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2022-15/</loc>
+    <loc>http://localhost:1313/news/2022-15/</loc>
     <lastmod>2022-11-11T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-15/"
+                href="http://localhost:1313/vi/news/2022-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2022-15/"
+                href="http://localhost:1313/news/2022-15/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2022-16/</loc>
+    <loc>http://localhost:1313/news/2022-16/</loc>
     <lastmod>2022-11-10T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-16/"
+                href="http://localhost:1313/vi/news/2022-16/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2022-16/"
+                href="http://localhost:1313/news/2022-16/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2022-17/</loc>
+    <loc>http://localhost:1313/news/2022-17/</loc>
     <lastmod>2022-11-08T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-17/"
+                href="http://localhost:1313/vi/news/2022-17/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2022-17/"
+                href="http://localhost:1313/news/2022-17/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2022-14/</loc>
@@ -2163,72 +2207,72 @@
                 href="http://localhost:1313/event/2022-06/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2022-07/</loc>
+    <loc>http://localhost:1313/news/2022-07/</loc>
     <lastmod>2022-09-05T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-07/"
+                href="http://localhost:1313/vi/news/2022-07/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2022-07/"
+                href="http://localhost:1313/news/2022-07/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2022-04/</loc>
+    <loc>http://localhost:1313/news/2022-04/</loc>
     <lastmod>2022-07-29T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-04/"
+                href="http://localhost:1313/vi/news/2022-04/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2022-04/"
+                href="http://localhost:1313/news/2022-04/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2022-seminar-35-years-of-optical-remote-sensing-in-geography/</loc>
     <lastmod>2022-07-29T02:36:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/event/2022-26/</loc>
+    <loc>http://localhost:1313/news/2022-26/</loc>
     <lastmod>2022-07-28T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-26/"
+                href="http://localhost:1313/vi/news/2022-26/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2022-26/"
+                href="http://localhost:1313/news/2022-26/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2022-03/</loc>
+    <loc>http://localhost:1313/news/2022-03/</loc>
     <lastmod>2022-07-27T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-03/"
+                href="http://localhost:1313/vi/news/2022-03/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2022-03/"
+                href="http://localhost:1313/news/2022-03/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2022-27/</loc>
+    <loc>http://localhost:1313/news/2022-27/</loc>
     <lastmod>2022-07-22T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-27/"
+                href="http://localhost:1313/vi/news/2022-27/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2022-27/"
+                href="http://localhost:1313/news/2022-27/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2022-international-workshop-global-city-development-camp/</loc>
@@ -2247,43 +2291,43 @@
                 href="http://localhost:1313/event/2022-05/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2022-08/</loc>
+    <loc>http://localhost:1313/news/2022-08/</loc>
     <lastmod>2022-06-24T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-08/"
+                href="http://localhost:1313/vi/news/2022-08/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2022-08/"
+                href="http://localhost:1313/news/2022-08/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2022-23/</loc>
+    <loc>http://localhost:1313/news/2022-23/</loc>
     <lastmod>2022-06-16T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-23/"
+                href="http://localhost:1313/vi/news/2022-23/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2022-23/"
+                href="http://localhost:1313/news/2022-23/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2022-seminar-circlareconomy/</loc>
+    <loc>http://localhost:1313/news/2022-seminar-circlareconomy/</loc>
     <lastmod>2022-06-08T15:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-seminar-circlareconomy/"
+                href="http://localhost:1313/vi/news/2022-seminar-circlareconomy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2022-seminar-circlareconomy/"
+                href="http://localhost:1313/news/2022-seminar-circlareconomy/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2022-10/</loc>
@@ -2299,17 +2343,17 @@
                 href="http://localhost:1313/event/2022-10/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2022-30/</loc>
+    <loc>http://localhost:1313/news/2022-30/</loc>
     <lastmod>2022-06-01T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-30/"
+                href="http://localhost:1313/vi/news/2022-30/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2022-30/"
+                href="http://localhost:1313/news/2022-30/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2022-31/</loc>
@@ -2325,17 +2369,17 @@
                 href="http://localhost:1313/event/2022-31/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2022-34/</loc>
+    <loc>http://localhost:1313/news/2022-34/</loc>
     <lastmod>2022-04-19T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-34/"
+                href="http://localhost:1313/vi/news/2022-34/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2022-34/"
+                href="http://localhost:1313/news/2022-34/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2022-35/</loc>
@@ -2351,82 +2395,85 @@
                 href="http://localhost:1313/event/2022-35/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2022-36/</loc>
+    <loc>http://localhost:1313/news/2022-36/</loc>
     <lastmod>2022-03-13T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-36/"
+                href="http://localhost:1313/vi/news/2022-36/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2022-36/"
+                href="http://localhost:1313/news/2022-36/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2022-37/</loc>
+    <loc>http://localhost:1313/news/2022-37/</loc>
     <lastmod>2022-03-07T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-37/"
+                href="http://localhost:1313/vi/news/2022-37/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2022-37/"
+                href="http://localhost:1313/news/2022-37/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2022-01-20-tuyen-sinh-dual-nzl/</loc>
+    <loc>http://localhost:1313/news/2022-01-20-tuyen-sinh-dual-nzl/</loc>
     <lastmod>2022-01-19T19:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-01-20-tuyen-sinh-dual-nzl/"
+                href="http://localhost:1313/vi/news/2022-01-20-tuyen-sinh-dual-nzl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2022-01-20-tuyen-sinh-dual-nzl/"
+                href="http://localhost:1313/news/2022-01-20-tuyen-sinh-dual-nzl/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2022-01-16_porsche/</loc>
     <lastmod>2022-01-17T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/2022-01-16_porsche/</loc>
+    <lastmod>2022-01-17T19:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-01-16_porsche/"
+                href="http://localhost:1313/vi/news/2022-01-16_porsche/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2022-01-16_porsche/"
+                href="http://localhost:1313/news/2022-01-16_porsche/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2022-24/</loc>
+    <loc>http://localhost:1313/news/2022-24/</loc>
     <lastmod>2022-01-08T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-24/"
+                href="http://localhost:1313/vi/news/2022-24/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2022-24/"
+                href="http://localhost:1313/news/2022-24/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2022-40/</loc>
+    <loc>http://localhost:1313/news/2022-40/</loc>
     <lastmod>2021-12-31T08:36:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2022-40/"
+                href="http://localhost:1313/vi/news/2022-40/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2022-40/"
+                href="http://localhost:1313/news/2022-40/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2021-smartcity&#43;_exhibition/</loc>
@@ -2481,43 +2528,46 @@
                 href="http://localhost:1313/event/2021-ba-orientation-day/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2021-overview-of-smart-city-development/</loc>
+    <loc>http://localhost:1313/news/2021-overview-of-smart-city-development/</loc>
     <lastmod>2021-11-30T19:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2021-overview-of-smart-city-development/"
+                href="http://localhost:1313/vi/news/2021-overview-of-smart-city-development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2021-overview-of-smart-city-development/"
+                href="http://localhost:1313/news/2021-overview-of-smart-city-development/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/2021-smart-sustainable-cities/</loc>
+    <loc>http://localhost:1313/news/2021-smart-sustainable-cities/</loc>
     <lastmod>2021-11-29T19:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2021-smart-sustainable-cities/"
+                href="http://localhost:1313/vi/news/2021-smart-sustainable-cities/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2021-smart-sustainable-cities/"
+                href="http://localhost:1313/news/2021-smart-sustainable-cities/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/2021-masterorientation-day/</loc>
     <lastmod>2021-11-09T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/2021-masterorientation-day/</loc>
+    <lastmod>2021-11-09T19:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2021-masterorientation-day/"
+                href="http://localhost:1313/vi/news/2021-masterorientation-day/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/2021-masterorientation-day/"
+                href="http://localhost:1313/news/2021-masterorientation-day/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/slogan/</loc>
@@ -2574,15 +2624,18 @@
   </url><url>
     <loc>http://localhost:1313/event/tu-van-tuyen-sinh/</loc>
     <lastmod>2021-08-16T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/tu-van-tuyen-sinh/</loc>
+    <lastmod>2021-08-16T15:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/tu-van-tuyen-sinh/"
+                href="http://localhost:1313/vi/news/tu-van-tuyen-sinh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/tu-van-tuyen-sinh/"
+                href="http://localhost:1313/news/tu-van-tuyen-sinh/"
                 />
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
@@ -2689,17 +2742,17 @@
                 href="http://localhost:1313/event/international-summer-design-camp-2021-smart-design-city-for-zero-carbon-emission/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/the-opening-ceremony-of-the-city-science-lab-ho-chi-minh-city/</loc>
+    <loc>http://localhost:1313/news/the-opening-ceremony-of-the-city-science-lab-ho-chi-minh-city/</loc>
     <lastmod>2021-04-22T09:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/the-opening-ceremony-of-the-city-science-lab-ho-chi-minh-city/"
+                href="http://localhost:1313/vi/news/the-opening-ceremony-of-the-city-science-lab-ho-chi-minh-city/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/the-opening-ceremony-of-the-city-science-lab-ho-chi-minh-city/"
+                href="http://localhost:1313/news/the-opening-ceremony-of-the-city-science-lab-ho-chi-minh-city/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/thi%E1%BA%BFt-k%E1%BA%BF-%C4%91%C3%B4-th%E1%BB%8B-t%E1%BA%A7m-nh%C3%ACn-v%E1%BB%AFng-ch%E1%BA%AFc-cho-%C4%91%C3%B4-th%E1%BB%8B-b%E1%BB%81n-v%E1%BB%AFng/</loc>
@@ -2728,17 +2781,17 @@
                 href="http://localhost:1313/event/webinar-a-new-understanding-of-the-imperative-of-healthy-city-design-official-starts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/ph%E1%BB%A5c-h%E1%BB%93i-du-l%E1%BB%8Bch-v%C3%A0-n%E1%BB%97-l%E1%BB%B1c-tho%C3%A1t-kh%E1%BB%8Fi-v%C3%B2ng-xo%C3%A1y-%E1%BA%A3nh-h%C6%B0%E1%BB%9Fng-b%E1%BB%9Fi-covid-19/</loc>
+    <loc>http://localhost:1313/news/ph%E1%BB%A5c-h%E1%BB%93i-du-l%E1%BB%8Bch-v%C3%A0-n%E1%BB%97-l%E1%BB%B1c-tho%C3%A1t-kh%E1%BB%8Fi-v%C3%B2ng-xo%C3%A1y-%E1%BA%A3nh-h%C6%B0%E1%BB%9Fng-b%E1%BB%9Fi-covid-19/</loc>
     <lastmod>2021-03-01T09:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/ph%E1%BB%A5c-h%E1%BB%93i-du-l%E1%BB%8Bch-v%C3%A0-n%E1%BB%97-l%E1%BB%B1c-tho%C3%A1t-kh%E1%BB%8Fi-v%C3%B2ng-xo%C3%A1y-%E1%BA%A3nh-h%C6%B0%E1%BB%9Fng-b%E1%BB%9Fi-covid-19/"
+                href="http://localhost:1313/vi/news/ph%E1%BB%A5c-h%E1%BB%93i-du-l%E1%BB%8Bch-v%C3%A0-n%E1%BB%97-l%E1%BB%B1c-tho%C3%A1t-kh%E1%BB%8Fi-v%C3%B2ng-xo%C3%A1y-%E1%BA%A3nh-h%C6%B0%E1%BB%9Fng-b%E1%BB%9Fi-covid-19/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/ph%E1%BB%A5c-h%E1%BB%93i-du-l%E1%BB%8Bch-v%C3%A0-n%E1%BB%97-l%E1%BB%B1c-tho%C3%A1t-kh%E1%BB%8Fi-v%C3%B2ng-xo%C3%A1y-%E1%BA%A3nh-h%C6%B0%E1%BB%9Fng-b%E1%BB%9Fi-covid-19/"
+                href="http://localhost:1313/news/ph%E1%BB%A5c-h%E1%BB%93i-du-l%E1%BB%8Bch-v%C3%A0-n%E1%BB%97-l%E1%BB%B1c-tho%C3%A1t-kh%E1%BB%8Fi-v%C3%B2ng-xo%C3%A1y-%E1%BA%A3nh-h%C6%B0%E1%BB%9Fng-b%E1%BB%9Fi-covid-19/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/workshop-and-webinar-international-week-staycation-the-hospitable-city-why-not/</loc>
@@ -2788,15 +2841,18 @@
   </url><url>
     <loc>http://localhost:1313/event/smart-campus-planning-toward-satellite-city-college-town/</loc>
     <lastmod>2020-09-25T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/smart-campus-planning-toward-satellite-city-college-town/</loc>
+    <lastmod>2020-09-25T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/smart-campus-planning-toward-satellite-city-college-town/"
+                href="http://localhost:1313/vi/news/smart-campus-planning-toward-satellite-city-college-town/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/smart-campus-planning-toward-satellite-city-college-town/"
+                href="http://localhost:1313/news/smart-campus-planning-toward-satellite-city-college-town/"
                 />
   </url><url>
     <loc>http://localhost:1313/event/innovative-approach-1/</loc>
@@ -2812,30 +2868,30 @@
                 href="http://localhost:1313/event/innovative-approach-1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/sustainable-transport-safety/</loc>
+    <loc>http://localhost:1313/news/sustainable-transport-safety/</loc>
     <lastmod>2020-09-23T14:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/sustainable-transport-safety/"
+                href="http://localhost:1313/vi/news/sustainable-transport-safety/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/sustainable-transport-safety/"
+                href="http://localhost:1313/news/sustainable-transport-safety/"
                 />
   </url><url>
-    <loc>http://localhost:1313/event/future-outlook/</loc>
+    <loc>http://localhost:1313/news/future-outlook/</loc>
     <lastmod>2020-09-22T18:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/future-outlook/"
+                href="http://localhost:1313/vi/news/future-outlook/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/event/future-outlook/"
+                href="http://localhost:1313/news/future-outlook/"
                 />
   </url><url>
     <loc>http://localhost:1313/apps/fitoutcost/</loc>

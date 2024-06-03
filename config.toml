@@ -53,27 +53,7 @@ link = "plugins/google-map/gmap.js"
 
 #################### default parameters ################################
 [params]
-logo = "images/logoiscm.png"
-# Meta data
-description = "Institute of Smart City and Management, University of Economics Ho Chi Minh"
-author = "ISCM"
-# contact info
-address = "232/6 Vo Thi Sau Str, D.3, Ho Chi Minh City"
-mobile = "+84-28-3930-9589/ +84-28-3930-9269"
-email = "iscm@ueh.edu.vn"
-# contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
-# Google Analitycs
-google_analitycs_id = "" # your id
-# top header
-top_header = true
 
-bg = "images/banner-1.jpg"
-ueh_logo = "images/ueh-logo.png"
-ueh_ctd_logo = "images/ueh-logo-std.png"
-ueh_address = "59C Nguyen Dinh Chieu Str, D.3, Ho Chi Minh City"
-ueh_mobile = "+84-28-3829-5299/ +84-28-3829-5299"
-ueh_email = "info@ueh.edu.vn"
 ueh_link_recruit = "images/footer/recruitment.png"
 ueh_link_future = "images/footer/buildings.png"
 ueh_link_global = "images/footer/global.png"
@@ -155,6 +135,28 @@ home = "Home"
 # copyright
 copyright = "Copyright &copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)"
 
+logo = "images/logoiscm.png"
+# Meta data
+description = "Institute of Smart City and Management, University of Economics Ho Chi Minh"
+author = "ISCM"
+# contact info
+address = "232/6 Vo Thi Sau Str, D.3, Ho Chi Minh City"
+mobile = "+84-28-3930-9589/ +84-28-3930-9269"
+email = "iscm@ueh.edu.vn"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# Google Analitycs
+google_analitycs_id = "" # your id
+# top header
+top_header = true
+
+bg = "images/banner-1.jpg"
+ueh_logo = "images/ueh-logo.png"
+ueh_ctd_logo = "images/ueh-logo-std.png"
+ueh_address = "59C Nguyen Dinh Chieu Str, D.3, Ho Chi Minh City"
+ueh_mobile = "+84-28-3829-5299/ +84-28-3829-5299"
+ueh_email = "info@ueh.edu.vn"
+
 
 ################### English navigation ####################
 
@@ -168,45 +170,46 @@ weight = 1
 name = "News & Events"
 url = "event"
 weight = 2
-  #[[Languages.en.menu.main]]
-  #parent= "News & Events"
-  #weight = 1
-  #name="News"
-  #url="event"
+  [[Languages.en.menu.main]]
+  parent= "News & Events"
+  weight = 1
+  name="News"
+  url="news"
 
-  #[[Languages.en.menu.main]]
-  #parent= "News & Events"
-  #weight = 2
-  #name="Events"
-  #url="event"
+  [[Languages.en.menu.main]]
+  parent= "News & Events"
+  weight = 2
+  name="Events"
+  url="event"
 
-  #[[Languages.en.menu.main]]
-  #arent= "News & Events"
-  #weight = 3
-  #name="Admission"
-  #url=""
+  [[Languages.en.menu.main]]
+  parent= "News & Events"
+  weight = 3
+  name="Admission"
+  url=""
 
 [[Languages.en.menu.main]]
 name = "Education"
 url = "course"
 weight = 3
-  [[Languages.en.menu.main]]
-  parent= "Education"
-  weight = 1
-  name="Short Course"
-  url="course_shortcourse"
 
   [[Languages.en.menu.main]]
   parent= "Education"
-  weight = 2
+  weight = 1
   name="Undergraduate"
   url="course_undergraduate"
 
   [[Languages.en.menu.main]]
   parent="Education"
-  weight = 3
+  weight = 2
   name="Graduate"
   url="course_graduate"
+
+  [[Languages.en.menu.main]]
+  parent= "Education"
+  weight = 3
+  name="Short Course"
+  url="course_shortcourse"
 
 [[Languages.en.menu.main]]
 name = "R&D"
@@ -389,7 +392,27 @@ home = "Trang Chủ"
 # copyright
 copyright = "Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021"
 
+logo = "images/logoiscm.png"
+# Meta data
+description = "Institute of Smart City and Management, University of Economics Ho Chi Minh"
+author = "ISCM"
+# contact info
+address = "232/6 Võ Thị Sáu, Quận 3, TP. Hồ Chí Minh"
+email = "iscm@ueh.edu.vn"
+mobile = "028-3930-9589/ 028-3930-9589"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# Google Analitycs
+google_analitycs_id = "" # your id
+# top header
+top_header = true
 
+bg = "images/banner-1.jpg"
+ueh_logo = "images/ueh-logo.png"
+ueh_ctd_logo = "images/ueh-logo-std.png"
+ueh_address = "59C Nguyễn Đình Chiểu, Quận 3, TP. Hồ Chí Minh"
+ueh_mobile = "+84-28-3829-5299/ +84-28-3829-5299"
+ueh_email = "info@ueh.edu.vn"
 
 ################### French navigation ####################
 
@@ -403,23 +426,23 @@ weight = 1
 name = "Tin & Sự Kiện"
 url = "event"
 weight = 2
-  #[[Languages.vi.menu.main]]
-  #parent= "Tin & Sự Kiện"
-  #weight = 1
-  #name="Tin tức"
-  #url="event"
+  [[Languages.vi.menu.main]]
+  parent= "Tin & Sự Kiện"
+  weight = 1
+  name="Tin tức"
+  url="news"
 
-  #[[Languages.vi.menu.main]]
-  #parent= "Tin & Sự Kiện"
-  #weight = 2
-  #name="Sự kiện"
-  #url="event"
+  [[Languages.vi.menu.main]]
+  parent= "Tin & Sự Kiện"
+  weight = 2
+  name="Sự kiện"
+  url="event"
 
-  #[[Languages.vi.menu.main]]
-  #parent= "Tin & Sự Kiện"
-  #weight = 3
-  #name="Tuyển sinh"
-  #url=""
+  [[Languages.vi.menu.main]]
+  parent= "Tin & Sự Kiện"
+  weight = 3
+  name="Tuyển sinh"
+  url=""
 
 
 [[Languages.vi.menu.main]]
