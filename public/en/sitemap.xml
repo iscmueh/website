@@ -964,8 +964,11 @@
                 href="http://localhost:1313/partner/wscf/"
                 />
   </url><url>
+    <loc>http://localhost:1313/event/2024-06/</loc>
+    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/event/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
@@ -978,7 +981,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
@@ -1183,9 +1186,6 @@
                 hreflang="en-us"
                 href="http://localhost:1313/event/sutd-course/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/event/vung_tau_future_2024/</loc>
-    <lastmod>2024-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/vung_tau_future_2024/</loc>
     <lastmod>2024-01-09T00:00:00+00:00</lastmod>
