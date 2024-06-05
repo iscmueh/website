@@ -869,21 +869,8 @@
                 href="http://localhost:1313/vi/partner/wscf/"
                 />
   </url><url>
-    <loc>http://localhost:1313/vi/event/2024-05/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/event/2024-05/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="http://localhost:1313/vi/event/2024-05/"
-                />
-  </url><url>
     <loc>http://localhost:1313/vi/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -896,7 +883,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/vi/event/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -906,6 +893,32 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="http://localhost:1313/vi/event/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/vi/event/2024-06/</loc>
+    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/event/2024-06/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/event/2024-06/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/vi/event/2024-05/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/event/2024-05/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/event/2024-05/"
                 />
   </url><url>
     <loc>http://localhost:1313/vi/news/</loc>
