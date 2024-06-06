@@ -451,21 +451,21 @@ url = "course"
 weight = 3
   [[Languages.vi.menu.main]]
   parent= "Giáo Dục"
-  weight=2
-  name="Khóa Học Ngắn Hạn"
-  url="course_shortcourse"
-
-  [[Languages.vi.menu.main]]
-  parent= "Giáo Dục"
-  weight=2
+  weight=1
   name="Đại Học"
   url="course_undergraduate"
 
   [[Languages.vi.menu.main]]
   parent="Giáo Dục"
-  weight=3
+  weight=2
   name="Sau Đại Học"
   url="course_graduate"
+
+  [[Languages.vi.menu.main]]
+  parent= "Giáo Dục"
+  weight=3
+  name="Khóa Học Ngắn Hạn"
+  url="course_shortcourse"
 
 [[Languages.vi.menu.main]]
 name = "R&D"

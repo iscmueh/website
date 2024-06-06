@@ -31,10 +31,9 @@ weight: 1
 
 #### Giới Thiệu Chung:
 
-Chương trình đào tạo ngành Kiến trúc đô thị, chuyên ngành Architectural and Urban Design inclusive Smart City cung cấp các kiến thức chuyên ngành Kiến trúc và Thiết kế đô thị, đặc biệt về Đô thị thông minh. Sinh viên được đào tạo để tham gia vào các dự án phát triển, quy hoạch, thiết kế đô thị, thiết kế kiến trúc và cảnh quan, ứng dụng công nghệ và tích hợp để phát triển, quy hoạch và thiết kế đô thị thông minh hướng tới phát triển bền vững. Chuyên ngành đòi hỏi khả năng tư duy sáng tạo, kỹ năng tổng hợp và trình độ quốc tế để phối hợp nhiều lĩnh vực khác nhau như kiến trúc, cảnh quan, giao thông và kỹ thuật hạ tầng, kinh tế, xã hội, môi trường và công nghệ. Sau khi tốt nghiệp, sinh viên có khả năng làm việc tại các đơn vị công, tư, quốc tế, các tổ chức phi chính phủ, quản lý nhà nước trong lĩnh vực phát triển, quy hoạch, xây dựng và thiết kế kiến trúc, đô thị và đô thị thông minh...
+Chương trình Cử nhân Kiến trúc và thiết kế đô thị thông minh được xây dựng theo tiêu chuẩn quốc tế và trang bị kiến thức chuyên môn trong nhiều lĩnh vực như kiến trúc cảnh quan, giao thông và cơ sở hạ tầng, kinh tế, xã hội, môi trường và công nghệ hiện đại trong kiến trúc và thiết kế đô thị để phát triển thành phố thông minh.
 
-
-Ngoài ra, sau khi tốt nghiệp chương trình đại học, sinh viên có thể tiếp tục học thêm 2 năm thạc sỹ và sẽ được cấp song bằng thạc sỹ và bằng Kiến trúc sư là chương trình hướng tới kiểm định theo tiêu chuẩn ASIIN, châu Âu.
+Sau khi tốt nghiệp, sinh viên có khả năng làm việc hiệu quả trong các tổ chức khác nhau có liên quan hoặc tiếp tục theo học các chương trình thạc sĩ.
 
 {{< youtube id="on_ZGjx4p5U" title="Kiến Trúc và Thiết Kế Đô Thị Thông Minh" >}}
 

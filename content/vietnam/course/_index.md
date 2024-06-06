@@ -4,5 +4,5 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "ISCM offers both under-graduate and post-graduate (master and doctoral degrees). Students have opportunities to study abroad and be supervised by professors and lecturers from ISCM and from reputable universities in Europe, South Korea, New Zealand, and Japan. Dual degrees will be granted for students who can accumulate required number of credits from ISCM and partnering universities. Short courses and trainings for organizations and companies are also provided regularly and on-demand. Majority of courses are delivered in English."
+description : "Tại ISCM, yếu tố hội nhập quốc tế được tích hợp vào các hoạt động dạy và học. Chương trình học phù hợp với các tiêu chuẩn của  thế giới nhằm trang bị cho người học những tri thức mới nhất và các kỹ năng thực tiễn, hỗ trợ phát huy khả năng người học trong vai trò những công dân toàn cầu tương lai."
 ---
