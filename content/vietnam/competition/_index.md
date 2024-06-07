@@ -4,5 +4,5 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "ISCM đang kết hợp với các đối tác trong nước và quốc tế để tiến hành một số cuộc thi về những chủ đề khác nhau liên quan đến bối cảnh Thành phố thông minh, quản lý và thiết kế đô thị. Mục tiêu của chúng tôi là tập trung vào những người có năng khiếu để có thể đóng góp vào việc xây dựng thành phố thông minh trong tương lai."
+description : "Các cuộc thi được tổ chức thường xuyên, định kỳ, tạo sân chơi trí tuệ nhằm khuyến khích tư duy đổi mới và mối quan tâm đến các vấn đề đô thị cũng như phát triển giải pháp một cách sáng tạo."
 ---
