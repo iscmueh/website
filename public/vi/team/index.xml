@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Giảng Viên on Institute of Smart City &amp; Management</title>
-    <link>http://localhost:1313/vi/team/</link>
+    <link>http://localhost:52709/vi/team/</link>
     <description>Recent content in Giảng Viên on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
-    <atom:link href="http://localhost:1313/vi/team/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52709/vi/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dr. Hyung Tae Gun</title>
-      <link>http://localhost:1313/vi/team/dr-hyung-tae-gun/</link>
+      <link>http://localhost:52709/vi/team/dr-hyung-tae-gun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/vi/team/dr-hyung-tae-gun/</guid>
+      <guid>http://localhost:52709/vi/team/dr-hyung-tae-gun/</guid>
       <description>À propos de moi Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
       <title>Dr. Lee Ju-Ho</title>
-      <link>http://localhost:1313/vi/team/dr-lee-ju-ho/</link>
+      <link>http://localhost:52709/vi/team/dr-lee-ju-ho/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/vi/team/dr-lee-ju-ho/</guid>
+      <guid>http://localhost:52709/vi/team/dr-lee-ju-ho/</guid>
       <description>À propos de moi Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
       <title>Dr. Park Young June</title>
-      <link>http://localhost:1313/vi/team/dr-park-young-june/</link>
+      <link>http://localhost:52709/vi/team/dr-park-young-june/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/vi/team/dr-park-young-june/</guid>
+      <guid>http://localhost:52709/vi/team/dr-park-young-june/</guid>
       <description>À propos de moi Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
   </channel>

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Các hoạt động khác on Institute of Smart City &amp; Management</title>
-    <link>http://localhost:1313/vi/activities/</link>
+    <link>http://localhost:52709/vi/activities/</link>
     <description>Recent content in Các hoạt động khác on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
-    <atom:link href="http://localhost:1313/vi/activities/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52709/vi/activities/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ISCM Event Series 2022 - A Future Resilience Through Smart City Lens</title>
-      <link>http://localhost:1313/vi/activities/event-2022/</link>
+      <link>http://localhost:52709/vi/activities/event-2022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/vi/activities/event-2022/</guid>
+      <guid>http://localhost:52709/vi/activities/event-2022/</guid>
       <description> </description>
     </item>
     <item>
       <title>ISCM Event Series 2021 - Smart City &#43;</title>
-      <link>http://localhost:1313/vi/activities/event-2021/</link>
+      <link>http://localhost:52709/vi/activities/event-2021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/vi/activities/event-2021/</guid>
+      <guid>http://localhost:52709/vi/activities/event-2021/</guid>
       <description> </description>
     </item>
     <item>
       <title>Thành phố tương lai: Thiết kế thông minh cho thế giới hậu đại dịch</title>
-      <link>http://localhost:1313/vi/activities/arttech/</link>
+      <link>http://localhost:52709/vi/activities/arttech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/vi/activities/arttech/</guid>
+      <guid>http://localhost:52709/vi/activities/arttech/</guid>
       <description>Giới Thiệu Về Cuộc Thi Nằm trong chuỗi sự kiện SMARTCITY +, ArtTech Fusion 2021 do Trường Đại học Kinh tế Thành phố Hồ Chí Minh (UEH) tổ chức, đồng chủ trì bởi Viện Đô thị Thông minh và Quản lý (ISCM), Viện Sáng tạo (UII) Đoàn Thanh niên UEH - Hội Sinh viên Việt Nam, và tổ chức Phố Bên Đồi.</description>
     </item>
     <item>
       <title>THE 1ST INTERNATIONAL CONFERENCE: RESILIENCE BY TECHNOLOGY AND DESIGN (RTD-2022)</title>
-      <link>http://localhost:1313/vi/activities/rtd-2022/</link>
+      <link>http://localhost:52709/vi/activities/rtd-2022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/vi/activities/rtd-2022/</guid>
+      <guid>http://localhost:52709/vi/activities/rtd-2022/</guid>
       <description>THE 1ST INTERNATIONAL CONFERENCE: RESILIENCE BY TECHNOLOGY AND DESIGN (RTD-2022) The College of Technology and Design (CTD) of the University of Economics Ho Chi Minh City (UEH), together with universities worldwide, organizes the international conference Resilience by Technology and Design (RTD).</description>
     </item>
     <item>
       <title>INTERNATIONAL CONFERENCE - SUSTAINABLE UNIVERSITY DEVELOPMENT: OPPORTUNITY AND CHALLENGE (SUDOC) 2022</title>
-      <link>http://localhost:1313/vi/activities/sudoc-2022/</link>
+      <link>http://localhost:52709/vi/activities/sudoc-2022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/vi/activities/sudoc-2022/</guid>
+      <guid>http://localhost:52709/vi/activities/sudoc-2022/</guid>
       <description>INTERNATIONAL CONFERENCE - SUSTAINABLE UNIVERSITY DEVELOPMENT: OPPORTUNITY AND CHALLENGE (SUDOC) 2022 Sustainable development has opened up many opportunities but brought about challenges as well.</description>
     </item>
   </channel>

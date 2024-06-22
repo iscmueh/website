@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Master on Institute of Smart City &amp; Management</title>
-    <link>http://localhost:1313/admission_master/</link>
+    <link>http://localhost:52709/admission_master/</link>
     <description>Recent content in Master on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
     <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/admission_master/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52709/admission_master/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ADMISSION PLAN FOR MASTER - 2022</title>
-      <link>http://localhost:1313/admission_master/master_admission_2022/</link>
+      <link>http://localhost:52709/admission_master/master_admission_2022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/admission_master/master_admission_2022/</guid>
+      <guid>http://localhost:52709/admission_master/master_admission_2022/</guid>
       <description>For Vietnamese programs:&#xA;02 excellent grade : Covering 100% tuition + accommodation fee (equivalent to $ 4,000 USD)- awarded scholarships during the official research period.</description>
     </item>
     <item>
       <title>International Dual Degree Program - Executive Master of Smart City and Innovation Management and Master of Human Ecology and Technology</title>
-      <link>http://localhost:1313/admission_master/master-03/</link>
+      <link>http://localhost:52709/admission_master/master-03/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/admission_master/master-03/</guid>
+      <guid>http://localhost:52709/admission_master/master-03/</guid>
       <description></description>
     </item>
     <item>
       <title>International Dual Degree Program - Executive Master of Smart City and Innovation Management and Master of Transportation Sciences</title>
-      <link>http://localhost:1313/admission_master/master-04/</link>
+      <link>http://localhost:52709/admission_master/master-04/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/admission_master/master-04/</guid>
+      <guid>http://localhost:52709/admission_master/master-04/</guid>
       <description></description>
     </item>
     <item>
       <title>Master of Smart City and Innovation Management</title>
-      <link>http://localhost:1313/admission_master/master-02/</link>
+      <link>http://localhost:52709/admission_master/master-02/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/admission_master/master-02/</guid>
+      <guid>http://localhost:52709/admission_master/master-02/</guid>
       <description></description>
     </item>
   </channel>

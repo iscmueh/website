@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thông Báo Cho Sinh Viên on Institute of Smart City &amp; Management</title>
-    <link>http://localhost:1313/vi/notice/</link>
+    <link>http://localhost:52709/vi/notice/</link>
     <description>Recent content in Thông Báo Cho Sinh Viên on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
-    <atom:link href="http://localhost:1313/vi/notice/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52709/vi/notice/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nội quy phòng Studiolab</title>
-      <link>http://localhost:1313/vi/notice/lab-rules/</link>
+      <link>http://localhost:52709/vi/notice/lab-rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/vi/notice/lab-rules/</guid>
+      <guid>http://localhost:52709/vi/notice/lab-rules/</guid>
       <description>Nội quy StudioLab Không đem thức ăn, nước uống vào studio</description>
     </item>
   </channel>
