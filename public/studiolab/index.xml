@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Modern Studio LAB on Institute of Smart City &amp; Management</title>
-    <link>http://localhost:52709/studiolab/</link>
+    <link>http://localhost:1313/studiolab/</link>
     <description>Recent content in Modern Studio LAB on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
-    <atom:link href="http://localhost:52709/studiolab/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/studiolab/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

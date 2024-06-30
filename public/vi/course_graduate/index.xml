@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cao Học on Institute of Smart City &amp; Management</title>
-    <link>http://localhost:52709/vi/course_graduate/</link>
+    <link>http://localhost:1313/vi/course_graduate/</link>
     <description>Recent content in Cao Học on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
     <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
-    <atom:link href="http://localhost:52709/vi/course_graduate/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/vi/course_graduate/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thạc Sĩ Quản Lý Đô Thị Thông Minh và Sáng Tạo</title>
-      <link>http://localhost:52709/vi/course_graduate/master-02/</link>
+      <link>http://localhost:1313/vi/course_graduate/master-02/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:52709/vi/course_graduate/master-02/</guid>
+      <guid>http://localhost:1313/vi/course_graduate/master-02/</guid>
       <description></description>
     </item>
   </channel>
