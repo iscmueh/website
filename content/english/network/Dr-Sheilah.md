@@ -9,6 +9,7 @@ description : ""
 # teacher portrait
 image: "images/team/dr-sheilah.jpg"
 # course
+courseCategory: "School of Urban and Regional Planning"
 course: "Professor and the current director for research and publication at the School of Urban and Regional Planning"
 
 # biography

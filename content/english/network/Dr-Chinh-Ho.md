@@ -10,7 +10,9 @@ description : ""
 # teacher portrait
 image: "images/team/dr-chinh-ho.jpg"
 # course
-course: "Senior Lecturer, Institute of Transport and Logistics Studies, the University of Sydney Business School"
+courseCategory: "University of Sydney Business School"
+course: "Senior Lecturer, Institute of Transport and Logistics Studies"
+#course: "Senior Lecturer, Institute of Transport and Logistics Studies, the University of Sydney Business School"
 
 # biography
 bio: "</br>

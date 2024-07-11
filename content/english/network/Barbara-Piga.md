@@ -9,6 +9,7 @@ description : ""
 # teacher portrait
 image: "images/team/barbara-piga.jpg"
 # course
+courseCategory: "Politecnico di Milano (POLIMI)"
 course: "Assistant Professor at the Politecnico di Milano (POLIMI)"
 
 # biography

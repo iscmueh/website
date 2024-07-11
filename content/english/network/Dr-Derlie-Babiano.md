@@ -10,11 +10,8 @@ description : ""
 # teacher portrait
 image: "images/team/dr-derlie-mateo-babiano.jpg"
 # course
-course: "Associate Professor in Urban Planning,                                                                                     
-        
-         Assistant Dean, Diversity and Inclusion
-        
-         Faculty of Architecture, Building and Planning (ABP), the University of Melbourne"
+courseCategory: University of Melbourne
+course: "Associate Professor in Urban Planning, Assistant Dean, Diversity and Inclusion, Faculty of Architecture, Building and Planning (ABP), the University of Melbourne"
 
 # biography
 bio: "</br>

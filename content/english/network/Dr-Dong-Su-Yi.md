@@ -8,6 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/Tony_1.png"
 # course
+courseCategory: "Strategic Director"
 course: "Strategic Director"
 position: ""
 # biograph
@@ -17,22 +18,7 @@ bio: "As an industry spokesman, Dong-Su Yi has experience inside Korea and the g
 After a successful career in advertising and marketing, he led the Locus China branch, one of Korea's leading CG and VFX companies, to broaden his eyes in the special effects industry of films, games, and commercials. 
 
 After the corona outbreak, he returned to Korea and lectured at the Gtec (Gyeonggi University of Science and Technology) Game Contents department.
-Since 2022, he has taught students at the University of Economics, Ho Chi Minh City (UEH) in Ho Chi Minh City as Vice Dean of the School of Media Design.
-
-"
-# interest
-interest: ["Art Management ","Advertising & PR"]
-# contact info
-contact:
-  # contact item loop
-  - name : "iscm@ueh.edu.vn"
-    icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "iscm@ueh.edu.vn"
-
-  # contact item loop
-  - name : "+84-28-3930-9589/ +84-28-3930-9269"
-    icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+120345876"
+Since 2022, he has taught students at the University of Economics, Ho Chi Minh City (UEH) in Ho Chi Minh City as Vice Dean of the School of Media Design."
 
   # contact item loop
   # - name : "Clark Malik"
