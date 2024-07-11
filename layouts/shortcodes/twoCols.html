@@ -1,0 +1,16 @@
+<div
+  class="d-flex"
+  style="gap: 24px; align-content: flex-start; align-items: stretch"
+>
+  <figure style="flex-shrink: 0; width: 400px; max-height: 500px">
+    <img
+      src="{{ .Params.img | relURL }}"
+      class="w-100 h-100"
+      style="object-fit: cover; object-position: top center;"
+    />
+    <p class="text-{{.Params.titleAlign}}" style="margin-top: -24px">
+      {{.Params.title | markdownify }}
+    </p>
+  </figure>
+  <div>{{.Inner | .Page.RenderString}}</div>
+</div>
