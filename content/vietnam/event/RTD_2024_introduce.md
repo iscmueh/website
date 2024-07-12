@@ -5,7 +5,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description: ""
 location: "ISCM - HCMC"
 image: /images/events/RTD_2024/thumb.jpg
-showImage: false
+showImage: true
 ---
 
 Hội thảo Khoa học Quốc tế "Resilience by Technology and Design" lần 2 (RTD 2024) là một sự kiện học thuật quan trọng trong lĩnh vực công nghệ và thiết kế gắn với phát triển bền vững do Đại học Kinh tế Thành phố Hồ Chí Minh (UEH) cùng 12 trường đại học quốc tế danh tiếng từ nhiều quốc gia trên thế giới như Ý, Úc, Hàn Quốc, Ma Cao, Đài Loan, Singapore, Nhật Bản đồng tổ chức.
@@ -52,16 +52,13 @@ Tại hội thảo, Giáo sư Vanhaverbeke sẽ trình bày chủ đề **“S�
 
 {{% /twoCols %}}
 
-{{% twoCols img="/images/events/RTD_2024/Kelly.jpg"
+{{% twoCols img="/images/events/RTD_2024/Kelly.jpg,/images/events/RTD_2024/Bruno.png"
     title="_Giáo sư Kelly Shannon_" %}}
 **Giáo sư Kelly Shannon và Giáo sư Bruno De Meulder- Đại học KU Leuven, Bỉ**
 
 Giáo sư Kelly Shannon và Giáo sư Bruno De Meulder từ Đại học KU Leuven, Bỉ sẽ là những diễn giả chính tại hội thảo RTD 2024. Giáo sư Shannon, hiện là Giám đốc chương trình Thạc sĩ Định cư Con người và các chương trình Thạc sĩ Đô thị, Cảnh quan và Quy hoạch, cùng với Giáo sư De Meulder, Điều phối viên chương trình Thạc sĩ Định cư Con người và Thạc sĩ Chủ nghĩa Đô thị, Cảnh quan và Quy hoạch, sẽ mang đến một bài thuyết trình đầy hứa hẹn với chủ đề "A Socio-Ecological Turn for the Mekong Delta: Accentuating Indigenous Logics". Trong bài thuyết trình này, <span style="color: red">người tham dự</span> sẽ khám phá cách các nguyên lý sinh thái và xã hội có thể được áp dụng để phát triển bền vững cho Đồng bằng Sông Cửu Long, đồng thời làm nổi bật vai trò của các logic bản địa trong thiết kế đô thị và cảnh quan.
 
 {{% /twoCols %}}
-
-{{% twoCols img="/images/events/RTD_2024/Bruno.png"
-    title="_Giáo sư Bruno De Meulder_" /%}}
 
 {{% twoCols img="/images/events/RTD_2024/Karen.jpeg"
     title="_Giáo sư Karen Tagulao_" %}}

@@ -1,16 +1,19 @@
 <div
   class="d-flex"
-  style="gap: 24px; align-content: flex-start; align-items: stretch"
+  style="gap: 24px; align-content: flex-start; align-items: stretch;"
 >
-  <figure style="flex-shrink: 0; width: 400px; max-height: 500px">
-    <img
-      src="{{ .Params.img | relURL }}"
-      class="w-100 h-100"
-      style="object-fit: cover; object-position: top center;"
-    />
-    <p class="text-{{.Params.titleAlign}}" style="margin-top: -24px">
-      {{.Params.title | markdownify }}
-    </p>
-  </figure>
-  <div>{{.Inner | .Page.RenderString}}</div>
+  <div style="width: 400px; display: flex; flex-shrink: 0; gap: 10px">
+    {{- $title := .Params.title -}} {{- $t := split .Params.img "," -}} {{-
+    range $t -}}
+    <figure style="flex-shrink: 0; flex: 1; width: 100%; max-height: 500px">
+      <img
+        src="{{-  . | relURL  -}}"
+        class="w-100 h-100"
+        style="object-fit: cover; object-position: top center"
+      />
+      <p style="margin-top: -24px">{{- $title | markdownify -}}</p>
+    </figure>
+    {{- end -}}
+  </div>
+  <div>{{- .Inner | .Page.RenderString -}}</div>
 </div>
