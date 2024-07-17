@@ -32,7 +32,9 @@ Tại đây, bạn sẽ được:
 Hãy đăng ký tham dự ngay hôm nay để không bỏ lỡ chương trình lần này này!
 
 ➡️ Link đăng ký dành cho sinh viên UEH và cộng đồng khởi nghiệp đổi mới sáng tạo UII:  https://bit.ly/RTD_UII_SS9_Registration 
+
 —------------------
+
 🎉 Hội thảo Khoa học Quốc tế “Resilience by Technology and Design” được chủ trì bởi Trường Công nghệ và Thiết kế UEH và UEH - Phân hiệu Vĩnh Long, sự quy tụ đông đảo các nhà lãnh đạo, giáo sư, học giả và các chuyên gia uy tín hàng đầu có tầm ảnh hưởng trong nước và quốc tế trong các lĩnh vực công nghệ, thiết kế, nghệ thuật, quản trị và quy hoạch, một sự kiện quan trọng không nên bỏ lỡ để học hỏi, kết nối với cộng đồng học thuật có chung mối quan tâm đến phát triển bền vững.
 
 Đăng ký ngay!

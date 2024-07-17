@@ -32,10 +32,15 @@ Tiến sĩ Nguyễn Anh Tuấn - Trưởng phòng Quy hoạch chung, Sở Quy ho
 Phiên đặc biệt này sẽ mở ra không gian thảo luận phong phú với những kiến thức chuyên sâu và quan điểm đa dạng về các chiến lược phát triển đô thị trong tương lai!
 
 Thông Tin Chi Tiết:
+<br>
  🗓️ Thời gian: 13:00 - 15:00 ngày 15/07/2024
+ <br>
  📍 Địa điểm: Phòng B1.302, Đại học Kinh tế Thành phố Hồ Chí Minh - 279 Nguyễn Tri Phương, Quận 10
+ <br>
+
 Hãy tham gia ngay để không bỏ lỡ cơ hội quý báu này và cập nhật những xu hướng mới nhất trong lĩnh vực phát triển đô thị thông minh!
-Link đăng ký:
+<br>
+Link đăng ký: https://forms.gle/pxBNZaN4ncTnv2GB8 
 
 🌐 Để biết thêm thông tin chi tiết về các chủ đề
 trình bày, địa điểm và đăng ký tham dự, vui lòng truy cập: http://rtdconference.info/
