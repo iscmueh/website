@@ -940,6 +940,45 @@
                 href="http://localhost:1313/partner/wscf/"
                 />
   </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/news/sutd_mou/</loc>
+    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/news/sutd_mou/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/news/sutd_mou/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/news/</loc>
+    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/news/"
+                />
+  </url><url>
     <loc>http://localhost:1313/event/rtd_deeptech/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1005,19 +1044,6 @@
                 href="http://localhost:1313/event/"
                 />
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="http://localhost:1313/vi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/"
-                />
-  </url><url>
     <loc>http://localhost:1313/event/rtd_2024/</loc>
     <lastmod>2024-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1055,19 +1081,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/news/studioarchitechture1_k49ueh/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/news/</loc>
-    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="http://localhost:1313/vi/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/news/"
                 />
   </url><url>
     <loc>http://localhost:1313/news/2024-08/</loc>

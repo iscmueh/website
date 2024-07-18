@@ -1,5 +1,5 @@
 ---
-title: "VIỆN ĐÔ THỊ THÔNG MINH VÀ QUẢN LÝ (UEH - ISCM) KÝ KẾT BIÊN BẢN GHI NHỚ HỢP TÁC CÙNG TRUNG T M NGHIÊN CỨU ĐÔ THỊ SÁNG TẠO LÝ QUANG DIỆU"
+title: "VIỆN ĐÔ THỊ THÔNG MINH VÀ QUẢN LÝ (UEH - ISCM) KÝ KẾT BIÊN BẢN GHI NHỚ HỢP TÁC CÙNG TRUNG TÂM NGHIÊN CỨU ĐÔ THỊ SÁNG TẠO LÝ QUANG DIỆU"
 publishDate: "2024-07-17T00:00:00.000Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description: ""
@@ -8,7 +8,7 @@ image: /images/events/news-2024-SUTD_MOU-1.jpg
 showImage: false
 ---
 
-Ngày 17/07/2024, Đại học Kinh tế TP. Hồ Chí Minh - Đại diện là Viện Đô thị Thông minh và Quản lý và Đại học Công nghệ và Khoa học Singapore - Đại diện là Trung tâm Nghiên cứu Đô thị Sáng tạo Lý Quang Diệu đã tiến hành ký kết biên bản ghi nhớ hợp tác. Sự kiện nằm trong khuôn khổ của Hội thảo Khoa học Quốc tế Resilience by Technology and Design lần thứ 2, được tổ chức tại cả hai địa điểm: TP. Hồ Chí Minh và Vĩnh Long.
+*Ngày 17/07/2024, Đại học Kinh tế TP. Hồ Chí Minh - Đại diện là Viện Đô thị Thông minh và Quản lý và Đại học Công nghệ và Khoa học Singapore - Đại diện là Trung tâm Nghiên cứu Đô thị Sáng tạo Lý Quang Diệu đã tiến hành ký kết biên bản ghi nhớ hợp tác. Sự kiện nằm trong khuôn khổ của Hội thảo Khoa học Quốc tế Resilience by Technology and Design lần thứ 2, được tổ chức tại cả hai địa điểm: TP. Hồ Chí Minh và Vĩnh Long.*
 
 {{< figure src="/images/events/news-2024-SUTD_MOU-1.jpg" >}}
 

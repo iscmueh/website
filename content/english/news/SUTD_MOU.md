@@ -8,7 +8,7 @@ image: /images/events/news-2024-SUTD_MOU-1.jpg
 showImage: false
 ---
 
-On July 17, 2024, the University of Economics Ho Chi Minh City - represented by the Institute of Smart City and Management) and the Singapore University of Technology and Design (represented by the Lee Kuan Yew Centre for Innovative Cities) officially signed a Memorandum of Understanding (MoU). This event was part of the 2nd International Conference on Resilience by Technology and Design, held in both Ho Chi Minh City and Vinh Long.
+*On July 17, 2024, the University of Economics Ho Chi Minh City - represented by the Institute of Smart City and Management) and the Singapore University of Technology and Design (represented by the Lee Kuan Yew Centre for Innovative Cities) officially signed a Memorandum of Understanding (MoU). This event was part of the 2nd International Conference on Resilience by Technology and Design, held in both Ho Chi Minh City and Vinh Long.*
 
 {{< figure src="/images/events/news-2024-SUTD_MOU-1.jpg" >}}
 

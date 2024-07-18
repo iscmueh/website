@@ -848,6 +848,45 @@
                 href="http://localhost:1313/vi/partner/wscf/"
                 />
   </url><url>
+    <loc>http://localhost:1313/vi/</loc>
+    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/vi/news/</loc>
+    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/news/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/vi/news/sutd_mou/</loc>
+    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/news/sutd_mou/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="http://localhost:1313/vi/news/sutd_mou/"
+                />
+  </url><url>
     <loc>http://localhost:1313/vi/event/rtd_digitaltwins/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -898,19 +937,6 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="http://localhost:1313/vi/event/rtd_sustainability/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/vi/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="http://localhost:1313/vi/"
                 />
   </url><url>
     <loc>http://localhost:1313/vi/event/</loc>
@@ -966,19 +992,6 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="http://localhost:1313/vi/news/studioarchitechture1_k49ueh/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/vi/news/</loc>
-    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="http://localhost:1313/vi/news/"
                 />
   </url><url>
     <loc>http://localhost:1313/vi/news/2024-08/</loc>
