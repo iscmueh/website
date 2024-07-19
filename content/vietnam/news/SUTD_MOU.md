@@ -18,8 +18,6 @@ Viện Đô thị Thông minh và Quản lý và Trung tâm Nghiên cứu Đô t
 
 {{< figure src="/images/events/news-2024-SUTD_MOU-2.jpg" >}}
 
-_<center style="margin-top: -30px">Từ bên trái sang: PGS. TS. Trịnh Thùy Anh, GS. Harvey Neo, GS. Cheong Koon Hean, TS. Trịnh Tú Anh, TS. Thái Kim Phụng, (...), </center>_
-
 Là một trong những hoạt động của  Hội thảo Khảo học Quốc tế Resilience by Technology and Design, Buổi ký kết Biên bản Ghi nhớ Hợp tác giữa UEH - ISCM và SUTD - LKYCIC đã được đặc biệt diễn ra tại UEH Phân hiệu Vĩnh Long với sự chứng kiến bởi các chuyên gia, giáo sư trong và ngoài nước. Về phía Đại học Kinh tế TP. Hồ Chí Minh, sự kiện có sự tham dự của ban lãnh đạo UEH, CTD và Ban giám đốc phân hiệu Vĩnh Long
 
 {{< figure src="/images/events/news-2024-SUTD_MOU-3.jpg" >}}
