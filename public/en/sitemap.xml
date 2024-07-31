@@ -940,21 +940,21 @@
                 href="https://www.iscm.ueh.edu.vn/partner/wscf/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/news/ubu2024/</loc>
-    <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+    <loc>https://www.iscm.ueh.edu.vn/news/podcast/</loc>
+    <lastmod>2024-07-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/news/ubu2024/"
+                href="https://www.iscm.ueh.edu.vn/vi/news/podcast/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/news/ubu2024/"
+                href="https://www.iscm.ueh.edu.vn/news/podcast/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/</loc>
-    <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
@@ -967,7 +967,7 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/news/</loc>
-    <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
@@ -979,8 +979,73 @@
                 href="https://www.iscm.ueh.edu.vn/news/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/news/sutd_mou/</loc>
+    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/news/sutd_mou/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/news/sutd_mou/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/rtd_deeptech/</loc>
+    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/rtd_deeptech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/rtd_deeptech/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/rtd_digitaltwins/</loc>
+    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/rtd_digitaltwins/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/rtd_digitaltwins/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/rtd_naturebase/</loc>
+    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/rtd_naturebase/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/rtd_naturebase/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/event/rtd_sustainability/</loc>
+    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/rtd_sustainability/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/rtd_sustainability/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/</loc>
-    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
@@ -1016,19 +1081,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/event/rtd_2024_introduce_guest/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/news/03072024/</loc>
-    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/news/03072024/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/news/03072024/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/news/studioarchitechture1_k49ueh/</loc>
