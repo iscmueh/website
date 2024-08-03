@@ -8,7 +8,7 @@ image: /images/events/news-2024-09-01.png
 showImage: false
 ---
 
-On July 30, 2024, the Institute of Regional Development Research and Consulting (IRDRC), the Institute of Smart City and Management (ISCM) under the University of Economics Ho Chi Minh City (UEH), and the Department of Science, Technology, and Information of Thu Duc City under the People's Committee of Thu Duc City successfully organized the conference titled "Digital Economy - Driving Force for Thu Duc City's Development." The conference aimed to disseminate and enhance knowledge on the digital economy to over 500 officials.
+*On July 30, 2024, the Institute of Regional Development Research and Consulting (IRDRC), the Institute of Smart City and Management (ISCM) under the University of Economics Ho Chi Minh City (UEH), and the Department of Science, Technology, and Information of Thu Duc City under the People's Committee of Thu Duc City successfully organized the conference titled "Digital Economy - Driving Force for Thu Duc City's Development." The conference aimed to disseminate and enhance knowledge on the digital economy to over 500 officials.*
 
 The conference was attended by Mr. Nguyen Tran Phu Thinh, Head of the Department of Science, Technology, and Information of Thu Duc City. Representing the University of Economics Ho Chi Minh City were Dr. Trinh Tu Anh, Director of the Institute of Smart City and Management (ISCM), and Dr. Nguyen Kim Duc, Vice Dean of the Institute of Regional Development Research and Consulting (IRDRC).
 
@@ -39,9 +39,9 @@ _<center style="margin-top: -30px">Dr. Nguyen Kim Duc - Vice Dean of the Institu
 The conference underscored the critical tasks required to develop Thu Duc City. It also demonstrated the essential connection between research institutions and local governments in devising development solutions. This collaboration is crucial for guiding Thu Duc City, and other regions in Vietnam, towards a smart and sustainable future.
 
 **Reporting Unit:**
-- People's Committee of Thu Duc City: Digital Economy - Driving Force for Thu Duc City's Development
+- People's Committee of Thu Duc City: [Digital Economy - Driving Force for Thu Duc City's Development](https://tpthuduc.hochiminhcity.gov.vn/khoa-hoc-va-cong-nghe/kinh-te-so-dong-luc-phat-trien-thanh-pho-thu-duc/ct/5867/19044)
 
-- University of Economics Ho Chi Minh City: Thu Duc City People's Committee and UEH co-organize the conference "Digital Economy - Driving Force for Thu Duc City's Development"
+- University of Economics Ho Chi Minh City: [Thu Duc City People's Committee and UEH co-organize the conference "Digital Economy - Driving Force for Thu Duc City's Development"](https://ueh.edu.vn/cuoc-song-ueh/tin-tuc/ubnd-thanh-pho-thu-duc-va-ueh-phoi-hop-to-chuc-hoi-nghi-kinh-te-so-dong-luc-phat-trien-thanh-pho-thu-duc-72199)
 
 
 

@@ -8,7 +8,7 @@ image: /images/events/news-2024-09-01.png
 showImage: false
 ---
 
-Dẫn tin từ UEH: Ngày 30/07/2024, Viện Nghiên cứu và Tư vấn phát triển vùng UEH (IRDRC), Viện Đô thị Thông minh và Quản lý (ISCM) trực thuộc Đại học Kinh tế TP. Hồ Chí Minh, và Phòng Khoa học và Công nghệ - Thông tin Thành phố Thủ Đức trực thuộc Uỷ ban Nhân dân TP. Thủ Đức đã tổ chức **Hội nghị “Kinh tế số - Động lực phát triển Thành phố Thủ Đức”**. Hội nghị hướng tới phổ biến, nâng cao kiến thức về kinh tế số cho hơn 500 cán bộ, công chức và viên chức.
+*Dẫn tin từ UEH: Ngày 30/07/2024, Viện Nghiên cứu và Tư vấn phát triển vùng UEH (IRDRC), Viện Đô thị Thông minh và Quản lý (ISCM) trực thuộc Đại học Kinh tế TP. Hồ Chí Minh, và Phòng Khoa học và Công nghệ - Thông tin Thành phố Thủ Đức trực thuộc Uỷ ban Nhân dân TP. Thủ Đức đã tổ chức **Hội nghị “Kinh tế số - Động lực phát triển Thành phố Thủ Đức”**. Hội nghị hướng tới phổ biến, nâng cao kiến thức về kinh tế số cho hơn 500 cán bộ, công chức và viên chức.*
 
 Tham dự Hội nghị tập huấn, về phía Thành phố Thủ Đức có sự tham dự của **Ông Nguyễn Trần Phú Thịnh** - Trưởng phòng Khoa học, Công nghệ và Thông tin Thành phố Thủ Đức. Về phía đại diện Đại học Kinh tế Thành phố Hồ Chí Minh có sự tham dự của **TS. Trịnh Tú Anh** - Viện trưởng Viện Đô thị thông minh và Quản lý UEH (ISCM) cùng **TS. Nguyễn Kim Đức** - Phó Viện trưởng Viện Nghiên cứu và Tư vấn phát triển vùng UEH (IRDRC).
 
@@ -41,7 +41,8 @@ _<center style="margin-top: -30px">TS. Nguyễn Kim Đức - Phó Viện trưở
 Không chỉ nhấn mạnh và xác định các nhiệm vụ trọng tâm, cấp thiết để phát triển Thành phố Thủ Đức, hội nghị còn là minh chứng cho sự kết nối giữa các cơ sở nghiên cứu và chính quyền địa phương trong quá trình đưa ra các giải pháp phát triển. Sự kết nối này chính là yếu tố không thể thiếu để đưa Thành phố Thủ Đức nói riêng, và các vùng ở Việt Nam nói chung, phát triển hướng tới thông minh và bền vững trong tương lai.
 
 **Đơn vị đưa tin:**
-- Uỷ ban nhân dân Thành phố Thủ Đức: Kinh tế số - Động lực phát triển thành phố Thủ Đức
 
-- Đại học Kinh tế TP. Hồ Chí Minh: UBND Thành phố Thủ Đức và UEH phối hợp tổ chức Hội nghị “Kinh tế số - Động lực phát triển Thành phố Thủ Đức”
+- Uỷ ban nhân dân Thành phố Thủ Đức: [Kinh tế số - Động lực phát triển thành phố Thủ Đức](https://tpthuduc.hochiminhcity.gov.vn/khoa-hoc-va-cong-nghe/kinh-te-so-dong-luc-phat-trien-thanh-pho-thu-duc/ct/5867/19044)
+
+- Đại học Kinh tế TP. Hồ Chí Minh: [UBND Thành phố Thủ Đức và UEH phối hợp tổ chức Hội nghị “Kinh tế số - Động lực phát triển Thành phố Thủ Đức”](https://ueh.edu.vn/cuoc-song-ueh/tin-tuc/ubnd-thanh-pho-thu-duc-va-ueh-phoi-hop-to-chuc-hoi-nghi-kinh-te-so-dong-luc-phat-trien-thanh-pho-thu-duc-72199)
 
