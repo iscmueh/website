@@ -2,599 +2,606 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tin Tức on Institute of Smart City &amp; Management</title>
-    <link>https://www.iscm.ueh.edu.vn/vi/news/</link>
+    <link>http://localhost:1313/vi/news/</link>
     <description>Recent content in Tin Tức on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
     <lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.iscm.ueh.edu.vn/vi/news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/vi/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NGẮM NHÌN CAM LÂM - KHÁNH HÒA DƯỚI LĂNG KÍNH CỦA TRẠI HÈ QUỐC TẾ URBAN BEYOND THE URBAN 2024</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/ubu2024/</link>
+      <link>http://localhost:1313/vi/news/ubu2024/</link>
       <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/ubu2024/</guid>
+      <guid>http://localhost:1313/vi/news/ubu2024/</guid>
       <description>Cuối tháng 7/2024, Viện Đô thị Thông minh và Quản lý, kết hợp cùng Đại học Handong Global (Hàn Quốc), Đại học Ngurah Rai (Indonesia), Đại học KU Leuven (Bỉ), và Đại học Trieste (Ý), tổ chức Trại hè Quốc tế Vươn tầm Đô thị (Urban Beyond the Urban - UBU) 2024 tại Cam Lâm - Khánh Hòa.</description>
     </item>
     <item>
+      <title>UEH HỢP TÁC CÙNG ỦY BAN NHÂN DÂN THÀNH PHỐ THỦ ĐỨC TỔ CHỨC THÀNH CÔNG HỘI NGHỊ “KINH TẾ SỐ - ĐỘNG LỰC PHÁT TRIỂN THÀNH PHỐ THỦ ĐỨC</title>
+      <link>http://localhost:1313/vi/news/kts_thuduc/</link>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vi/news/kts_thuduc/</guid>
+      <description>Dẫn tin từ UEH: Ngày 30/07/2024, Viện Nghiên cứu và Tư vấn phát triển vùng UEH (IRDRC), Viện Đô thị Thông minh và Quản lý (ISCM) trực thuộc Đại học Kinh tế TP.</description>
+    </item>
+    <item>
       <title>[PODCAST] MÔ HÌNH ĐẠI HỌC BỀN VỮNG DÀNH CHO CÁC THỊ TRƯỜNG MỚI NỔI</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/podcast/</link>
+      <link>http://localhost:1313/vi/news/podcast/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/podcast/</guid>
+      <guid>http://localhost:1313/vi/news/podcast/</guid>
       <description>Ngày nay, mô hình đại học bền vững đóng vai trò quan trọng ở các nước đang phát triển, tuy nhiên vẫn còn gặp nhiều khó khăn trong giai đoạn thực hiện do quyền tự chủ hạn chế cùng các yếu tố xã hội đặc thù.</description>
     </item>
     <item>
       <title>VIỆN ĐÔ THỊ THÔNG MINH VÀ QUẢN LÝ (UEH - ISCM) KÝ KẾT BIÊN BẢN GHI NHỚ HỢP TÁC CÙNG TRUNG TÂM NGHIÊN CỨU ĐÔ THỊ SÁNG TẠO LÝ QUANG DIỆU</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/sutd_mou/</link>
+      <link>http://localhost:1313/vi/news/sutd_mou/</link>
       <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/sutd_mou/</guid>
+      <guid>http://localhost:1313/vi/news/sutd_mou/</guid>
       <description>Ngày 17/07/2024, Đại học Kinh tế TP. Hồ Chí Minh - Đại diện là Viện Đô thị Thông minh và Quản lý và Đại học Công nghệ và Khoa học Singapore - Đại diện là Trung tâm Nghiên cứu Đô thị Sáng tạo Lý Quang Diệu đã tiến hành ký kết biên bản ghi nhớ hợp tác.</description>
     </item>
     <item>
       <title>TỌA ĐÀM TÔI NÓI GÌ KHI NÓI VỀ KIẾN TRÚC ? CHUYỆN HỌC, CHUYỆN NGHỀ CỦA NHỮNG KIẾN TRÚC SƯ TRẺ VIỆT NAM</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/03072024/</link>
+      <link>http://localhost:1313/vi/news/03072024/</link>
       <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/03072024/</guid>
+      <guid>http://localhost:1313/vi/news/03072024/</guid>
       <description>Ngày 06 tháng 07 năm 2024 vừa qua, Viện Đô thị Thông minh và Quản lý kết hợp cùng các đối tác tổ chức Tọa đàm Tôi nói gì khi nói về Kiến trúc?</description>
     </item>
     <item>
       <title>CŨNG LÀ ĐÀ LẠT, NHƯNG DƯỚI GÓC NHÌN CỦA K49 ISCM VỚI ĐỒ ÁN KIẾN TRÚC 1: NHÀ Ở</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/studioarchitechture1_k49ueh/</link>
+      <link>http://localhost:1313/vi/news/studioarchitechture1_k49ueh/</link>
       <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/studioarchitechture1_k49ueh/</guid>
+      <guid>http://localhost:1313/vi/news/studioarchitechture1_k49ueh/</guid>
       <description>Từ ngày 12/06 đến 15/06/2024, Đà Lạt đã được chọn là điểm đến của chuyến đi thực địa đầu tiên của sinh viên Khóa 49 - Chuyên ngành Kiến trúc và Thiết kế Đô thị Thông minh.</description>
     </item>
     <item>
       <title>THẢO LUẬN CÙNG CHUYÊN GIA TẠI WORKSHOP LIVING LAB MODEL AND PRACTICAL APPLICATIONS FOR HO CHI MINH CITY</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2024-08/</link>
+      <link>http://localhost:1313/vi/news/2024-08/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2024-08/</guid>
+      <guid>http://localhost:1313/vi/news/2024-08/</guid>
       <description>Ngày 06/06/2024, Viện Đô thị Thông minh và Quản lý, kết hợp cùng Công ty Thiết kế Ong&amp;amp;Ong Việt Nam cùng các đối tác, đã tổ chức Workshop Living Lab Model và Practical Applications tại Studiolab - không gian kết nối tri thức giữa Việt Nam và thế giới.</description>
     </item>
     <item>
       <title>GẦN 90 SUẤT HỌC BỔNG TRAO ĐỔI SINH VIÊN QUỐC TẾ TẠI CÁC ĐẠI HỌC HÀNG ĐẦU CHÂU Á VÀ CHÂU ÂU DÀNH CHO SINH VIÊN UEH</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2024-07/</link>
+      <link>http://localhost:1313/vi/news/2024-07/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2024-07/</guid>
+      <guid>http://localhost:1313/vi/news/2024-07/</guid>
       <description>Các đại học hàng đầu Châu Á và Châu Âu chính thức dành gần 90 suất học bổng và miễn phí học phí để hỗ trợ sinh viên Đại học Kinh tế Thành phố Hồ Chí Minh (UEH) trong chương trình trao đổi sinh viên quốc tế.</description>
     </item>
     <item>
       <title>VÀ ĐÓ LÀ KHOẢNH KHẮC KHÉP LẠI CỦA LỚP HỌC THỬ 2024</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/lop_hoc_thu_2024_baud/</link>
+      <link>http://localhost:1313/vi/news/lop_hoc_thu_2024_baud/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/lop_hoc_thu_2024_baud/</guid>
+      <guid>http://localhost:1313/vi/news/lop_hoc_thu_2024_baud/</guid>
       <description>Phụ huynh, Giảng viên, Học sinh và Sinh viên tham dự chương trình Lớp học thử 2024</description>
     </item>
     <item>
       <title>HỘI THẢO NGHIÊN CỨU PHÁT TRIỂN KINH TẾ SỐ TP. HỒ CHÍ MINH: NỖ LỰC HƯỚNG TỚI ĐÔ THỊ THÔNG MINH VÀ BỀN VỮNG</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/hoi_thao_kinh_te_so_2024/</link>
+      <link>http://localhost:1313/vi/news/hoi_thao_kinh_te_so_2024/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/hoi_thao_kinh_te_so_2024/</guid>
+      <guid>http://localhost:1313/vi/news/hoi_thao_kinh_te_so_2024/</guid>
       <description>Ngày 26/04/2024, Sở Thông tin – Truyền thông Thành phố Hồ Chí Minh kết hợp cùng Đại học Kinh tế TP.</description>
     </item>
     <item>
       <title>MỘT HÀNH TRÌNH, 6 GIẢI THƯỞNG - 20 ĐẠI DIỆN CỦA UEH XUẤT SẮC HOÀN THÀNH HÀNH TRÌNH KẾT NỐI DI SẢN VÀ ĐÔ THỊ HƯỚNG TỚI BỀN VỮNG</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2024-04/</link>
+      <link>http://localhost:1313/vi/news/2024-04/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2024-04/</guid>
+      <guid>http://localhost:1313/vi/news/2024-04/</guid>
       <description>Đoàn sinh viên, giảng viên UEH - ISCM ngày đầu tại Festival Sinh viên Kiến trúc toàn quốc lần thứ 14 (nguồn: Ban tổ chức)</description>
     </item>
     <item>
       <title>TALKSHOW HÀNH TRANG CHO TƯƠNG LAI: ĐỂ K47 TỰ TIN VÀ VỮNG VÀNG BƯỚC VÀO GIAI ĐOẠN THỰC TẬP TỐT NGHIỆP</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/intern_talkshow/</link>
+      <link>http://localhost:1313/vi/news/intern_talkshow/</link>
       <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/intern_talkshow/</guid>
+      <guid>http://localhost:1313/vi/news/intern_talkshow/</guid>
       <description>Diễn ra vào buổi sáng ngày 13/04/2024, Buổi Talkshow Hành trang cho Tương lai đã thành công mang đến cho các bạn sinh viên khóa 47 Chương trình Kiến trúc và Thiết kế Đô thị Thông minh có thể tự tin bước vào giai đoạn thực tập tốt nghiệp với bộ CV và Portfolio chuẩn chỉnh cùng kỹ năng phỏng vấn hiệu quả.</description>
     </item>
     <item>
       <title>HỌC VIÊN LỚP THẠC SĨ QUẢN LÝ ĐÔ THỊ THÔNG MINH VÀ SÁNG TẠO TỈNH KHÁNH HÒA ĐI THỰC TẾ TẠI THÀNH PHỐ HỒ CHÍ MINH </title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/15042024_master/</link>
+      <link>http://localhost:1313/vi/news/15042024_master/</link>
       <pubDate>Fri, 12 Apr 2024 09:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/15042024_master/</guid>
+      <guid>http://localhost:1313/vi/news/15042024_master/</guid>
       <description>Là một phần của chương trình học tập môn City Project (tạm dịch: Dự án Đô thị), ngày 12/04/2024, các cán bộ, viên chức của tỉnh Khánh Hòa đang theo học lớp Thạc sĩ Quản lý Đô thị Thông minh và Sáng tạo do Viện Đô thị Thông minh và Quản lý chủ nhiệm đào tạo đã có chuyến đi thực tế tại các công trình tiêu biểu cũng như các Cơ sở của UEH khắp TP.</description>
     </item>
     <item>
       <title>KHÉP LẠI HÀNH TRÌNH CỦA INTENSIVE WORKSHOP THANH ĐA: THE HIDDEN URBAN OASIS - WORKSHOP MỞ ĐẦU 2024</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/ws_thanhda_2024/</link>
+      <link>http://localhost:1313/vi/news/ws_thanhda_2024/</link>
       <pubDate>Thu, 04 Apr 2024 08:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/ws_thanhda_2024/</guid>
+      <guid>http://localhost:1313/vi/news/ws_thanhda_2024/</guid>
       <description>Từ ngày 18/3/2024 đến 03/4/2024, sinh viên Kiến trúc và Thiết kế Đô thị Thông minh đã có một hành trình trải nghiệm thú vị khi được trực tiếp phân tích và đề xuất ý tưởng cho khu vực Bán đảo Thanh Đa cùng Workshop Thanh Da: The Hidden Urban Oasis.</description>
     </item>
     <item>
       <title>VIỆN ĐÔ THỊ THÔNG MINH VÀ QUẢN LÝ GẶP GỠ ĐẠI HỌC PORTLAND (PSU - MỸ)</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2024-03/</link>
+      <link>http://localhost:1313/vi/news/2024-03/</link>
       <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2024-03/</guid>
+      <guid>http://localhost:1313/vi/news/2024-03/</guid>
       <description>TS. Trịnh Tú Anh cùng các giảng viên của Đại học Portland cùng thảo luận về các hoạt động nghiên cứu, giáo dục</description>
     </item>
     <item>
       <title>NGÀY HỘI TƯ VẤN - TUYỂN SINH HƯỚNG NGHIỆP TẠI ĐẠI HỌC BÁCH KHOA: KẾT NỐI CÙNG ĐỘI NGŨ GIẢNG VIÊN VÀ SINH VIÊN CỦA ISCM</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2024-02/</link>
+      <link>http://localhost:1313/vi/news/2024-02/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2024-02/</guid>
+      <guid>http://localhost:1313/vi/news/2024-02/</guid>
       <description>Chủ nhật vừa qua (3/3/2024), Viện Đô thị Thông minh và Quản lý - Đại học Kinh tế Thành phố Hồ Chí Minh (UEH) đã có cơ hội gặp mặt trực tiếp với phụ huynh, học sinh đến từ các tỉnh, thành phố tại Ngày hội tư vấn tuyển sinh hướng nghiệp 2024.</description>
     </item>
     <item>
       <title>CHƯƠNG TRÌNH THẠC SỸ CHUYÊN NGÀNH QUẢN LÝ ĐÔ THỊ THÔNG MINH VÀ SÁNG TẠO: TIẾP CẬN THỰC TẾ VỚI CHUYẾN THAM QUAN TẠI BANGKOK (THÁI LAN)</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/masterthailandtrip/</link>
+      <link>http://localhost:1313/vi/news/masterthailandtrip/</link>
       <pubDate>Tue, 27 Feb 2024 15:20:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/masterthailandtrip/</guid>
+      <guid>http://localhost:1313/vi/news/masterthailandtrip/</guid>
       <description>Từ ngày 21/02 đến ngày 24/02/2024 vừa qua, nằm trong khuôn khổ môn học Đo lường sự Thông minh và Bền vững của Đô thị, học viên thuộc chương trình Thạc sĩ chuyên ngành Quản lý Đô thị Thông minh và Sáng tạo đã có cơ hội tìm hiểu và quan sát thực tế thông qua chuyến tham quan tại Thủ đô Bangkok (Thái Lan).</description>
     </item>
     <item>
       <title>LỄ KÝ KẾT BIÊN BẢN GHI NHỚ GIỮA VIỆN ĐÔ THỊ THÔNG MINH VÀ QUẢN LÝ (UEH-ISCM) VÀ PLAYZ EDUTAINMENT</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/playzedu/</link>
+      <link>http://localhost:1313/vi/news/playzedu/</link>
       <pubDate>Mon, 29 Jan 2024 09:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/playzedu/</guid>
+      <guid>http://localhost:1313/vi/news/playzedu/</guid>
       <description>Ngày 29/01 vừa qua, Viện Đô thị Thông minh và Quản lý (UEH - ISCM) cùng đối tác Playz Edutainment đã chính thức tiến hành ký kết Biên bản ghi nhớ hợp tác (MOU).</description>
     </item>
     <item>
       <title>KHÓA HỌC QUỐC TẾ NGẮN HẠN Ở SINGAPORE 2024: NỀN TẢNG CHO CÁC NHÀ NGHIÊN CỨU TRẺ</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/sutd-course/</link>
+      <link>http://localhost:1313/vi/news/sutd-course/</link>
       <pubDate>Mon, 15 Jan 2024 09:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/sutd-course/</guid>
+      <guid>http://localhost:1313/vi/news/sutd-course/</guid>
       <description>Từ ngày 15/01 đến ngày 26/01/2024, Viện Đô thị Thông minh và Quản lý - Đại học Kinh tế Thành phố Hồ Chí Minh (ISCM - UEH) kết hợp cùng Lee Kuan Yew Centre for Innovative Cities - Đại học Công nghệ và Thiết kế Singapore (SUTD - LKYCIC) tổ chức Khóa học Quốc tế Ngắn hạn: Smart City and Technology - the Case of Ho Chi Minh City and Singapore.</description>
     </item>
     <item>
       <title>NHÌN LẠI CHUỖI SỰ KIỆN VUNG TAU FUTURE TẠI THÀNH PHỐ VŨNG TÀU NĂM 2024</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/vung_tau_future_2024/</link>
+      <link>http://localhost:1313/vi/news/vung_tau_future_2024/</link>
       <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/vung_tau_future_2024/</guid>
+      <guid>http://localhost:1313/vi/news/vung_tau_future_2024/</guid>
       <description>Ngày 09/01/2024 vừa qua, Đại học Kinh tế Thành phố Hồ Chí Minh, kết hợp cùng Uỷ ban Nhân dân Thành phố Vũng Tàu và các đối tác tổ chức chuỗi sự kiện Vũng Tàu Future gồm triển lãm, hội thảo Phát triển Thành phố Vũng Tàu thành trung tâm du lịch chất lượng cao và đẳng cấp quốc tế và Lễ trao giải Cuộc thi Thiết kế Quốc tế lần 3: Reimagining Cities towards Carbon Neutrality.</description>
     </item>
     <item>
       <title>ĐỒ ÁN THIẾT KẾ CẢNH QUAN BỀN VỮNG: ĐÓNG GÓP VÀO PHÁT TRIỂN MẠNG LƯỚI XANH-XANH CHO THÀNH PHỐ THỦ ĐỨC</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2024-01/</link>
+      <link>http://localhost:1313/vi/news/2024-01/</link>
       <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2024-01/</guid>
+      <guid>http://localhost:1313/vi/news/2024-01/</guid>
       <description>Khám phá các giải pháp dựa vào thiên nhiên, ứng dụng để thiết kế các công viên bền vững, Khóa 47 - Chuyên ngành Kiến trúc và Thiết kế Đô thị Thông minh đã hoàn thành Đồ án Thiết kế Cảnh quan Bền vững, với sản phẩm là các thiết kế công viên cho Thành phố Thủ Đức.</description>
     </item>
     <item>
       <title>HỘI THẢO PHÁT TRIỂN TĂNG TRƯỞNG XANH CHO ĐỊA PHƯƠNG</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-57/</link>
+      <link>http://localhost:1313/vi/news/2023-57/</link>
       <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-57/</guid>
+      <guid>http://localhost:1313/vi/news/2023-57/</guid>
       <description>🌳Ngày 28/10/2023 vừa qua, Viện Đô thị Thông minh và Quản lý - Đại học Kinh tế Thành phố Hồ Chí Minh (UEH - ISCM) đã kết hợp cùng Công ty Cổ phần Tập đoàn Green+ tổ chức Hội thảo Phát triển Tăng trưởng xanh cho địa phương - góc nhìn đa ngành.</description>
     </item>
     <item>
       <title>TRIỂN LÃM ĐỒ ÁN SINH VIÊN: ĐIỀU KHÔNG THỂ BỎ LỠ TẠI UEH-ISCM</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-55/</link>
+      <link>http://localhost:1313/vi/news/2023-55/</link>
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-55/</guid>
+      <guid>http://localhost:1313/vi/news/2023-55/</guid>
       <description>🏮Từ Bản sắc Phố lồng đèn đến Tuệ Thành Hội quán, khám phá đa góc nhìn về khu đô thị Chợ Lớn, TP.</description>
     </item>
     <item>
       <title>TRẢI NGHIỆM ỨNG DỤNG CÔNG NGHỆ TẠI WORKSHOP COMPUTER VISION IN MOBILITY ANALYSIS</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-56/</link>
+      <link>http://localhost:1313/vi/news/2023-56/</link>
       <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-56/</guid>
+      <guid>http://localhost:1313/vi/news/2023-56/</guid>
       <description>🧑‍💻Chiều 20/10/2023 vừa qua, Viện Đô thị Thông minh và Quản lý đã tổ chức buổi Workshop: Computer Vision in Mobility Analysis với sự tham gia của các bạn sinh viên đến từ nhiều ngành học khác nhau.</description>
     </item>
     <item>
       <title>ĐỒ ÁN KIẾN TRÚC 2: NGHIÊN CỨU KIẾN TRÚC SHOWROOM AUDI TÂN BÌNH</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-53/</link>
+      <link>http://localhost:1313/vi/news/2023-53/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-53/</guid>
+      <guid>http://localhost:1313/vi/news/2023-53/</guid>
       <description>Thứ 4 (4/10) vừa qua, sinh viên ISCM đã có chuyến đi thực tế đến showroom của Audi Tân Bình.</description>
     </item>
     <item>
       <title>ĐỒ ÁN KIẾN TRÚC 2: TRẢI NGHIỆM THỰC TẾ TẠI TRUNG TÂM PORSCHE SÀI GÒN</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-54/</link>
+      <link>http://localhost:1313/vi/news/2023-54/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-54/</guid>
+      <guid>http://localhost:1313/vi/news/2023-54/</guid>
       <description>🏁Kiến trúc tinh giản kết hợp cùng phong cách xe thể thao mạnh mẽ;</description>
     </item>
     <item>
       <title>NHÌN LẠI | NGÀY HỘI ĐỊNH HƯỚNG 2023: DESIGN YOUR UTOPIA</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-51/</link>
+      <link>http://localhost:1313/vi/news/2023-51/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-51/</guid>
+      <guid>http://localhost:1313/vi/news/2023-51/</guid>
       <description>Ngày 24/09/2023 vừa qua, Ngày hội truyền thống đầu năm của sinh viên Viện Đô thị Thông minh và Quản lý ISCM - Đại học Kinh tế Thành phố Hồ Chí Minh đã chính thức quay trở lại, đón chào em út khóa 49 đến với chương trình Kiến trúc và Thiết kế Đô thị Thông minh.</description>
     </item>
     <item>
       <title>DỰ ÁN NGHIÊN CỨU ROUTE2SCHOOL VIRTUAL REALITY CYCLING TẠI NGÀY HỘI TRÍ TUỆ NHÂN TẠO VIỆT NAM</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-49/</link>
+      <link>http://localhost:1313/vi/news/2023-49/</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-49/</guid>
+      <guid>http://localhost:1313/vi/news/2023-49/</guid>
       <description>Ngày 21-22/9 vừa qua, Trường Đại học Kinh tế TP HCM (UEH) đã tham gia triển lãm AI Expo, thuộc khuôn khổ Ngày hội Trí tuệ nhân tạo Việt Nam (AI4VN 2023).</description>
     </item>
     <item>
       <title>WORKSHOP KỂ CHUYỆN VỀ MÔI TRƯỜNG: TRẢI NGHIỆM SỰ GIAO THOA GIỮA KHOA HỌC, NGHỆ THUẬT VÀ CÔNG NGHỆ</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-48/</link>
+      <link>http://localhost:1313/vi/news/2023-48/</link>
       <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-48/</guid>
+      <guid>http://localhost:1313/vi/news/2023-48/</guid>
       <description>Vừa qua, vào ngày 6/9/2023, Viện Đô thị Thông minh và Quản lý (ISCM), kết hợp cùng nhóm chuyên gia sáng tạo trong lĩnh vực nghe nhìn D-Fuse (Vương quốc Anh), Trung tâm nghệ thuật đa ngành Phố Bên Đồi thân mời bạn tham gia workshop song ngữ “Kể chuyện về môi trường”.</description>
     </item>
     <item>
       <title>BẢN TIN HỢP TÁC | CHUYẾN THĂM VÀ LÀM VIỆC GIỮA ĐẠI HỌC SUNGKYUNKWAN, ĐẠI HỌC XI’AN JIAOTONG LIVERPOOL, JUNGLIM ARCHITECTURE, VIỆN NGHIÊN CỨU SEOUL, VÀ VIỆN ĐÔ THỊ THÔNG MINH VÀ QUẢN LÝ - ĐẠI HỌC KINH TẾ THÀNH PHỐ HỒ CHÍ MINH</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-43/</link>
+      <link>http://localhost:1313/vi/news/2023-43/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-43/</guid>
+      <guid>http://localhost:1313/vi/news/2023-43/</guid>
       <description>Tuần vừa qua, Viện Đô thị Thông minh và Quản lý - Đại học Kinh tế TP.</description>
     </item>
     <item>
       <title>NHÌN LẠI HỘI THẢO GIÁO DỤC: SMART URBAN INTERVENTION - SMART CITY LIVING LAB (SCLL) 2023</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-42/</link>
+      <link>http://localhost:1313/vi/news/2023-42/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-42/</guid>
+      <guid>http://localhost:1313/vi/news/2023-42/</guid>
       <description>Ngày 17/08 vừa qua, Hội thảo Chuyên đề Giáo dục: Smart Urban Intervention - Smart City Living Lab (SCLL) lần 1 năm 2023 đã diễn ra.</description>
     </item>
     <item>
       <title> NHÌN LẠI HỘI THẢO CHUYÊN ĐỀ GIÁO DỤC: SMART CITY DEVELOPMENT</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-39/</link>
+      <link>http://localhost:1313/vi/news/2023-39/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-39/</guid>
+      <guid>http://localhost:1313/vi/news/2023-39/</guid>
       <description>(sự kiện diễn ra vào ngày 14/8, chọn hình tên là 1 làm hình chính bên ngoài)</description>
     </item>
     <item>
       <title>BẢN TIN HỢP TÁC | CHUYẾN THĂM VÀ LÀM VIỆC GIỮA ĐẠI HỌC SEOUL (HÀN QUỐC) VÀ VIỆN ĐÔ THỊ THÔNG MINH VÀ QUẢN LÝ - ĐẠI HỌC KINH TẾ THÀNH PHỐ HỒ CHÍ MINH (UEH-ISCM)</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-40/</link>
+      <link>http://localhost:1313/vi/news/2023-40/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-40/</guid>
+      <guid>http://localhost:1313/vi/news/2023-40/</guid>
       <description>Từ ngày 14/08 - 16/8 vừa qua, Viện Đô thị Thông minh và Quản lý - Đại học Kinh tế TP.</description>
     </item>
     <item>
       <title>BẢN TIN HỢP TÁC | BUỔI GẶP MẶT GIỮA TRƯỜNG ĐẠI HỌC HANDONG GLOBAL (HÀN QUỐC), TRƯỜNG ĐẠI HỌC THAMMASAT (THÁI LAN) VÀ VIỆN ĐÔ THỊ THÔNG MINH VÀ QUẢN LÝ - TRƯỜNG CÔNG NGHỆ VÀ THIẾT KẾ UEH (ISCM)</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-35/</link>
+      <link>http://localhost:1313/vi/news/2023-35/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-35/</guid>
+      <guid>http://localhost:1313/vi/news/2023-35/</guid>
       <description>Vào ngày 04/08/2023 vừa qua, trong khuôn khổ của Chương trình Trại hè Quốc tế “Urban Beyond the Urban” tại Thành phố Bangkok (Thái Lan), Viện Đô thị Thông minh và quản lý - Trường Công nghệ và Thiết kế UEH (ISCM), Trường Đại học Handong Global (Hàn Quốc), và Khoa Kiến trúc và Quy hoạch Đô thị - Trường Đại học Thammasat (Thái Lan), đã có buổi gặp mặt và thảo luận hợp tác xoay quanh phát triển các dự án nghiên cứu, học thuật về đô thị thông minh và quy hoạch đô thị, chia sẻ tầm nhìn chung về phát triển đô thị bền vững và sáng tạo.</description>
     </item>
     <item>
       <title>BẢN TIN HỢP TÁC | BUỔI GẶP MẶT GIỮA ĐẠI HỌC CHULALONGKORN (THÁI LAN) VÀ VIỆN ĐÔ THỊ THÔNG MINH VÀ QUẢN LÝ - TRƯỜNG CÔNG NGHỆ VÀ THIẾT KẾ UEH (ISCM)</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-34/</link>
+      <link>http://localhost:1313/vi/news/2023-34/</link>
       <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-34/</guid>
+      <guid>http://localhost:1313/vi/news/2023-34/</guid>
       <description>Vừa qua, vào ngày 03/08/2023, Viện Đô thị Thông minh và Quản lý (ISCM) thuộc Trường Công nghệ và Thiết kế UEH (UEH-CTD) đã có buổi gặp mặt và trao đổi với Khoa Kiến trúc - Trường Đại học Chulalongkorn (Thái Lan) nhằm thúc đẩy hoạt động hợp tác về học thuật và nghiên cứu .</description>
     </item>
     <item>
       <title> TRẠI HÈ QUỐC TẾ URBAN BEYOND THE URBAN TẠI BANGKOK, THÁI LAN: HIỂU VỀ DU LỊCH ĐỊA PHƯƠNG VÀ GIAO THÔNG BỀN VỮNG THÔNG QUA NGHIÊN CỨU ĐI LIỀN VỚI TRẢI NGHIỆM</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-38/</link>
+      <link>http://localhost:1313/vi/news/2023-38/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-38/</guid>
+      <guid>http://localhost:1313/vi/news/2023-38/</guid>
       <description>TRẠI HÈ QUỐC TẾ URBAN BEYOND THE URBAN TẠI BANGKOK, THÁI LAN: HIỂU VỀ DU LỊCH ĐỊA PHƯƠNG VÀ GIAO THÔNG BỀN VỮNG THÔNG QUA NGHIÊN CỨU ĐI LIỀN VỚI TRẢI NGHIỆM</description>
     </item>
     <item>
       <title>CÒN DƯỚI 90 NGÀY ĐỂ CHINH PHỤC THỬ THÁCH CỦA CUỘC THI THIẾT KẾ QUỐC TẾ LẦN 3</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-29/</link>
+      <link>http://localhost:1313/vi/news/2023-29/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-29/</guid>
+      <guid>http://localhost:1313/vi/news/2023-29/</guid>
       <description>🌳 CÒN DƯỚI 90 NGÀY ĐỂ CHINH PHỤC THỬ THÁCH CỦA CUỘC THI THIẾT KẾ QUỐC TẾ LẦN 3</description>
     </item>
     <item>
       <title>HỘI THẢO TRỰC TUYẾN CỘNG ĐỒNG HỌC TẬP VÀ THỰC HÀNH (CoLP) lần thứ 7: CHUYỂN TIẾP KHẢ NĂNG ĐI BỘ - NGHIÊN CỨU TRƯỜNG HỢP TỪ PHILIPPINES, VIỆT NAM VÀ INDONESIA</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-31/</link>
+      <link>http://localhost:1313/vi/news/2023-31/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-31/</guid>
+      <guid>http://localhost:1313/vi/news/2023-31/</guid>
       <description>⏳Thời gian: 2:00 PM (UTC +7:00) | 11/08/2023&#xA;🖥️Địa điểm: Online qua Zoom</description>
     </item>
     <item>
       <title>TRẠI HÈ QUỐC TẾ URBAN BEYOND THE URBAN TẠI NHA TRANG: KẾT HỢP ĐA GÓC NHÌN ĐỂ KHÁM PHÁ NỀN KINH TẾ ĐÊM</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-30/</link>
+      <link>http://localhost:1313/vi/news/2023-30/</link>
       <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-30/</guid>
+      <guid>http://localhost:1313/vi/news/2023-30/</guid>
       <description>TRẠI HÈ QUỐC TẾ URBAN BEYOND THE URBAN TẠI NHA TRANG: KẾT HỢP ĐA GÓC NHÌN ĐỂ KHÁM PHÁ NỀN KINH TẾ ĐÊM</description>
     </item>
     <item>
       <title>TRUNG HÒA CARBON: MỘT TRONG NHỮNG MỤC TIÊU ĐƯỢC HƯỚNG ĐẾN TRONG KIẾN TRÚC VÀ THIẾT KẾ ĐÔ THỊ</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-47/</link>
+      <link>http://localhost:1313/vi/news/2023-47/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-47/</guid>
+      <guid>http://localhost:1313/vi/news/2023-47/</guid>
       <description>Là một trong những tiêu chí quan trọng của cuộc thi Thiết kế Quốc tế lần 3, Trung hòa Carbon được định nghĩa là sự cân bằng giữa lượng khí Carbon thải ra và lượng Carbon được hấp thụ trong các bể chứa carbon [1].</description>
     </item>
     <item>
       <title>HỘI NGHỊ CHUYÊN ĐỀ GIÁO DỤC: SMART CITY DEVELOPMENT</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-32/</link>
+      <link>http://localhost:1313/vi/news/2023-32/</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-32/</guid>
+      <guid>http://localhost:1313/vi/news/2023-32/</guid>
       <description>Thông tin chi tiết:&#xA;⏳Thời gian: 8:00 AM | 14/08/2023</description>
     </item>
     <item>
       <title>CÁC DIỄN GIẢ CHÍNH CÔNG BỐ HỘI NGHỊ KHU VỰC LẦN THỨ 1: ĐÔ THỊ ĐÔNG NAM Á GIẢI QUYẾT VẤN ĐỀ NÓNG LÊN TOÀN CẦU</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-23/</link>
+      <link>http://localhost:1313/vi/news/2023-23/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-23/</guid>
+      <guid>http://localhost:1313/vi/news/2023-23/</guid>
       <description>Đồng tổ chức bởi International Center of Urbanisms: Settlements &amp;amp; Environments (ICoU), Department of Architecture, Đại học KU Leuven ; Đại học Kiến trúc TP.</description>
     </item>
     <item>
       <title>NHÌN LẠI HỘI THẢO KHOA HỌC QUỐC TẾ SEAUS 2023: GIẢI PHÁP THIẾT KẾ ĐÔ THỊ TẠI KHU VỰC ĐÔNG NAM Á ĐỂ GIẢI QUYẾT VẤN ĐỀ NÓNG LÊN TOÀN CẦU</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-25/</link>
+      <link>http://localhost:1313/vi/news/2023-25/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-25/</guid>
+      <guid>http://localhost:1313/vi/news/2023-25/</guid>
       <description>Hội thảo khoa học quốc tế South East Asian Urbanisms to address Global Warming (SEAUS) 2023 - “Giải pháp thiết kế đô thị tại khu vực Đông Nam Á để giải quyết vấn đề nóng lên toàn cầu” là hội thảo khu vực thường niên trong lĩnh vực kiến trúc, quy hoạch và phát triển đô thị do Trường Công nghệ và Thiết kế UEH thuộc Đại học Kinh tế TP.</description>
     </item>
     <item>
       <title>SINH VIÊN UEH GIÀNH GIẢI Á QUÂN CUỘC THI ULI HINES STUDENTS COMPETITION LẦN ĐẦU TIÊN TỔ CHỨC TẠI KHU VỰC CHÂU Á - THÁI BÌNH DƯƠNG</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-27/</link>
+      <link>http://localhost:1313/vi/news/2023-27/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-27/</guid>
+      <guid>http://localhost:1313/vi/news/2023-27/</guid>
       <description>Cùng với sự cố vấn của ông Pablo Acebillo (Quản lý Quy hoạch và Thiết kế tổng thể, enCity), Thầy Nguyễn Lưu Bảo Đoan (Trưởng bộ môn &amp;amp; Giám đốc chương trình Bất động sản, UEH) và Cô Trịnh Tú Anh (Viện trưởng Viện Đô thị Thông minh &amp;amp; Quản lý, UEH), đội The REAL gồm 3 sinh viên Trần Ngọc Duyên, Lưu Thị Thu Phương, Trương Võ Anh Thi - chương trình Cử nhân Bất động sản, Khoa Kinh tế (UEH) và 2 người học Ngô Ngọc Quang, Lê Quốc Việt - chương trình Thạc sỹ Quản lý Đô thị Thông minh và Sáng tạo (ISCM - UEH) vừa xuất sắc giành giải Á Quân cuộc thi ULI Hines Student Competition của ULI tổ chức lần đầu tiên tại khu vực châu Á - Thái Bình Dương sau 5 tuần làm việc đầy năng suất với dự án mang tên “The Lake Place”.</description>
     </item>
     <item>
       <title>HÉ LỘ KHÔNG GIAN SÁNG TẠO MỚI MẺ, ĐẦY MÀU SẮC VÀ NĂNG LƯỢNG TẠI CƠ SỞ B UEH</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-22/</link>
+      <link>http://localhost:1313/vi/news/2023-22/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-22/</guid>
+      <guid>http://localhost:1313/vi/news/2023-22/</guid>
       <description>🔭 Bạn đã biết gì chưa? UEH MakerSpace - một không gian sáng tạo hoàn toàn mới sắp tới đây sẽ chính thức ra mắt tại tầng trệt B2, dành cho UEHers và cộng đồng yêu thích các hoạt động liên quan đến Thiết kế, Lắp ráp, Mộc tay, cũng như tận hưởng không gian tuyệt vời phục vụ cho các hoạt động nhóm.</description>
     </item>
     <item>
       <title>KHAI GIẢNG LỚP ĐÀO TẠO TRÌNH ĐỘ THẠC SĨ CHUYÊN NGÀNH QUẢN LÝ ĐÔ THỊ THÔNG MINH VÀ SÁNG TẠO CHO TỈNH KHÁNH HÒA</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-15/</link>
+      <link>http://localhost:1313/vi/news/2023-15/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-15/</guid>
+      <guid>http://localhost:1313/vi/news/2023-15/</guid>
       <description>Vừa qua, ngày 8/4/2023, Lễ khai giảng Lớp đào tạo trình độ Thạc sĩ Chuyên ngành Quản lý Đô thị Thông minh và Sáng tạo do ISCM phụ trách đào tạo phục vụ cho đội ngũ cán bộ công chức viên chức đang làm việc tại các cơ quan ban ngành của tỉnh Khánh Hòa đã diễn ra thành công tốt đẹp.</description>
     </item>
     <item>
       <title>[RECAP] LỚP HỌC THỬ: MỞ GÓC NHÌN - NÂNG BƯỚC CHẠM ƯỚC MƠ</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-13/</link>
+      <link>http://localhost:1313/vi/news/2023-13/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-13/</guid>
+      <guid>http://localhost:1313/vi/news/2023-13/</guid>
       <description>🎉 Ngày 01/04/2023 vừa qua, Viện Đô thị Thông minh và Quản lý (ISCM) phối hơp cùng Phòng Chăm sóc và Hỗ trợ người học (DSA), Thư viện Thông minh UEH (UEH Smart Library) đã tổ chức thành công chương trình “Lớp học thử: Từ mơ đến mở - chương trình Kiến trúc và Thiết kế Đô thị Thông minh”.</description>
     </item>
     <item>
       <title>[RECAP] NGÀY HỘI TƯ VẤN TUYỂN SINH - HƯỚNG NGHIỆP 2023: KIẾN TRÚC KHÓ - CÓ ISCM LO</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-08/</link>
+      <link>http://localhost:1313/vi/news/2023-08/</link>
       <pubDate>Sun, 26 Feb 2023 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-08/</guid>
+      <guid>http://localhost:1313/vi/news/2023-08/</guid>
       <description>[RECAP] NGÀY HỘI TƯ VẤN TUYỂN SINH - HƯỚNG NGHIỆP 2023: KIẾN TRÚC KHÓ - CÓ ISCM LO</description>
     </item>
     <item>
       <title>LỄ KÝ KẾT THOẢ THUẬN HỢP TÁC GIỮA TRƯỜNG CÔNG NGHỆ VÀ THIẾT KẾ UEH VỚI CÔNG TY CỔ PHẦN TƯ VẤN QUỐC TẾ ENCITY; VIỆN ĐÔ THỊ THÔNG MINH VÀ QUẢN LÝ VỚI UNIVERSITY-INDUSTRY FOUNDATION, ĐẠI HỌC YONSEI; VIỆN ĐÔ THỊ THÔNG MINH VÀ QUẢN LÝ VỚI VIỆN NGHIÊN CỨU KINH TẾ - ĐẠI HỌC HÀN QUỐC</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-06/</link>
+      <link>http://localhost:1313/vi/news/2023-06/</link>
       <pubDate>Wed, 15 Feb 2023 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-06/</guid>
+      <guid>http://localhost:1313/vi/news/2023-06/</guid>
       <description>Chiều ngày 15/02/2023, tại Cơ sở 232/6 Võ Thị Sáu đã diễn ra thành công các Lễ ký kết thỏa thuận hợp tác (MOU) giữa các đơn vị: Trường Công nghệ và Thiết kế UEH (UEH-CTD) với Công ty Cổ Phần tư vấn Quốc tế Encity (EnCity); Viện Đô thị Thông minh và Quản lý (ISCM) và Viện Nghiên cứu Kinh tế - Đại học Hàn Quốc; Viện Đô thị Thông minh và Quản lý (ISCM) và University-Industry Foundation - Đại học Yonsei (YUIF).</description>
     </item>
     <item>
       <title>WORKSHOP URBAN SKETCH TẠI NHÀ HÁT THÀNH PHỐ VÀ CHỢ BẾN THÀNH, TP. HỒ CHÍ MINH</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-07/</link>
+      <link>http://localhost:1313/vi/news/2023-07/</link>
       <pubDate>Sun, 12 Feb 2023 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-07/</guid>
+      <guid>http://localhost:1313/vi/news/2023-07/</guid>
       <description>Vào ngày 12 &amp;amp; 13/2 vừa qua, Viện Đô thị Thông minh và Quản lý (ISCM - UEH), phối hợp cùng Urban Sketchers Vietnam, tổ chức workshop Urban Sketch - hoạt động mở đầu chuỗi sự kiện năm 2023 của ISCM với chủ đề &amp;ldquo;Design for Carbon Neutrality Future&amp;rdquo;.</description>
     </item>
     <item>
       <title>ISCM 2022 NHÌN LẠI NĂM CŨ, MỪNG TẾT ĐẾN</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-03/</link>
+      <link>http://localhost:1313/vi/news/2023-03/</link>
       <pubDate>Sat, 21 Jan 2023 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-03/</guid>
+      <guid>http://localhost:1313/vi/news/2023-03/</guid>
       <description>Trước thềm năm mới, Viện Đô thị thông minh và Quản lý (ISCM) thân gửi đến tất cả Quý đối tác, giảng viên, người học và những ai đã luôn theo dõi, đồng hành cùng ISCM một món quà Tết nho nhỏ thay cho lời cảm ơn vì đã cùng ISCM tạo nên một năm 2022 đáng nhớ.</description>
     </item>
     <item>
       <title>[INPUT 2023] [SESSION] RESILIENT, CIRCULAR AND SUSTAINABLE CITIES</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2023-02/</link>
+      <link>http://localhost:1313/vi/news/2023-02/</link>
       <pubDate>Thu, 19 Jan 2023 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2023-02/</guid>
+      <guid>http://localhost:1313/vi/news/2023-02/</guid>
       <description>Mô hình Thành phố Tuần hoàn không chỉ bao gồm các nguyên lý của một nền Kinh tế Tuần hoàn, mà còn đưa ra các giải pháp cho cộng đồng về năng lượng tái tạo, sự sử dụng vật liệu xanh với khả năng hấp thụ CO2, TAP (Triple Access Planning).</description>
     </item>
     <item>
       <title>READY FOR NEXT: NHÌN LẠI HỘI THẢO KHOA HỌC QUỐC TẾ: A FUTURE RESILIENCE THROUGH SMART CITY LENS (FR)</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2022-50/</link>
+      <link>http://localhost:1313/vi/news/2022-50/</link>
       <pubDate>Fri, 16 Dec 2022 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2022-50/</guid>
+      <guid>http://localhost:1313/vi/news/2022-50/</guid>
       <description>Nằm trong khuôn khổ Chuỗi sự kiện quốc tế năm 2022: Ready for Next, từ ngày 4 - 11/12/2022, Viện Đô thị Thông minh và Quản lý (ISCM), Đại học Kinh tế TP.</description>
     </item>
     <item>
       <title>THÔNG BÁO: CHUỖI SỰ KIỆN READY FOR NEXT - FUTURE RESILIENCE THROUGH SMART CITY LENS ĐANG DIỄN RA</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2022-44/</link>
+      <link>http://localhost:1313/vi/news/2022-44/</link>
       <pubDate>Thu, 08 Dec 2022 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2022-44/</guid>
+      <guid>http://localhost:1313/vi/news/2022-44/</guid>
       <description>“Ready for Next - Sẵn sàng chuyển đổi cho sự phát triển bền vững” (R4N) - chuỗi chương trình đặc sắc nhất của Đại học Kinh tế TP HCM (Đại học UEH) - đang diễn ra tại các cơ sở A, B và V!</description>
     </item>
     <item>
       <title>READY FOR NEXT 2022 - SẴN SÀNG CHUYỂN ĐỔI CHO SỰ PHÁT TRIỂN BỀN VỮNG</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2022-42/</link>
+      <link>http://localhost:1313/vi/news/2022-42/</link>
       <pubDate>Mon, 05 Dec 2022 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2022-42/</guid>
+      <guid>http://localhost:1313/vi/news/2022-42/</guid>
       <description>Nhằm tiếp tục thực hiện sứ mạng lan tỏa tri thức và các giá trị tích cực cho cộng đồng, đóng góp vào quá trình chuyển đổi nhận thức, cùng hành động bền vững, UEH phối hợp với các đại học, tổ chức uy tín trong nước và quốc tế đồng tổ chức Chương trình “Ready for Next - Sẵn sàng chuyển đổi cho sự phát triển bền vững” từ ngày 4 - 11/12/2022 với một chuỗi các hoạt động khoa học và nghệ thuật hấp dẫn:</description>
     </item>
     <item>
       <title>#LifeatISCM | 1 THÁNG HỌC TẬP CỦA K48 TẠI ISCM - HƠN CẢ MỘT HÀNH TRÌNH</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2022-41/</link>
+      <link>http://localhost:1313/vi/news/2022-41/</link>
       <pubDate>Fri, 25 Nov 2022 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2022-41/</guid>
+      <guid>http://localhost:1313/vi/news/2022-41/</guid>
       <description>1 tháng, 4 tuần, 720 giờ, là thời gian mà các bạn tân sinh viên trải qua những môn học đầu tiên của ngành Kiến trúc và Thiết kế Đô thị thông minh.</description>
     </item>
     <item>
       <title>RECAP: SUSTAINALE FASHION</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2022-15/</link>
+      <link>http://localhost:1313/vi/news/2022-15/</link>
       <pubDate>Fri, 11 Nov 2022 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2022-15/</guid>
+      <guid>http://localhost:1313/vi/news/2022-15/</guid>
       <description>Theo nghiên cứu, ngành công nghiệp thời trang đang là tác nhân gây ô nhiễm đứng thứ 2 trên thế giới, chỉ sau ngành công nghiệp khí đốt.</description>
     </item>
     <item>
       <title>[RECAP] ORIENTATION DAY K48 - BE THE SUN </title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2022-17/</link>
+      <link>http://localhost:1313/vi/news/2022-17/</link>
       <pubDate>Tue, 08 Nov 2022 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2022-17/</guid>
+      <guid>http://localhost:1313/vi/news/2022-17/</guid>
       <description>Đã vài tuần từ khi Orientation day dành riêng cho K48 - thuộc ngành Kiến Trúc &amp;amp; Thiết Kế Đô Thị Thông Minh (ISCM) và Truyền Thông Số &amp;amp; Thiết Kế Đa Phương Tiện (SMD) diễn ra, nhưng đối với đội ngũ ISCM &amp;amp; SMD, nguồn năng lượng các bạn mang đến vẫn chưa hề biến mất.</description>
     </item>
     <item>
       <title>ISCM &amp; CHUYẾN THAM QUAN, GẶP GỠ ĐỐI TÁC HÀN QUỐC: KẾT NỐI, HỢP TÁC VÀ TẬN DỤNG LỢI THẾ TRÊN VAI NGƯỜI KHỔNG LỒ</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2022-06/</link>
+      <link>http://localhost:1313/vi/news/2022-06/</link>
       <pubDate>Wed, 07 Sep 2022 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2022-06/</guid>
+      <guid>http://localhost:1313/vi/news/2022-06/</guid>
       <description>Nằm trong chuỗi hoạt động thúc đẩy hợp tác cùng các trường đại học trên thế giới thuộc sự kiện của năm 2022 - A Future Resilience Through Smart City Lens, từ ngày 22/8 - 30/8 vừa qua, Viện Đô thị thông minh và Quản lý đã có chuyến tham quan trải nghiệm thực tế và thảo luận hợp tác với một số cơ quan, đơn vị nghiên cứu về đô thị thông minh cũng như các trường Đại học tại Hàn Quốc - một trong những quốc gia đi đầu về phát triển đô thị thông minh.</description>
     </item>
     <item>
       <title>K47 BAUD - Architectural Studiolab 1 - TIMELAPSE VIDEO</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2022-04/</link>
+      <link>http://localhost:1313/vi/news/2022-04/</link>
       <pubDate>Fri, 29 Jul 2022 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2022-04/</guid>
+      <guid>http://localhost:1313/vi/news/2022-04/</guid>
       <description>Những giờ khắc cuối cùng của mỗi sinh viên ngành Kiến trúc và Thiết kế đô thị thông minh dành cho môn Đồ án Kiến trúc 1 đã chính thức bắt đầu.</description>
     </item>
     <item>
       <title>CÙNG HỌC, CÙNG LÀM, CÙNG PHÁT TRIỂN TẠI ISCM</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2022-26/</link>
+      <link>http://localhost:1313/vi/news/2022-26/</link>
       <pubDate>Thu, 28 Jul 2022 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2022-26/</guid>
+      <guid>http://localhost:1313/vi/news/2022-26/</guid>
       <description>Dù đầu tuần hay cuối tuần, dù ngày hay đêm, các bạn sinh viên của chúng tôi - những viên gạch đầu tiên của ngành Kiến trúc và Thiết kế đô thị thông minh vẫn đang miệt mài làm việc bất kể ngày đêm để hoàn thành cho môn học Đồ án Kiến trúc 1 của mình.</description>
     </item>
     <item>
       <title>TUẦN LỄ WORKSHOP QUỐC TẾ: GLOBAL CITY DEVELOPMENT CAMP - NHÌN LẠI MỘT CHẶNG HÀNH TRÌNH</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2022-03/</link>
+      <link>http://localhost:1313/vi/news/2022-03/</link>
       <pubDate>Wed, 27 Jul 2022 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2022-03/</guid>
+      <guid>http://localhost:1313/vi/news/2022-03/</guid>
       <description>Khởi động từ năm 2020 cho đến nay, workshop quốc tế đã phần nào thành công trong việc kết nối, chia sẻ tri thức giữa các trường thành viên trong chương trình, mang đến cho người tham gia những góc nhìn đa chiều, thúc đẩy năng lực giải quyết vấn đề, ứng dụng kiến thức vào thực tế và cả những trải nghiệm đáng nhớ bên cạnh những người bạn quốc tế.</description>
     </item>
     <item>
       <title>THROWBACK TEAM BUILDING - HỌC HẾT MÌNH, CHƠI NHIỆT TÌNH</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2022-27/</link>
+      <link>http://localhost:1313/vi/news/2022-27/</link>
       <pubDate>Fri, 22 Jul 2022 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2022-27/</guid>
+      <guid>http://localhost:1313/vi/news/2022-27/</guid>
       <description>Học không chơi đánh rơi tuổi trẻ, vừa học vừa chơi mời bạn đến ngay ISCM - nơi các bạn sinh viên học hết mình và chơi cũng rất nhiệt tình!</description>
     </item>
     <item>
       <title>International Workshop: Global City Development Camp - Orientation Day - The Beginning of Miracle Meeting</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/international-workshop-global-city-development-camp/</link>
+      <link>http://localhost:1313/vi/news/international-workshop-global-city-development-camp/</link>
       <pubDate>Thu, 21 Jul 2022 09:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/international-workshop-global-city-development-camp/</guid>
+      <guid>http://localhost:1313/vi/news/international-workshop-global-city-development-camp/</guid>
       <description>Giờ đây tại TP. Vĩnh Long, trải qua quãng thời gian Covid 19 khó khăn, sau hơn mấy tháng chuẩn bị và chờ đợi, cuộc gặp gỡ kỳ diệu giữa các bạn sinh viên Hàn Quốc và Việt Nam đã chính thức diễn ra.</description>
     </item>
     <item>
       <title>TỪ UEH TP. HỒ CHÍ MINH ĐẾN UEH PHÂN HIỆU VĨNH LONG - CHƯƠNG TRÌNH LUÂN CHUYỂN CAMPUS ĐẦU TIÊN TẠI UEH DÀNH CHO NGÀNH KIẾN TRÚC VÀ THIẾT KẾ ĐÔ THỊ THÔNG MINH</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2022-05/</link>
+      <link>http://localhost:1313/vi/news/2022-05/</link>
       <pubDate>Thu, 14 Jul 2022 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2022-05/</guid>
+      <guid>http://localhost:1313/vi/news/2022-05/</guid>
       <description>Song hành với việc được học tại môi trường Studiolab hiện đại, ISCM luôn không ngừng nỗ lực mang đến cho người học những trải nghiệm thực tế nhất nhằm đáp ứng yêu cầu của ngành học và đồng thời tạo cho người học góc nhìn và tư duy đa chiều, khuyến khích người học không ngừng mở rộng khuôn khổ của sáng tạo, của tư duy và tầm nhìn.</description>
     </item>
     <item>
       <title>CHƯƠNG TRÌNH THẠC SĨ HỆ ĐIỀU HÀNH CAO CẤP QUẢN LÝ ĐÔ THỊ THÔNG MINH VÀ SÁNG TẠO</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2022-23/</link>
+      <link>http://localhost:1313/vi/news/2022-23/</link>
       <pubDate>Thu, 16 Jun 2022 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2022-23/</guid>
+      <guid>http://localhost:1313/vi/news/2022-23/</guid>
       <description>Trong những năm gần đây, các vấn đề xã hội, chính sách xây dựng, quy hoạch đô thị hay phát triển bền vững rất được quan tâm.</description>
     </item>
     <item>
       <title>ƯƠM MẦM NĂNG LỰC NGHỆ THUẬT TRẺ THƠ</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2022-30/</link>
+      <link>http://localhost:1313/vi/news/2022-30/</link>
       <pubDate>Wed, 01 Jun 2022 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2022-30/</guid>
+      <guid>http://localhost:1313/vi/news/2022-30/</guid>
       <description>Hoà trong không khí chào mừng ngày Quốc tế Thiếu nhi 1/6, Viện Đô thị thông minh và Quản lý (ISCM), Viện Đổi mới sáng tạo (UII), Tổ Công đoàn các Viện và Công đoàn CTD, vào ngày 29/5/2022, đã phối hợp tổ chức thành công Ngày hội Thiếu nhi CTD mở rộng dưới hình thức Workshop Art Summer Camp for Kids (ASCK) với Chủ đề: “Tự do thiết kế, trải nghiệm sáng tạo”.</description>
     </item>
     <item>
       <title>NGÀY HỘI TƯ VẤN TUYỂN SINH CỦA BÁO TUỔI TRẺ - CÙNG ISCM VƯƠN RA BIỂN LỚN 2022</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2022-34/</link>
+      <link>http://localhost:1313/vi/news/2022-34/</link>
       <pubDate>Tue, 19 Apr 2022 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2022-34/</guid>
+      <guid>http://localhost:1313/vi/news/2022-34/</guid>
       <description>Ngày hội Tư vấn tuyển sinh - Hướng nghiệp do Báo Tuổi Trẻ tổ chức tại trường Đại học Bách Khoa đã chính thức khép lại trong không khí rộn ràng, hừng hực năng lượng của quý phụ huynh, học sinh.</description>
     </item>
     <item>
       <title>ISCM STUDIOLAB - KHÔNG GIAN CÓ “KHẢ NĂNG BIẾN HÌNH THÔNG MINH” DUY NHẤT TẠI UEH</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2022-36/</link>
+      <link>http://localhost:1313/vi/news/2022-36/</link>
       <pubDate>Sun, 13 Mar 2022 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2022-36/</guid>
+      <guid>http://localhost:1313/vi/news/2022-36/</guid>
       <description>ISCM STUDIOLAB - THE &amp;ldquo;INTELLIGENT TRANSFORMATION&amp;rdquo; SPACE IN UEH&#xA;Nằm tại cơ sở Võ Thị Sáu (Quận 3), Studiolab của ISCM là nơi cung cấp các trải nghiệm công nghệ hiện đại, mô phỏng đô thị thông minh và đặc biệt sở hữu khả năng biến hình thông minh khi có thể biến thành không gian nghiên cứu, dạy học, triển lãm nghệ thuật hay thậm chí là studio điện ảnh.</description>
     </item>
     <item>
       <title>ISCM STUDIOLAB - NƠI TÍCH HỢP CÁC TRẢI NGHIỆM HIỆN ĐẠI</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2022-37/</link>
+      <link>http://localhost:1313/vi/news/2022-37/</link>
       <pubDate>Mon, 07 Mar 2022 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2022-37/</guid>
+      <guid>http://localhost:1313/vi/news/2022-37/</guid>
       <description>ISCM không chỉ tự hào sở hữu phòng Studiolab nơi cung cấp các trải nghiệm công nghệ hiện đại, mô phỏng đô thị thông minh mà còn là không gian thông minh sử dụng đa mục đích (multipurpose) như dạy học, nghiên cứu, … và thậm chí là studio điện ảnh.</description>
     </item>
     <item>
       <title>ISCM Trải Nghiệm Porsche Sài Gòn</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2022-01-16_porsche/</link>
+      <link>http://localhost:1313/vi/news/2022-01-16_porsche/</link>
       <pubDate>Mon, 17 Jan 2022 19:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2022-01-16_porsche/</guid>
+      <guid>http://localhost:1313/vi/news/2022-01-16_porsche/</guid>
       <description>Ngày 16/01/2022, ISCM cùng các bạn sinh viên ngành Kiến trúc và Thiết kế Đô thị thông minh K47 đại diện trường đại học UEH tham dự trải nghiệm Porsche Sài Gòn toạ lạc tại Quận 7, TP.</description>
     </item>
     <item>
       <title>THẾ HỆ NGƯỜI HỌC ĐẦU TIÊN CỦA CHƯƠNG TRÌNH THẠC SĨ ĐIỀU HÀNH CAO CẤP - QUẢN LÝ ĐÔ THỊ THÔNG MINH VÀ SÁNG TẠO</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2022-24/</link>
+      <link>http://localhost:1313/vi/news/2022-24/</link>
       <pubDate>Sat, 08 Jan 2022 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2022-24/</guid>
+      <guid>http://localhost:1313/vi/news/2022-24/</guid>
       <description>Trong hình là hình ảnh thế hệ người học đầu tiên của chương trình Thạc sỹ Điều hành cao cấp - Quản lý Đô thị thông minh và Sáng tạo đang thực hành môn học Phân tích &amp;amp; khai phá dữ liệu tại phòng Studiolab.</description>
     </item>
     <item>
       <title>2021 - KẾT THÚC MỘT CHẶNG HÀNH TRÌNH</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2022-40/</link>
+      <link>http://localhost:1313/vi/news/2022-40/</link>
       <pubDate>Fri, 31 Dec 2021 08:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2022-40/</guid>
+      <guid>http://localhost:1313/vi/news/2022-40/</guid>
       <description>2021, 12 tháng, 365 ngày, 8760 giờ, có những sự kiện đã đến hồi dừng lại, có những dự định đã thành, cũng có những khó khăn và chông chênh.</description>
     </item>
     <item>
       <title>[Podcast] UEH Zero Waste Campus: Thực hành không rác thải - Chúng ta đã thực sự hiểu?</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2021-zw-campus-podcast/</link>
+      <link>http://localhost:1313/vi/news/2021-zw-campus-podcast/</link>
       <pubDate>Sun, 05 Dec 2021 19:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2021-zw-campus-podcast/</guid>
+      <guid>http://localhost:1313/vi/news/2021-zw-campus-podcast/</guid>
       <description>____________&#xA;File mp3: https://drive.google.com/file/d/19MWMkcSQhgIUPPB8V6Sx3fcAYgZa9mc3/view?usp=sharing&#xA;“Thực hành Không rác thải” là một lối sống bền vững nhằm bảo tồn tất cả các nguồn tài nguyên bằng cách sản xuất, tiêu thụ, tái sử dụng và thu hồi có trách nhiệm các sản phẩm, bao bì và vật liệu mà không cần đốt và không thải ra đất, nước hoặc không khí đe dọa môi trường hoặc sức khỏe con người.</description>
     </item>
     <item>
       <title>Hội thảo trực tuyến - Overview of Smart City Development in Vietnam - Challenges and Opportunities</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2021-overview-of-smart-city-development/</link>
+      <link>http://localhost:1313/vi/news/2021-overview-of-smart-city-development/</link>
       <pubDate>Tue, 30 Nov 2021 19:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2021-overview-of-smart-city-development/</guid>
+      <guid>http://localhost:1313/vi/news/2021-overview-of-smart-city-development/</guid>
       <description>____________&#xA;Online Conference: 24th- 25th November 2021&#xA;Panel Discussion hosted by ISCM: 8h-10h30 AM (UTC+7)</description>
     </item>
     <item>
       <title>Orientation Day - Chào Mừng Khóa Thạc Sỹ Điều Hành Cao Cấp - Quản Lý Đô Thị Thông Minh và Sáng Tạo Đầu Tiên</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/2021-masterorientation-day/</link>
+      <link>http://localhost:1313/vi/news/2021-masterorientation-day/</link>
       <pubDate>Tue, 09 Nov 2021 19:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/2021-masterorientation-day/</guid>
+      <guid>http://localhost:1313/vi/news/2021-masterorientation-day/</guid>
       <description>____________&#xA;Viện Đô thị thông minh và Quản lý (ISCM) rất vui và chào đón thế hệ người học đồng kiến tạo đầu tiên của khóa Thạc sỹ Điều hành cao cấp - Quản lý Đô thị thông minh và Sáng tạo (Executive Master of Smart City and Innovation Management) năm 2021</description>
     </item>
     <item>
       <title>Kỷ Niệm 45 Năm Thành Lập Trường Đại học Kinh Tế TP. Hồ Chí Minh Hướng Đến Đại Học UEH Đa Ngành và Bền Vững</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/45-nam/</link>
+      <link>http://localhost:1313/vi/news/45-nam/</link>
       <pubDate>Wed, 27 Oct 2021 09:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/45-nam/</guid>
+      <guid>http://localhost:1313/vi/news/45-nam/</guid>
       <description>About Event Sáng ngày 27/10/2021, Trường Đại học Kinh tế TP.</description>
     </item>
     <item>
       <title>Khánh Thành City Science Lab tại Thành Phố Hồ Chí Minh</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/the-opening-ceremony-of-the-city-science-lab-ho-chi-minh-city/</link>
+      <link>http://localhost:1313/vi/news/the-opening-ceremony-of-the-city-science-lab-ho-chi-minh-city/</link>
       <pubDate>Thu, 22 Apr 2021 09:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/the-opening-ceremony-of-the-city-science-lab-ho-chi-minh-city/</guid>
+      <guid>http://localhost:1313/vi/news/the-opening-ceremony-of-the-city-science-lab-ho-chi-minh-city/</guid>
       <description>Sáng ngày 22/4/2021, buổi lễ khánh thành Phòng Nghiên cứu Khoa học đô thị Thành phố Hồ Chí Minh đã diễn ra thành công tốt đẹp tại cao ốc BMC số 422 Võ Văn Kiệt, phường Cô Giang, Quận 1.</description>
     </item>
     <item>
       <title>Thiết Kế Đô Thị Tầm Nhìn Vững Chắc Cho Đô Thị Bền Vững</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/thi%E1%BA%BFt-k%E1%BA%BF-%C4%91%C3%B4-th%E1%BB%8B-t%E1%BA%A7m-nh%C3%ACn-v%E1%BB%AFng-ch%E1%BA%AFc-cho-%C4%91%C3%B4-th%E1%BB%8B-b%E1%BB%81n-v%E1%BB%AFng/</link>
+      <link>http://localhost:1313/vi/news/thi%E1%BA%BFt-k%E1%BA%BF-%C4%91%C3%B4-th%E1%BB%8B-t%E1%BA%A7m-nh%C3%ACn-v%E1%BB%AFng-ch%E1%BA%AFc-cho-%C4%91%C3%B4-th%E1%BB%8B-b%E1%BB%81n-v%E1%BB%AFng/</link>
       <pubDate>Thu, 25 Mar 2021 09:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/thi%E1%BA%BFt-k%E1%BA%BF-%C4%91%C3%B4-th%E1%BB%8B-t%E1%BA%A7m-nh%C3%ACn-v%E1%BB%AFng-ch%E1%BA%AFc-cho-%C4%91%C3%B4-th%E1%BB%8B-b%E1%BB%81n-v%E1%BB%AFng/</guid>
+      <guid>http://localhost:1313/vi/news/thi%E1%BA%BFt-k%E1%BA%BF-%C4%91%C3%B4-th%E1%BB%8B-t%E1%BA%A7m-nh%C3%ACn-v%E1%BB%AFng-ch%E1%BA%AFc-cho-%C4%91%C3%B4-th%E1%BB%8B-b%E1%BB%81n-v%E1%BB%AFng/</guid>
       <description>About Event Ngày 25/3, tại Hồ Chí Minh, Viện Đô thị thông minh và Quản lý hợp tác cùng B+H đã tổ chức buổi webinar chủ đề: “A new understanding of the imperative of healthy city design”.</description>
     </item>
     <item>
       <title>Phục Hồi Du Lịch và Nỗ Lực Thoát Khỏi Vòng Xoáy Ảnh Hưởng Bởi Covid-19</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/ph%E1%BB%A5c-h%E1%BB%93i-du-l%E1%BB%8Bch-v%C3%A0-n%E1%BB%97-l%E1%BB%B1c-tho%C3%A1t-kh%E1%BB%8Fi-v%C3%B2ng-xo%C3%A1y-%E1%BA%A3nh-h%C6%B0%E1%BB%9Fng-b%E1%BB%9Fi-covid-19/</link>
+      <link>http://localhost:1313/vi/news/ph%E1%BB%A5c-h%E1%BB%93i-du-l%E1%BB%8Bch-v%C3%A0-n%E1%BB%97-l%E1%BB%B1c-tho%C3%A1t-kh%E1%BB%8Fi-v%C3%B2ng-xo%C3%A1y-%E1%BA%A3nh-h%C6%B0%E1%BB%9Fng-b%E1%BB%9Fi-covid-19/</link>
       <pubDate>Mon, 01 Mar 2021 09:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/ph%E1%BB%A5c-h%E1%BB%93i-du-l%E1%BB%8Bch-v%C3%A0-n%E1%BB%97-l%E1%BB%B1c-tho%C3%A1t-kh%E1%BB%8Fi-v%C3%B2ng-xo%C3%A1y-%E1%BA%A3nh-h%C6%B0%E1%BB%9Fng-b%E1%BB%9Fi-covid-19/</guid>
+      <guid>http://localhost:1313/vi/news/ph%E1%BB%A5c-h%E1%BB%93i-du-l%E1%BB%8Bch-v%C3%A0-n%E1%BB%97-l%E1%BB%B1c-tho%C3%A1t-kh%E1%BB%8Fi-v%C3%B2ng-xo%C3%A1y-%E1%BA%A3nh-h%C6%B0%E1%BB%9Fng-b%E1%BB%9Fi-covid-19/</guid>
       <description>About Event Năm 2020 - 365 ngày ngành du lịch trên toàn thế giới bị điêu đứng và cụm từ “đóng cửa” liên tục xuất hiện tại các điểm du lịch vì đại dịch Covid.</description>
     </item>
     <item>
       <title>Hội Thảo Trực Tuyến: Culture, Cohesion and Civic Society: How Smart Cities Build on the Best of Our Past?</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/culture-cohesion-and-civic-society-how-smart-cities-build-on-the-best-of-our-past/</link>
+      <link>http://localhost:1313/vi/news/culture-cohesion-and-civic-society-how-smart-cities-build-on-the-best-of-our-past/</link>
       <pubDate>Mon, 21 Dec 2020 09:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/culture-cohesion-and-civic-society-how-smart-cities-build-on-the-best-of-our-past/</guid>
+      <guid>http://localhost:1313/vi/news/culture-cohesion-and-civic-society-how-smart-cities-build-on-the-best-of-our-past/</guid>
       <description>About Event Vào ngày 21 tháng 12 năm 2020, webinar “Culture, Cohesion and Civic Society: How Smart Cities Build on the Best of Our Past?</description>
     </item>
     <item>
       <title>Đại Học Kinh Tế TP. Hồ Chí Minh Tổ Chức Southeast Region of the National Festival for Innovative Startups – TECHFEST 2020</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/unviersity-of-economics-ho-chi-minh-city-hosted-the-southeast-region-of-the-national-festival-for-innovative-startups--techfest-2020/</link>
+      <link>http://localhost:1313/vi/news/unviersity-of-economics-ho-chi-minh-city-hosted-the-southeast-region-of-the-national-festival-for-innovative-startups--techfest-2020/</link>
       <pubDate>Wed, 25 Nov 2020 05:36:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/unviersity-of-economics-ho-chi-minh-city-hosted-the-southeast-region-of-the-national-festival-for-innovative-startups--techfest-2020/</guid>
+      <guid>http://localhost:1313/vi/news/unviersity-of-economics-ho-chi-minh-city-hosted-the-southeast-region-of-the-national-festival-for-innovative-startups--techfest-2020/</guid>
       <description>About Event Vào ngày 24 tháng 11 năm 2020, Đại hội Kinh tế Thành phố Hồ Chí Minh đã tổ chức lễ hội phía đông nam của lễ hội quốc gia cho các doanh nghiệp khởi nghiệp sáng tạo – TECHFEST 2020.</description>
     </item>
     <item>
       <title>Thảo Luận: Smart Campus Planning Toward Satellite City and College Town</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/smart-campus-planning-toward-satellite-city-college-town/</link>
+      <link>http://localhost:1313/vi/news/smart-campus-planning-toward-satellite-city-college-town/</link>
       <pubDate>Fri, 25 Sep 2020 11:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/smart-campus-planning-toward-satellite-city-college-town/</guid>
+      <guid>http://localhost:1313/vi/news/smart-campus-planning-toward-satellite-city-college-town/</guid>
       <description>About Event Sinh viên và phụ huynh mong muốn được gần gũi hơn với gia đình mình trong khi vẫn có nền giáo dục đại học tốt nhất.</description>
     </item>
     <item>
       <title>Hội Thảo Trực Tuyến: Future Outlook</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/future-outlook/</link>
+      <link>http://localhost:1313/vi/news/future-outlook/</link>
       <pubDate>Tue, 22 Sep 2020 18:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/future-outlook/</guid>
+      <guid>http://localhost:1313/vi/news/future-outlook/</guid>
       <description>Không còn nghi ngờ gì việc thế giới đang thay đổi, vì vậy việc lên kế hoạch cho một viễn cảnh tương lai mà trong đó con người luôn giữ vai trò chủ động trong hoạt động là rất quan trọng.</description>
     </item>
     <item>
       <title>Sự Kiện Ra Mắt Chương Trình Song Bằng BAUD - BAS</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/news/launch-even-baud-bas/</link>
+      <link>http://localhost:1313/vi/news/launch-even--baud-bas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/news/launch-even-baud-bas/</guid>
+      <guid>http://localhost:1313/vi/news/launch-even--baud-bas/</guid>
       <description>About Event Vào ngày 3 tháng 9 vừa qua, Viện Đô thị Thông minh và Quản lý (ISCM), Trường ĐH Kinh tế TP.</description>
     </item>
   </channel>
