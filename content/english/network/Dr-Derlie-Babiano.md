@@ -2,13 +2,12 @@
 title: "Dr. Derlie Mateo-Babiano"
 draft: false
 
-
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # teacher portrait
-image: "images/team/dr-derlie-mateo-babiano.jpg"
+image: "images/team/dr-derlie-mateo-babiano.png"
 # course
 courseCategory: University of Melbourne
 course: "Associate Professor in Urban Planning, Assistant Dean, Diversity and Inclusion, Faculty of Architecture, Building and Planning (ABP), the University of Melbourne"
