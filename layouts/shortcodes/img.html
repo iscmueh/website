@@ -1,0 +1,15 @@
+<figure
+  class="w-100"
+  style="display: flex; flex-direction: column; align-items: center"
+>
+  <img
+    src="{{-  .Params.imgSrc | relURL  -}}"
+    style="
+      object-fit: cover;
+      object-position: top center;
+      margin: 0 !important;
+      width: 100%;
+    "
+  />
+  <center class="text-center font-italic mt-1">{{.Params.cap}}</center>
+</figure>

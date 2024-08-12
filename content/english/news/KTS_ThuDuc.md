@@ -4,7 +4,7 @@ publishDate: "2024-07-30T00:00:00.000Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description: ""
 location: "ISCM - HCMC"
-image: /images/events/news-2024-09-01.png
+image: /images/events/kts_thuduc/image3.png
 showImage: false
 ---
 
@@ -12,13 +12,13 @@ showImage: false
 
 The conference was attended by Mr. Nguyen Tran Phu Thinh, Head of the Department of Science, Technology, and Information of Thu Duc City. Representing the University of Economics Ho Chi Minh City were Dr. Trinh Tu Anh, Director of the Institute of Smart City and Management (ISCM), and Dr. Nguyen Kim Duc, Vice Dean of the Institute of Regional Development Research and Consulting (IRDRC).
 
-{{< figure src="/images/events/news-2024-09-01.png" >}}
+{{< figure src="/images/events/kts_thuduc/image3.png" >}}
 
 _<center style="margin-top: -30px">Opening Remarks from Mr. Nguyen Tran Phu Thinh </center>_
 
 During the conference, Mr. Nguyen Tran Phu Thinh highlighted the significant achievements in promoting digital transformation in Thu Duc City. He emphasized the vital roles and future prospects that the digital economy would bring to the city's development. However, he also noted the high demands placed on the capacity and responsibility of officials and public employees. The conference served as a platform for participants to exchange questions and propose ideas, solutions, and pilot initiatives to improve administrative management, bringing concrete and sustainable value to the community and society.
 
-{{< figure src="/images/events/news-2024-09-02.png" >}}
+{{< figure src="/images/events/kts_thuduc/image2.png" >}}
 
 _<center style="margin-top: -30px">Overview of the conference</center>_
 
@@ -26,13 +26,13 @@ Representatives from the University of Economics Ho Chi Minh City shared insight
 
 Dr. Trinh Tu Anh provided an overview of the digital economy, including essential concepts, historical development, and current perspectives from major global organizations such as OECD, ADB, and the World Bank. He also shared successes and lessons from countries that have implemented digital economy strategies.
 
-{{< figure src="/images/events/news-2024-09-03.png" >}}
+{{< figure src="/images/events/kts_thuduc/image1.png" >}}
 
 _<center style="margin-top: -30px">Dr. Trinh Tu Anh - Director of the Institute of Smart City and Management UEH sharing in the conference</center>_
 
 Following this, Dr. Nguyen Kim Duc outlined key policy development directions for localities, including the digital economy development roadmap in Vietnam and the current status of digital economy development. He also proposed necessary preparations at the individual level for officials and public employees in the context of Thu Duc City's strategic digital economy development.
 
-{{< figure src="/images/events/news-2024-09-04.png" >}}
+{{< figure src="/images/events/kts_thuduc/image4.png" >}}
 
 _<center style="margin-top: -30px">Dr. Nguyen Kim Duc - Vice Dean of the Institute of Regional Development Research and Consulting (IRDRC) shared his insights</center>_
 
