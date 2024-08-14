@@ -84,13 +84,11 @@ h6,
     h6,
     .h6 {
       font-size: 14px; } }
-section.content-body * {
+section.content-body .content {
   text-align: justify; }
 
 section.content-body h1,
-section.content-body .h1,
-section.content-body h2,
-section.content-body .h2 {
+section.content-body .h1 {
   font-family: "IBM Plex Sans", sans-serif; }
 
 section.content-body h1,
