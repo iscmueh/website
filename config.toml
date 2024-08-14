@@ -182,11 +182,11 @@ weight = 2
   name="Events"
   url="event"
 
-  [[Languages.en.menu.main]]
-  parent= "News & Events"
-  weight = 3
-  name="Admission"
-  url=""
+  # [[Languages.en.menu.main]]
+ # parent= "News & Events"
+ # weight = 3
+ # name="Admission"
+ # url=""
 
 [[Languages.en.menu.main]]
 name = "Education"
