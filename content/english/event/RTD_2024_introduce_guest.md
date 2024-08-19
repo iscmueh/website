@@ -1,5 +1,5 @@
 ---
-title: Keynote Speakers at the International Scientific Conference "Resilience by Technology and Design"
+title: KEYNOTE SPEAKERS AT THE INTERNATIONAL SCIENTIFIC CONFERENCE "RESILIENCE BY TECHNOLOGY AND DESIGN"
 publishDate: "2024-07-11T00:00:00.000Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description: ""

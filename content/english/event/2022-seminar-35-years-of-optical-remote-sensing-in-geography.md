@@ -1,5 +1,5 @@
 ---
-title: "Seminar: 35 Years of Optical remote sensing in Geography"
+title: "SEMINAR: 35 YEARS OF OPTICAL REMOTE SENSING IN GEOGRAPHY"
 author: ISCM
 publishDate: "2022-07-29T02:36:00.000Z"
 bg_image: "images/backgrounds/page-title.jpg"

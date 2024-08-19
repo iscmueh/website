@@ -1,5 +1,5 @@
 ---
-title: Opening online registration for the Bachelor Dual-Degree of Architecture and Smart Urban Design (UEH) and Bachelor of Architecture (University of Auckland, New Zealand)
+title: OPENING ONLINE REGISTRATION FOR THE BACHELOR DUAL-DEGREE OF ARCHITECTURE AND SMART URBAN DESIGN (UEH) AND BACHELOR OF ARCHITECTURE (UNIVERSITY OF AUCKLAND, NEW ZEALAND)
 publishDate: "2022-01-19T19:00:00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description : ""

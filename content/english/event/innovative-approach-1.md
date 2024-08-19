@@ -1,5 +1,5 @@
 ---
-title: Innovative Approach 
+title: INNOVATIVE APPROACH
 author: ISCM
 publishDate: "2020-09-24T15:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"

@@ -55,7 +55,7 @@ link = "plugins/google-map/gmap.js"
 [params]
 
 ueh_link_recruit = "images/footer/recruitment.png"
-ueh_link_future = "images/footer/buildings.png"
+ueh_link_future = "images/footer/giving UEH-01.png"
 ueh_link_global = "images/footer/global.png"
 ueh_link_elearning = "images/footer/elearning.png"
 ueh_link_job = "images/footer/job.png"
@@ -68,7 +68,7 @@ futureURL = "https://future.ueh.edu.vn/"
 globalURL = "https://global.ueh.edu.vn/"
 elearningURL = "https://lms.ueh.edu.vn/"
 jobURL = "https://vieclam.ueh.edu.vn/"
-informationURL = "https://www.ueh.edu.vn/truyen-thong/thong-tin/"
+informationURL = "https://www.ueh.edu.vn"
 virtualURL = "https://virtualtour.ueh.edu.vn/"
 
 
@@ -99,10 +99,11 @@ enable = true
 expire_days = 2
 
 ############################# social site ########################
+
 [[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "https://www.facebook.com/ISCM.UEH"
+title = "linkedin"
+icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+link = "https://www.linkedin.com/company/iscm-ueh"
 
 # [[params.social]]
 # title = "twitter"
@@ -115,14 +116,14 @@ link = "https://www.facebook.com/ISCM.UEH"
 # link = "#"
 
 [[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "https://github.com/iscmueh"
+title = "youtube"
+icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
+link = "https://www.youtube.com/@instituteofsmartcityandman8501"
 
 [[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "https://www.linkedin.com/company/iscm-ueh"
+title = "facebook"
+icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+link = "https://www.facebook.com/ISCM.UEH"
 
 
 ################################### English language #####################################

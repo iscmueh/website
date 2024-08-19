@@ -1,5 +1,5 @@
 ---
-title: Bachelor Orientation Day-Dream right-Dream sao-cho đúng
+title: BACHELOR ORIENTATION DAY-DREAM RIGHT-DREAM SAO-CHO ĐÚNG
 publishDate: "2021-11-30T19:00:00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description : ""

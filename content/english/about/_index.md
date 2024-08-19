@@ -6,17 +6,18 @@ bg_image: "images/backgrounds/page-title.jpg"
 # about image
 image: "images/about/about-page.jpg"
 # meta description
-description: "Institute of Smart City and Management (ISCM) is an integrated platform comprising different people of various backgrounds to collaborate in research and education for solutions to urban issues towards sustainability."
+description: "Different people, students, stakeholders from various background comprised to resolve local problems by global thinkings, towards smart, resilient, and sustainable city. This is how the Institute of Smart City and Management (ISCM) commute on our lifelong journey."
 ---
 
 ### Introduction
 
-Institute of Smart City and Management (ISCM) was established in May 2020, at the turning point of UEH's transformation into a multi-disciplinary and sustainable university and as an active response to urban challenges. ISCM has been positioned as a center of excellence in academic and practical fields, focusing on Smart City strategies and how technology can be a problem-solving instrument in a rapidly changing and unpredictable world.
-ISCM develops partnerships by building extensive local and international networks among research organizations, government authorities, companies, and communities. We aspire to build communal efforts to improve the smartness, resilience, and sustainability of our cities with a motivated and creative team that comprises academics, specialists, and researchers from diverse backgrounds, generations, and nations.
+**The Institute of Smart City and Management (ISCM)** was established at the turning point of UEH's transformation into a multi-disciplinary and sustainable university. As a research and educational institute, **ISCM** aspires to confront urban life challenges via international integrated education activities, and practical in-depth research. We orient our activities towards Smart City strategies (including Smart Mobility, Smart Management, Smart Design, Smart Planning, and integrated fields), through technology application, from which forming a harmonious problem-solving instrument in a rapidly changing and unpredictable world.
+
+In **ISCM**, we develop partnerships by building extensive local and international networks among academic research organizations, government authorities, industry, and communities. **ISCM** strives to create a co-creation platform, build communal efforts to improve the smartness, resilience, and sustainability of our communities with a motivated and creative team that comprises academics, specialists, and researchers from diverse backgrounds, generations, and nations.
 
 ### Vision
 
-ISCM will be a leading Institution in improving the quality of urban and rural life towards sustainable and smart community development through international integrated education system, in-depth research and problem-solving projects, education, research, public policy support.
+ISCM will be a leading institute in improving the quality of urban and rural life, towards sustainable and smart communities development through an international integrated education system, in-depth research and problem-solving projects – especially supporting public policy projects.
 
 ### Mission
 

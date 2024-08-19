@@ -77,18 +77,18 @@ about:
   enable : true
   title : "About ISCM"
   image : "images/about/about-page.jpg"
-  content : "Institute of Smart City and Management - ISCM is a research institute which belongs to the College of Technology and Design - CTD of the UEH University. Research and education activities are fundamentally formulated based on the concept of integration of frontier architectural, technological and engineering applications and modelling."
+  content : "Founded in September 2020, the Institute of Smart City and Management (ISCM) is a part of the College of Technology and Design, University of Economics Ho Chi Minh City (UEH University). Aspiring to develop communal efforts to improve the smartness, resilience, and sustainability of the society, ISCM has actively marked the way in improving the quality of urban life through international integrated education activities, and practical problem-solving projects."
   button:
     enable : true
     label : "Learn more"
     link : "about"
 
-
-############################# Course ################################
-course:
+############################# event ################################
+event:
   enable : true
-  title : "Our Course"
-  # course item comes from "content/**/course" folder.
+  title : "News & Event"
+  # event item comes from "content/**/event" folder.
+
 
 ########################## Call to action ############################
 # cta:
@@ -104,26 +104,26 @@ course:
 ######################## Success story #############################
 success_story:
   enable : true
-  bg_image : "images/backgrounds/success-story.jpg"
+  bg_image : "images/backgrounds/success-story-1.jpg"
   title : ""
-  content : "At ISCM, Smart City is not about a destination, it is about a lifelong journey. From our perspective, cities are living entities with a constant flow of activities and urban issues may arise as a result of these actions. To handle these challenges successfully, we must manage our limited resources, and use technology to devise innovative solutions.
+  content : "At ISCM, Smart City is not about the destination, it is about a lifelong journey. From our perspective, cities are considered organisms full of ceaseless activities. In these activities, urban problems may emerge. To effectively solve these problems, we must prioritize them, allocate our limited assets, and apply technology to create smart solutions. Smart is not only about applying advanced technology, but it also integrates all efficient resources as sustainable as possible. Within our Smart City, decisions are human-centric, and the unity of universities, organizations, government,  stakeholders, and communities create a co-creative culture. This, hereby, leads this organism to be more lively, a place for all people, leaving no one behind.
 
 
-  With the development of contemporary tools and apps, it is now necessary to combine and optimize them to address specific issues in a more intelligent and integrated manner. ISCM's ambition is to become the leading institution in Vietnam and the SEA region in offering an optimum and integrated approach to smart city development. 
+  We are shaping the unknown future by our main fields of Smart Planning, Smart Design, Smart Management, Smart Transportation, and Integrated Application. We warmly welcome you to join our extensive network, be inspired, and inspire the world by our innovation, ambition, and creativity. 
 
 
 
 
   Dr. Tú Anh Trịnh - Director of Institute of Smart City and Management "
   # video link
-  video_link : "https://www.youtube.com/watch?v=sqwcbOpMhnA"
+  #video_link : "https://www.youtube.com/watch?v=sqwcbOpMhnA"
 
 
-############################# event ################################
-event:
+############################# Course ################################
+course:
   enable : true
-  title : "News & Event"
-  # event item comes from "content/**/event" folder.
+  title : "Our Courses"
+  # course item comes from "content/**/course" folder.
 
 
 ########################### funfacts ############################

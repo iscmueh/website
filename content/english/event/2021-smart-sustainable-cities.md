@@ -1,5 +1,5 @@
 ---
-title: Smart & Sustainable Cities (SSC) Forum
+title: SMART & SUSTAINABLE CITIES (SSC) FORUM
 publishDate: "2021-11-29T19:00:00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description : ""

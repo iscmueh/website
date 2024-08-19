@@ -1,5 +1,5 @@
 ---
-title: Circular Economy & Innovation Around Universities
+title: CIRCULAR ECONOMY & INNOVATION AROUND UNIVERSITIES
 publishDate: "2022-06-08T15:00:00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description : ""

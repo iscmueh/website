@@ -1,5 +1,5 @@
 ---
-title: "SmartCity+ Festival + Exhibition 2021"
+title: "SMARTCITY+ FESTIVAL + EXHIBITION 2021"
 
 publishDate: "2021-12-16T19:00:00Z"
 bg_image: "images/backgrounds/page-title.jpg"

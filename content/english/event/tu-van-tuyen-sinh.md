@@ -1,5 +1,5 @@
 ---
-title: "Admission Consulting"
+title: "ADMISSION CONSULTING"
 author: ISCM
 publishDate: "2021-08-16T15:00:00.526Z"
 bg_image: "images/backgrounds/page-title.jpg"

@@ -1,5 +1,5 @@
 ---
-title: Recovery of Travel and Efforts to Escape from the Whirlwind Influenced by Covid-19
+title: RECOVERY OF TRAVEL AND EFFORTS TO ESCAPE FROM THE WHIRLWIND INFLUENCED BY COVID-19
 author: ISCM
 publishDate: "2021-03-01T09:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"
