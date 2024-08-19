@@ -7,6 +7,7 @@
     height="253"
     src="{{ .Params.image | relURL }}"
     alt="{{ .Title }}"
+    loading="lazy"
   />
   <div class="card-body" style="min-height: fit-content; min-height: 210px">
     <ul class="list-inline mb-2">
@@ -28,7 +29,10 @@
         .Params.Category }}
       </li>
       {{ if .Params.Chance }}
-      <li class="list-inline-item" style="text-transform: capitalize; text-align: justify">
+      <li
+        class="list-inline-item"
+        style="text-transform: capitalize; text-align: justify"
+      >
         <i class="ti-pin-alt" style="margin-right: 4px"></i>{{ .Params.Chance}}
       </li>
       {{end}}

@@ -3,7 +3,7 @@
   style="display: flex; flex-direction: column; align-items: center"
 >
   <img
-    src="{{-  .Params.imgSrc | relURL  -}}"
+    src="{{-  .Destination | safeURL  -}}"
     style="
       object-fit: cover;
       object-position: top center;
@@ -12,5 +12,7 @@
     "
     loading="lazy"
   />
-  <center class="text-center font-italic mt-1">{{.Params.cap}}</center>
+  {{with .Text}}
+  <figcaption class="text-center font-italic mt-1">{{.}}</figcaption>
+  {{end}}
 </figure>

@@ -5,6 +5,7 @@
       src="{{ .Params.image | relURL }}"
       alt="{{ .Title }}"
       style="max-height: 200px; object-fit: contain"
+      loading="lazy"
     />
     <div class="card-date">
       <span>{{ .Date.Format "02" }}</span><br />{{ .Date.Format "Jan 2006" }}
