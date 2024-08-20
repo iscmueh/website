@@ -1,5 +1,5 @@
 ---
-title: "Critical factors for smart city development"
+title: "Critical Factors for Smart City Development"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # course thumbnail
-image: "images/courses/sc-nhan-to.jpg"
+image: "images/courses/SC-5.JPG"
 # taxonomy
 category: "Short course"
 # teacher
@@ -24,7 +24,7 @@ apply_url : "#"
 course_type: "course"
 # courseStuctureImage: ""
 summary: " "
-post: "Critical factors for smart city development"
+post: "Critical Factors for Smart City Development"
 
 weight: 4
 ---

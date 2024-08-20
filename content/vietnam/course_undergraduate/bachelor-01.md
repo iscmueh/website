@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta descriptio
 description : ""
 # course thumbnail
-image: "images/courses/course-1.jpg"
+image: "images/courses/SC-4.jpg"
 # taxonomy
 category: "Đại Học"
 # teacher

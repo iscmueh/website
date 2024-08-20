@@ -1,5 +1,5 @@
 ---
-title: "Smart cities: Context, background, principles, and development"
+title: "Smart Cities: Context, Background, Principles, and Development"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # course thumbnail
-image: "images/courses/sc-smart-city.jpg"
+image: "images/courses/SC-2.JPG"
 # taxonomy
 category: "Short course"
 # teacher
@@ -23,7 +23,7 @@ apply_url : "#"
 # type
 course_type: "course"
 summary: " "
-post: "Smart cities: Context, background, principles, and development"
+post: "Smart Cities: Context, Background, Principles, and Development"
 
 weight: 3
 ---

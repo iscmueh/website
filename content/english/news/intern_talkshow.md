@@ -1,5 +1,5 @@
 ---
-title: "Journey for the Future Talkshow: Empowering K47 Graduates with Confidence for Internship Phase"
+title: "JOURNEY FOR THE FUTURE TALKSHOW: EMPOWERING K47 GRADUATES WITH CONFIDENCE FOR INTERNSHIP PHASE"
 author: ISCM
 publishDate: "2024-04-14T00:00:00.000Z"
 bg_image: "images/backgrounds/page-title.jpg"

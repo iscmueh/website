@@ -1,5 +1,5 @@
 ---
-title: On the Line of SmartCity+ Arttech Fusion Program of ISCM Event Series 2021
+title: ON THE LINE OF SMARTCITY+ ARTTECH FUSION PROGRAM OF ISCM EVENT SERIES 2021
 author: ISCM
 publishDate: "2021-01-13T07:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"

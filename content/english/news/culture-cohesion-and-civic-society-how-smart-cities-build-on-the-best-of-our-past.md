@@ -1,5 +1,5 @@
 ---
-title: "Culture, Cohesion and Civic Society: How Smart Cities Build on the Best of Our Past?"
+title: "CULTURE, COHESION AND CIVIC SOCIETY: HOW SMART CITIES BUILD ON THE BEST OF OUR PAST?"
 author: lptan
 publishDate: "2020-12-21T09:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"

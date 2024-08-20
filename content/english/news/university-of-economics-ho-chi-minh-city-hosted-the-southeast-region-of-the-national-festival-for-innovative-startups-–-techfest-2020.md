@@ -1,5 +1,5 @@
 ---
-title: UEH University hosted the Southeast Region of the National Festival for Innovative Startups – TechFest 2020
+title: UEH UNIVERSITY HOSTED THE SOUTHEAST REGION OF THE NATIONAL FESTIVAL FOR INNOVATIVE STARTUPS – TECHFEST 2020
 author: ISCM
 publishDate: "2020-11-25T05:36:00.000Z"
 bg_image: "images/backgrounds/page-title.jpg"

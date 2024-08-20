@@ -1,5 +1,5 @@
 ---
-title: "The digital transformation of cities: e-government"
+title: "The Digital Transformation of Cities: E-Government"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # course thumbnail
-image: "images/courses/sc-chuyen-doi-so.jpg"
+image: "images/courses/SC-3.jpg"
 # taxonomy
 category: "Short course"
 # teacher
@@ -23,7 +23,7 @@ apply_url : "#"
 # type
 course_type: "course"
 summary: " "
-post: "The digital transformation of cities: e-government"
+post: "The Digital Transformation of Cities: E-Government"
 
 weight: 5
 ---

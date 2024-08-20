@@ -1,5 +1,5 @@
 ---
-title: "Thành phố thông minh: Bối cảnh, nền tảng, nguyên lý và sự phát triển"
+title: "Đô thị Thông minh: Bối cảnh, Nền tảng, Nguyên lý, và Quy trình Phát triển"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # course thumbnail
-image: "images/courses/sc-smart-city.jpg"
+image: "images/courses/SC-2.JPG"
 # taxonomy
 category: "Khóa ngắn hạn"
 # teacher
@@ -24,7 +24,7 @@ apply_url : "#"
 course_type: "course"
 courseStuctureImage: ""
 summary: " "
-post: "Thành phố thông minh: Bối cảnh, nền tảng, nguyên lý và sự phát triển"
+post: "Đô thị Thông minh: Bối cảnh, Nền tảng, Nguyên lý, và Quy trình Phát triển"
 
 weight: 3
 ---

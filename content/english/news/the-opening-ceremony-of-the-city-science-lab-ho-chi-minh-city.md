@@ -1,5 +1,5 @@
 ---
-title: The Opening Ceremony of the City Science Lab  Ho Chi Minh City
+title: THE OPENING CEREMONY OF THE CITY SCIENCE LAB  HO CHI MINH CITY
 author: ISCM
 publishDate: "2021-04-22T09:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "International Workshop: Global City Development Camp - Orientation Day - The Beginning of Miracle Meeting"
+title: "INTERNATIONAL WORKSHOP: GLOBAL CITY DEVELOPMENT CAMP - ORIENTATION DAY - THE BEGINNING OF MIRACLE MEETING"
 author: ISCM
 publishDate: "2022-07-21T09:00:00Z"
 bg_image: "images/backgrounds/page-title.jpg"

@@ -1,5 +1,5 @@
 ---
-title: Online conference - Overview of Smart City Development in Vietnam - Challenges and Opportunities
+title: ONLINE CONFERENCE - OVERVIEW OF SMART CITY DEVELOPMENT IN VIETNAM - CHALLENGES AND OPPORTUNITIES
 publishDate: "2021-11-30T19:00:00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description : ""

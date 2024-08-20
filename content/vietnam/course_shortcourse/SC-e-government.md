@@ -1,5 +1,5 @@
 ---
-title: "Chuyển đổi số đô thị: chính quyền điện tử"
+title: "Chuyển Đổi Số trong Đô thị: Chính phủ Điện tử"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # course thumbnail
-image: "images/courses/sc-chuyen-doi-so.jpg"
+image: "images/courses/SC-3.jpg"
 # taxonomy
 category: "Khóa ngắn hạn"
 # teacher
@@ -24,7 +24,7 @@ apply_url : "#"
 course_type: "course"
 courseStuctureImage: ""
 summary: " "
-post: "Chuyển đổi số đô thị: chính quyền điện tử"
+post: "Chuyển Đổi Số trong Đô thị: Chính phủ Điện tử"
 
 weight: 5
 ---

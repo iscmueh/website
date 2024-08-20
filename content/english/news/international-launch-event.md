@@ -1,5 +1,5 @@
 ---
-title: International Launch Event
+title: INTERNATIONAL LAUNCH EVENT
 author: ISCM
 publishDate: "2020-09-30T06:34:00.000Z"
 bg_image: "images/backgrounds/page-title.jpg"

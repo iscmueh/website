@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notice on Institute of Smart City &amp; Management</title>
-    <link>https://www.iscm.ueh.edu.vn/notice/</link>
+    <link>http://localhost:1313/notice/</link>
     <description>Recent content in Notice on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
-    <atom:link href="https://www.iscm.ueh.edu.vn/notice/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/notice/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Studiolab Rules</title>
-      <link>https://www.iscm.ueh.edu.vn/notice/lab-rules/</link>
+      <link>http://localhost:1313/notice/lab-rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/notice/lab-rules/</guid>
+      <guid>http://localhost:1313/notice/lab-rules/</guid>
       <description>Studiolab Rules Don&amp;rsquo;t eat or drink in the lab&#xA;(bottle of water is allow, however it should be put on the floor) Remain silent Keep the lab clean and tidy at all time Self manage belongings Be responsible, respect every one Lab Equipment Don&amp;rsquo;t use any equipment without specitic instructions Check and report equipment condition before use Return the equipment to the origional position after use </description>
     </item>
   </channel>

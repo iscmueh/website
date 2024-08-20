@@ -1,5 +1,5 @@
 ---
-title: "Memorandum of Understanding Signed Between the Institute of Smart City and Management (UEH - ISCM) and the Lee Kuan Yew Centre for Innovative Cities"
+title: "MEMORANDUM OF UNDERSTANDING SIGNED BETWEEN THE INSTITUTE OF SMART CITY AND MANAGEMENT (UEH - ISCM) AND THE LEE KUAN YEW CENTRE FOR INNOVATIVE CITIES"
 publishDate: "2024-07-17T00:00:00.000Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description: ""

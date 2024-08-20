@@ -1,5 +1,5 @@
 ---
-title: "SmartCity+ Festival 2021: Webinar: City for All & City Branding and Sustainability"
+title: "SMARTCITY+ FESTIVAL 2021: WEBINAR: CITY FOR ALL & CITY BRANDING AND SUSTAINABILITY"
 
 publishDate: "2021-12-16T19:00:00Z"
 bg_image: "images/backgrounds/page-title.jpg"

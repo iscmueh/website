@@ -1,5 +1,5 @@
 ---
-title: International Design Competition SmartCity+
+title: INTERNATIONAL DESIGN COMPETITION SMARTCITY+
 author: Hoangoanh
 publishDate: "2021-08-31T09:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"
