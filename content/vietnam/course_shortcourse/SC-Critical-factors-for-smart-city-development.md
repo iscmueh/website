@@ -1,5 +1,5 @@
 ---
-title: "Các nhân tố chính phát triển thành phố thông minh"
+title: "Yếu tố Tác động đến Đô thị Thông minh"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # course thumbnail
-image: "images/courses/sc-nhan-to.jpg"
+image: "images/courses/SC-5.JPG"
 # taxonomy
 category: "Khóa ngắn hạn"
 # teacher
@@ -24,7 +24,7 @@ apply_url : "#"
 course_type: "course"
 courseStuctureImage: ""
 summary: " "
-post: "Các nhân tố chính phát triển thành phố thông minh"
+post: "Yếu tố Tác động đến Đô thị Thông minh"
 
 weight: 4
 ---

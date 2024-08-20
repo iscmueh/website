@@ -1,5 +1,5 @@
 ---
-title: "Các công nghệ ứng dụng trong phát triển đô thị thông minh"
+title: "Ứng dụng Công nghệ trong Phát triển Đô thị Thông minh"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # course thumbnail
-image: "images/courses/sc-cong-nghe.jpg"
+image: "images/courses/SC-1.jpg"
 # taxonomy
 category: "Khóa ngắn hạn"
 # teacher
@@ -24,7 +24,7 @@ apply_url : "#"
 course_type: "course"
 courseStuctureImage: ""
 summary: " "
-post: "Các công nghệ ứng dụng trong phát triển đô thị thông minh"
+post: "Ứng dụng Công nghệ trong Phát triển Đô thị Thông minh"
 
 weight: 6
 ---

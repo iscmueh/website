@@ -1,5 +1,5 @@
 ---
-title: "Bachelor in Architectural and Urban Design Inclusive Smart City"
+title: "Bachelor in Architectural and Urban Design inclusive Smart City"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description: ""
 # course thumbnail
-image: "images/courses/course-1.jpg"
+image: "images/courses/SC-4.jpg"
 # taxonomy
 category: "Undergraduate"
 chance: "Chance to obtain 2 degrees issued by UEH and another international partner university"
@@ -25,7 +25,7 @@ course_type: "course"
 courseStructureYear: [2021]
 courseStuctureImage: ["/images/courses/structure/bachelor.jpg"]
 summary: " "
-post: "Bachelor in Architectural and Urban Design Inclusive Smart City (BAUD)"
+post: "Bachelor in Architectural and Urban Design inclusive Smart City"
 weight: 1
 ---
 

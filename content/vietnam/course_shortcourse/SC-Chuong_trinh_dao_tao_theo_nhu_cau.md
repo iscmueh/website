@@ -1,5 +1,5 @@
 ---
-title: "Chương trình đào tạo theo nhu cầu"
+title: "Chương trình Đào tạo theo Nhu cầu"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # course thumbnail
-image: "images/courses/sc-nhan-to.jpg"
+image: "images/courses/SC-6.JPG"
 # taxonomy
 category: "Khóa ngắn hạn"
 # teacher
@@ -23,7 +23,7 @@ apply_url : "#"
 course_type: "course"
 courseStuctureImage: ""
 summary: " "
-post: "Chương trình đào tạo theo nhu cầu"
+post: "Chương trình Đào tạo theo Nhu cầu"
 
 weight: 5
 ---

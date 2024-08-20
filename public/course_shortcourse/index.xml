@@ -10,38 +10,38 @@
     <lastBuildDate>Mon, 04 Mar 2024 15:27:17 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/course_shortcourse/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Smart cities: Context, background, principles, and development</title>
+      <title>Smart Cities: Context, Background, Principles, and Development</title>
       <link>http://localhost:1313/course_shortcourse/sc-smartcity/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       <guid>http://localhost:1313/course_shortcourse/sc-smartcity/</guid>
       <description></description>
     </item>
     <item>
-      <title>Critical factors for smart city development</title>
+      <title>Critical Factors for Smart City Development</title>
       <link>http://localhost:1313/course_shortcourse/sc-critical-factors-for-smart-city-development/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       <guid>http://localhost:1313/course_shortcourse/sc-critical-factors-for-smart-city-development/</guid>
       <description></description>
     </item>
     <item>
-      <title>The digital transformation of cities: e-government</title>
+      <title>The Digital Transformation of Cities: E-Government</title>
       <link>http://localhost:1313/course_shortcourse/sc-e-government/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       <guid>http://localhost:1313/course_shortcourse/sc-e-government/</guid>
       <description></description>
     </item>
     <item>
-      <title>Smart Cities development: essential technologies</title>
+      <title>Smart Cities Development: Essential Technologies</title>
       <link>http://localhost:1313/course_shortcourse/sc-smartcity-development/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       <guid>http://localhost:1313/course_shortcourse/sc-smartcity-development/</guid>
       <description></description>
     </item>
     <item>
-      <title>Customized Programs</title>
-      <link>http://localhost:1313/course_shortcourse/customize-program/</link>
+      <title>Tailored-made Courses</title>
+      <link>http://localhost:1313/course_shortcourse/sc_tailored_made_course/</link>
       <pubDate>Mon, 04 Mar 2024 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/course_shortcourse/customize-program/</guid>
+      <guid>http://localhost:1313/course_shortcourse/sc_tailored_made_course/</guid>
       <description></description>
     </item>
   </channel>
