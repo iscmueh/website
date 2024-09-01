@@ -35,10 +35,10 @@
         <div class="col-lg-4 col-sm-8 mb-5 mb-lg-0">
           <!-- logo -->
           <a class="logo-footer" href="{{ site.BaseURL | relLangURL }}"><img class="img-fluid mb-4" src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}"></a>
-          <ul class="list-unstyled">
-            <li class="mb-4">{{ site.Params.address | markdownify }}</li>
-            <li class="mb-4">{{ site.Params.email | markdownify }}</li>
-            <li class="mb-4">{{ site.Params.mobile | markdownify }}</li>
+          <ul class="list-unstyled row">
+            <li class="mb-4 col-12">{{ site.Params.address | markdownify }}</li>
+            <li class="mb-4 col-xl-5 col-12">{{ site.Params.email | markdownify }}</li>
+            <li class="mb-4 col-xl-5 col-12">{{ site.Params.mobile | markdownify }}</li>
           </ul>
         </div>
 
@@ -218,7 +218,7 @@
 {{ if site.Params.cookies.enable }}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
 <div id="js-cookie-box" class="cookie-box cookie-box-hide">
-	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-sm btn-outline-primary ml-2" style="background-color: rgba(255,255,255, 0.6) !important">I Accept</span>
+	{{ if eq (strings.ToLower .Language.Lang) "en"}}This site uses cookies. By continuing to use this website, you agree to their use. {{else}} Trang web này sử dụng cookie. Bằng cách tiếp tục sử dụng trang web này, bạn đồng ý với việc sử dụng chúng.{{end}}<span id="js-cookie-button" class="btn btn-sm btn-outline-primary ml-2" style="background-color: rgba(255,255,255, 0.6) !important">{{ if eq (strings.ToLower .Language.Lang) "en"}} Accept {{else}} Chấp Nhận{{end}}</span>
 </div>
 <script>
 	(function ($) {

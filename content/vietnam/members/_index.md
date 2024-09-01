@@ -4,5 +4,5 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "ISCM tự hào có được một đội ngũ giáo sư, giảng viên, và nghiên cứu viên giỏi trong các lĩnh vực chuyên môn. Các giảng viên được đào tạo bài bản và từng nghiên cứu hay làm việc lâu năm tại các trường đại học lớn ở các nước phát triển hay các công ty và tập đoàn đa quốc gia. Ngoài đội ngũ giảng viên chính, ISCM còn công tác với các đối tác trong nước và quốc tế và mời các giáo sư và giảng viên xuất sắc đến và cùng tham gia giảng dạy và nghiên cứu."
+description : "Năng động, sáng tạo, và bền vững. Đội ngũ ISCM tập trung các giáo sư, chuyên gia đến từ các lĩnh vực liên quan đến thiết kế kiến trúc, quy hoạch đô thị tại Việt Nam và trên toàn thế giới. Chúng tôi gắn kết với nhau, và cùng nhau bước trên hành trình kiến tạo tính thông minh và bên vững cho vùng và đô thị, thông qua các hoạt động nghiên cứu và giáo dục."
 ---

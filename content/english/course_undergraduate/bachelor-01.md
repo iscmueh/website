@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description: ""
 # course thumbnail
-image: "images/courses/SC-4.jpg"
+image: "images/courses/DSC02990-2.jpg"
 # taxonomy
 category: "Undergraduate"
 chance: "Chance to obtain 2 degrees issued by UEH and another international partner university"
@@ -34,7 +34,6 @@ weight: 1
 BAUD is designed to international standards and provides expertise in a wide range of fields such as landscape architecture, transportation and infrastructure, economics, society, environment, and technology relating to architectural and urban design for inclusive smart cities.
 
 Upon graduation, students are qualified to perform well in various organizations in different sectors or pursue further education with a master’s degree program.
-
 
 {{< youtube id="on_ZGjx4p5U" title="Smart Urban Architecture and Design" >}}
 

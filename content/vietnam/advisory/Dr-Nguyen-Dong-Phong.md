@@ -8,7 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # teacher portrait
-image: "images/team/AdvisoryBoard/nguyendongphong.jpg"
+image: "/images/team/AdvisoryBoard/nguyendongphong-new.jpg"
 # course
 course: "Chủ tịch Hội đồng Đại học Kinh tế TP. Hồ Chí Minh"
 # biography

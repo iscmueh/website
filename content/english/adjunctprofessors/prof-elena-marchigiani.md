@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/AdjunctProfs/elena.jpg"
 # course
-course: "Associate Professor in Urban Planning, Department of engineering and Architecture, IT"
+course: "Associate Professor in Urban Planning, </br> University of Trieste, Italy"
 position: ""
 # biograph
 bio: "I’m interested in design and implementation of planning tools and urban projects, in the fields of social housing and neighbourhood regeneration, town planning and city management, territorial and landscape planning and design, public spatial policies (housing, welfare and mobility), participatory design processes."
@@ -22,7 +22,7 @@ contact:
     link : "iscm@ueh.edu.vn"
 
   # contact item loop
-  - name : "+84-28-3930-9589/ +84-28-3930-9269"
+  - name : "+84-28-3930-9589 / +84-28-3930-9269"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
     link : "tel:+120345876"
 
@@ -53,7 +53,7 @@ contact:
 
 # type
 type: "teacher"
-weight: 1
+weight: 4
 ---
 ### Courses
 1. * Town Planning and Urban design

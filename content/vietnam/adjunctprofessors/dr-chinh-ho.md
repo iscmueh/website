@@ -1,5 +1,5 @@
 ---
-title: "TS. Hồ Quốc Chinh"
+title: "TS. Hồ Chinh"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,7 +8,7 @@ description: "."
 # teacher portrait
 image: "images/team/AdjunctProfs/chinh_ho.jpg"
 # course
-course: "Giảng viên tại Viện Giao thông và Phát triển Logistics, Trường Kinh Doanh, Đại học Sydney"
+course: "Giảng viên Cao cấp lĩnh vực Nghiên cứu Không gian và Quản lý Chuỗi cung ứng, </br> Đại học Sydney, Úc"
 position: ""
 # biograph
 bio: ""

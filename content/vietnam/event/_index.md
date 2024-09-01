@@ -4,7 +4,5 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "ISCM thường xuyên kết hợp cùng các trường đại học và tổ chức đối tác đến từ nhiều quốc gia tổ chức các sự kiện giáo dục và nghiên cứu nhằm chia sẻ các kiến thức bổ ích cho cộng đồng, từ đó cùng nhau nâng cao chất lượng cuộc sống đô thị. Bên cạnh đó, Viện cũng tổ chức các hoạt động trên nền tảng số và mạng Internet, tạo điều kiện tiếp cận và thu hút sự tham gia của đông đảo  sinh viên, nghiên cứu viên, và các nhà khoa học từ khắp nơi trên thế giới.
-<br>
-Theo dõi để cập nhật tin tức của ISCM với các hoạt động đa dạng từ webinar, workshop đến hội thảo và các chương trình đào tạo phối hợp tổ chức cùng các đối tác trong nhiều lĩnh vực."
+description : "Cùng với mục tiêu chia sẻ và lan rộng tri thức cho cộng đồng, nhất là các tri thức về lĩnh vực công nghệ, thiết kế, và phát triển vùng và đô thị thông minh, bền vững, Viện Đô thị Thông minh và Quản lý thường xuyên tổ chức các hoạt động Webinar, Hội thảo, Hội nghị, buổi Workshop và Cuộc thi. Các hoạt động này nhận được sự quan tâm và tham gia chia sẻ của các chuyên gia có nhiều năm kinh nghiệm trong lĩnh vực, đến từ các đại học, viện nghiên cứu, và các doanh nghiệp trên toàn thế giới. Đây cũng là các đối tác của ISCM trong các hoạt động nghiên cứu và diễn giả của Viện."
 ---

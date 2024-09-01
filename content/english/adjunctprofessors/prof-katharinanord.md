@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/AdjunctProfs/nord.JPG"
 # course
-course: "Professor in Spatial Planning, Blekinge Institute of Technology, BTH"
+course: "Professor in Spatial Planning, </br> Blekinge Institute of Technology, Sweden"
 position: ""
 # biograph
 bio: ""

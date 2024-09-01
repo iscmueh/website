@@ -57,7 +57,7 @@ weight: 9
 ---
 
 ### Tiểu Sử Nghiên Cứu và Học Thuật
-1. * Cử Nhân Kỹ Thuật, Quy Hoạch Đo Thị, Đại học Tôn Đức Thắng (2017)
+1. * Cử Nhân Kỹ Thuật, Quy Hoạch Đô Thị, Đại học Tôn Đức Thắng (2017)
 
 ### Kinh Nghiệm Quốc Tế
 1. * Chương trình trao đổi ERAMUS+ ngành Kiến trúc, Đại học Hasselt, Vương quốc Bỉ (2017)

@@ -8,7 +8,7 @@ description: "."
 # teacher portrait
 image: "images/team/AdjunctProfs/tae.jpg"
 # course
-course: "Giáo sư, Trường đào tạo Sau đại học về Nghiên cứu Quốc tế, Đại học Yonsei, Hàn Quốc"
+course: "Giáo sư lĩnh vực Phát triển Bền vững,</br> Đại học Yonsei, Hàn Quốc"
 position: ""
 # biograph
 bio: ""

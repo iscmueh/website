@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description: "."
 # teacher portrait
-image: "images/team/intern/phuong-anh.png"
+image: "/images/team/PAnh.png"
 # course
 course: "PR/ Marketing"
 position: ""
@@ -26,6 +26,7 @@ contact:
 
 #type
 type: "teacher"
+weight: 18
 ---
 
 ### Academic and Research Profile

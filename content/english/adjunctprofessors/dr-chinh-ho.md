@@ -8,7 +8,7 @@ description: "."
 # teacher portrait
 image: "images/team/AdjunctProfs/chinh_ho.jpg"
 # course
-course: "Senior Lecturer, Institute of Transport and Logistics Studies, the University of Sydney Business School"
+course: "Senior Lecturer in Spatial Analytics and Logistics, </br> The University of Sydney, Australia"
 position: ""
 # biograph
 bio: ""

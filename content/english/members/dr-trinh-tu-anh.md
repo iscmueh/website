@@ -72,4 +72,4 @@ weight: 1
 1. - EASTS (Eastern Asia Society for Transportation Studies)
 1. - TSSV (Transportation Studies Society of Vietnam)
 
-### [Click HERE for Publication](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH70aAXRdl6O1RpzMQTHBN-SOAF7oUQMawjO4TlCcrUTMi0wgP5URi2cR4_i24RhDbn5oLhz_QlRMTa2J9w8ew&user=bQrm2JYAAAAJ)
+### [PUBLICATIONS](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH70aAXRdl6O1RpzMQTHBN-SOAF7oUQMawjO4TlCcrUTMi0wgP5URi2cR4_i24RhDbn5oLhz_QlRMTa2J9w8ew&user=bQrm2JYAAAAJ)

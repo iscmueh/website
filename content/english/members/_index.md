@@ -4,5 +4,5 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "A team of international specialists and local talents in various fields from Urban Architecture, Urban Design and Planning, Transporation Engineering, Asset Management, Operations Research, Reliability Engineering, Optimization, Statistics, and Economics."
+description : "ISCM Team proud to be an active and resilient team with glocal talents from various field. Together, we work to contribute to our lifelong journey towards sustainable regional and urban life, through educational and research activities."
 ---

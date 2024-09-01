@@ -2,52 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Expert Network on Institute of Smart City &amp; Management</title>
-    <link>http://localhost:1313/network/</link>
+    <link>https://www.iscm.ueh.edu.vn/network/</link>
     <description>Recent content in Expert Network on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
-    <atom:link href="http://localhost:1313/network/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.iscm.ueh.edu.vn/network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assist. Prof. Juhyun Lee</title>
+      <link>https://www.iscm.ueh.edu.vn/network/assist.prof.juhyun-lee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/network/assist.prof.juhyun-lee/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Assoc. Prof. Giuseppe Borruso</title>
+      <link>https://www.iscm.ueh.edu.vn/network/assoc.prof.giuseppe-borruso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/network/assoc.prof.giuseppe-borruso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Assoc. Prof. Nguyen Truong Thinh</title>
+      <link>https://www.iscm.ueh.edu.vn/network/assoc.prof.nguyen-truong-thinh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/network/assoc.prof.nguyen-truong-thinh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Assoc. Prof. Pawinee Iamtrakul</title>
+      <link>https://www.iscm.ueh.edu.vn/network/assoc.prof.pawinee-iamtrakul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/network/assoc.prof.pawinee-iamtrakul/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Barbara E. A. Piga</title>
-      <link>http://localhost:1313/network/barbara-piga/</link>
+      <link>https://www.iscm.ueh.edu.vn/network/barbara-piga/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/network/barbara-piga/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dr. Chinh Ho</title>
-      <link>http://localhost:1313/network/dr-chinh-ho/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/network/dr-chinh-ho/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dr. Dong-Su Yi</title>
-      <link>http://localhost:1313/network/dr-dong-su-yi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/network/dr-dong-su-yi/</guid>
-      <description>Academic and Research Profile 2013- 2020 Graduate school of Sejong Univ.</description>
-    </item>
-    <item>
-      <title>Dr. Tri Dung Dang</title>
-      <link>http://localhost:1313/network/dr-tri-dung-dang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/network/dr-tri-dung-dang/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/network/barbara-piga/</guid>
       <description></description>
     </item>
     <item>
       <title>Dr. Derlie Mateo-Babiano</title>
-      <link>http://localhost:1313/network/dr-derlie-babiano/</link>
+      <link>https://www.iscm.ueh.edu.vn/network/dr.-derlie-mateo-babiano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/network/dr-derlie-babiano/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/network/dr.-derlie-mateo-babiano/</guid>
       <description></description>
     </item>
     <item>
-      <title>Dr. Ma Sheilah G. Napalang</title>
-      <link>http://localhost:1313/network/dr-sheilah/</link>
+      <title>Dr. Harvey Neo</title>
+      <link>https://www.iscm.ueh.edu.vn/network/dr.-harvey-neo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/network/dr-sheilah/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/network/dr.-harvey-neo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dr. Kon Kim</title>
+      <link>https://www.iscm.ueh.edu.vn/network/dr.-kon-kim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/network/dr.-kon-kim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dr. Nguyen Anh Tuan</title>
+      <link>https://www.iscm.ueh.edu.vn/network/dr.-nguyen-anh-tuan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/network/dr.-nguyen-anh-tuan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dr. Rafael Martinez</title>
+      <link>https://www.iscm.ueh.edu.vn/network/dr.-rafael-martinez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/network/dr.-rafael-martinez/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dr. Tri Dung Dang</title>
+      <link>https://www.iscm.ueh.edu.vn/network/dr.-tri-dung-dang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/network/dr.-tri-dung-dang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dr. Yongjun Shen</title>
+      <link>https://www.iscm.ueh.edu.vn/network/dr.-yongjun-shen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/network/dr.-yongjun-shen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prof. Bruno De Meulder</title>
+      <link>https://www.iscm.ueh.edu.vn/network/prof.bruno-de-meulder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/network/prof.bruno-de-meulder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prof. Kelly Shannon</title>
+      <link>https://www.iscm.ueh.edu.vn/network/prof.kelly-shannon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/network/prof.kelly-shannon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prof. Marco Abbiati</title>
+      <link>https://www.iscm.ueh.edu.vn/network/prof.marco-abbiati/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/network/prof.marco-abbiati/</guid>
       <description></description>
     </item>
   </channel>

@@ -5,21 +5,21 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta descriptio
-description : ""
+description: ""
 # course thumbnail
-image: "images/courses/SC-4.jpg"
+image: "images/courses/DSC02990-2.jpg"
 # taxonomy
 category: "Đại Học"
 # teacher
 #teacher: "Clark Malik"
 # duration
-duration : "3.5 năm"
+duration: "3.5 năm"
 # weekly
 #weekly : "03 hours"
 # course fee
 #fee : "From: $699"
 # apply url
-apply_url : "#"
+apply_url: "#"
 # type
 course_type: "course"
 courseStructureYear: [2021]
@@ -39,24 +39,24 @@ Sau khi tốt nghiệp, sinh viên có khả năng làm việc hiệu quả tron
 
 #### Đặc điểm nổi bật:
 
-1. * Trở thành công dân toàn cầu với kiến thức toàn diện, thông thạo tiếng Anh và khả năng học tập suốt đời
+1. - Trở thành công dân toàn cầu với kiến thức toàn diện, thông thạo tiếng Anh và khả năng học tập suốt đời
 
-2. * Tư duy đa ngành liên quan đến môi trường, nghệ thuật, kỹ thuật, quy hoạch và chính sách công,… được đúc kết qua các bài giảng, hội nghị chuyên đề, tham quan thực địa, v.v… với sự tham gia và hướng dẫn của các giáo sư, chuyên gia quốc tế
+2. - Tư duy đa ngành liên quan đến môi trường, nghệ thuật, kỹ thuật, quy hoạch và chính sách công,… được đúc kết qua các bài giảng, hội nghị chuyên đề, tham quan thực địa, v.v… với sự tham gia và hướng dẫn của các giáo sư, chuyên gia quốc tế
 
-3. * Các dự án tích hợp vào chương trình được thiết kế dựa trên các vấn đề thực tế do các đối tác trong ngành và cộng đồng đề xuất hay khơi gợi
+3. - Các dự án tích hợp vào chương trình được thiết kế dựa trên các vấn đề thực tế do các đối tác trong ngành và cộng đồng đề xuất hay khơi gợi
 
-4. * Khai thác hiệu quả hệ thống StudioLab hiện đại ứng dụng các công nghệ tiên tiến: VR, AR, in 3D, mô phỏng đô thị, v.v
+4. - Khai thác hiệu quả hệ thống StudioLab hiện đại ứng dụng các công nghệ tiên tiến: VR, AR, in 3D, mô phỏng đô thị, v.v
 
-5. * Kết nối toàn cầu với cộng đồng sinh viên quốc tế tại Bỉ, Hàn Quốc, Hà Lan, New Zealand, Úc, Pháp, Thái Lan, Myanmar, Ấn Độ, v.v
+5. - Kết nối toàn cầu với cộng đồng sinh viên quốc tế tại Bỉ, Hàn Quốc, Hà Lan, New Zealand, Úc, Pháp, Thái Lan, Myanmar, Ấn Độ, v.v
 
-6. * Cơ hội trao đổi học tập tại các trường đại học đối tác nước ngoài để nhận thêm bằng cấp có giá trị quốc tế
+6. - Cơ hội trao đổi học tập tại các trường đại học đối tác nước ngoài để nhận thêm bằng cấp có giá trị quốc tế
 
-7. * Trau dồi các giá trị cá nhân, bao gồm đạo đức nghề nghiệp,  trí tuệ liêm chính và trách nhiệm xã hội.
+7. - Trau dồi các giá trị cá nhân, bao gồm đạo đức nghề nghiệp, trí tuệ liêm chính và trách nhiệm xã hội.
 
 #### Điều kiện đăng kí:
 
-1. * Tuyển sinh các khối: A00; A01; D01; V00 (Riêng khối V môn Vẽ không nhân hệ số)
-2. * Không tổ chức thi môn năng khiếu. Môn năng khiếu sẽ được đào tạo sau khi nhập học.
+1. - Tuyển sinh các khối: A00; A01; D01; V00 (Riêng khối V môn Vẽ không nhân hệ số)
+2. - Không tổ chức thi môn năng khiếu. Môn năng khiếu sẽ được đào tạo sau khi nhập học.
 
 #### Yêu cầu ngôn ngữ:
 

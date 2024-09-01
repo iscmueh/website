@@ -6,12 +6,12 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "."
 # teacher portrait
-image: "images/team/DrDucksu.jpg"
+image: "/images/team/photo_Seo.jpg"
 # course
 course: "Điều Phối Viên Quốc Tế"
 position: ""
 # biograph
-bio: ""
+bio: "TS. Ducksu Seo là giáo sư Đại học Handong Global (Hàn Quốc), với cương vị là một nhà đô thị học hiện đang chịu trách nhiệm nhiều dự án và nghiên cứu đô thị sáng tạo trên khắp thế giới. TS. Ducksu Seo đã từng theo học Cử nhân Kiến trúc tại Đại học Handong Global (Hàn Quốc) (2002) và Thạc sĩ Thiết kế Đô thị tại Đại học Harvard (2018). Sau đó, TS. Ducksu Seo tiếp tục theo học Tiến sĩ tại Đại học Quốc gia Seoul, ngành Quy hoạch Đô thị (2018). TS. Ducksu Seo đã có nhiều kinh nghiệm thực hiện các dự án thiết kế và quy hoạch tại các Viện nghiên cứu trên nhiều quốc gia. TS. Ducksu Seo luôn tham gia các dự án quy hoạch đô thị đổi mới và nghiên cứu khu vực dựa trên mô hình đô thị bền vững trên thế giới"
 # interest
 interest: ["Thiết kế và quy hoạch đô thị","Phát triển đô thị thông minh", "Nghiên cứu nhà ở", "Phân tích mạng lưới xã hội và di chuyển","Giáo dục công dân toàn cầu và phát triển quốc tế" ]
 # contact info
@@ -57,7 +57,7 @@ weight: 2
 ---
 
 ### Tiểu Sử Nghiên Cứu và Học Thuật
-1. * Giáo sứ, Đại học Handong Global, Hàn Quốc (2019 – Hiện tại)
+1. * Giáo sư, Đại học Handong Global, Hàn Quốc (2019 – Hiện tại)
 1. * Viện trưởng, Viện NIBC Global, Việt Nam (2015-Hiện tại)
 1. * Tiến sĩ, Quy hoạch và thiết kế đô thị, Đại học Quốc gia Seoul, Hàn Quốc
 1. * Thạc sĩ, Cảnh quan trong thiết kế đô thị, Đại học Harvard, Mỹ
@@ -70,4 +70,4 @@ weight: 2
 1. * Giám đốc dự án, ADU Group, Việt Nam (2012 – 2015)
 1. * Quy hoạch và thiết kế đô thị, SERA Architects, Mỹ (2011 – 2012)
 
-### [Bấm vào ĐÂY để xem các bài báo](https://scholar.google.co.kr/citations?user=7mawbTAAAAAJ&hl=en)‬
+### [Bấm vào ĐÂY để xem các bài báo](https://scholar.google.co.kr/citations?user=7mawbTAAAAAJ&hl=en)

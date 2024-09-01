@@ -4,11 +4,13 @@
     src="{{ .Params.image | relURL }}"
     alt="{{ .Title }}"
     loading="lazy"
+    height="350"
+    style="object-fit: cover;"
   />
   <div class="card-body">
     <h4 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-    <p>{{ .Params.Course }}</p>
-    <ul class="list-inline">
+    <p>{{ .Params.Course | safeHTML }}</p>
+    {{/*  <ul class="list-inline">
       {{ range .Params.Contact }}
       <li class="list-inline-item">
         <a class="text-color" href="{{ .link | safeURL }}"
@@ -16,6 +18,6 @@
         ></a>
       </li>
       {{ end }}
-    </ul>
+    </ul>  */}}
   </div>
 </div>

@@ -8,7 +8,7 @@ description: "."
 # teacher portrait
 image: "images/team/AdjunctProfs/tae.jpg"
 # course
-course: "Professor, Graduate School of International Studies, Yonsei University (Korea)"
+course: "Professor of Sustainable Development, </br> Yonsei University, Republic of Korea"
 position: ""
 # biograph
 bio: ""

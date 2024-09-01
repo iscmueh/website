@@ -8,7 +8,7 @@ description: "."
 # teacher portrait
 image: "images/team/AdjunctProfs/sung-jin-kang.jpeg"
 # course
-course: "Professor, Department of Economics and Director, Institute of Economic Research, Korea University"
+course: "Professor, Department of Economics, </br> Korea University, Republic of Korea"
 position: ""
 # biograph
 bio: ""

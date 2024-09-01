@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Khóa Học Ngắn Hạn on Institute of Smart City &amp; Management</title>
-    <link>http://localhost:1313/vi/course_shortcourse/</link>
+    <link>https://www.iscm.ueh.edu.vn/vi/course_shortcourse/</link>
     <description>Recent content in Khóa Học Ngắn Hạn on Institute of Smart City &amp; Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vi</language>
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
     <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/vi/course_shortcourse/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.iscm.ueh.edu.vn/vi/course_shortcourse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Đô thị Thông minh: Bối cảnh, Nền tảng, Nguyên lý, và Quy trình Phát triển</title>
-      <link>http://localhost:1313/vi/course_shortcourse/sc-smartcity/</link>
+      <link>https://www.iscm.ueh.edu.vn/vi/course_shortcourse/sc-smartcity/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/vi/course_shortcourse/sc-smartcity/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/vi/course_shortcourse/sc-smartcity/</guid>
       <description></description>
     </item>
     <item>
       <title>Yếu tố Tác động đến Đô thị Thông minh</title>
-      <link>http://localhost:1313/vi/course_shortcourse/sc-critical-factors-for-smart-city-development/</link>
+      <link>https://www.iscm.ueh.edu.vn/vi/course_shortcourse/sc-critical-factors-for-smart-city-development/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/vi/course_shortcourse/sc-critical-factors-for-smart-city-development/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/vi/course_shortcourse/sc-critical-factors-for-smart-city-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Chuyển Đổi Số trong Đô thị: Chính phủ Điện tử</title>
-      <link>http://localhost:1313/vi/course_shortcourse/sc-e-government/</link>
+      <link>https://www.iscm.ueh.edu.vn/vi/course_shortcourse/sc-e-government/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/vi/course_shortcourse/sc-e-government/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/vi/course_shortcourse/sc-e-government/</guid>
       <description></description>
     </item>
     <item>
       <title>Chương trình Đào tạo theo Nhu cầu</title>
-      <link>http://localhost:1313/vi/course_shortcourse/sc-chuong_trinh_dao_tao_theo_nhu_cau/</link>
+      <link>https://www.iscm.ueh.edu.vn/vi/course_shortcourse/sc-chuong_trinh_dao_tao_theo_nhu_cau/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/vi/course_shortcourse/sc-chuong_trinh_dao_tao_theo_nhu_cau/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/vi/course_shortcourse/sc-chuong_trinh_dao_tao_theo_nhu_cau/</guid>
       <description></description>
     </item>
     <item>
       <title>Ứng dụng Công nghệ trong Phát triển Đô thị Thông minh</title>
-      <link>http://localhost:1313/vi/course_shortcourse/sc-smartcity-development/</link>
+      <link>https://www.iscm.ueh.edu.vn/vi/course_shortcourse/sc-smartcity-development/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/vi/course_shortcourse/sc-smartcity-development/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/vi/course_shortcourse/sc-smartcity-development/</guid>
       <description></description>
     </item>
   </channel>

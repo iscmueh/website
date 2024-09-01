@@ -1,22 +1,24 @@
 <div class="card border-0 rounded-0 hover-shadow mb-5" style="height: 100%">
-  <img
-    class="card-img-top rounded-0"
-    src="{{ .Params.image | relURL }}"
-    alt="{{ .Title }}"
-    loading="lazy"
-  />
+  <figure style="height: 350px; overflow: hidden; object-position: top;">
+    <img
+      class="card-img-top rounded-0 object-fit-cover"
+      src="{{ .Params.image | relURL }}"
+      alt="{{ .Title }}"
+      loading="lazy"
+    />
+  </figure>
   <div class="card-body">
     <h4 class="card-title">
-      <a href="{{ .Permalink }}">{{ .Title | safeHTML }}</a>
+      <p style="font-weight: bold;">{{ .Title | safeHTML }}</p>
     </h4>
-    <p>{{ .Params.CourseTitle | safeHTML }}</p>
+    <p>{{ .Params.Course | safeHTML }}</p>
+    {{/*
     <p>{{ .Params.CourseCategory | safeHTML }}</p>
+    */}}
     <ul class="list-inline">
       {{ range .Params.Contact }}
       <li class="list-inline-item">
-        <a class="text-color" href="{{ .link | safeURL }}"
-          ><i class="{{ .icon }}"></i
-        ></a>
+        <p class="text-color"><i class="{{ .icon }}"></i></p>
       </li>
       {{ end }}
     </ul>

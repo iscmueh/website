@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/AdjunctProfs/leejongsang.JPG"
 # course
-course: "Giáo sư, Đại học Quốc gia Kongju"
+course: "Giáo sư, </br> Đại học Quốc gia Kongju, Hàn Quốc"
 position: ""
 # biograph
 bio: "GS. Lee Jongsang đang làm việc tại Khoa Phát Triển Cộng Đồng, Trường Khoa Học Công Nghiệp, Đại học Quốc Gia Kongju ."

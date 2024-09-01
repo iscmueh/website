@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/AdjunctProfs/nord.JPG"
 # course
-course: "Giáo sư Quy hoạch Không gian, Viện Kỹ Thuật Blekinge, BTH "
+course: "Giáo sư lĩnh vực Quy hoạch Không Gian,</br> Học viện Công nghệ Blekinge, Thụy Điển"
 position: ""
 # biograph
 bio: ""

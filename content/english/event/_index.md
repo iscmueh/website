@@ -4,5 +4,5 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description: "Stay tuned for more updates on ISCM’s news with diverse activities ranging from webinars, workshops to conferences and training programs that we collaborate with our partners from various sectors all over the world to organize."
+description: "Unbounded knowledge is one of the key things the Institute of Smart City and Management and our partners  believe in. As to take action on this, the institute regularly organizes webinars, seminars, conferences, workshops, and competitions for students and experts on various fields, mainly the Architectural, Urban Design, Technology, Smart and Sustainable City. "
 ---

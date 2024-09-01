@@ -8,7 +8,7 @@ description: "."
 # teacher portrait
 image: "images/team/AdjunctProfs/sung-jin-kang.jpeg"
 # course
-course: "Giáo sư,  Department of Economics, Viện trưởng Viện Nghiên cứu Kinh tế, Đại học Hàn Quốc."
+course: "Giáo sư. Khoa Kinh tế,</br> Đại học Hàn Quốc, Hàn Quốc"
 position: ""
 # biograph
 bio: ""

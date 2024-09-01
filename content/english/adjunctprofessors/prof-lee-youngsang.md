@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "images/team/AdjunctProfs/leejongsang.JPG"
 # course
-course: "Professor, Kongju National University"
+course: "Professor, </br> Kongju National University, Republic of Korea"
 position: ""
 # biograph
 bio: "Prof. Lee Jongsang is working at the Faculty of Community Development, College of Industrial Science, Kongju National University."
@@ -52,7 +52,7 @@ contact:
 
 # type
 type: "teacher"
-weight: 1
+weight: 2
 ---
 
 ### Academic and Research Profile
