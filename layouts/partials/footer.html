@@ -118,7 +118,7 @@
       
       <li class="mb-4">
         <a class="logo-footer" href="{{ site.Params.recruitURL | relLangURL }}">
-          <span class="logotext">Admission</span>  
+          <span class="logotext">{{ if eq (strings.ToLower .Language.Lang) "en"}}Admission{{else}}Tuyển Sinh{{end}}</span>  
           <img class="img-fluid mb-4" style="height:50px; margin-right: 20px;" src="{{ site.Params.ueh_link_recruit | absURL }}" alt="{{ site.Title }}">
           </a>
       </li>
@@ -142,13 +142,13 @@
       </li>
       <li class="mb-4">
         <a class="logo-footer" href="{{ site.Params.jobURL | relLangURL }}">
-          <span class="logotext">UEH Career for Student</span>    
+          <span class="logotext">{{ if eq (strings.ToLower .Language.Lang) "en"}}UEH Career for Student{{else}}Việc Làm UEH{{end}}</span>    
           <img class="img-fluid mb-4" style="height:50px; margin-right: 20px" src="{{ site.Params.ueh_link_job | absURL }}" alt="{{ site.Title }}">
           </a>
       </li>
       <li class="mb-4">
         <a class="logo-footer" href="{{ site.Params.informationURL | relLangURL }}">
-          <span class="logotext">UEH All in One</span>   
+          <span class="logotext">{{ if eq (strings.ToLower .Language.Lang) "en"}}UEH All in One{{else}}Tất Tần Tật Về UEH{{end}}</span>   
           <img class="img-fluid mb-4" style="height:50px; margin-right: 20px" src="{{ site.Params.ueh_link_information | absURL }}" alt="{{ site.Title }}">
           </a>
       </li>

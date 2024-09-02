@@ -8,7 +8,7 @@ description: "."
 # teacher portrait
 image: "/images/team/intern/khoi.jpg"
 # course
-course: "Intern"
+course: "IT Intern"
 position: ""
 # biograph
 bio: "Possessing a fervent passion for computer technologies, constantly staying ahead of trends in software development. Khoi tirelessly evolves his mindset and perspectives on life's challenges, fostering innovation and creativity in technological ideas. With the belief that knowledge is boundless, his career thrives on a continuous cycle of learning and research aimed at advancing software products."

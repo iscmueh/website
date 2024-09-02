@@ -21,12 +21,12 @@ Phát triển thành đơn vị hàng đầu trong việc nâng cao chất lư�
 
 ### Sứ mệnh
 
-Nâng cao chất lượng cuộc sống và môi trường bằng hoạt động giáo dục chất lượng, các dự án nghiên cứu chuyên sâu và giải quyết vấn đề thực tiễn với phương châm “Tư duy toàn cầu – Hành động địa phương”.
+- Nâng cao chất lượng cuộc sống và môi trường bằng hoạt động giáo dục chất lượng, các dự án nghiên cứu chuyên sâu và giải quyết vấn đề thực tiễn với phương châm “Tư duy toàn cầu – Hành động địa phương”.
 
-Giáo dục các thế hệ sinh viên về tư duy sáng tạo và phản biện, cập nhật tri thức thế giới, kỹ năng chuyên môn và ý thức bền vững.
+- Giáo dục các thế hệ sinh viên về tư duy sáng tạo và phản biện, cập nhật tri thức thế giới, kỹ năng chuyên môn và ý thức bền vững.
 
-Phát triển hệ thống Smart City StudioLab tích hợp tiên tiến nhất với không gian và trang thiết bị đầy đủ phục vụ nghiên cứu chuyên sâu.
+- Phát triển hệ thống Smart City StudioLab tích hợp tiên tiến nhất với không gian và trang thiết bị đầy đủ phục vụ nghiên cứu chuyên sâu.
 
-Tác động đến hoạt động quy hoạch, thiết kế và quản lý đô thị bằng cách thay đổi tư duy và vai trò của cộng đồng, chính quyền địa phương và các bên liên quan, định hướng phát triển đồng sáng tạo.
+- Tác động đến hoạt động quy hoạch, thiết kế và quản lý đô thị bằng cách thay đổi tư duy và vai trò của cộng đồng, chính quyền địa phương và các bên liên quan, định hướng phát triển đồng sáng tạo.
 
-Kết nối con người với con người, cộng đồng với cộng đồng. Từ đó, ISCM đặt mục tiêu xây dựng một cộng đồng đồng sáng tạo để cùng chung tay đưa ra giải pháp cho các vấn đề phát triển đô thị, hướng tới một cộng đồng thông minh, đầy sức sống, và bền vững.
+- Kết nối con người với con người, cộng đồng với cộng đồng. Từ đó, ISCM đặt mục tiêu xây dựng một cộng đồng đồng sáng tạo để cùng chung tay đưa ra giải pháp cho các vấn đề phát triển đô thị, hướng tới một cộng đồng thông minh, đầy sức sống, và bền vững.

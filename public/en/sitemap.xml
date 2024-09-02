@@ -15,17 +15,30 @@
                 href="https://www.iscm.ueh.edu.vn/consultancy/assetmanagement/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/course_undergraduate/bachelor-01/</loc>
+    <loc>https://www.iscm.ueh.edu.vn/course_undergraduate/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/course_undergraduate/bachelor-01/"
+                href="https://www.iscm.ueh.edu.vn/vi/course_undergraduate/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/course_undergraduate/bachelor-01/"
+                href="https://www.iscm.ueh.edu.vn/course_undergraduate/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/course_undergraduate/bachelor/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/course_undergraduate/bachelor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/course_undergraduate/bachelor/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/handong-global-uni/</loc>
@@ -3140,19 +3153,6 @@
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/apps/weibulllcc/</loc>
     <lastmod>2019-10-19T11:08:22+08:00</lastmod>
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/course_undergraduate/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/course_undergraduate/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/course_undergraduate/"
-                />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
