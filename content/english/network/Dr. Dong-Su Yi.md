@@ -1,13 +1,13 @@
 ---
 title: "Dr. Dong-Su Yi"
-draft: true
+draft: false
 
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # teacher portrait
-image: ""
+image: "/images/networks/Dr. Dong-Su Yi.jpg"
 # course
 course: "Vice Dean of School of Media Design </br> UEH University, Vietnam"
 
@@ -16,5 +16,5 @@ bio: ""
 # type
 type: "teacher"
 
-weight: 1
+weight: 15
 ---

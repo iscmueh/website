@@ -9,10 +9,10 @@
     <copyright>Bản Quyền của [ISCM](https://iscm.ueh.edu.vn) 2021</copyright>
     <atom:link href="https://www.iscm.ueh.edu.vn/vi/network/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>GS. Barbara E. A. Piga</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/network/barbara-piga/</link>
+      <title>GS. Kelly Shannon</title>
+      <link>https://www.iscm.ueh.edu.vn/vi/network/prof.kelly-shannon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/network/barbara-piga/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/vi/network/prof.kelly-shannon/</guid>
       <description></description>
     </item>
     <item>
@@ -23,38 +23,10 @@
       <description></description>
     </item>
     <item>
-      <title>GS. Derlie Mateo-Babiano</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/network/dr.-derlie-mateo-babiano/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/network/dr.-derlie-mateo-babiano/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>GS. Juhyun Lee</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/network/assist.prof.juhyun-lee/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/network/assist.prof.juhyun-lee/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>GS. Kelly Shannon</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/network/prof.kelly-shannon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/network/prof.kelly-shannon/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>GS. Marco Abbiati</title>
       <link>https://www.iscm.ueh.edu.vn/vi/network/prof.marco-abbiati/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.iscm.ueh.edu.vn/vi/network/prof.marco-abbiati/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>PGS. TS. Giuseppe Borruso</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/network/assoc.prof.giuseppe-borruso/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/network/assoc.prof.giuseppe-borruso/</guid>
       <description></description>
     </item>
     <item>
@@ -65,6 +37,13 @@
       <description></description>
     </item>
     <item>
+      <title>PGS. TS. Giuseppe Borruso</title>
+      <link>https://www.iscm.ueh.edu.vn/vi/network/assoc.prof.giuseppe-borruso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/vi/network/assoc.prof.giuseppe-borruso/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>PGS. TS. Pawinee Iamtrakul</title>
       <link>https://www.iscm.ueh.edu.vn/vi/network/assoc.prof.pawinee-iamtrakul/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -72,24 +51,31 @@
       <description></description>
     </item>
     <item>
-      <title>TS. Đặng Trí Dũng</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/network/dr.-tri-dung-dang/</link>
+      <title>PGS. TS. Jinhuyn Hong</title>
+      <link>https://www.iscm.ueh.edu.vn/vi/network/assoc.prof.jinhuyn-hong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/network/dr.-tri-dung-dang/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/vi/network/assoc.prof.jinhuyn-hong/</guid>
       <description></description>
     </item>
     <item>
-      <title>TS. Harvey Neo</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/network/dr.-harvey-neo/</link>
+      <title>GS. Juhyun Lee</title>
+      <link>https://www.iscm.ueh.edu.vn/vi/network/assist.prof.juhyun-lee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/network/dr.-harvey-neo/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/vi/network/assist.prof.juhyun-lee/</guid>
       <description></description>
     </item>
     <item>
-      <title>TS. Kon Kim</title>
-      <link>https://www.iscm.ueh.edu.vn/vi/network/dr.-kon-kim/</link>
+      <title>Assist. Prof. Barbara E. A. Piga</title>
+      <link>https://www.iscm.ueh.edu.vn/vi/network/assist.-prof.-barbara-e.-a.-piga/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.iscm.ueh.edu.vn/vi/network/dr.-kon-kim/</guid>
+      <guid>https://www.iscm.ueh.edu.vn/vi/network/assist.-prof.-barbara-e.-a.-piga/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TS. Donyun Kim</title>
+      <link>https://www.iscm.ueh.edu.vn/vi/network/dr.-donyun-kim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/vi/network/dr.-donyun-kim/</guid>
       <description></description>
     </item>
     <item>
@@ -100,6 +86,20 @@
       <description></description>
     </item>
     <item>
+      <title>TS. Đặng Trí Dũng</title>
+      <link>https://www.iscm.ueh.edu.vn/vi/network/dr.-tri-dung-dang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/vi/network/dr.-tri-dung-dang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TS. Serge Victor</title>
+      <link>https://www.iscm.ueh.edu.vn/vi/network/dr-eng.-serge-victor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/vi/network/dr-eng.-serge-victor/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>TS. Rafael Martinez</title>
       <link>https://www.iscm.ueh.edu.vn/vi/network/dr.-rafael-martinez/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -107,10 +107,59 @@
       <description></description>
     </item>
     <item>
+      <title>TS. Dong-Su Yi</title>
+      <link>https://www.iscm.ueh.edu.vn/vi/network/dr.-dong-su-yi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/vi/network/dr.-dong-su-yi/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>TS. Yongjun Shen</title>
       <link>https://www.iscm.ueh.edu.vn/vi/network/dr.-yongjun-shen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.iscm.ueh.edu.vn/vi/network/dr.-yongjun-shen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TS. Sebastien Goethals</title>
+      <link>https://www.iscm.ueh.edu.vn/vi/network/dr.-sebastien-goethals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/vi/network/dr.-sebastien-goethals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TS. Harvey Neo</title>
+      <link>https://www.iscm.ueh.edu.vn/vi/network/dr.-harvey-neo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/vi/network/dr.-harvey-neo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TS. Cristian Carenini</title>
+      <link>https://www.iscm.ueh.edu.vn/vi/network/dr.-cristian-carenini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/vi/network/dr.-cristian-carenini/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TS. Sheilah G. Napalang</title>
+      <link>https://www.iscm.ueh.edu.vn/vi/network/dr.-ma.-sheilah-g.-napalang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/vi/network/dr.-ma.-sheilah-g.-napalang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GS. Derlie Mateo-Babiano</title>
+      <link>https://www.iscm.ueh.edu.vn/vi/network/dr.-derlie-mateo-babiano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/vi/network/dr.-derlie-mateo-babiano/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TS. Kon Kim</title>
+      <link>https://www.iscm.ueh.edu.vn/vi/network/dr.-kon-kim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/vi/network/dr.-kon-kim/</guid>
       <description></description>
     </item>
   </channel>

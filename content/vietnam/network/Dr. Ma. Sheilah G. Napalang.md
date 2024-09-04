@@ -1,5 +1,5 @@
 ---
-title: "GS. Barbara E. A. Piga"
+title: "TS. Sheilah G. Napalang"
 draft: false
 
 # page title background image
@@ -7,15 +7,14 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description: ""
 # teacher portrait
-image: "images/team/barbara-piga.jpg"
+image: "/images/networks/Dr. Ma. Sheilah G. Napalang.jpg"
 # course
-courseCategory: "Politecnico di Milano (POLIMI)"
-course: "Giáo sư </br> Đại học Bách Khoa Milano, Ý"
+course: "GS. Khoa Quy hoạch vùng và đô thị </br> Đại học Philippines, Philippines"
 
 # biography
 bio: ""
 # type
 type: "teacher"
 
-weight: 1
+weight: 20
 ---

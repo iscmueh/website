@@ -1,13 +1,13 @@
 ---
 title: "Dr. Donyun Kim"
-draft: true
+draft: false
 
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # teacher portrait
-image: ""
+image: "/images/networks/Dr. Donyun Kim.jpg"
 # course
 course: "Director of Smart Green City Lab </br> Smart Green City Lab, Republic of Korea"
 
@@ -16,5 +16,5 @@ bio: ""
 # type
 type: "teacher"
 
-weight: 1
+weight: 10
 ---

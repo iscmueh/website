@@ -1,5 +1,5 @@
 ---
-title: "Barbara E. A. Piga"
+title: "Assist. Prof. Barbara E. A. Piga"
 draft: false
 
 # page title background image
@@ -9,13 +9,12 @@ description : ""
 # teacher portrait
 image: "images/team/barbara-piga.jpg"
 # course
-courseCategory: "Politecnico di Milano (POLIMI)"
-course: "Assistant Professor at the Politecnico di Milano (POLIMI)"
+course: "Assistant Professor </br> Politecnico di Milano, Italy"
 
 # biography
 bio: ""
 # type
 type: "teacher"
 
-weight: 1
+weight: 9
 ---

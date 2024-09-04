@@ -1,13 +1,13 @@
 ---
 title: "Dr. Cristian Carenini"
-draft: true
+draft: false
 
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # teacher portrait
-image: ""
+image: "/images/networks/Dr. Cristian Carenini.jpg"
 # course
 course: "Lecturer </br> UEH University, Viet Nam"
 
@@ -16,5 +16,5 @@ bio: ""
 # type
 type: "teacher"
 
-weight: 1
+weight: 18
 ---

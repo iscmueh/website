@@ -1,13 +1,13 @@
 ---
 title: "Assoc. Prof. Jinhuyn Hong"
-draft: true
+draft: false
 
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description: ""
 # teacher portrait
-image: ""
+image: "/images/networks/Assoc. Prof. Jinhuyn Hong.jpg"
 # course
 course: "Head of Department of Smart Cities </br> University of Seoul, Republic of Korea"
 
@@ -16,5 +16,5 @@ bio: ""
 # type
 type: "teacher"
 
-weight: 1
+weight: 7
 ---
