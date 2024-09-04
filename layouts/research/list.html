@@ -3,15 +3,29 @@
 <!-- research -->
 <section class="section">
   <div class="container">
-    <p style="font-size: 30px; font-weight: bold">
-      {{ $pageLang := .Page.Lang}} {{ if eq $pageLang "vi"}} Dự án Hiện tại {{
-      else}} Current Project {{end}}
-    </p>
     <div class="row">
-      {{ range .Data.Pages}}
-      <!-- recharch item -->
-      <div class="col-lg-4 col-sm-6 mb-4">{{ .Render "research" }}</div>
-      {{ end }}
+      <p style="width: 100%; font-size: 30px; font-weight: bold">
+        {{ $pageLang := .Page.Lang}} {{ if eq $pageLang "vi"}} Dự Án {{ else}}
+        Project {{end}}
+      </p>
+      <div class="row">
+        {{ range (where .Data.Pages ".Params.researchType" "projects")}}
+        <!-- recharch item -->
+        <div class="col-12 mb-4">{{ .Render "project" }}</div>
+        {{ end }}
+      </div>
+    </div>
+    <div class="row">
+      <p style="width: 100%; font-size: 30px; font-weight: bold">
+        {{ $pageLang := .Page.Lang}} {{ if eq $pageLang "vi"}} Bài Báo {{ else}}
+        Publications {{end}}
+      </p>
+      <div class="row">
+        {{ range (where .Data.Pages ".Params.researchType" "publications")}}
+        <!-- recharch item -->
+        <div class="col-12 mb-4">{{ .Render "research" }}</div>
+        {{ end }}
+      </div>
     </div>
   </div>
 </section>

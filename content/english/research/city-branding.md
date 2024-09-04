@@ -5,6 +5,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : " "
 # Event image
 image: "images/research/city-branding-2.jpg"
+draft: true
 ---
 
 Cities compete among others in the context of globalization. ISCM-UEH is working to make a marketing plan for Ho Chi Minh City that focuses on safe zones for kids.  

@@ -7,15 +7,84 @@
       <div class="col-12">
         <h2 class="section-title">{{ .Title }}</h2>
       </div>
-      <!-- research image -->
-      <div class="col-12 mb-4">
-        <img style="height: 500px;width: 100%;object-fit: contain;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
-      </div>
     </div>
     <!-- research details -->
+    <div class="row" style="align-items: center">
+      {{/*
+      <div class="text-justify col-12 mb-50 content">{{ .Content }}</div>
+      */}} {{ if .Params.authors}}
+      <div class="col-12">
+        <span style="margin-right: 4px; margin-bottom: 8px; font-weight: bold"
+          >Authors:</span
+        >
+        {{ range .Params.authors }}
+        <span
+          style="
+            display: inline-block;
+            width: fit-content;
+            cursor: pointer;
+            padding: 1px 10px;
+            background: #ccc;
+            margin: 0 4px 8px 0;
+            border-radius: 20px;
+          "
+          title="{{.name}} - {{ .title}}"
+          ><p style="margin: 0; font-size: 15px">{{.name}}</p></span
+        >
+        {{ end}}
+      </div>
+      {{end}}
+    </div>
+
+    {{ if .Params.doi}}
     <div class="row">
+      <div class="col-12">
+        <span style="font-weight: bold">Doi:</span>
+        <a href="{{.Params.doi | relURL}}" style="font-size: 17px"
+          >{{.Params.doi}}</a
+        >
+      </div>
+    </div>
+    {{end}}
+
+    <div style="height: 1px; background: #ccc; margin: 40px 0"></div>
+
+    <div class="row">
+      {{ if .Params.image}}
+      <div class="col-12 mb-4">
+        <img
+          style="height: 500px; width: 100%; object-fit: contain"
+          src="{{ .Params.image | relURL }}"
+          alt="{{ .Title }}"
+          class="img-fluid w-100"
+        />
+      </div>
+      {{end}} {{ if .Params.abstract }}
+      <span
+        class="col-12"
+        style="font-size: 26px; font-weight: bold; margin-bottom: 10px"
+        >Abstract</span
+      >
       <div class="text-justify col-12 mb-50 content">
-        {{ .Content }}
+        {{ .Params.abstract }}
+      </div>
+      {{end}} {{ if .Params.keywords }}
+      <div class="text-justify col-12 content" style="margin-bottom: 30px">
+        <span style="font-size: 16px; font-weight: bold; margin-bottom: 10px"
+          >Keywords:</span
+        >
+        <span>{{range .Params.keywords}} {{.}} {{ end}}</span>.
+      </div>
+      <div class="text-justify col-12 content">
+        <span style="font-size: 16px; font-weight: bold; margin-bottom: 10px"
+          >Cite this article:</span
+        >
+        <span>{{.Params.citation | markdownify}}</span>.
+      </div>
+      {{end}}
+
+      <div class="row">
+        <div class="col-12 mb-50 content">{{ .Content | safeHTML }}</div>
       </div>
     </div>
   </div>
