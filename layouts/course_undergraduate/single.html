@@ -16,7 +16,7 @@
     <!-- course info -->
     <div class="row align-items-center mb-5">
       <div class="col-xl-7 order-1 col-sm-6 mb-4 mb-xl-0">
-        <h2>{{ .Params.Post }}</h2>
+        <h2>{{ .Title | markdownify }}</h2>
       </div>
       <div class="col-xl-5 order-sm-3 order-xl-2 col-12 order-2">
         <ul class="list-inline text-xl-center">
@@ -64,10 +64,11 @@
       </div>
     </div>
     <!-- course details -->
+    {{ $content_parts := split .Content "<!-- |||| -->" }}
     <div class="row">
-      <div class="col-12 mb-4 content">
-        {{ .Content }} {{ if .Params.courseStructureYear }} {{ if eq (trim
-        site.Language " ") "en"}}
+      <div class="col-12 mb-4 content text-jusitfy">
+        {{ index $content_parts 1 | markdownify}} {{ if
+        .Params.courseStructureYear }} {{ if eq (trim site.Language " ") "en"}}
         <h4>Program structure</h4>
         {{else}}
         <h4>Cấu trúc chương trình</h4>
@@ -100,7 +101,11 @@
           />
         </figure>
         {{ end }}
+        <div class="col-12 mt-4 order-4">
+          <div class="border-bottom border-primary"></div>
+        </div>
       </div>
+
       <!-- teacher -->
       <!--
       <div class="col-12">
@@ -127,80 +132,98 @@
         <div class="border-bottom border-primary mt-4"></div>
       </div> -->
     </div>
-    <!-- contact form -->
-<!-- contact form -->
-  <div class="row flex-column align-items-center">
-    <h2>{{ i18n "contact_information_for_queries" }}</h2>
-    <form class="contact-form col-12 col-md-6">
-      <div>
-        <label for="name">{{ i18n "full_name" }}</label>
-        <input
-          type="text"
-          name="name"
-          id="name"
-          placeholder="{{ i18n "enter_your_fullname" }}"
-        />
+    <div class="row">
+      <div class="row">
+        <h2 class="col-12 mb-4">
+          DUAL DEGREE WITH UNIVERSITY OF AUCKLAND, NEW ZEALAND
+        </h2>
       </div>
-      <div>
-        <label for="email">{{ i18n "email" }}</label>
-        <input
-          type="email"
-          name="email"
-          id="email"
-          placeholder="{{ i18n "enter_your_email" }}"
-        />
-      </div>
-      <div>
-        <label for="phone">{{ i18n "phone_number" }}</label>
-        <input
-          type="text"
-          name="phone"
-          id="phone"
-          placeholder="{{ i18n "enter_your_phone_number" }}"
-        />
-      </div>
-      <div>
-        <label for="work-place">{{ i18n "work_place_or_study_place" }}</label>
-        <input
-          type="text"
-          name="workplace"
-          id="work-place"
-          placeholder="{{ i18n "enter_your_work_place_or_study_place" }}"
-        />
-      </div>
-      <div>
-        <label for="question">{{ i18n "your_question" }}</label>
-        <div class="question-editor">
-          <textarea
-            name="question"
-            placeholder="{{ i18n "enter_your_question_here" }}"
-          ></textarea>
+      <div class="row">
+        <div class="col-7 mb-4 content text-jusitfy">
+          <p style="color: #5e5e5f; text-align: justify">
+            <h3>{{ if eq (strings.ToLower .Language.Lang) "en"}} Bachelor of Architectural and Urban Design Inclusive Smart City {{else}} Cử nhân Kiến trúc và Thiết kế Đô thị Thông minh{{end}}</h3>
+            <h4 style="color: inherit">{{ if eq (strings.ToLower .Language.Lang) "en"}} University of Economics Ho Chi Minh City, Viet Nam {{else}}  Đại học Kinh tế TP. Hồ Chí Minh, Việt Nam {{end}}</h4>
+            <h3>{{ if eq (strings.ToLower .Language.Lang) "en"}} Bachelor of Architecture {{else}}Cử nhân Kiến trúc{{end}}</h3>
+            <h4 style="color: inherit">{{ if eq (strings.ToLower .Language.Lang) "en"}}University of Auckland, New Zealand {{else}}Đại học Auckland, New Zealand {{end}}</h4>
+          </p>
+          {{ index $content_parts 2 | markdownify}}
         </div>
+        <span class="col-5">{{ .Params.ytbEmbed | safeHTML }}</span>
       </div>
-      <button type="submit">{{ i18n "send" }}</button>
-    </form>
-    <script>
-      const form = document.getElementsByClassName("contact-form")[0];
+    </div>
+    <!-- contact form -->
+    <!-- contact form -->
+    <div class="row flex-column align-items-center">
+      <h2>{{ i18n "contact_information_for_queries" }}</h2>
+      <form class="contact-form col-12 col-md-6">
+        <div>
+          <label for="name">{{ i18n "full_name" }}</label>
+          <input
+            type="text"
+            name="name"
+            id="name"
+            placeholder='{{ i18n "enter_your_fullname" }}'
+          />
+        </div>
+        <div>
+          <label for="email">{{ i18n "email" }}</label>
+          <input
+            type="email"
+            name="email"
+            id="email"
+            placeholder='{{ i18n "enter_your_email" }}'
+          />
+        </div>
+        <div>
+          <label for="phone">{{ i18n "phone_number" }}</label>
+          <input
+            type="text"
+            name="phone"
+            id="phone"
+            placeholder='{{ i18n "enter_your_phone_number" }}'
+          />
+        </div>
+        <div>
+          <label for="work-place">{{ i18n "work_place_or_study_place" }}</label>
+          <input
+            type="text"
+            name="workplace"
+            id="work-place"
+            placeholder='{{ i18n "enter_your_work_place_or_study_place" }}'
+          />
+        </div>
+        <div>
+          <label for="question">{{ i18n "your_question" }}</label>
+          <div class="question-editor">
+            <textarea
+              name="question"
+              placeholder='{{ i18n "enter_your_question_here" }}'
+            ></textarea>
+          </div>
+        </div>
+        <button type="submit">{{ i18n "send" }}</button>
+      </form>
+      <script>
+        const form = document.getElementsByClassName("contact-form")[0];
 
-      form.addEventListener("submit", (e) => {
-        e.preventDefault();
+        form.addEventListener("submit", (e) => {
+          e.preventDefault();
 
-        let data = new FormData(form);
-        data.append("sheet", "Undergraduate");
+          let data = new FormData(form);
+          data.append("sheet", "Undergraduate");
 
-        fetch(
-          "https://script.google.com/macros/s/AKfycbyVJApSU_6-Zts9Px9fyrRAT3vZr0n-PrTB8mz2kAuTQ4TbVTxaOHrjxGnrSxKsz4toow/exec",
-          {
-            method: "POST",
-            body: data,
-          }
-        ).then(() => {
-          location.reload();
+          fetch(
+            "https://script.google.com/macros/s/AKfycbyVJApSU_6-Zts9Px9fyrRAT3vZr0n-PrTB8mz2kAuTQ4TbVTxaOHrjxGnrSxKsz4toow/exec",
+            {
+              method: "POST",
+              body: data,
+            }
+          ).then(() => {
+            location.reload();
+          });
         });
-      });
-    </script>
-  </div>
-
+      </script>
+    </div>
   </div>
 </section>
 <!-- /section -->

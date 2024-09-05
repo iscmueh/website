@@ -7,7 +7,7 @@ researchType: publications
 
 abstract: With fast-growing aviation markets, many developing countries are showing remarkable economic development in global terms. As significant growth of air transportation is crucially interrelated with regional growth, it is essential to identify relevant criteria to ensure effective allocation of investments in this regard. This study aimed to investigate airport centrality using social network analysis to detect the key hubs and examine the interrelationship between airport centrality and regional economy indicators in Vietnamese regions. The results revealed that the cities of Tan Son Nhat, Noi Bai, and Da Nang were the key regional hub airports in the air transport network and the development of these leading cities had played a significant role in promoting the improvement of the entire domestic air network. Moreover, the results showed a strong positive correlation between airport centrality and regional growth features. Therefore, policymakers can optimize their decision-making processes in relation to sustainable regional development by considering air transport mobility and network in addition to conventional socioeconomic criteria.
 
-image: /images/research/Towards A Sustainable University Transition Model For Emerging Markets.jpg
+image: /images/research/plane-3d-rendering.jpg
 
 authors:
   - name: Trinh Tu Anh

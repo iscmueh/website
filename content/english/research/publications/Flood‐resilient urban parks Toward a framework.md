@@ -7,7 +7,7 @@ researchType: publications
 
 abstract: Coastal cities are increasingly suffering from flooding events. At the same time,these cities are experiencing a process of rapid urbanisation. This paper introduces“flood‐resilient urban parks”as a strategy to address both challenges. It presents a working definition and proposes a conceptual framework to start developing suchparks.
 
-image: /images/research/Towards A Sustainable University Transition Model For Emerging Markets.jpg
+image: /images/research/tony-lam-hoang-BYaJlr6-GqY-unsplash.jpg
 
 authors:
   - name: Trinh Tu Anh

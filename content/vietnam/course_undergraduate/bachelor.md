@@ -28,8 +28,9 @@ courseStuctureImage: ["/images/courses/structure/bachelor.jpg"]
 summary: " "
 post: "Kiến Trúc và Thiết Kế Đô Thị Thông Minh"
 weight: 1
+ytbEmbed: <iframe width="100%" height="350px" src="https://www.youtube.com/embed/WugKCfyHpaE?si=9QIb5lCuvBm4qsHX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
-
+<!-- |||| -->
 #### Giới Thiệu Chung:
 
 Chương trình Cử nhân Kiến trúc và thiết kế đô thị thông minh được xây dựng theo tiêu chuẩn quốc tế và trang bị kiến thức chuyên môn trong nhiều lĩnh vực như kiến trúc cảnh quan, giao thông và cơ sở hạ tầng, kinh tế, xã hội, môi trường và công nghệ hiện đại trong kiến trúc và thiết kế đô thị để phát triển thành phố thông minh.
@@ -64,3 +65,20 @@ Sau khi tốt nghiệp, sinh viên có khả năng làm việc hiệu quả tron
 Việt/Anh
 
 #### [Bấm vào đây để xem chi tiết](https://www.ueh.edu.vn/dao-tao/dai-hoc-chinh-quy/cu-nhan-chinh-quy-chuan/kien-truc-va-thiet-ke-do-thi-thong-minh/?fbclid=IwAR2NpSrtyKgf7cPVM--jJOa42jbvd-inHWMR1ULdk9jFbr3KvYR_8rTCuDU)
+
+<!-- |||| -->
+
+### Chương trình song bằng
+
+Chương trình Cử nhân Song bằng hấp dẫn với sự kết hợp giữa giáo trình tiến bộ và một môi trường hợp tác học tập đặc biệt để phát triển tính sáng tạo, nghệ thuật và năng lực đổi mới sáng tạo. Cơ hội du học với chi phí hợp lý, học về Kiến trúc, quy hoạch đô thị sáng tạo tại Thành phố Thông minh hàng đầu thế giới
+
+### Về ĐH Auckland
+
+Đại học Bền vững hàng đầu thế giới
+Được thành lập vào năm 1883, Đại học Auckland (Waipapa Taumata Rau) là đại học lớn nhất New Zealand với hơn 40,000 sinh viên, cùng 10,000 sinh viên tốt nghiệp hàng năm. 2024, Đại học Auckland đã trở thành đại học bền vững hàng đầu, với Top 1 Châu Đại Dương, và Top 5 Thế giới, theo  QS World University Sustainability Rankings.
+
+### Về Thành phố Auckland
+
+Thành phố Auckland - một thành phố hiện đại, đa văn hóa, nhận được nhiều đánh giá là điểm đến hoàn hảo cho du học sinh từ các nước. Nằm ở phía bắc New Zealand, Auckland sở hữu vẻ đẹp của kiến trúc châu Âu, đan xen với cảnh quan thiên nhiên được quy hoạch hiệu quả và thông minh.
+
+{{<img imgSrc="/images/courses/auckland1.jpg" >}}

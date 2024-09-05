@@ -7,7 +7,7 @@ researchType: publications
 
 abstract: High school students are overrepresented in traffic crashes, compared to other subgroups of students in Vietnam. Traffic safety education can increase students’ knowledge and skills, but faces issues regarding psychological factors including engagement, motivation, and attitude. Gamification has a great potential to tackle these issues. This research aimed to explore the effectiveness of traffic safety education, through a gamified platform, on students’ knowledge and skills about traffic safety, and their engagement, motivation, and attitude towards traffic safety education before and after following this platform by online questionnaires. Findings show that the platform is not only advantageous to measure students’ learning outcomes regarding traffic safety knowledge and skills which are categorized based on their socio-demographic characteristics, but also generates engagement, motivation, and positive attitudes towards traffic safety education. In an effort to increase the effectiveness of traffic safety education, gamified platform is suggested as an innovative and effective teaching method for traffic safety education in Vietnam.
 
-image: /images/research/Towards A Sustainable University Transition Model For Emerging Markets.jpg
+image: /images/research/close-up-small-cars-model-road-traffic-conception (1).jpg
 
 authors:
   - name: Pham Nguyen Hoai

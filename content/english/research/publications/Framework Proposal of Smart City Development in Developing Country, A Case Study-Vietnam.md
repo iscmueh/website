@@ -7,7 +7,7 @@ researchType: publications
 
 abstract: Smart City has been determined as the key solution for urbanization which is considered as the inevitable trend of urban areas. There are many cities aim for the goals to become Smart City, but mostly failed because of different challenges. There is a desire for Smart City strategy of developing countries which having cities that begin to significantly face with the difficulties of urbanization process. This study offered a revolutionary smart city approach and framework for implementation in developing countries considering Vietnam cities as the case studies. Based on the revision for critical factors and journey of Smart City development of successful smart cities globally, the study proposed groups of solutions and framework for building Smart City effectively towards the sustainability in developing countries.
 
-image: /images/research/Towards A Sustainable University Transition Model For Emerging Markets.jpg
+image: /images/research/photo-1593407741958-59550f282621.avif
 
 authors:
   - name: Le Thi Hanh An

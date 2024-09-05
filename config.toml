@@ -198,7 +198,7 @@ weight = 3
   parent= "Education"
   weight = 1
   name="Undergraduate"
-  url="course_undergraduate"
+  url="/course_undergraduate/bachelor/"
 
   [[Languages.en.menu.main]]
   parent="Education"
@@ -454,7 +454,7 @@ weight = 3
   parent= "Giáo Dục"
   weight=1
   name="Đại Học"
-  url="course_undergraduate"
+  url="/course_undergraduate/bachelor/"
 
   [[Languages.vi.menu.main]]
   parent="Giáo Dục"

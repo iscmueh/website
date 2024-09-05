@@ -7,7 +7,7 @@ researchType: publications
 
 abstract: This article addresses the topical issue of ‘water urbanism’ (Shannon et al., 2008; De Meulder, Shannon, 2013), focusing on the case of an urban sector of Ho Chi Minh City (Vietnam) where research by design experiences have been developed through collaboration between a number of universities. Conclusions outline some considerations for future research, design, and urban policies perspectives.
 
-image: /images/research/Towards A Sustainable University Transition Model For Emerging Markets.jpg
+image: /images/research/photo1650427694689-16504276947891542975642.webp
 
 authors:
   - name: Elena Marchigiani
