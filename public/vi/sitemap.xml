@@ -2,19 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/partner/handong-global-uni/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/handong-global-uni/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/handong-global-uni/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/course_undergraduate/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -215,19 +202,6 @@
                 href="https://www.iscm.ueh.edu.vn/vi/members/dr-trinh-tu-anh/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/partner/hasselt-uni/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/hasselt-uni/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/hasselt-uni/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/consultancy/spatial-analysis/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -337,19 +311,6 @@
                 href="https://www.iscm.ueh.edu.vn/vi/advisory/dr-park-young-june/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/partner/bth/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/bth/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/bth/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/consultancy/tdd/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -436,33 +397,800 @@
                 href="https://www.iscm.ueh.edu.vn/vi/scholarship/international-phds/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/aip/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/aip/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/aip/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/arc/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/arc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/arc/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/arup/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/arup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/arup/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/avansuni/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/avansuni/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/avansuni/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/blekinge/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/blekinge/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/blekinge/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/busarchitecture/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/busarchitecture/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/busarchitecture/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/chula/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/chula/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/chula/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/concordia/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/concordia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/concordia/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/cpg/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/cpg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/cpg/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/dsu/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/dsu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/dsu/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/consultancy/traffic-impact-assessment/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/partner/auckland/</loc>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/encity/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/auckland/"
+                href="https://www.iscm.ueh.edu.vn/partner/encity/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/auckland/"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/encity/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/partner/trieste-uni/</loc>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/encon/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/trieste-uni/"
+                href="https://www.iscm.ueh.edu.vn/partner/encon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/trieste-uni/"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/encon/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/fukuoka/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/fukuoka/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/fukuoka/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/gh-company/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/gh-company/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/gh-company/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/handong/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/handong/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/handong/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/handong-global/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/handong-global/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/handong-global/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/hcmut/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/hcmut/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/hcmut/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/hte-global/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/hte-global/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/hte-global/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/ecoresearch/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/ecoresearch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/ecoresearch/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/iotlink/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/iotlink/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/iotlink/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/kbet/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/kbet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/kbet/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/koreauni/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/koreauni/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/koreauni/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/ku-leuven/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/ku-leuven/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/ku-leuven/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/kwangwoon/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/kwangwoon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/kwangwoon/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/kyotouni/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/kyotouni/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/kyotouni/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/kyungsung/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/kyungsung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/kyungsung/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/lecnam/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/lecnam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/lecnam/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/masseyuni/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/masseyuni/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/masseyuni/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/mit/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/mit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/mit/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/nit/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/nit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/nit/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/ntt/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/ntt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/ntt/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/omgeving/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/omgeving/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/omgeving/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/phobendoi/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/phobendoi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/phobendoi/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/playzedu/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/playzedu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/playzedu/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/politecnico/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/politecnico/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/politecnico/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/portlandstate/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/portlandstate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/portlandstate/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/saxion/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/saxion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/saxion/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/schoolab/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/schoolab/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/schoolab/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/seocho/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/seocho/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/seocho/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/seoulnationaluni/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/seoulnationaluni/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/seoulnationaluni/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/singapore/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/singapore/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/singapore/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/skku/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/skku/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/skku/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/taltech/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/taltech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/taltech/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/tampere/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/tampere/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/tampere/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/thammasat/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/thammasat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/thammasat/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/melbourne/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/melbourne/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/melbourne/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/sydney/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/sydney/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/sydney/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/trieste/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/trieste/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/trieste/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/hasselt/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/hasselt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/hasselt/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/unai/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/unai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/unai/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/unimc/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/unimc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/unimc/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/universit%C3%A0-degli-studi-di-milano/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/universit%C3%A0-degli-studi-di-milano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/universit%C3%A0-degli-studi-di-milano/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/ngurahrai/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/ngurahrai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/ngurahrai/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/uoa/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/uoa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/uoa/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/usj_macao/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/usj_macao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/usj_macao/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/vic/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/vic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/vic/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/vietai/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/vietai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/vietai/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/wasteaid/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/wasteaid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/wasteaid/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/wsu/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/wsu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/wsu/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/wscf/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/wscf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/wscf/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/xjtlu/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/xjtlu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/xjtlu/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/course_shortcourse/sc-critical-factors-for-smart-city-development/</loc>
@@ -476,6 +1204,19 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/course_shortcourse/sc-critical-factors-for-smart-city-development/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/partner/yonsei/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/yonsei/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/yonsei/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/adjunctprofessors/prof-elena-marchigiani/</loc>
@@ -553,19 +1294,6 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/consultancy/traffic-modelling/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/partner/politech-minalo/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/politech-minalo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/politech-minalo/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/activities/sudoc-2022/</loc>
@@ -654,19 +1382,6 @@
                 href="https://www.iscm.ueh.edu.vn/vi/members/sandhya/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/partner/visco/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/visco/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/visco/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/network/assoc.prof.jinhuyn-hong/</loc>
     <xhtml:link
                 rel="alternate"
@@ -689,19 +1404,6 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/members/dr-nam-le/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/partner/hteglobal/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/hteglobal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/hteglobal/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/network/assist.prof.juhyun-lee/</loc>
@@ -728,19 +1430,6 @@
                 href="https://www.iscm.ueh.edu.vn/vi/members/msc-hoai-pham/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/partner/thekie/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/thekie/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/thekie/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/network/assist.-prof.-barbara-e.-a.-piga/</loc>
     <xhtml:link
                 rel="alternate"
@@ -763,19 +1452,6 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/members/msc-le-viet/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/partner/pbd/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/pbd/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/pbd/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/members/msc-tam-do/</loc>
@@ -814,19 +1490,6 @@
                 href="https://www.iscm.ueh.edu.vn/vi/members/dr-khang-huynh/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/partner/bharchitect/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/bharchitect/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/bharchitect/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/members/mar-steven/</loc>
     <xhtml:link
                 rel="alternate"
@@ -849,19 +1512,6 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/network/dr.-nguyen-anh-tuan/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/partner/iotlink/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/iotlink/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/iotlink/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/members/msc-le-an/</loc>
@@ -888,19 +1538,6 @@
                 href="https://www.iscm.ueh.edu.vn/vi/network/dr.-tri-dung-dang/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/partner/kbet/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/kbet/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/kbet/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/network/dr-eng.-serge-victor/</loc>
     <xhtml:link
                 rel="alternate"
@@ -911,19 +1548,6 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/network/dr-eng.-serge-victor/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/partner/omgeving/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/omgeving/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/omgeving/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/members/phuong-dung/</loc>
@@ -950,19 +1574,6 @@
                 href="https://www.iscm.ueh.edu.vn/vi/network/dr.-rafael-martinez/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/partner/unai/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/unai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/unai/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/members/msc-hai-hoang/</loc>
     <xhtml:link
                 rel="alternate"
@@ -985,19 +1596,6 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/network/dr.-dong-su-yi/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/partner/unesco/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/unesco/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/unesco/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/members/b.arch.-nguyen-hoang-phuc/</loc>
@@ -1034,19 +1632,6 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/network/dr.-yongjun-shen/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/partner/witl/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/witl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/witl/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/members/le-phuc-toan/</loc>
@@ -1095,19 +1680,6 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/network/dr.-harvey-neo/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/partner/wscf/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/wscf/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/wscf/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/members/staff-dang-ngan/</loc>

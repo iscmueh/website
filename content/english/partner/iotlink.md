@@ -7,9 +7,9 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 #description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # Research image
-image: "images/partners/IOT.jpg"
+image: "/images/partners/cropped-IOTLink-logo-for-intro.webp"
 # type
 type: "network"
 
-weight: 12
+weight: 4
 ---
