@@ -5,7 +5,7 @@ author: iscm
 bg_image: "images/backgrounds/page-title.jpg"
 description : " "
 # Event image
-image: "images/competitive/carbon/background.png"
+image: "images/competitive/carbon/background.jpg"
 overview_01: "For many years, Climate change has affected the entire world, with many negative outcomes such as the high appearance rate of extreme weather conditions, the rapidly rising sea levels, ocean acidification and loss of biodiversity. An action that is said to be efficient to minimize this negative phenomenon is to limit global warming to only 1.5 degrees Celsius - a threshold the Intergovernmental Panel for Climate Change (IPCC) suggests is safe - by the target to be carbon neutrality by mid-21st century."
 
 overview_02: "This competition is for our endeavor to promote the ambition of turning the world towards a neutral carbon future in the architectural and urban related perspective through encouraging the participants to propose an alternative method to achieve sustainable urban initiatives. In order to accomplish this, competitors are asked to explore the possibilities of urban intervention housing, urban space, and technology implementation that can lead to positive carbon changes on a larger scale. Participants are free to either extend these existing and transform them or propose a new design on a selected site."
