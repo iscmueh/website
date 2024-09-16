@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/symbol01_01.jpg"
 # type
 type: "network"
-
+link: https://www.kw.ac.kr/en/
 weight: 4
 ---

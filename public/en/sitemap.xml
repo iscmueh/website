@@ -435,19 +435,6 @@
                 href="https://www.iscm.ueh.edu.vn/partner/aip/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/partner/arc/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/arc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/arc/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/arup/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -511,6 +498,32 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/partner/chula/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/partner/wasteaid/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/wasteaid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/wasteaid/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/partner/lecnam/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/lecnam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/lecnam/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/concordia/</loc>
@@ -643,6 +656,19 @@
                 href="https://www.iscm.ueh.edu.vn/partner/handong-global/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/partner/hasselt/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/hasselt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/hasselt/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/hcmut/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -654,6 +680,19 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/partner/hcmut/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/partner/arc/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/arc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/arc/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/hte-global/</loc>
@@ -773,19 +812,6 @@
                 href="https://www.iscm.ueh.edu.vn/partner/kyungsung/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/partner/lecnam/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/lecnam/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/lecnam/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/masseyuni/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -823,19 +849,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/partner/nit/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/partner/ntt/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/ntt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/ntt/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/omgeving/</loc>
@@ -1020,30 +1033,17 @@
                 href="https://www.iscm.ueh.edu.vn/partner/thammasat/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/partner/melbourne/</loc>
+    <loc>https://www.iscm.ueh.edu.vn/partner/ntt/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/melbourne/"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/ntt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/melbourne/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/partner/sydney/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/sydney/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/sydney/"
+                href="https://www.iscm.ueh.edu.vn/partner/ntt/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/trieste/</loc>
@@ -1059,19 +1059,6 @@
                 href="https://www.iscm.ueh.edu.vn/partner/trieste/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/partner/hasselt/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/hasselt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/hasselt/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/unai/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -1083,19 +1070,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/partner/unai/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/partner/unimc/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/unimc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/unimc/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/universit%C3%A0-degli-studi-di-milano/</loc>
@@ -1137,6 +1111,32 @@
                 href="https://www.iscm.ueh.edu.vn/partner/uoa/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/partner/unimc/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/unimc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/unimc/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/partner/melbourne/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/melbourne/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/melbourne/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/usj_macao/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -1148,6 +1148,19 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/partner/usj_macao/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/partner/sydney/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/partner/sydney/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/partner/sydney/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/vic/</loc>
@@ -1174,19 +1187,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/partner/vietai/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/partner/wasteaid/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/partner/wasteaid/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/partner/wasteaid/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/partner/wsu/</loc>

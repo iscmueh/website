@@ -1,5 +1,5 @@
 ---
-title: "The University Of Sydney"
+title: "University Of Sydney"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/usyd-icon.png.png"
 # type
 type: "network"
-
+link: https://www.sydney.edu.au/
 weight: 4
 ---

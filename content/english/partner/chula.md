@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/Chulalongkorn-University-Logo-feature-img.jpg"
 # type
 type: "network"
-
+link: https://www.chula.ac.th/en/
 weight: 4
 ---

@@ -10,6 +10,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/kyungsung.png"
 # type
 type: "network"
+link: https://kscms.ks.ac.kr/eng/Main.do
 
 weight: 4
 ---

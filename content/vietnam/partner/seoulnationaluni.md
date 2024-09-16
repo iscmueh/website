@@ -10,6 +10,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/seoul-national-university.png"
 # type
 type: "network"
+link: https://en.snu.ac.kr/
 
 weight: 4
 ---

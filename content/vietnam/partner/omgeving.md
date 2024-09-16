@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/omgeving.png"
 # type
 type: "network"
-
+link: https://omgevingasia.com/
 weight: 4
 ---

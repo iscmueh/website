@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/images (1).png"
 # type
 type: "network"
-
+link: https://www.facebook.com/phobendoi/?locale=vi_VN
 weight: 4
 ---

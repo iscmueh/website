@@ -10,6 +10,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/Università degli Studi di Milano.png"
 # type
 type: "network"
+link: https://www.unimi.it/en
 
 weight: 4
 ---

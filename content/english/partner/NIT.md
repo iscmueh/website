@@ -1,5 +1,5 @@
 ---
-title: "NIT"
+title: "National Institute of Technology Calicut"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/Correct_Logo_of_NIT_Calicut.svg"
 # type
 type: "network"
-
+link: https://nitc.ac.in/
 weight: 4
 ---

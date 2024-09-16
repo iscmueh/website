@@ -1,5 +1,5 @@
 ---
-title: "Pho Ben Doi"
+title: "Phố Bên Đồi"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/images (1).png"
 # type
 type: "network"
-
+link: https://www.facebook.com/phobendoi/?locale=vi_VN
 weight: 4
 ---

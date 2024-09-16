@@ -10,6 +10,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/tampere uni.png"
 # type
 type: "network"
+link: https://www.tuni.fi/en
 
 weight: 4
 ---

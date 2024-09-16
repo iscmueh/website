@@ -1,5 +1,5 @@
 ---
-title: "SAXION University"
+title: "Saxion University of Applied Sciences "
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -10,6 +10,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/saxion.png"
 # type
 type: "network"
+link: https://www.saxion.edu/
 
 weight: 4
 ---

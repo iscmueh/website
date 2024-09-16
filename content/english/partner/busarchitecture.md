@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/bus architecture.jpg"
 # type
 type: "network"
-
+link: https://www.busarchitektur.com/en
 weight: 4
 ---

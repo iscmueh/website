@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/cropped-IOTLink-logo-for-intro.webp"
 # type
 type: "network"
-
+link: https://iotlink.com.vn/
 weight: 4
 ---

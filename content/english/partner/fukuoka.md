@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/fukuoka women uni.jpg"
 # type
 type: "network"
-
+link: http://www.fwu.ac.jp/english/
 weight: 4
 ---

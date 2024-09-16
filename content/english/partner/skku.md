@@ -1,5 +1,5 @@
 ---
-title: "Sungkyun Kwan University"
+title: "Sungkyunkwan University"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/skku-logo_square_75pc.png"
 # type
 type: "network"
-
+link: https://www.skku.edu/eng/index.do
 weight: 4
 ---

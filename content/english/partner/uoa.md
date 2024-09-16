@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/uoa.png"
 # type
 type: "network"
-
+link: https://www.auckland.ac.nz/en.html
 weight: 4
 ---

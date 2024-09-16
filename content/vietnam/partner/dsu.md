@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/DSU.png"
 # type
 type: "network"
-
+link: https://uni.dongseo.ac.kr/eng/
 weight: 4
 ---

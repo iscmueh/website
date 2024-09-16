@@ -10,6 +10,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/Kyoto_University_emblem.svg"
 # type
 type: "network"
+link: https://www.kyoto-u.ac.jp/en
 
 weight: 4
 ---

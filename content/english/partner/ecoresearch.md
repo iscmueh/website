@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/eco research.png"
 # type
 type: "network"
-
+link: https://ier.snu.ac.kr/
 weight: 4
 ---

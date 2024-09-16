@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/yonsei-university4052.jpg"
 # type
 type: "network"
-
+link: https://www.yonsei.ac.kr/en_sc/index.jsp
 weight: 4
 ---

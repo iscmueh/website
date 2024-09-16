@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/vietai.png"
 # type
 type: "network"
-
+link: https://vietai.org/
 weight: 4
 ---

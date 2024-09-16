@@ -1,5 +1,5 @@
 ---
-title: "SCHOOLAB"
+title: "Schoolab Asia"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/305569790_753324606091191_2791024643681210919_n.png"
 # type
 type: "network"
-
+link: https://vn.theschoolab.com/
 weight: 4
 ---

@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/aip foundation.jpg"
 # type
 type: "network"
-
+link: https://www.facebook.com/aipfoundation/?locale=vi_VN
 weight: 4
 ---

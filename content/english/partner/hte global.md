@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/HTE-GLOBAL-CHU-CHINH.png"
 # type
 type: "network"
-
+link: https://hteglobal.net/
 weight: 4
 ---

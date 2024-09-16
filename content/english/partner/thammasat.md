@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/Emblem_of_Thammasat_University.svg.png"
 # type
 type: "network"
-
+link: https://tu.ac.th/en
 weight: 4
 ---

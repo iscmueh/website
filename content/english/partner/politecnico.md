@@ -1,5 +1,5 @@
 ---
-title: "Politecnico Milano"
+title: "Politecnico Di Milano"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/640px-Logo_Politecnico_Milano.png"
 # type
 type: "network"
-
+link: https://www.polimi.it/
 weight: 4
 ---

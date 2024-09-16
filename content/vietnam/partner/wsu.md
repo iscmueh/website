@@ -10,6 +10,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/WSU.png"
 # type
 type: "network"
+link: https://www.westernsydney.edu.au/
 
 weight: 4
 ---

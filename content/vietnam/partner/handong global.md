@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/hgu.png"
 # type
 type: "network"
-
+link: https://www.handong.edu/eng/
 weight: 4
 ---

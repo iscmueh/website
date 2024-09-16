@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/psulogo_horiz-spot.svg"
 # type
 type: "network"
-
+link: https://www.pdx.edu/
 weight: 4
 ---

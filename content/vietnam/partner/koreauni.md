@@ -10,6 +10,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/Korea_University_Global_Symbol.svg.png"
 # type
 type: "network"
+link: https://www.korea.edu/mbshome/mbs/en/index.do
 
 weight: 4
 ---

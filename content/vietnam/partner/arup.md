@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/arup.svg"
 # type
 type: "network"
-
+link: https://www.arup.com/
 weight: 4
 ---

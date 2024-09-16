@@ -10,6 +10,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "/images/partners/Massey-University-300x300.png"
 # type
 type: "network"
-
+link: https://www.massey.ac.nz/
 weight: 4
 ---
