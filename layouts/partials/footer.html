@@ -34,12 +34,19 @@
       <div class="row">
         <div class="col-lg-4 col-sm-8 mb-5 mb-lg-0">
           <!-- logo -->
-          <a class="logo-footer" href="{{ site.BaseURL | relLangURL }}"><img class="img-fluid mb-4" src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}"></a>
-          <ul class="list-unstyled row">
+          <figure class="logo-footer"><img class="img-fluid mb-4" src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}"></figure>
+          <ul class="list-unstyled row footer__info">
             <li class="mb-4 col-12">{{ site.Params.address | markdownify }}</li>
             <li class="mb-4 col-xl-5 col-12">{{ site.Params.email | markdownify }}</li>
             <li class="mb-4 col-xl-5 col-12">{{ site.Params.mobile | markdownify }}</li>
           </ul>
+
+          <style>
+            footer a:hover {
+              color: inherit
+            }
+          </style>
+          
         </div>
 
         <!-- company -->
@@ -55,9 +62,9 @@
 
         <div class="col-lg-4 col-sm-8 mb-5 mb-lg-0" style=" margin-top: -2%; text-align: right;">
           <!-- logo -->
-          <a class="logo-footer" href="{{ site.BaseURL | relLangURL }}">
+          <figure class="logo-footer">
             <img class="img-fluid mb-4" style="height:70px;" src="{{ site.Params.ueh_ctd_logo | absURL }}" alt="{{ site.Title }}">
-          </a>
+          </figure>
           <ul class="list-unstyled">
             <li class="mb-4" style="font-size: 97%;">{{ site.Params.ueh_address | markdownify }}</li>
             <li class="mb-4">{{ site.Params.ueh_email | markdownify }}</li>

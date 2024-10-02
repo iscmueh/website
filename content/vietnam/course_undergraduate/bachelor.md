@@ -15,6 +15,7 @@ category: "Đại Học"
 #teacher: "Clark Malik"
 # duration
 duration: "3.5 năm"
+chance: "Song Bằng"
 # weekly
 #weekly : "03 hours"
 # course fee

@@ -113,20 +113,20 @@
       </div>
     </div>
     <!-- course list -->
-    <div class="row justify-content-center">
+    <div class="row justify-content-start">
       <!-- course item -->
       {{ range first 6 (where site.RegularPages ".Type" "course_undergraduate")}}
-      <div class="col-lg-4 col-sm-6 mb-5">
+      <div class="col-lg-3 col-sm-6 mb-5">
         {{ .Render "course" }}
       </div>
       {{ end }}
       {{ range first 6 (where site.RegularPages ".Type" "course_graduate")}}
-      <div class="col-lg-4 col-sm-6 mb-5">
+      <div class="col-lg-3 col-sm-6 mb-5">
         {{ .Render "course" }}
       </div>
       {{ end }}
       {{ range first 6 (where site.RegularPages ".Type" "course_shortcourse")}}
-      <div class="col-lg-4 col-sm-6 mb-5">
+      <div class="col-lg-3 col-sm-6 mb-5">
         {{ .Render "course" }}
       </div>
       {{ end }}

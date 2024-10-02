@@ -12,7 +12,7 @@ image: "images/courses/SC-6.JPG"
 category: "Khóa ngắn hạn"
 # teacher
 #teacher: "Clark Malik"
-# duration
+duration: "? tuần/tháng"
 # weekly
 #weekly : "03 hours"
 # course fee

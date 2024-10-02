@@ -10,7 +10,7 @@ description: "Architectural and Urban Design Inclusive Smart City Bachelor Progr
 image: "images/courses/DSC02990-2.jpg"
 # taxonomy
 category: "Undergraduate"
-chance: "Chance to obtain 2 degrees issued by UEH and another international partner university"
+chance: "Dual Degree"
 # teacher
 #teacher: "Clark Malik"
 # duration
