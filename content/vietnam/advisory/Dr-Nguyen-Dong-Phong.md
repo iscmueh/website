@@ -10,7 +10,7 @@ description : ""
 # teacher portrait
 image: "/images/team/AdvisoryBoard/nguyendongphong-new.jpg"
 # course
-course: "Chủ tịch Hội đồng Đại học Kinh tế TP. Hồ Chí Minh"
+course: "Chủ tịch Hội đồng <br> Đại học Kinh tế TP. Hồ Chí Minh"
 # biography
 bio: ""
 # interest

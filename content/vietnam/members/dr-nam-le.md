@@ -34,7 +34,7 @@ contact:
 
 # type
 type: "teacher"
-weight: 7
+weight: 5
 ---
 
 
@@ -70,4 +70,4 @@ weight: 7
   * Trưởng dự án, dự án nghiên cứu khả thi thiết kế và xây dựng nhà máy điện công suất 900 MW tại Luzon, the Philippines.
 
 
-### [Bấm vào ĐÂY để xem các bài báo](https://namkyodai.github.io/publication/)
+<!-- ### [Bấm vào ĐÂY để xem các bài báo](https://namkyodai.github.io/publication/) -->

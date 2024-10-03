@@ -11,7 +11,7 @@ image: "images/team/Viet.jpg"
 course: "Quản Lý StudioLab"
 position: ""
 # biograph
-bio: "Kỹ sư quy hoạch đô thị với kỹ năng tốt về tư duy và đồ họa. Tìm kiếm vị trí làm việc tại các đơn vị hoạt động trong lĩnh vực thiết kế, quy hoạch đô thị thông minh, nơi có thể ứng dụng và phát triển các kiến thức chuyên ngành quy hoạch và các công nghệ ứng dụng liên quan."
+bio: "Lê Quốc Việt là Quản lý Studio-Lab tại ISCM, chịu trách nhiệm điều phối và triển khai tất cả các hoạt động và quy trình của Studio-Lab, đặc biệt là những hoạt động liên quan đến công nghệ mô phỏng. Việt tốt nghiệp Đại học Tôn Đức Thắng với bằng cử nhân Quy hoạch Đô thị năm 2017. Sau khi tốt nghiệp, Việt đã phát triển mạnh mẽ khả năng ứng dụng công nghệ trong kiến trúc và thiết kế đô thị. Ngoài vai trò là quản trị viên Studio-Lab, Việt còn mở rộng công việc sang các hoạt động liên quan đến thiết kế khác tại ISCM, bao gồm thiết kế ấn phẩm kỹ thuật số và in ấn, thiết kế mô hình 3D."
 # interest
 interest: ["Thiết Kế Đô Thị", "Augmeted Reality", "3D Printing", "Agent Based Modelling"]
 # contact info
@@ -26,34 +26,9 @@ contact:
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
     link : "tel:+120345876"
 
-  # contact item loop
-  # - name : "Clark Malik"
-  #   icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
-
-  # contact item loop
-  # - name : "Clark Malik"
-  #   icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
-
-  # contact item loop
-  # - name : "Clark Malik"
-  #   icon : "ti-skype" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
-
-  # contact item loop
-  # - name : "clarkmalik.com"
-  #   icon : "ti-world" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
-
-  # contact item loop
-  # - name : "1313 Boulevard Cremazie,Quebec"
-  #   icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
-
 # type
 type: "teacher"
-weight: 9
+weight: 15
 ---
 
 ### Tiểu Sử Nghiên Cứu và Học Thuật

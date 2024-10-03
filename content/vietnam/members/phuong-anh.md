@@ -26,7 +26,7 @@ contact:
 
 #type
 type: "teacher"
-weight: 18
+weight: 19
 ---
 
 ### Tiểu Sử Nghiên Cứu và Học Thuật

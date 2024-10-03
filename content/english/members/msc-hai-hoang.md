@@ -30,36 +30,9 @@ contact:
   - name : "github.com/Hai-Hoang"
     icon : "ti-world" # icon pack : https://themify.me/themify-icons
     link : "https://github.com/Hai-Hoang-88"
-
-
-  # contact item loop
-  # - name : "Clark Malik"
-  #   icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
-
-  # contact item loop
-  # - name : "Clark Malik"
-  #   icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
-
-  # contact item loop
-  # - name : "Clark Malik"
-  #   icon : "ti-skype" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
-
-  # contact item loop
-  # - name : "clarkmalik.com"
-  #   icon : "ti-world" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
-
-  # contact item loop
-  # - name : "1313 Boulevard Cremazie,Quebec"
-  #   icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
-
 # type
 type: "teacher"
-weight: 16
+weight: 12
 ---
 
 ### Courses

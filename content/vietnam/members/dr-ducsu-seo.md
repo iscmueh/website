@@ -8,7 +8,7 @@ description : "."
 # teacher portrait
 image: "/images/team/photo_Seo.jpg"
 # course
-course: "Điều Phối Viên Quốc Tế"
+course: "Điều Phối Viên Dự án Nghiên cứu"
 position: ""
 # biograph
 bio: "TS. Ducksu Seo là giáo sư Đại học Handong Global (Hàn Quốc), với cương vị là một nhà đô thị học hiện đang chịu trách nhiệm nhiều dự án và nghiên cứu đô thị sáng tạo trên khắp thế giới. TS. Ducksu Seo đã từng theo học Cử nhân Kiến trúc tại Đại học Handong Global (Hàn Quốc) (2002) và Thạc sĩ Thiết kế Đô thị tại Đại học Harvard (2018). Sau đó, TS. Ducksu Seo tiếp tục theo học Tiến sĩ tại Đại học Quốc gia Seoul, ngành Quy hoạch Đô thị (2018). TS. Ducksu Seo đã có nhiều kinh nghiệm thực hiện các dự án thiết kế và quy hoạch tại các Viện nghiên cứu trên nhiều quốc gia. TS. Ducksu Seo luôn tham gia các dự án quy hoạch đô thị đổi mới và nghiên cứu khu vực dựa trên mô hình đô thị bền vững trên thế giới"
@@ -25,35 +25,9 @@ contact:
   - name : "+84-28-3930-9589/ +84-28-3930-9269"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
     link : "tel:+120345876"
-
-  # contact item loop
-  # - name : "Clark Malik"
-  #   icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
-
-  # contact item loop
-  # - name : "Clark Malik"
-  #   icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
-
-  # contact item loop
-  # - name : "Clark Malik"
-  #   icon : "ti-skype" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
-
-  # contact item loop
-  # - name : "clarkmalik.com"
-  #   icon : "ti-world" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
-
-  # contact item loop
-  # - name : "1313 Boulevard Cremazie,Quebec"
-  #   icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
-
 # type
 type: "teacher"
-weight: 2
+weight: 3
 ---
 
 ### Tiểu Sử Nghiên Cứu và Học Thuật
@@ -70,4 +44,4 @@ weight: 2
 1. * Giám đốc dự án, ADU Group, Việt Nam (2012 – 2015)
 1. * Quy hoạch và thiết kế đô thị, SERA Architects, Mỹ (2011 – 2012)
 
-### [Bấm vào ĐÂY để xem các bài báo](https://scholar.google.co.kr/citations?user=7mawbTAAAAAJ&hl=en)
+<!-- ### [Bấm vào ĐÂY để xem các bài báo](https://scholar.google.co.kr/citations?user=7mawbTAAAAAJ&hl=en) -->

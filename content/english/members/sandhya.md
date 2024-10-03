@@ -38,7 +38,7 @@ contact:
 interest: ["Cognitive mapping inclusive urbanism studies & tactical urbanism solutions"]
 # type
 type: "teacher"
-weight: 7
+weight: 10
 ---
 
 <!-- ### Summary of activities/interests

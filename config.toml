@@ -291,17 +291,11 @@ weight = 8
 name = "Others"
 hasChildren = true
 
-  [[Languages.en.menu.main]]
-  parent = "Others"
-  weight = 1
-  name = "notice"
-  url = "notice"
-
-  [[Languages.en.menu.main]]
-  parent = "Others"
-  weight = 2
-  name = "Consultancy"
-  url = "consultancy"
+#  [[Languages.en.menu.main]]
+#  parent = "Others"
+#  weight = 1
+#  name = "notice"
+#  url = "notice"
 
   #[[Languages.en.menu.main]]
   #parent = "Others"
@@ -587,17 +581,11 @@ name = "Khác"
 hasChildren = true
 
 
-  [[Languages.vi.menu.main]]
-  parent = "Khác"
-  weight = 1
-  name = "Thông Báo"
-  url = "notice"
-
-  [[Languages.vi.menu.main]]
-  parent = "Khác"
-  weight = 2
-  name = "Tư Vấn"
-  url = "consultancy"
+#  [[Languages.vi.menu.main]]
+#  parent = "Khác"
+#  weight = 1
+#  name = "Thông Báo"
+#  url = "notice"
 
   #[[Languages.vi.menu.main]]
   #parent = "Khác"
@@ -621,7 +609,7 @@ hasChildren = true
   parent = "Khác"
   weight = 6
   name = "Tuyển Dụng"
-  url = "recruit"
+  url = "https://iscm.notion.site/Job-Board-96512d630e1642698e921c64714594a6"
 
 
 # [[Languages.vi.menu.main]]

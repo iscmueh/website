@@ -1,7 +1,7 @@
 ---
 title: "Prof. Nguyen Dong Phong"
 draft: false
-
+isNotClick: true
 
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"

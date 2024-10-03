@@ -19,43 +19,18 @@ interest:
   [
     Passive Design, Sustainable Environmental Design, Vernacular Architecture, Wind and Light Environment, Building Environmental Simulation, Ethnography study
   ]
-# contact info
-  # contact item loop
-  # - name : "Clark Malik"
-  #   icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
-
-  # contact item loop
-  # - name : "Clark Malik"
-  #   icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
-
-  # contact item loop
-  # - name : "Clark Malik"
-  #   icon : "ti-skype" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
-
-  # contact item loop
-  # - name : "clarkmalik.com"
-  #   icon : "ti-world" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
-
-  # contact item loop
-  # - name : "1313 Boulevard Cremazie,Quebec"
-  #   icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
-  #   link : "#"
 
 # type
 type: "teacher"
-weight: 10
+weight: 8
 ---
 
 ### Kinh Nghiệm
 
+4. Giảng viên Viện Đô thị thông minh và Quản lý ISCM, Đại học Kinh tế TP.HCM
 1. Nhà sáng lập, Kiến trúc sư chủ trì Văn phòng Thiết kế kiến trúc môi trường Passive Design Laboratory PDL
 2. Thành viên Hiệp hội Thiết kế Kiến trúc Nippon, Nhật Bản (ADAN)
 3. Thành viên Viện Kiến trúc Nhật Bản (AIJ)
-4. Giảng viên Viện Đô thị thông minh và Quản lý ISCM, Đại học Kinh tế TP.HCM
 
 ### Tiểu Sử Nghiên Cứu
 

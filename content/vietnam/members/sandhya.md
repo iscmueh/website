@@ -8,8 +8,8 @@ description : ""
 # teacher portrait
 image: "images/team/SandhyaRao-02.png"
 # course
-course: "Giảng Viên Cao Cấp"
-position: "Director"
+course: "Giảng Viên"
+position: "Lecturer"
 # biograph
 bio: "Sandhya là giảng viên cao cấp tại ISCM. Sau khi hoàn thành chương trình Thạc sĩ thiết kế đô thị vào năm 2010, cô bắt đầu sự nghiệp của mình với vai trò Kiến trúc sư Cấp cao trong Đội Quy hoạch Tổng thể tại RSP India Pvt. Ltd. Cô đã có nhiều đóng góp quý báu cho công ty trong việc phát triển các kế hoạch tổng thể cho các dự án quy hoạch với quy mô lớn. Ngoài ra, với tư cách là Associate Professor (có nhiệm kỳ) tại Khoa Kiến trúc của Đại học Dayananda Sagar, cô đã tham gia thiết kế các phương pháp giảng dạy và khóa học của studio thiết kế đô thị cũng như luận văn kiến trúc. Là một nhà học giả, cô đã thành lập Urban Studio Collective, đây là một Vertical Studio tập trung vào ghi chép và phân tích chi tiết các thị trấn cổ ở Karnataka.
 
@@ -39,7 +39,7 @@ interest: ["Các nguyên cứu liên quan đến lĩnh vực Đô thị học & 
 
 # type
 type: "teacher"
-weight: 6
+weight: 10
 ---
 <!-- ### Lĩnh vực nguyên cứu
 1. * Cognitive Mapping liên quan đến lĩnh vực Đô thị học và giải pháp cho chiến lược đô thị hóa. -->

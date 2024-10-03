@@ -1,7 +1,7 @@
 ---
 title: "Dr. Park Young June"
 draft: false
-
+isNotClick: true
 
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"

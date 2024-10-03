@@ -33,7 +33,7 @@ contact:
 
 # type
 type: "teacher"
-weight: 5
+weight: 6
 ---
 
 
@@ -69,4 +69,4 @@ weight: 5
 1. * Giải thưởng Đóng Góp Xã Hội Xuất Sắc, Đại Sứ Quán Việt Nam tại Đức (1998)
 1. * VIFOTEC Technical Invention Award, Chính Phủ Việt Nam (1996)
 
-### [Bấm vào ĐÂY để xem các bài báo](https://www.researchgate.net/profile/Kien-To)
+<!-- ### [Bấm vào ĐÂY để xem các bài báo](https://www.researchgate.net/profile/Kien-To) -->

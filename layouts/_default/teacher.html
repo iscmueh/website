@@ -8,9 +8,18 @@
     style="object-fit: cover; object-position: top center"
   />
   <div class="card-body">
-    <h4 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+    <h4 class="card-title">
+      {{ if .Params.isNotClick }}
+      <p style="font-weight: bold; color: #141414; font-size: 20px">
+        {{ .Title }}
+      </p>
+      {{ else }}
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      {{ end }}
+    </h4>
     <p>{{ .Params.Course | safeHTML }}</p>
-    {{/*  <ul class="list-inline">
+    {{/*
+    <ul class="list-inline">
       {{ range .Params.Contact }}
       <li class="list-inline-item">
         <a class="text-color" href="{{ .link | safeURL }}"
@@ -18,6 +27,7 @@
         ></a>
       </li>
       {{ end }}
-    </ul>  */}}
+    </ul>
+    */}}
   </div>
 </div>

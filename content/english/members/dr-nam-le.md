@@ -34,7 +34,7 @@ contact:
 
 # type
 type: "teacher"
-weight: 8
+weight: 5 
 ---
 
 
@@ -69,4 +69,4 @@ weight: 8
   * Project Manager for Feasibility Study of 900 MW Power Station in Luzon, the Philippines.
 
 
-### [Click HERE for Publication](https://namkyodai.github.io/publication/)
+<!-- ### [Click HERE for Publication](https://namkyodai.github.io/publication/) -->

@@ -68,4 +68,4 @@ weight: 6
 1. * Excellent Social Contribution Award by Vietnamese Embassy in Germany (1998)
 1. * VIFOTEC Technical Invention Award by Vietnamese Government (1996)
 
-### [Click HERE for Publication](https://www.researchgate.net/profile/Kien-To)
+<!-- ### [Click HERE for Publication](https://www.researchgate.net/profile/Kien-To) -->
