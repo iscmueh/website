@@ -492,7 +492,15 @@
             ds-yearIndex="0"
             onclick="handleChangeStructure(event)"
           >
-            2021
+            2021-2023
+          </li>
+            
+          <li
+            class="year-tab"
+            ds-yearIndex="1"
+            onclick="handleChangeStructure(event)"
+          >
+            2024
           </li>
            
         </ul>
@@ -741,6 +749,11 @@
       indexTemp = "0"
       if (indexTemp == target) {
         image = "\/images\/courses\/structure\/bachelor.jpg";
+      }
+    
+      indexTemp = "1"
+      if (indexTemp == target) {
+        image = "\/images\/courses\/structure\/bachelor2024.jpg";
       }
     
 

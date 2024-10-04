@@ -23,8 +23,8 @@ duration: "3.5 năm"
 apply_url: "#"
 # type
 course_type: "course"
-courseStructureYear: [2021]
-courseStuctureImage: ["/images/courses/structure/bachelor.jpg"]
+courseStructureYear: [2021-2023, 2024]
+courseStuctureImage: ["/images/courses/structure/bachelor.jpg", "/images/courses/structure/bachelor2024.jpg"]
 summary: " "
 post: "Kiến Trúc và Thiết Kế Đô Thị Thông Minh"
 weight: 1

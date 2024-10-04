@@ -692,6 +692,7 @@
 
 <script>
   function handleChangeStructure(e) {
+    if (e.target.classList.contains("year-tab--active")) return;
     const courseStructureImg = $("#course-structures-image")[0];
     let target = e.target.attributes[1].value;
     let indexTemp, image;
@@ -707,18 +708,18 @@
       }
     
 
+    courseStructureImg.style.display = "none";
+
+    $("#course-structures-image").fadeIn()
+
     courseStructureImg.setAttribute(
       "src",
       image
     );
 
-    const yearTabs = $(".year-tab").get();
+
     $(".year-tab--active").removeClass("year-tab--active")
-    for (var tab of yearTabs) {
-      if (tab.attributes[1].value == target) {
-        tab.classList.add("year-tab--active")
-      }
-    }
+    e.target.classList.add("year-tab--active");
 
   }
 </script>
