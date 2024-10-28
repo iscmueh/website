@@ -5,7 +5,7 @@ publishDate: "2024-10-23T09:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description: " "
 location: "ISCM, Ho Chi Minh City, Vietnam"
-image: /images/news/recap_TOWARDS NO SINGLE-USE PLASTIC FUTURE/IMG_1891.jpg
+image: /images/news/recap_TOWARDSNOSINGLE-USEPLASTICFUTURE/IMG_1891.jpg
 showImage: false
 ---
 

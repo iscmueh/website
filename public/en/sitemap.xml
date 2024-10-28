@@ -1860,8 +1860,21 @@
                 href="https://www.iscm.ueh.edu.vn/members/khoi-pham/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/news/241021-chuoi-bai-hoc-online-ulyssess-hvk/</loc>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/news/241021-chuoi-bai-hoc-online-ulyssess-hvk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/news/241021-chuoi-bai-hoc-online-ulyssess-hvk/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/</loc>
-    <lastmod>2024-10-01T09:00:00+00:00</lastmod>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
@@ -1871,6 +1884,32 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/news/</loc>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/news/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/news/241026-hoi-thao-khoa-hoc-thuc-day-hoat-dong-chuyen-doi-so/</loc>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/news/241026-hoi-thao-khoa-hoc-thuc-day-hoat-dong-chuyen-doi-so/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/news/241026-hoi-thao-khoa-hoc-thuc-day-hoat-dong-chuyen-doi-so/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/news/ws_khanh_hoi_port/</loc>
@@ -1884,19 +1923,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/news/ws_khanh_hoi_port/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/news/</loc>
-    <lastmod>2024-10-01T09:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/news/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/news/recap_aia_2024/</loc>
