@@ -23,6 +23,5 @@ Trong bối cảnh đa dạng và phức tạp này, các bài học thuộc **c
 
 Đại diện cho Viện Đô thị thông minh và Quản lý ISCM, TS. KTS. Huỳnh Văn Khang (Giảng viên, Viện Đô thị Thông minh và Quản lý) đã có một bài trình bày về **Tính thích ứng khí hậu trong Kiến trúc Truyền thống Việt Nam (Climate Responsiveness in Traditional Vietnamese Architecture)**. Qua đó, TS. KTS. Huỳnh Văn Khang đã nêu lên những đặc trưng không gian của kiến trúc truyền thống cùng các giải pháp thiết kế kiến trúc sinh khí hậu thích ứng với khí hậu địa phương. Ngoài ra, những bài học và kinh nghiệm từ trong kiến trúc truyền thống cũng được đúc kết súc tích và ứng dụng vào trong những thiết kế mới nhằm nối tiếp những giá trị tốt đẹp trong quá khứ, để tạo nền tảng vững chắc cho việc xây dựng một kiến trúc Việt Nam phù hợp thời đại mới và hướng đến một tương lai bền vững.
 
-![Overview of the Online lecture shared by Dr. Huynh Van Khang](/images/news/241021-Chuoi-bai-hoc-online-Ulyssess-HVK/image3.jpg)
-
+![](/images/news/241021-Chuoi-bai-hoc-online-Ulyssess-HVK/image3.jpg)
 Toàn cảnh Buổi giảng của TS. KTS. Huỳnh Văn Khang về ***Tính thích ứng khí hậu trong Kiến trúc Truyền thống Việt Nam***
