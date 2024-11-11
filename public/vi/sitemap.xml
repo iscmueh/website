@@ -1790,6 +1790,45 @@
                 href="https://www.iscm.ueh.edu.vn/vi/members/khoi-pham/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/news/wuf12/</loc>
+    <lastmod>2024-11-11T15:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/news/wuf12/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/news/wuf12/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/</loc>
+    <lastmod>2024-11-11T15:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/news/</loc>
+    <lastmod>2024-11-11T15:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/news/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/news/241021-chuoi-bai-hoc-online-ulyssess-hvk/</loc>
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1814,32 +1853,6 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/news/241026-hoi-thao-khoa-hoc-thuc-day-hoat-dong-chuyen-doi-so/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/news/</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/news/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/news/recap_towards-no-single-use-plastic-future/</loc>
