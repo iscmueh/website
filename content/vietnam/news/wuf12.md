@@ -5,7 +5,7 @@ publishDate: "2024-11-11T15:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description: ""
 location: "ISCM, Ho Chi Minh City, Vietnam"
-image: /images/news/wuf12/WUF 12 at Cairo.jpg
+image: /images/news/wuf12/WUF_12_at_Cairo.jpg
 showImage: false
 ---
 
