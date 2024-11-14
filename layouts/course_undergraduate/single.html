@@ -1,72 +1,60 @@
 {{ define "main" }}
 
 <!-- section -->
-<section class="section-sm">
+<section class="section-sm content-body">
   <div class="container">
+    <!-- course info -->
+    <div class="row align-items-center mb-5 gap-3">
+      <div class="col-xl-9 order-1 col-sm-7 mb-4 mb-xl-0">
+        {{if eq (trim site.Language " ") "en" }}
+        <h2 class="text-uppercase font-weight-bold">Bachelor program</h2>
+        {{else}}
+        <h2 class="text-uppercase font-weight-bold">chương trình cử nhân</h2>
+        {{end}}
+        <h1 class="text-uppercase" style="color: #CD2027">{{ .Title | markdownify }}</h1>
+      </div>
+      <div class="col-xl-3 order-sm-3 order-xl-2 col-12 order-2 gap-2">
+        <div class="row justify-content-center mb-2">
+          <ul class="list-inline text-xl-center">
+            <li class="list-inline-item mr-4 mb-3 mb-sm-0">
+              <div class="d-flex align-items-center">
+                <i class="ti-calendar text-primary icon-md mr-2"></i>
+                <div class="text-left">
+                  <h6 class="mb-0">{{ i18n "duration" | upper }}</h6>
+                  <p class="mb-0">{{ .Params.Duration }}</p>
+                </div>
+              </div>
+            </li>
+        </ul>
+      </div>
+        <div class="row justify-content-center"><button class="btn btn-primary btn-sm">{{ i18n "learn_more"}}</button></div>
+      </div>
+      <!-- border -->
+      <div class="col-12 mt-4 order-4">
+        <div class="border-bottom border-primary"></div>
+      </div>
+    </div>
     <div class="row">
-      <div class="col-12 mb-4">
+      <figure class="col-12 mb-4">
         <!-- course thumb -->
         <img
           style="height: 500px; width: 100%; object-fit: cover"
           src="{{ .Params.image | relURL }}"
           class="img-fluid w-100"
         />
-      </div>
+      </figure>
     </div>
-    <!-- course info -->
-    <div class="row align-items-center mb-5">
-      <div class="col-xl-7 order-1 col-sm-6 mb-4 mb-xl-0">
-        <h2>{{ .Title | markdownify }}</h2>
-      </div>
-      <div class="col-xl-5 order-sm-3 order-xl-2 col-12 order-2">
-        <ul class="list-inline text-xl-center">
-          <li class="list-inline-item mr-4 mb-3 mb-sm-0">
-            <div class="d-flex align-items-center">
-              <i class="ti-calendar text-primary icon-md mr-2"></i>
-              <div class="text-left">
-                <h6 class="mb-0">{{ i18n "duration" | upper }}</h6>
-                <p class="mb-0">{{ .Params.Duration }}</p>
-              </div>
-            </div>
-          </li>
-          <!-- <li class="list-inline-item mr-4 mb-3 mb-sm-0">
-            <div class="d-flex align-items-center">
-              <i class="ti-timer text-primary icon-md mr-2"></i>
-              <div class="text-left">
-                <h6 class="mb-0">{{ i18n "weekly" | upper }}</h6>
-                <p class="mb-0">{{ .Params.Weekly }}</p>
-              </div>
-            </div>
-          </li> -->
-          <!-- <li class="list-inline-item mr-4 mb-3 mb-sm-0">
-            <div class="d-flex align-items-center">
-              <i class="ti-wallet text-primary icon-md mr-2"></i>
-              <div class="text-left">
-                <h6 class="mb-0">{{ i18n "fee" | upper }}</h6>
-                <p class="mb-0">{{ .Params.Fee }}</p>
-              </div>
-            </div>
-          </li> -->
-        </ul>
-      </div>
-      {{/*
-      <div
-        class="col-xl-3 text-sm-right text-left order-sm-2 order-3 order-xl-3 col-sm-6 mb-4 mb-xl-0"
-      >
-        <a href="{{ .Params.Apply_url | safeURL }}" class="btn btn-primary"
-          >{{ i18n "apply_now" }}</a
-        >
-      </div>
-      */}}
-      <!-- border -->
-      <div class="col-12 mt-4 order-4">
-        <div class="border-bottom border-primary"></div>
-      </div>
-    </div>
+    {{/*  <ul class="row mb-5">
+      <li class="col"><a href="#about-course">Giới thiệu chung</a></li>
+      <li class="col"><a href="#program">Chương trình học</a></li>
+      <li class="col"><a href="#requires">Phương thức và Điều kiện</a></li>
+      <li class="col"><a href="#dual-degree">Chương trình Song bằng</a></li>
+      <li class="col"><a href="#contact">Tư vấn</a></li>
+    </ul>  */}}
     <!-- course details -->
     {{ $content_parts := split .Content "<!-- |||| -->" }}
     <div class="row">
-      <div class="col-12 mb-4 content text-jusitfy">
+      <div class="col-12 mb-4 content text-jusitfy" id="about-course">
         {{ index $content_parts 1 | markdownify}} {{ if
         .Params.courseStructureYear }} {{ if eq (trim site.Language " ") "en"}}
         <h4>Program structure</h4>
@@ -134,17 +122,17 @@
     </div>
     <div class="row">
       <div class="row">
-        <h2 class="col-12 mb-4">
+        <h1 class="col-12 mb-4">
           DUAL DEGREE WITH UNIVERSITY OF AUCKLAND, NEW ZEALAND
-        </h2>
+        </h1>
       </div>
       <div class="row">
         <div class="col-7 mb-4 content text-jusitfy">
           <p style="color: #5e5e5f; text-align: justify">
-            <h3>{{ if eq (strings.ToLower .Language.Lang) "en"}} Bachelor of Architectural and Urban Design Inclusive Smart City {{else}} Cử nhân Kiến trúc và Thiết kế Đô thị Thông minh{{end}}</h3>
-            <h4 style="color: inherit">{{ if eq (strings.ToLower .Language.Lang) "en"}} University of Economics Ho Chi Minh City, Viet Nam {{else}}  Đại học Kinh tế TP. Hồ Chí Minh, Việt Nam {{end}}</h4>
-            <h3>{{ if eq (strings.ToLower .Language.Lang) "en"}} Bachelor of Architecture {{else}}Cử nhân Kiến trúc{{end}}</h3>
-            <h4 style="color: inherit">{{ if eq (strings.ToLower .Language.Lang) "en"}}University of Auckland, New Zealand {{else}}Đại học Auckland, New Zealand {{end}}</h4>
+            <h2>{{ if eq (strings.ToLower .Language.Lang) "en"}} Bachelor of Architectural and Urban Design Inclusive Smart City {{else}} Cử nhân Kiến trúc và Thiết kế Đô thị Thông minh{{end}}</h2>
+            <h2 style="color: inherit">{{ if eq (strings.ToLower .Language.Lang) "en"}} University of Economics Ho Chi Minh City, Viet Nam {{else}}  Đại học Kinh tế TP. Hồ Chí Minh, Việt Nam {{end}}</h2>
+            <h2>{{ if eq (strings.ToLower .Language.Lang) "en"}} Bachelor of Architecture {{else}}Cử nhân Kiến trúc{{end}}</h2>
+            <h2 style="color: inherit">{{ if eq (strings.ToLower .Language.Lang) "en"}}University of Auckland, New Zealand {{else}}Đại học Auckland, New Zealand {{end}}</h2>
           </p>
           {{ index $content_parts 2 | markdownify}}
         </div>
@@ -336,6 +324,10 @@ intersect (where site.Pages ".Title" "!=" .Title) | shuffle | first 3}} {{ if gt
     cursor: pointer;
     font-weight: bold;
     font-size: 20px;
+  }
+
+  .content-body *[id] {
+    scroll-margin-top: 120px
   }
 
   .year-tab--active {

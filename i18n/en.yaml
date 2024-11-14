@@ -151,3 +151,6 @@
 
 - id: contact_information_for_queries
   translation: Contact information for queries
+
+- id: learn_more
+  translation: Learn more

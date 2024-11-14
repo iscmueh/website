@@ -14,7 +14,7 @@ category: "Short course"
 # teacher
 #teacher: "Clark Malik"
 # duration
-duration: "? weeks/months"
+duration: "1 - 8 weeks"
 # weekly
 #weekly : "03 hours"
 # course fee

@@ -158,6 +158,9 @@ ueh_address = "59C Nguyen Dinh Chieu Str, D.3, Ho Chi Minh City"
 ueh_mobile = "+84-28-3829-5299/ +84-28-3829-5299"
 ueh_email = "info@ueh.edu.vn"
 
+[[build.cachebusters]]
+  source = 'layouts/.*'
+  target = 'css'
 
 ################### English navigation ####################
 
@@ -166,6 +169,11 @@ ueh_email = "info@ueh.edu.vn"
 name = "About"
 url = "about"
 weight = 1
+
+#[[Languages.en.menu.main]]
+#name = "test"
+#url = "test"
+#weight = 1
 
 [[Languages.en.menu.main]]
 name = "News & Events"

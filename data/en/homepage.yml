@@ -2,7 +2,7 @@
 slider:
   enable : true
   bg_image : "images/banner/banner-1.jpg"
-  bg_video : "images/backgrounds/bg-video.mp4"
+  bg_video : "images/backgrounds/ISCM_video.mp4"
   slider_item:
     # slider item loop
     - title : "Smart cities are livable cities"
@@ -114,7 +114,7 @@ success_story:
 
 
 
-  Dr. Tú Anh Trịnh - Director of Institute of Smart City and Management "
+  Dr. Tu Anh Trinh <br /> Director of Institute of Smart City and Management "
   # video link
   #video_link : "https://www.youtube.com/watch?v=sqwcbOpMhnA"
 

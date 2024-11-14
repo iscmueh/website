@@ -1,14 +1,13 @@
-<div class="card border-0 rounded-0 hover-shadow mb-5 p-3">
+<div class="card border-0 hover-shadow mb-5 p-3" style="overflow: hidden; width: 140px; height: 140px" title="{{ .Title }}">
   <img
     class="card-img-top rounded-0"
     src="{{ .Params.image | relURL }}"
     alt="{{ .Title }}"
     loading="lazy"
-    height="200"
-    style="object-fit: contain; object-position: center;"
+    style="object-fit: contain; object-position: center; width: 100%; height: 100%"
   />
-  <div class="card-body">
-    <h4 class="card-title"><a href="{{ .Params.link | safeURL }}" target="_blank">{{ .Title }}</a></h4>
+  {{/*  <div class="card-body">
+    <h4 class="card-title"><a href="{{ .Params.link | safeURL }}" target="_blank">{{ .Title }}</a></h4>  */}}
     {{/*  <p>{{ .Params.Course }}</p>  */}}
     {{/*  <ul class="list-inline">
       {{ range .Params.Contact }}
@@ -18,6 +17,6 @@
         ></a>
       </li>
       {{ end }}
-    </ul>  */}}
-  </div>
+    </ul>  
+  </div>*/}}
 </div>

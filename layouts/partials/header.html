@@ -36,7 +36,10 @@
               >
             </li>
             <li class="list-inline-item">
-              <a class="text-color d-flex align-items-end" href="mailto:{{ site.Params.email }}">
+              <a
+                class="text-color d-flex align-items-end"
+                href="mailto:{{ site.Params.email }}"
+              >
                 {{/* <strong>{{ i18n "email" | upper }} : </strong> */}}
                 <img
                   src="/images/email.png"
@@ -55,11 +58,14 @@
   {{ end }}
   <!-- navbar -->
   <div
-    class="navigation w-100 {{ if site.Params.top_header }} top-hider {{ end }}"
+    class="navigation nav-bg w-100 {{ if site.Params.top_header }} top-hider {{ end }}"
   >
     <div class="container">
       <nav class="navbar navbar-expand-lg navbar-dark p-0">
-        <a class="navbar-brand" href="{{ site.BaseURL | relLangURL }}"
+        <a
+          class="navbar-brand"
+          href="{{ site.BaseURL | relLangURL }}"
+          style="min-width: 88px"
           ><img
             class="img-fluid"
             src="{{ site.Params.logo | absURL }}"
@@ -82,7 +88,7 @@
           id="navigation"
           style="font-size: 14px; justify-content: center"
         >
-          <ul class="navbar-nav ml-auto" style="align-items: center">
+          <ul class="navbar-nav ml-auto pl-2 pl-xl-5" style="align-items: center">
             <!-- <li class="nav-item">
               <a class="nav-link" href="{{ site.BaseURL | absLangURL }}">{{ site.Params.Home }}</a>
             </li> -->

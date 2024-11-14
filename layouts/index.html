@@ -25,7 +25,7 @@
   </div> -->
 
     <div style="background-color: gray; width: 100%; height: 100%;">
-      <div style="z-index: 999; background-color: rgba(20, 20, 89, 0.7); width: 100%; text-align: center; padding-top: 320px; height: 100%; position: absolute;">
+      <div class="d-flex align-items-center justify-content-center" style="z-index: 999; background-color: rgba(20, 20, 89, 0.7); width: 100%; text-align: center; height: 100%; position: absolute;">
         <h2 class="text-layout" style="z-index: 999;"> 
          {{$data.homepage.iscmname.title}}
         </h2>
@@ -181,12 +181,12 @@
           <h2 class="mb-0 text-nowrap mr-3">{{ $data.homepage.event.title }}</h2>
           <div class="border-top w-100 border-primary d-none d-sm-block"></div>
           <div>
-            <a href="{{`event` | relLangURL }}" class="btn btn-sm btn-outline-primary ml-sm-3 d-none d-sm-block text-nowrap">{{ i18n "see_all" }}</a>
+            <a href="{{`news` | relLangURL }}" class="btn btn-sm btn-outline-primary ml-sm-3 d-none d-sm-block text-nowrap">{{ i18n "see_all" }}</a>
           </div>
         </div>
       </div>
     </div>
-    <div class="row justify-content-center">
+    <div class="row">
       <!-- event -->
       {{ $news := where site.RegularPages "Type" "news"}}
       {{ $event := where site.RegularPages "Type" "event"}}

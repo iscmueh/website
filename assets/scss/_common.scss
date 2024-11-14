@@ -3,6 +3,10 @@ body {
   overflow-x: hidden;
 }
 
+* {
+  scroll-behavior: smooth;
+}
+
 ::selection {
   background: lighten($color: $primary-color, $amount: 10);
   color: $white;
