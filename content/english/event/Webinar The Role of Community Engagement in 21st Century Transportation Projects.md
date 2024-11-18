@@ -17,6 +17,7 @@ showImage: true
 With insights from experts across Asia, participants will gain a practical perspective on integrating community feedback throughout the research process. This understanding forms the foundation for implementing impactful and positive projects that benefit communities, not only in the field of transportation but also in all areas related to smart and sustainable urban development.  
 
 ---  
+
 ⏱️ Date & Time: 9:00 AM (GMT+7) | November 19, 2024  
 
 🖥️ Online via Zoom  

@@ -17,6 +17,7 @@ showImage: true
 Cùng với những chia sẻ của các chuyên gia đến từ châu Á, người tham dự sẽ có cái nhìn thực tế hơn trong việc triển khai dự án nghiên cứu tích hợp sự tham gia đóng góp ý kiến của cộng đồng xuyên suốt quá trình nghiên cứu. Sự thấu hiểu này sẽ là nền tảng để có thể thực hiện các dự án mang lại giá trị lớn và tích cực cho cộng đồng, không chỉ trong lĩnh vực giao thông, mà còn trong tất cả lĩnh vực liên quan đến phát triển đô thị thông minh và bền vững.
 
 —------------------------------
+
 ⏱️Thời gian: 9:00 AM (GMT+7) | 19/11/2024
 
 🖥️Hình thức: online qua zoom
