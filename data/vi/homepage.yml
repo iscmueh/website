@@ -103,7 +103,7 @@ course:
 
 ######################## Success story #############################
 success_story:
-  enable : false
+  enable : true
   bg_image : "images/backgrounds/success-story-1.jpg"
   title : ""
   content : "Ở ISCM, Đô thị Thông minh không phải là một điểm đến, mà là một hành trình liên tục để bảo vệ trục phát triển bền vững của đô thị. Đối với chúng tôi, mỗi vùng, mỗi đô thị đều có bản chất là một thực thể sống. Trong sự chuyển động và phát triển liên tục của chính thực thể đó, các vấn đề sẽ xuất hiện, làm mất đi tính cân bằng và bền vững vốn có. Ở Thành phố Thông minh của chúng tôi, các vấn đề này được giải quyết không chỉ qua công nghệ, mà còn qua việc sử dụng các nguồn lực một cách bền vững, các quyết định lấy con người làm trung tâm, và sự đoàn kết của các đại học, tổ chức, chính phủ, các bên liên quan, và cộng đồng để kiến tạo một văn hóa đồng sáng tạo. Chính điều này sẽ giúp cho thực thể sống này trở nên sống động hơn, trở thành một nơi dành cho tất cả mọi người, không để một ai bị bỏ lại phía sau.
