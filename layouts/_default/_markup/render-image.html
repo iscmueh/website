@@ -13,6 +13,8 @@
     loading="lazy"
   />
   {{with .Text}}
-  <figcaption class="text-center font-italic mt-1">{{.}}</figcaption>
+  <figcaption class="text-center font-italic mt-1">
+    {{. | safe.HTML}}
+  </figcaption>
   {{end}}
 </figure>

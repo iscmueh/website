@@ -94,7 +94,7 @@
                 }
             </style>
 
-            <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
+            {{/*  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
                 $(document).ready(function() {
                     $(".back").click(function() {
                         console.log("hello b")
@@ -131,8 +131,8 @@
                     });
 
                 });
-            </script>
-            <script>
+            </script>  */}}
+            {{/*  <script>
                 var weight = "{{.Params.weight}}";
                 console.log(weight);
                 var flipbook_width = "{{.Params.flipbook_width}}";
@@ -148,7 +148,7 @@
                         $("img.front, img.back").css("width", flipbook_width + "%");
                     }
                 });
-            </script>
+            </script>  */}}
             <style>
                 .book-section {
                     height: auto;
@@ -280,7 +280,7 @@
                 var right = document.getElementsByClassName("right");
                 var si = right.length;
                 var z = 1;
-                turnRight();
+                turnRight();    
                 setTimeout(function() {}, 2000);
                 turnLeft();
                 setTimeout(function() {}, 2000);

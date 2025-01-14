@@ -13,23 +13,21 @@ overview_02: "This competition is for our endeavor to promote the ambition of tu
 
 overview_03: "The 3rd International Competition: Design For Neutral Carbon Future - launched by UEH University and People’s Committee of Vung Tau City in partnership with many co-organizers (Handong Global University, Politecnico di Milano, Trieste University, University of Melbourne, University of Seoul, Citilinks, UNICITI, OMGEVING, Thammasat University, Ku Leuven University, The Boston Architectural College, Dayananda Sagar College of Architecture, ASPECT Studio, Lee Kuan Yew Centre for Innovative Cities). The 2023 competition is sponsored by UEH University, People’s committee of Vung Tau City, University of Sydney, National Housing Organization and Handong Engineering & Construction."
 
-timeline: "images/competitive/carbon/timeline.png"
+timeline: "/images/competitive/carbon/timeline.png"
 
-price: "images/competitive/carbon/price.png"
+price: "/images/competitive/carbon/price.png"
 
-register: "images/competitive/carbon/button01.png"
+register: "/images/competitive/carbon/button01.png"
 linkRegister: "https://docs.google.com/forms/d/e/1FAIpQLSfG10e3t3D1b-AHRcVwfcbESo2WCi4G6WfJoHJIwjWbd_tVmg/viewform"
 
-fb: "images/competitive/carbon/button02.png"
+fb: "/images/competitive/carbon/button02.png"
 linkFB: "https://www.facebook.com/ISCM.UEH"
 Title_01: "Can I still be able to enroll?"
-partners: "images/competitive/carbon/organizer.png"
+partners: "/images/competitive/carbon/organizer.png"
 
-sponsor: "images/competitive/carbon/sponser.png"
+sponsor: "/images/competitive/carbon/sponser.png"
 
-isLaunch: false
-
-# "images/competitive/carbon/sponsor.png"
+isLaunch: true
 
 overview_04: FAQS
 
