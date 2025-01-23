@@ -1860,21 +1860,8 @@
                 href="https://www.iscm.ueh.edu.vn/members/khoi-pham/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/news/best_paper_award/</loc>
-    <lastmod>2025-01-13T09:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/news/best_paper_award/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/news/best_paper_award/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/</loc>
-    <lastmod>2025-01-13T09:00:00+00:00</lastmod>
+    <lastmod>2025-01-23T03:41:42+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
@@ -1886,8 +1873,21 @@
                 href="https://www.iscm.ueh.edu.vn/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/news/vgu_speech/</loc>
+    <lastmod>2025-01-23T03:41:42+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/news/vgu_speech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/news/vgu_speech/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/news/</loc>
-    <lastmod>2025-01-13T09:00:00+00:00</lastmod>
+    <lastmod>2025-01-23T03:41:42+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
@@ -1897,6 +1897,19 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/news/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/news/best_paper_award/</loc>
+    <lastmod>2025-01-13T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/news/best_paper_award/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/news/best_paper_award/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/event/webinar-the-role-of-community-engagement-in-21st-century-transportation-projects/</loc>
