@@ -2,7 +2,7 @@
 title: >-
   VIỆN ĐÔ THỊ THÔNG MINH VÀ QUẢN LÝ THAM GIA HỘI THẢO CHỦ ĐỀ THỰC HÀNH KIẾN TRÚC
   BỀN VỮNG TẠI ĐẠI HỌC VIỆT ĐỨC
-publishDate: "2025-01-23T03:56:57.102Z"
+publishDate: "2025-01-22T03:56:57.102Z"
 draft: false
 image: /images/news/vgu_speech/image1.png
 showImage: false

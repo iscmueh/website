@@ -2,7 +2,7 @@
 title: >-
   ISCM Participates in a Seminar on Sustainable Architecture Practice at
   Vietnamese-German University
-publishDate: "2025-01-23T03:41:42.457Z"
+publishDate: "2025-01-22T03:41:42.457Z"
 draft: false
 image: /images/news/vgu_speech/image1.png
 showImage: false
