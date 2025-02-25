@@ -1819,11 +1819,8 @@
                 href="https://www.iscm.ueh.edu.vn/vi/event/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/news/thiet-ke-thich-ung-voi-khi-hau/</loc>
-    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/news/</loc>
-    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -1834,6 +1831,22 @@
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/news/"
                 />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/news/2502-master-program/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/news/2502-master-program/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/news/2502-master-program/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/news/thiet-ke-thich-ung-voi-khi-hau/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/news/vgu_speech/</loc>
     <lastmod>2025-01-22T03:56:57+00:00</lastmod>

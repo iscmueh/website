@@ -1,5 +1,5 @@
 ---
-title: HỘI THẢO PHYGITAL - XU HƯỚNG CHUYỂN ĐỔI SỐ TRONG NGÀNH DU LỊCH
+title: "HỘI THẢO: PHYGITAL - XU HƯỚNG CHUYỂN ĐỔI SỐ TRONG NGÀNH DU LỊCH"
 author: ISCM
 publishDate: "2025-02-25T07:00:00.00Z"
 bg_image: "images/backgrounds/page-title.jpg"
@@ -9,32 +9,31 @@ image: /images/events/phygital_seminar/Poster 1920x1080.png
 showImage: true
 ---
 
-Trong bối cảnh số hóa hiện nay, ngành du lịch đang bước vào giai đoạn chuyển đổi mạnh mẽ với việc ứng dụng nhiều công nghệ hiện đại, giúp thúc đẩy đổi mới và nâng cao trải nghiệm người dùng. Phygital - Trải nghiệm số (digital) trong cuộc sống thực (physical), không chỉ giúp nâng cao trải nghiệm du khách mà còn mang lại cơ hội phát triển bền vững cho doanh nghiệp và địa phương, góp phần tối ưu hóa hoạt động quản lý và tăng cường tương tác giữa doanh nghiệp với khách hàng.
+Trong kỷ nguyên số hóa, ngành du lịch đang bước vào giai đoạn chuyển mình mạnh mẽ thông qua việc ứng dụng của công nghệ tiên tiến để thúc đẩy đổi mới sáng tạo và nâng cao trải nghiệm người dùng. Một trong những xu hướng nổi bật hiện nay là Phygital — sự kết hợp giữa trải nghiệm thực (physical) và công nghệ số (digital). Đây không chỉ là công cụ giúp du khách có những hành trình sống động, cá nhân hóa và tiện lợi hơn, mà còn là chìa khóa giúp doanh nghiệp và địa phương tối ưu hóa hoạt động quản lý, mở rộng cơ hội tiếp cận khách hàng và hướng đến sự phát triển bền vững.
 
-Hội thảo **"PHYGITAL - Xu hướng chuyển đổi số trong ngành du lịch"** với sự tham gia của các chuyên gia, nhà quản lý và doanh nghiệp trong lĩnh vực du lịch, công nghệ và quy hoạch nhằm thảo luận và chia sẻ về tiềm năng, cơ hội và những thách thức của công nghệ Phygital trong việc định hình ngành du lịch trong tương lai. Hội thảo do Đại học Kinh tế TP.HCM, đại diện là Viện Đô thị thông minh và Quản lý (ISCM) phối hợp cùng Trung tâm Ươm tạo Công nghệ và Đổi mới Sáng tạo TP.HCM (ISC) và Công ty Cổ phần Phygital Labs tổ chức.
+Nhằm tạo không gian thảo luận chuyên sâu về tiềm năng và thách thức của công nghệ Phygital trong ngành du lịch, Hội thảo **"PHYGITAL - Xu hướng chuyển đổi số trong ngành du lịch"** sẽ được tổ chức bởi Đại học Kinh tế TP.Hồ Chí Minh (UEH), đại diện là Viện Đô thị Thông minh và Quản lý (ISCM), phối hợp cùng Trung tâm Ươm tạo Công nghệ và Đổi mới Sáng tạo TP.Hồ Chí Minh (ISC) và Công ty Cổ phần Phygital Labs. Hội thảo quy tụ các chuyên gia, nhà quản lý và doanh nghiệp trong các lĩnh vực du lịch, công nghệ và quy hoạch, hứa hẹn mang đến những góc nhìn đa chiều về cách Phygital đang tái định hình trải nghiệm du lịch, từ việc tích hợp công nghệ vào các điểm đến đến tối ưu hóa hành trình của du khách thông qua các trạm check-in thông minh.
 
-**Thông tin hội thảo**
+**THÔNG TIN VỀ BUỔI HỘI THẢO:**
 
-**Thời gian:** 09:00 - Ngày 04/03/2025
+- Chủ đề: **PHYGITAL - Xu hướng chuyển đổi số trong ngành du lịch**;
+- Địa điểm: Phòng B1.204, Cơ sở B - UEH, 279 Nguyễn Tri Phương, P.5, Q.10, TP.HCM;
+- Thời gian: 09g00, thứ Ba, ngày 04 tháng 03 năm 2025;
+- Đối tượng tham dự: Giảng viên, CBVC, đại diện doanh nghiệp và sinh viên quan tâm;
+- Link đăng ký: [https://forms.gle/kqg7B19UVvawb8hx6](TẠI ĐÂY)
 
-**Địa điểm:** Phòng B1.204, Cơ sở B - UEH, 279 Nguyễn Tri Phương, P.5, Q.10, TP.HCM
+**DIỄN GIẢ:**
 
-**Diễn giả:**
+- Ông Lê Trương Hiền Hòa - Phó Giám đốc Sở Du lịch TP.HCM;
+- Ông Nguyễn Huy - Tổng Giám đốc, Nhà sáng lập Công ty Cổ phần Phygital Labs;
+- PGS.TS. Trịnh Tú Anh - Viện trưởng Viện Đô thị Thông minh và Quản lý (ISCM);
+- ThS. Hoàng Lê Nam Hải - Giảng viên Viện Đô thị Thông minh và Quản lý (ISCM).
 
-- Ông Lê Trương Hiền Hòa - Phó Giám đốc Sở Du lịch TP.HCM
+**NỘI DUNG CHÍNH:**
 
-- Ông Nguyễn Huy - Tổng Giám đốc - Nhà sáng lập Công ty Cổ phần Phygital Labs
+- Ứng dụng công nghệ mới trong du lịch và phát triển sản phẩm du lịch thông minh;
+- Chuyển đổi số trong đô thị gắn với du lịch và phát triển kinh tế đêm;
+- Giải pháp trạm check-in thông minh nâng cao trải nghiệm du khách và tối ưu hóa hoạt động quản lý.
 
-- PGS.TS. Trịnh Tú Anh - Viện trưởng Viện Đô thị thông minh và Quản lý
+Hội thảo là dịp để các chuyên gia, nhà quản lý và doanh nghiệp kết nối, chia sẻ kinh nghiệm thực tiễn và cùng nhau tìm ra những giải pháp sáng tạo giúp ngành du lịch không chỉ bắt kịp xu hướng số hóa mà còn tạo ra những giá trị khác biệt và bền vững.
 
-- ThS. Hoàng Lê Nam Hải - Giảng viên Viện Đô thị thông minh và Quản lý
-
-**Nội dung chính:**
-
-- Ứng dụng công nghệ mới trong du lịch
-
-- Chuyển đổi số trong đô thị và phát triển kinh tế đêm
-
-- Hệ thống trạm check-in thông minh nâng cao trải nghiệm du lịch
-
-**Đăng ký tham gia** theo đường [link này](https://forms.gle/kqg7B19UVvawb8hx6) hoặc quét QR trên poster để cùng khám phá cách công nghệ số có thể định hình tương lai của ngành du lịch nhé!
+Hoạt động này thuộc Chuỗi CTD Learning & Sharing — nơi chia sẻ tri thức, kết nối chuyên gia, doanh nghiệp và cộng đồng, hướng đến xây dựng hệ sinh thái đổi mới sáng tạo và phát triển bền vững.
