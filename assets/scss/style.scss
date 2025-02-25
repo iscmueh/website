@@ -8,20 +8,30 @@ VERSION:	Versoin Number
 /*------------------------------------------------------------------
 [TABLE OF CONTENTS]
 -------------------------------------------------------------------*/
-@import 'variables';
+@import "variables";
 
-@import 'mixins';
+@import "mixins";
 
-@import 'typography';
+@import "typography";
 
-@import 'buttons';
+@import "buttons";
 
-@import 'common';
+@import "common";
 
-@import 'templates/navigation';
+@import "templates/navigation";
 
-@import 'templates/slider';
+@import "templates/slider";
 
-@import 'templates/homepage';
+@import "templates/homepage";
 
-@import 'templates/otherspage';
+@import "templates/otherspage";
+
+.content {
+    li {
+        width: 100%;
+
+        &::before {
+            top: 8px !important;
+        }
+    }
+}

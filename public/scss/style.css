@@ -953,3 +953,8 @@ ul > li {
 
 .logo-footer:hover .logotext {
   visibility: visible; }
+
+.content li {
+  width: 100%; }
+  .content li::before {
+    top: 8px !important; }

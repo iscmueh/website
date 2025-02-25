@@ -1790,8 +1790,11 @@
                 href="https://www.iscm.ueh.edu.vn/vi/members/khoi-pham/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/event/phygital_seminar/</loc>
+    <lastmod>2025-02-25T07:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/</loc>
-    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-25T07:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -1801,6 +1804,19 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/event/</loc>
+    <lastmod>2025-02-25T07:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/event/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/news/thiet-ke-thich-ung-voi-khi-hau/</loc>
@@ -1847,19 +1863,6 @@
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/news/2025-walkability/</loc>
     <lastmod>2025-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/event/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/event/"
-                />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/event/webinar-the-role-of-community-engagement-in-21st-century-transportation-projects/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
