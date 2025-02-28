@@ -1861,7 +1861,7 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-26T07:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
@@ -1874,7 +1874,7 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/news/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-26T07:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
@@ -1884,6 +1884,19 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/news/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/news/smart_urban_design_studio/</loc>
+    <lastmod>2025-02-26T07:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/news/smart_urban_design_studio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/news/smart_urban_design_studio/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/news/2502-master-program/</loc>

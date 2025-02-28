@@ -1790,11 +1790,21 @@
                 href="https://www.iscm.ueh.edu.vn/vi/members/khoi-pham/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/event/phygital_seminar/</loc>
-    <lastmod>2025-02-25T07:00:00+00:00</lastmod>
+    <loc>https://www.iscm.ueh.edu.vn/vi/news/smart_urban_design_studio/</loc>
+    <lastmod>2025-02-26T07:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/news/smart_urban_design_studio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/news/smart_urban_design_studio/"
+                />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/</loc>
-    <lastmod>2025-02-25T07:00:00+00:00</lastmod>
+    <lastmod>2025-02-26T07:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -1805,6 +1815,22 @@
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/"
                 />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/news/</loc>
+    <lastmod>2025-02-26T07:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/news/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/event/phygital_seminar/</loc>
+    <lastmod>2025-02-25T07:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/event/</loc>
     <lastmod>2025-02-25T07:00:00+00:00</lastmod>
@@ -1817,19 +1843,6 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/event/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/news/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/news/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/news/2502-master-program/</loc>
