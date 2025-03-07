@@ -34,6 +34,6 @@ weight: 8
 
 ### Tiểu Sử Nghiên Cứu
 
-1. - Tiến sĩ Khoa học Môi trường (Thiết kế Kiến trúc và Đô thị) - Khoa Thiết kế và Kiến trúc trường Khoa học Môi trường, Đại họ Shiga Prefectue, Nhật Bản (2017 - 2020)
-1. - Thạc sĩ Khoa học Môi trường (Thiết kế Kiến trúc và Đô thị), Khoa Thiết kế và Kiến trúc trường Khoa học Môi trường, Đại họ Shiga Prefectue, Nhật Bản (2025 - 2017)
-1. - Cử nhân Kiến trúc - Khoa Kiến trúc, Đại học Kiến trúc TP. Hồ Chí Minh, Việt Nam  (2005- 2010)
+1. - Tiến sĩ Khoa học Môi trường (Thiết kế Kiến trúc và Đô thị) - Khoa Thiết kế và Kiến trúc trường Khoa học Môi trường, Đại học Shiga Prefecture, Nhật Bản (2017 - 2020)
+1. - Thạc sĩ Khoa học Môi trường (Thiết kế Kiến trúc và Đô thị) - Khoa Thiết kế và Kiến trúc trường Khoa học Môi trường, Đại học Shiga Prefecture, Nhật Bản (2015 - 2017)
+1. - Cử nhân Kiến trúc - Khoa Kiến trúc, Đại học Kiến trúc TP. Hồ Chí Minh, Việt Nam (2005- 2010)
