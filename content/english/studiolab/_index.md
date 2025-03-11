@@ -1,5 +1,5 @@
 ---
-title: "Modern Studio LAB"
+title: "Studio Lab"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"

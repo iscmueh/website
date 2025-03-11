@@ -4149,6 +4149,8 @@
     <loc>https://www.iscm.ueh.edu.vn/apps/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/4th-international-design-competition/</loc>
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/research/publications/a-study-of-students-perceptions-toward-the-use-of-gamification-in-traffic-safety-education-in-ho-chi-minh-city-vietnam/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4489,18 +4491,6 @@
                 href="https://www.iscm.ueh.edu.vn/members/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/studiolab/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/studiolab/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/studiolab/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/notice/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4577,6 +4567,18 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/scholarship/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/studiolab/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/studiolab/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/studiolab/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/research/publications/teaching-and-research-to-address-flooding-issues-in-ho-chi-minh-city/</loc>
