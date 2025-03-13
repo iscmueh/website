@@ -22,12 +22,8 @@ duration: "2 năm"
 apply_url: "#"
 # type
 course_type: "course"
-courseStructureYear: ["2021-2023", 2024]
-courseStuctureImage:
-  [
-    "/images/courses/structure/UEH.jpg",
-    "/images/courses/structure/SO DO DAO TAO_K50.jpg",
-  ]
+courseStructureYear: ["2021-2024"]
+courseStuctureImage: ["/images/courses/structure/UEH.jpg"]
 post: "Thạc Sĩ Quản Lý Đô Thị Thông Minh và Sáng Tạo"
 summary: " "
 weight: 1
