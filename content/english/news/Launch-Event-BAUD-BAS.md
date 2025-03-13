@@ -1,7 +1,7 @@
 ---
 title: "LAUNCH EVENT: BAUD - BAS DUAL-DEGREE PROGRAM"
 author: ISCM
-publishDate: "2021-09-31T09:00:00Z"
+publishDate: "2021-09-30T09:00:00Z"
 bg_image: "images/backgrounds/page-title.jpg"
 description: ""
 location: "ISCM, Ho Chi Minh City, Vietnam"
