@@ -1,5 +1,5 @@
 ---
-title: "TS. Trịnh Tú Anh"
+title: "PGS.TS. Trịnh Tú Anh"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"

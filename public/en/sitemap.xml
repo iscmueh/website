@@ -55,18 +55,6 @@
                 href="https://www.iscm.ueh.edu.vn/admission_master/master_admission_2022/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/network/dr.-sebastien-goethals/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/network/dr.-sebastien-goethals/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/network/dr.-sebastien-goethals/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/members/dr-trinh-tu-anh/</loc>
     <xhtml:link
                 rel="alternate"
@@ -77,6 +65,18 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/members/dr-trinh-tu-anh/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/network/dr.-sebastien-goethals/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/network/dr.-sebastien-goethals/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/network/dr.-sebastien-goethals/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/admission_announcement/master_admission_2022/</loc>
