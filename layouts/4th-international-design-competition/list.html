@@ -1,6 +1,10 @@
 {{ partial "head"}} {{ partial "header"}}
 
 <style>
+  html {
+    width: 100vw
+  }
+  
   section.launching h2 {
     transition: color .3s ;
   }
@@ -24,6 +28,10 @@
   }
 
   @media screen and (min-width: 768px) {
+    .jury > div.col-12 {
+      height: 280px !important;
+    }
+    
     .header__info {
       margin-left: 285px;
     }
@@ -54,7 +62,7 @@
     width: 250px !important;
     margin: 0 20px;
   }
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 768px) {    
     .header {
       border-bottom-right-radius: 0;
       border-bottom-left-radius: 0;
@@ -218,8 +226,8 @@
   }
 </style>
 
-<body style="width: 100%">
-  <section class="launching">
+<body>
+  <section class="launching w-100">
     <section
       style="
         padding-top: 180px;
@@ -473,9 +481,9 @@
         </h2>
       </div>
       <div class="container" style="margin-top: 50px">
-        <div class="row">
+        <div class="row jury">
           {{ $data := getJSON "data/jury.json"}} {{ range $data }}
-          <div class="col-12 col-lg-4 my-3" style="height: 220px">
+          <div class="col-12 col-lg-4 my-3" style="height: 350px">
             <div class="row" style="height: 100%">
               <div class="col-5" style="height: 100%">
                 <figure
@@ -492,7 +500,7 @@
                 <h4 style="font-size: 16px">{{.name}}</h4>
                 <p style="font-size: 14px; margin-bottom: 5px">{{.title}}</p>
                 <p style="font-size: 14px; margin-bottom: 5px">
-                  {{delimit (slice .falcuty .affiliation) " "}}
+                  {{delimit (slice .faculty .affiliation) " "}}
                 </p>
                 <p style="font-size: 14px; margin-bottom: 5px">{{.country}}</p>
               </div>
