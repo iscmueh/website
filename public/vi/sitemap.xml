@@ -142,16 +142,16 @@
                 href="https://www.iscm.ueh.edu.vn/vi/notice/lab-rules/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/members/dr-trinh-tu-anh/</loc>
+    <loc>https://www.iscm.ueh.edu.vn/vi/members/trinh-tu-anh/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/members/dr-trinh-tu-anh/"
+                href="https://www.iscm.ueh.edu.vn/members/trinh-tu-anh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/members/dr-trinh-tu-anh/"
+                href="https://www.iscm.ueh.edu.vn/vi/members/trinh-tu-anh/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/scholarship/undergraduate-international-students/</loc>
@@ -1418,6 +1418,18 @@
                 href="https://www.iscm.ueh.edu.vn/vi/network/assist.prof.juhyun-lee/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/members/tran_quang_dao/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/members/tran_quang_dao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/members/tran_quang_dao/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/members/dr-khang-huynh/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1704,18 +1716,6 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/network/dr.-cristian-carenini/"
-                />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/members/staff-dang-ngan/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/members/staff-dang-ngan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/members/staff-dang-ngan/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/network/dr.-ma.-sheilah-g.-napalang/</loc>

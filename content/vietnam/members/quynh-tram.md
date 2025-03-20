@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description: "."
 # teacher portrait
-image: "/images/team/QTram.jpg"
+image: "/images/team/members/Nguyễn Quỳnh Trâm 2.jpg"
 # course
 course: "Cộng tác viên UEH Bền vững"
 position: ""

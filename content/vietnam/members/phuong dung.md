@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "."
 # teacher portrait
-image: "images/team/Dung1.jpg"
+image: "images/team/members/Lại Phương Dung 2.jpg"
 # course
 course: "Chuyên viên phụ trách hợp tác doanh nghiệp và quốc tế"
 position: ""

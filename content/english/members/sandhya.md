@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # teacher portrait
-image: "images/team/SandhyaRao-02.png"
+image: "images/team/members/Sandhya Rao 2.jpg"
 # course
 course: "Lecturer"
 position: "Director"
@@ -44,14 +44,13 @@ weight: 10
 <!-- ### Summary of activities/interests
 1. * Cognitive mapping, inclusive urbanism studies and tactical urbanism solutions -->
 
-
 ### Courses
-1. * Basic Studiolab 3
-1. * Basic Studiolab 5
 
+1. - Basic Studiolab 3
+1. - Basic Studiolab 5
 
 ### Academic and Research Profile
-1. * Associate Professor, Dayananda Sagar College of Architecture (Jan 2017 - 2022)
-1. * Co-Founder, Citylab BLR (Aug 2015 - 2020)
-1. * Key Collaborator India, Citymakers (Barcelona) (Aug 2018 - now)
 
+1. - Associate Professor, Dayananda Sagar College of Architecture (Jan 2017 - 2022)
+1. - Co-Founder, Citylab BLR (Aug 2015 - 2020)
+1. - Key Collaborator India, Citymakers (Barcelona) (Aug 2018 - now)

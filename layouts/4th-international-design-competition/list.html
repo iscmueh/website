@@ -480,12 +480,12 @@
           jury
         </h2>
       </div>
-      <div class="container" style="margin-top: 50px">
+      <div class="container" style="margin-top: 50px; max-width: 90% !important">
         <div class="row jury">
           {{ $data := getJSON "data/jury.json"}} {{ range $data }}
-          <div class="col-12 col-lg-4 my-3" style="height: 350px">
+          <div class="col-12 col-lg-6 col-xl-4 my-3" style="height: 300px">
             <div class="row" style="height: 100%">
-              <div class="col-5" style="height: 100%">
+              <div class="col-5" style="height: 100%;">
                 <figure
                   style="
                     width: 100%;
@@ -500,7 +500,7 @@
                 <h4 style="font-size: 16px">{{.name}}</h4>
                 <p style="font-size: 14px; margin-bottom: 5px">{{.title}}</p>
                 <p style="font-size: 14px; margin-bottom: 5px">
-                  {{delimit (slice .faculty .affiliation) " "}}
+                  {{delimit (slice .faculty .affiliation) " " | safeHTML}}
                 </p>
                 <p style="font-size: 14px; margin-bottom: 5px">{{.country}}</p>
               </div>

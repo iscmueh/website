@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "."
 # teacher portrait
-image: "/images/team/thay Phuc makerspace.png"
+image: "/images/team/members/Nguyễn Hoàng Phúc 2.jpg"
 # course
 course: "MakerSpace Manager"
 position: ""

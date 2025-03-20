@@ -184,7 +184,7 @@
     "title": "",
     "faculty": "Faculty of Arts and Humanities",
     "affiliation": "University of Saint Joseph",
-    "country": "",
+    "country": "Macao",
     "image": "/images/competitive/4th-international/jury/Sérgio Proença_color.jpeg"
   },
   {
@@ -192,7 +192,23 @@
     "title": "Head of Department of Architecture and Design",
     "faculty": "Faculty of Arts and Humanities",
     "affiliation": "University of Saint Joseph",
-    "country": "",
+    "country": "Macao",
     "image": "/images/competitive/4th-international/jury/Nuno Soares_02.jpeg"
+  },
+  {
+    "name": "Assoc. Prof. Jittisak Thammapornpilas",
+    "title": "",
+    "faculty": "Department of Urban and Regional Planning <br /> Faculty of Architecture",
+    "affiliation": "Chulalongkorn University",
+    "country": "Thailand",
+    "image": "/images/competitive/4th-international/jury/jittisak.jpg"
+  },
+  {
+    "name": "Assist. Prof. Shusak Janpathompong",
+    "title": "Director of the International Program in Design and Architecture",
+    "faculty": "Faculty of Architecture",
+    "affiliation": "Chulalongkorn University",
+    "country": "Thailand",
+    "image": "/images/competitive/4th-international/jury/Shusak.jpg"
   }
 ]

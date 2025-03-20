@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "."
 # teacher portrait
-image: "images/team/Q.Mai.jpg"
+image: "images/team/members/Trần Thị Quỳnh Mai 2.jpg"
 # course
 course: "BAUD Director"
 position: ""

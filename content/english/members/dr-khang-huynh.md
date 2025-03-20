@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description: "."
 # teacher portrait
-image: "/images/team/Huynh-van-khang (1).jpg"
+image: "/images/team/members/Huỳnh Văn Khang 2.jpg"
 # course
 course: "Lecturer"
 position: ""

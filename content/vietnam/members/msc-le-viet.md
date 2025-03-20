@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "."
 # teacher portrait
-image: "images/team/Viet.jpg"
+image: "images/team/members/Lê Quốc Việt 2.jpg"
 # course
 course: "Quản Lý StudioLab"
 position: ""

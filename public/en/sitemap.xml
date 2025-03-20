@@ -55,16 +55,16 @@
                 href="https://www.iscm.ueh.edu.vn/admission_master/master_admission_2022/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/members/dr-trinh-tu-anh/</loc>
+    <loc>https://www.iscm.ueh.edu.vn/members/trinh-tu-anh/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/members/dr-trinh-tu-anh/"
+                href="https://www.iscm.ueh.edu.vn/vi/members/trinh-tu-anh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/members/dr-trinh-tu-anh/"
+                href="https://www.iscm.ueh.edu.vn/members/trinh-tu-anh/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/network/dr.-sebastien-goethals/</loc>
@@ -1512,6 +1512,18 @@
                 href="https://www.iscm.ueh.edu.vn/members/dr-khang-huynh/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/members/tran_quang_dao/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/members/tran_quang_dao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/members/tran_quang_dao/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/network/assist.-prof.-barbara-e.-a.-piga/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1788,18 +1800,6 @@
                 href="https://www.iscm.ueh.edu.vn/members/phuong-anh/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/members/staff-dang-ngan/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/members/staff-dang-ngan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/members/staff-dang-ngan/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/network/dr.-derlie-mateo-babiano/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1835,8 +1835,6 @@
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/members/quynh-tram/"
                 />
-  </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/members/intern-tram-anh/</loc>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/members/khoi-pham/</loc>
     <xhtml:link

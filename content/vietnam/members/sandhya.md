@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # teacher portrait
-image: "images/team/SandhyaRao-02.png"
+image: "images/team/members/Sandhya Rao 2.jpg"
 # course
 course: "Giảng Viên"
 position: "Lecturer"
@@ -41,16 +41,17 @@ interest: ["Các nguyên cứu liên quan đến lĩnh vực Đô thị học & 
 type: "teacher"
 weight: 10
 ---
+
 <!-- ### Lĩnh vực nguyên cứu
 1. * Cognitive Mapping liên quan đến lĩnh vực Đô thị học và giải pháp cho chiến lược đô thị hóa. -->
 
 ### Giảng Dạy
-1. * Basic Studiolab 3
-1. * Basic Studiolab 5
 
+1. - Basic Studiolab 3
+1. - Basic Studiolab 5
 
 ### Tiểu Sử Nghiên Cứu và Học Thuật
-1. * Phó Giáo sư, Dayananda Sagar College of Architecture (Tháng 1, 2017 - 2022)
-1. * Đồng sáng lập, Citylab*BLR (Tháng 8, 2015 - 2020)
-1. * Cộng tác viên chính ở Ấn Độ, Citymakers (Barcelona) (Tháng 8, 2018 - nay)
 
+1. - Phó Giáo sư, Dayananda Sagar College of Architecture (Tháng 1, 2017 - 2022)
+1. - Đồng sáng lập, Citylab\*BLR (Tháng 8, 2015 - 2020)
+1. - Cộng tác viên chính ở Ấn Độ, Citymakers (Barcelona) (Tháng 8, 2018 - nay)

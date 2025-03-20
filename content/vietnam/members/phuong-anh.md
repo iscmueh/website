@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description: "."
 # teacher portrait
-image: "/images/team/PAnh.png"
+image: "/images/team/members/Trương Ngọc Phương Anh 2.jpg"
 # course
 course: "PR/ Marketing"
 position: ""

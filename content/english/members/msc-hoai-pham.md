@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "."
 # teacher portrait
-image: "images/team/Hoai.jpg"
+image: "images/team/members/Phạm Nguyễn Hoài 2.jpg"
 # course
 course: "Lecturer"
 position: ""
@@ -32,22 +32,23 @@ weight: 9
 ---
 
 ### Courses
-1. * Urban Resilience and Risk Assessment
-1. * Data Analytics and Solutions for Architect and Urban Planner
-1. * Asset Management for Buildings and Engineering Systems
-1. * System Engineering
-1. * Project Management
 
+1. - Urban Resilience and Risk Assessment
+1. - Data Analytics and Solutions for Architect and Urban Planner
+1. - Asset Management for Buildings and Engineering Systems
+1. - System Engineering
+1. - Project Management
 
 ### Academic and Research Profile
-1. *	Doctoral student in Transportation Sciences, Hasselt University (Belgium) (2020-2024)
-1. *	Master of Transportation Sciences, Hasselt University (Belgium) (2017-2019)
-1. *	Bachelor of Business Administration, Vietnam Aviation Academy (2010-2014)
+
+1. - Doctoral student in Transportation Sciences, Hasselt University (Belgium) (2020-2024)
+1. - Master of Transportation Sciences, Hasselt University (Belgium) (2017-2019)
+1. - Bachelor of Business Administration, Vietnam Aviation Academy (2010-2014)
 
 ### International Experiences
-1. *	Viags Tan Son Nhat (2016-2017)
-Payment officer
-1. *	Hoa Sao Group (2015)
-Supervisor for Vietjet Air call center
-1. *	Jetstar Pacific Airlines (2014-2015) 
 
+1. - Viags Tan Son Nhat (2016-2017)
+     Payment officer
+1. - Hoa Sao Group (2015)
+     Supervisor for Vietjet Air call center
+1. - Jetstar Pacific Airlines (2014-2015)

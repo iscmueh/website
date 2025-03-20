@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "."
 # teacher portrait
-image: "images/team/TAN.JPG"
+image: "images/team/members/Lê Phan Trường An 1.jpg"
 # course
 course: "Researcher"
 position: ""
@@ -32,11 +32,13 @@ weight: 17
 ---
 
 ### Courses
-1. * Urban Data Analytics
-1. * Digital tools & Big data
-1. * Geographic Information System
-1. * Smart City and Urban Intervention
+
+1. - Urban Data Analytics
+1. - Digital tools & Big data
+1. - Geographic Information System
+1. - Smart City and Urban Intervention
 
 ### Academic and Research Profile
-1. * Bachelor of Science in Advanced Program in Computer Sciece (2014-2019), Vietnam National University Ho Chi Minh City - University of Science, Ho Chi Minh
-1. * Studying about Master of Smart City Engineering, Seoul National University(SNU)(2020-2022), South Korea.
+
+1. - Bachelor of Science in Advanced Program in Computer Sciece (2014-2019), Vietnam National University Ho Chi Minh City - University of Science, Ho Chi Minh
+1. - Studying about Master of Smart City Engineering, Seoul National University(SNU)(2020-2022), South Korea.

@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description: "."
 # teacher portrait
-image: "/images/team/intern/khoi.jpg"
+image: "/images/team/members/Phạm Minh Khôi 2 (1).jpg"
 # course
 course: "IT Intern"
 position: ""

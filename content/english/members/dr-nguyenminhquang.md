@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description: "."
 # teacher portrait
-image: "/images/team/tQuang.png"
+image: "/images/team/members/Nguyễn Minh Quang 2.jpg"
 # course
 course: "Lecturer"
 position: ""
