@@ -1848,8 +1848,21 @@
                 href="https://www.iscm.ueh.edu.vn/members/khoi-pham/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/news/msm_award/</loc>
+    <lastmod>2025-03-23T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/news/msm_award/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/news/msm_award/"
+                />
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/</loc>
-    <lastmod>2025-02-26T07:00:00+00:00</lastmod>
+    <lastmod>2025-03-23T09:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
@@ -1862,7 +1875,7 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/news/</loc>
-    <lastmod>2025-02-26T07:00:00+00:00</lastmod>
+    <lastmod>2025-03-23T09:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vi"
@@ -1912,6 +1925,12 @@
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/news/vgu_speech/"
                 />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/thanhda/fertile_fields/</loc>
+    <lastmod>2025-01-18T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/thanhda/</loc>
+    <lastmod>2025-01-18T19:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/news/best_paper_award/</loc>
     <lastmod>2025-01-13T09:00:00+00:00</lastmod>
@@ -3394,6 +3413,10 @@
                 href="https://www.iscm.ueh.edu.vn/research/project/kts/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/collaboration_studios/</loc>
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/design_studio/</loc>
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/teacher/devid-luis/</loc>
     <xhtml:link
                 rel="alternate"
@@ -3405,6 +3428,8 @@
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/teacher/devid-luis/"
                 />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/collaboration_studios/thanhda/</loc>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/teacher/duis-rio/</loc>
     <xhtml:link
@@ -3465,6 +3490,8 @@
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/research/publications/floodresilient-urban-parks-toward-a-framework/"
                 />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/thanhda/floodsmart/</loc>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/research/publications/framework-proposal-of-smart-city-development-in-developing-country-a-case-study-vietnam/</loc>
     <xhtml:link
@@ -3550,6 +3577,8 @@
                 href="https://www.iscm.ueh.edu.vn/library/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/thanhda/urban_wetlands/</loc>
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/author/mark-dinn/</loc>
     <xhtml:link
                 rel="alternate"
@@ -3573,6 +3602,8 @@
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/members/"
                 />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/thanhda/ngudan_islands/</loc>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/notice/</loc>
     <xhtml:link
@@ -3616,6 +3647,8 @@
                 href="https://www.iscm.ueh.edu.vn/recruit/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/thanhda/redesigning_thanhda/</loc>
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/research/</loc>
     <xhtml:link
                 rel="alternate"
@@ -3639,6 +3672,8 @@
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/research/publications/research-by-design-framework-for-integrating-education-and-research-in-an-intercultural-parallel-design-studio/"
                 />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/thanhda/rise_above/</loc>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/scholarship/</loc>
     <xhtml:link
@@ -3688,6 +3723,10 @@
                 href="https://www.iscm.ueh.edu.vn/team/"
                 />
   </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/thanhda/thanhda_gardenia/</loc>
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/thanhda/green_tapestry/</loc>
+  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/research/publications/towards-a-sustainable-university-transition-model-for-emerging-markets/</loc>
     <xhtml:link
                 rel="alternate"
@@ -3711,6 +3750,8 @@
                 hreflang="en-us"
                 href="https://www.iscm.ueh.edu.vn/admission_undergraduate/"
                 />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/thanhda/waterwoven_grids/</loc>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/teacher/zim-cook/</loc>
     <xhtml:link

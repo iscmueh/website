@@ -1779,7 +1779,7 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/</loc>
-    <lastmod>2025-03-11T09:00:00+00:00</lastmod>
+    <lastmod>2025-03-23T09:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -1791,11 +1791,8 @@
                 href="https://www.iscm.ueh.edu.vn/vi/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/news/reengaging-cities-landscape-towards-carbon-neutrality/</loc>
-    <lastmod>2025-03-11T09:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/news/</loc>
-    <lastmod>2025-03-11T09:00:00+00:00</lastmod>
+    <lastmod>2025-03-23T09:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -1806,6 +1803,22 @@
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/news/"
                 />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/news/msm_award/</loc>
+    <lastmod>2025-03-23T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/news/msm_award/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/news/msm_award/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/news/reengaging-cities-landscape-towards-carbon-neutrality/</loc>
+    <lastmod>2025-03-11T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/news/smart_urban_design_studio/</loc>
     <lastmod>2025-02-26T07:00:00+00:00</lastmod>

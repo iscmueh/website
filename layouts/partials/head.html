@@ -1,56 +1,70 @@
 <head>
-  <meta charset="utf-8">
+  <meta charset="utf-8" />
   <title>{{ .Title }}</title>
 
-  {{ "<!-- mobile responsive meta -->" | safeHTML }}
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description"
-    content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
+  {{/* {{ "
+  <!-- mobile responsive meta -->
+  " | safeHTML }} */}}
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, maximum-scale=1"
+  />
+  <meta
+    name="description"
+    content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}"
+  />
   {{ with site.Params.author }}
-  <meta name="author" content="{{ . }}">{{ end }}
-  {{ hugo.Generator }}
-  {{ "<!-- multilingual SEO optimizations -->" | safeHTML }}
-  {{ if .IsTranslated }}
-  {{ range .Page.AllTranslations }}
-  <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
-  {{ end }}
-  {{ end }}
+  <meta name="author" content="{{ . }}" />
+  {{ end }} {{ hugo.Generator }} {{/* {{ "
+  <!-- multilingual SEO optimizations -->
+  " | safeHTML }} */}} {{ if .IsTranslated }} {{ range .Page.AllTranslations }}
+  <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
+  {{ end }} {{ end }} {{/* {{ "
+  <!-- plugins -->
+  " | safeHTML }} */}} {{ range site.Params.plugins.css }}
+  <link rel="stylesheet" href="{{ .link | absURL }}" />
+  {{ end }} {{/* {{ "
+  <!-- Main Stylesheet -->
+  " | safeHTML }} */}} {{ $styles := resources.Get "scss/style.scss" | toCSS }}
+  <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen" />
 
-  {{ "<!-- plugins -->" | safeHTML }}
-  {{ range site.Params.plugins.css }}
-  <link rel="stylesheet" href="{{ .link | absURL }}">
-  {{ end }}
+  {{/* {{ "
+  <!--Favicon-->
+  " | safeHTML }} */}}
+  <link
+    rel="shortcut icon"
+    href="{{ `images/favicon.png` | absURL }}"
+    type="image/x-icon"
+  />
+  <link
+    rel="icon"
+    href="{{ `images/favicon.png` | absURL }}"
+    type="image/x-icon"
+  />
 
-  {{ "<!-- Main Stylesheet -->" | safeHTML }}
-  {{ $styles := resources.Get "scss/style.scss" | toCSS }}
-  <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 
-  {{ "<!--Favicon-->" | safeHTML }}
-  <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
-  <link rel="icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
-
-  {{/*  Tailwindcss  */}}
-  {{ $t := debug.Timer "tailwindcss" }}
-  {{ with resources.Get "css/styles.css" }}
-    {{ $opts := dict
-      "inlineImports" true
-      "optimize" (not hugo.IsDevelopment)
-    }}
-    {{ with . | css.TailwindCSS $opts }}
-      {{ if hugo.IsDevelopment }}
-        <link rel="stylesheet" href="{{ .RelPermalink }}" />
-      {{ else }}
-        {{ with . | minify | fingerprint }}
-          <link
-            rel="stylesheet"
-            href="{{ .RelPermalink }}"
-            integrity="{{ .Data.Integrity }}"
-            crossorigin="anonymous" />
-        {{ end }}
-      {{ end }}
-    {{ end }}
-  {{ end }}
-
-  {{ $t.Stop }}
-
+  {{/* Tailwindcss */}} {{ $t := debug.Timer "tailwindcss" }} {{ with
+  resources.Get "css/styles.css" }} {{ $opts := dict "inlineImports" true
+  "optimize" (not hugo.IsDevelopment) }} {{ with . | css.TailwindCSS $opts }} {{
+  if hugo.IsDevelopment }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}" />
+  {{ else }} {{ with . | minify | fingerprint }}
+  <link
+    rel="stylesheet"
+    href="{{ .RelPermalink }}"
+    integrity="{{ .Data.Integrity }}"
+    crossorigin="anonymous"
+  />
+  {{ end }} {{ end }} {{ end }} {{ end }} {{ $t.Stop }}
+  <style type="text/tailwindcss">
+    @theme {
+      :root {
+        --screen-sm: 576px,
+        --screen-md: 768px,
+        --screen-lg: 992px,
+        --screen-xl: 1200px,
+      }
+    }
+  </style>
 </head>

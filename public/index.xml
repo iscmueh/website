@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2021 by [ISCM](https://iscm.ueh.edu.vn)</copyright>
-    <lastBuildDate>Wed, 26 Feb 2025 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Mar 2025 09:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.iscm.ueh.edu.vn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Asset Management</title>
@@ -1067,6 +1067,13 @@
       <description></description>
     </item>
     <item>
+      <title>DR. ARCH. NGUYEN MINH QUANG RECEIVED SPECIAL MENTIONS IN THE FIFTH MANUEL DE SOLÀ-MORALES EUROPEAN PRIZE 2025</title>
+      <link>https://www.iscm.ueh.edu.vn/news/msm_award/</link>
+      <pubDate>Sun, 23 Mar 2025 09:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/news/msm_award/</guid>
+      <description>“Forest and Water Urbanism” has been widely investigated. This is an area of study that stands within Landscape Urbanism.</description>
+    </item>
+    <item>
       <title>SMART URBAN DESIGN STUDIO 2024-2025: URBAN ADAPTATION - SCENARIOS FOR THANH DA – THE GEM OF HO CHI MINH CITY AND THU DUC CITIES</title>
       <link>https://www.iscm.ueh.edu.vn/news/smart_urban_design_studio/</link>
       <pubDate>Wed, 26 Feb 2025 07:00:00 +0000</pubDate>
@@ -1086,6 +1093,13 @@
       <pubDate>Wed, 22 Jan 2025 03:41:42 +0000</pubDate>
       <guid>https://www.iscm.ueh.edu.vn/news/vgu_speech/</guid>
       <description>On December 19, 2024, Dr. Architect Huynh Van Khang represented the Institute of Smart City and Management (ISCM) at the Sustainable Architecture Practice Seminar held at Vietnamese-German University (VGU).</description>
+    </item>
+    <item>
+      <title>Fertile Fields of Thanh Da - Thanh Đa Lộc Điền</title>
+      <link>https://www.iscm.ueh.edu.vn/thanhda/fertile_fields/</link>
+      <pubDate>Sat, 18 Jan 2025 19:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/thanhda/fertile_fields/</guid>
+      <description></description>
     </item>
     <item>
       <title>[Thailand] UEH ISCM Experts Receive &#34;Best Paper&#34; Award at the 8th International Place Branding Association Conference (IPBA)</title>
@@ -1858,6 +1872,13 @@
       <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
+      <title>Drowing minor cities / Urban Adaptation Scenarios for Thanh Da</title>
+      <link>https://www.iscm.ueh.edu.vn/collaboration_studios/thanhda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/collaboration_studios/thanhda/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Duis Rio</title>
       <link>https://www.iscm.ueh.edu.vn/teacher/duis-rio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1876,6 +1897,13 @@
       <link>https://www.iscm.ueh.edu.vn/research/publications/floodresilient-urban-parks-toward-a-framework/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.iscm.ueh.edu.vn/research/publications/floodresilient-urban-parks-toward-a-framework/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FloodSmart Thanh Da</title>
+      <link>https://www.iscm.ueh.edu.vn/thanhda/floodsmart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/thanhda/floodsmart/</guid>
       <description></description>
     </item>
     <item>
@@ -1914,11 +1942,25 @@
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
     </item>
     <item>
+      <title>Living with Urban Wetlands</title>
+      <link>https://www.iscm.ueh.edu.vn/thanhda/urban_wetlands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/thanhda/urban_wetlands/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Mark Dinn</title>
       <link>https://www.iscm.ueh.edu.vn/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.iscm.ueh.edu.vn/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
+    </item>
+    <item>
+      <title>Ngư Dân Islands</title>
+      <link>https://www.iscm.ueh.edu.vn/thanhda/ngudan_islands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/thanhda/ngudan_islands/</guid>
+      <description></description>
     </item>
     <item>
       <title>people</title>
@@ -1935,10 +1977,24 @@
       <description>Members Dr. Trinh Tu Anh Director of ISCM&#xA;image alt </description>
     </item>
     <item>
+      <title>Redesigning Thanh Da for Connectivity, Resilience, and Community</title>
+      <link>https://www.iscm.ueh.edu.vn/thanhda/redesigning_thanhda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/thanhda/redesigning_thanhda/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Research-by-design framework for integrating education and research in an intercultural parallel design studio</title>
       <link>https://www.iscm.ueh.edu.vn/research/publications/research-by-design-framework-for-integrating-education-and-research-in-an-intercultural-parallel-design-studio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.iscm.ueh.edu.vn/research/publications/research-by-design-framework-for-integrating-education-and-research-in-an-intercultural-parallel-design-studio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rise Above</title>
+      <link>https://www.iscm.ueh.edu.vn/thanhda/rise_above/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/thanhda/rise_above/</guid>
       <description></description>
     </item>
     <item>
@@ -1949,10 +2005,31 @@
       <description></description>
     </item>
     <item>
+      <title>Thanh Da Gardenia</title>
+      <link>https://www.iscm.ueh.edu.vn/thanhda/thanhda_gardenia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/thanhda/thanhda_gardenia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>the green tapestry</title>
+      <link>https://www.iscm.ueh.edu.vn/thanhda/green_tapestry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/thanhda/green_tapestry/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Towards A Sustainable University Transition Model For Emerging Markets</title>
       <link>https://www.iscm.ueh.edu.vn/research/publications/towards-a-sustainable-university-transition-model-for-emerging-markets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.iscm.ueh.edu.vn/research/publications/towards-a-sustainable-university-transition-model-for-emerging-markets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Waterwoven Grids</title>
+      <link>https://www.iscm.ueh.edu.vn/thanhda/waterwoven_grids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.iscm.ueh.edu.vn/thanhda/waterwoven_grids/</guid>
       <description></description>
     </item>
     <item>

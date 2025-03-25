@@ -1,0 +1,718 @@
+<!DOCTYPE html>
+<html lang="en-us"><head>
+  <meta charset="utf-8" />
+  <title>Waterwoven Grids</title>
+
+  
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, maximum-scale=1"
+  />
+  <meta
+    name="description"
+    content="Institute of Smart City and Management, University of Economics Ho Chi Minh"
+  />
+   <meta name="generator" content="Hugo 0.121.1">    
+  <link rel="stylesheet" href="https://www.iscm.ueh.edu.vn/plugins/bootstrap/bootstrap.min.css" />
+  
+  <link rel="stylesheet" href="https://www.iscm.ueh.edu.vn/plugins/slick/slick.css" />
+  
+  <link rel="stylesheet" href="https://www.iscm.ueh.edu.vn/plugins/animate/animate.css" />
+  
+  <link rel="stylesheet" href="https://www.iscm.ueh.edu.vn/plugins/venobox/venobox.css" />
+  
+  <link rel="stylesheet" href="https://www.iscm.ueh.edu.vn/plugins/themify-icons/themify-icons.css" />
+    
+  <link rel="stylesheet" href="https://www.iscm.ueh.edu.vn/scss/style.css" media="screen" />
+
+  
+  <link
+    rel="shortcut icon"
+    href="https://www.iscm.ueh.edu.vn/images/favicon.png"
+    type="image/x-icon"
+  />
+  <link
+    rel="icon"
+    href="https://www.iscm.ueh.edu.vn/images/favicon.png"
+    type="image/x-icon"
+  />
+
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+
+     
+  <style type="text/tailwindcss">
+    @theme {
+      :root {
+        --screen-sm: 576px,
+        --screen-md: 768px,
+        --screen-lg: 992px,
+        --screen-xl: 1200px,
+      }
+    }
+  </style>
+</head>
+<body>
+<!-- preloader start -->
+<div class="preloader">
+  
+  <img src="https://www.iscm.ueh.edu.vn/images/preloader.gif" alt="preloader">
+  
+</div>
+<!-- preloader end -->
+
+<header class="fixed-top header">
+  
+  
+  <div class="top-header py-2 bg-white">
+    <div class="container">
+      <div class="row no-gutters align-items-center">
+        <div class="col-lg-4 text-center text-lg-left">
+          <ul class="list-inline">
+            
+            <li class="list-inline-item mx-0">
+              <a
+                class="d-inline-block p-2 text-color"
+                href="https://www.linkedin.com/company/iscm-ueh"
+                ><i class="ti-linkedin"></i
+              ></a>
+            </li>
+            
+            <li class="list-inline-item mx-0">
+              <a
+                class="d-inline-block p-2 text-color"
+                href="https://www.youtube.com/@instituteofsmartcityandman8501"
+                ><i class="ti-youtube"></i
+              ></a>
+            </li>
+            
+            <li class="list-inline-item mx-0">
+              <a
+                class="d-inline-block p-2 text-color"
+                href="https://www.facebook.com/ISCM.UEH"
+                ><i class="ti-facebook"></i
+              ></a>
+            </li>
+            
+          </ul>
+        </div>
+        <div class="col-lg-8 text-center text-lg-right">
+          <ul class="list-inline">
+            <li class="list-inline-item">
+              <a
+                class="text-color mr-3 d-flex align-items-end"
+                href="tel:&#43;84%2028%203930%209589"
+              >
+                
+                <img
+                  src="/images/telephone.png"
+                  alt="phone"
+                  width="14"
+                  style="margin-right: 5px"
+                />
+                &#43;84 28 3930 9589</a
+              >
+            </li>
+            <li class="list-inline-item">
+              <a
+                class="text-color d-flex align-items-end"
+                href="mailto:iscm@ueh.edu.vn"
+              >
+                
+                <img
+                  src="/images/email.png"
+                  alt="email"
+                  width="14"
+                  style="margin-right: 5px"
+                />
+                iscm@ueh.edu.vn</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+  <div
+    class="navigation nav-bg w-100  top-hider "
+  >
+    <div class="container">
+      <nav class="navbar navbar-expand-lg navbar-dark p-0">
+        <a
+          class="navbar-brand"
+          href="/"
+          style="min-width: 88px"
+          ><img
+            class="img-fluid"
+            src="https://www.iscm.ueh.edu.vn/images/logoiscm.png"
+            alt="Institute of Smart City &amp; Management"
+        /></a>
+        <button
+          class="navbar-toggler rounded-0"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navigation"
+          aria-controls="navigation"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div
+          class="collapse navbar-collapse text-center"
+          id="navigation"
+          style="font-size: 14px; justify-content: center"
+        >
+          <ul class="navbar-nav ml-auto pl-2 pl-xl-5" style="align-items: center">
+            
+             
+            <li
+              class="nav-item align-self-lg-stretch"
+              style="display: flex; align-items: center"
+            >
+              <a class="nav-link" href="https://www.iscm.ueh.edu.vn/about">About</a>
+            </li>
+              
+            <li
+              class="nav-item dropdown align-self-lg-stretch"
+              style="display: flex; align-items: center"
+            >
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-toggle="dropdown"
+              >
+                News &amp; Events
+              </a>
+              <div class="dropdown-menu">
+                
+                <a class="dropdown-item" href="https://www.iscm.ueh.edu.vn/news"
+                  >News</a
+                >
+                
+                <a class="dropdown-item" href="https://www.iscm.ueh.edu.vn/event"
+                  >Events</a
+                >
+                
+              </div>
+            </li>
+              
+            <li
+              class="nav-item dropdown align-self-lg-stretch"
+              style="display: flex; align-items: center"
+            >
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-toggle="dropdown"
+              >
+                Education
+              </a>
+              <div class="dropdown-menu">
+                
+                <a class="dropdown-item" href="https://www.iscm.ueh.edu.vn/course_undergraduate/bachelor/"
+                  >Undergraduate</a
+                >
+                
+                <a class="dropdown-item" href="https://www.iscm.ueh.edu.vn/course_graduate"
+                  >Graduate</a
+                >
+                
+                <a class="dropdown-item" href="https://www.iscm.ueh.edu.vn/course_shortcourse"
+                  >Short Course</a
+                >
+                
+              </div>
+            </li>
+              
+            <li
+              class="nav-item dropdown align-self-lg-stretch"
+              style="display: flex; align-items: center"
+            >
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-toggle="dropdown"
+              >
+                R&amp;D
+              </a>
+              <div class="dropdown-menu">
+                
+                <a class="dropdown-item" href="https://www.iscm.ueh.edu.vn/research"
+                  >Research</a
+                >
+                
+                <a class="dropdown-item" href="https://www.iscm.ueh.edu.vn/competition"
+                  >Competition</a
+                >
+                
+                <a class="dropdown-item" href="https://www.iscm.ueh.edu.vn/activities"
+                  >Other activities</a
+                >
+                
+              </div>
+            </li>
+              
+            <li
+              class="nav-item align-self-lg-stretch"
+              style="display: flex; align-items: center"
+            >
+              <a class="nav-link" href="https://www.iscm.ueh.edu.vn/studiolab">StudioLAB</a>
+            </li>
+              
+            <li
+              class="nav-item dropdown align-self-lg-stretch"
+              style="display: flex; align-items: center"
+            >
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-toggle="dropdown"
+              >
+                People
+              </a>
+              <div class="dropdown-menu">
+                
+                <a class="dropdown-item" href="https://www.iscm.ueh.edu.vn/advisory"
+                  >Advisory Board</a
+                >
+                
+                <a class="dropdown-item" href="https://www.iscm.ueh.edu.vn/members"
+                  >Members</a
+                >
+                
+                <a class="dropdown-item" href="https://www.iscm.ueh.edu.vn/adjunctprofessors"
+                  >Adjunct Professors</a
+                >
+                
+                <a class="dropdown-item" href="https://www.iscm.ueh.edu.vn/network"
+                  >Glocal Experts</a
+                >
+                
+              </div>
+            </li>
+              
+            <li
+              class="nav-item align-self-lg-stretch"
+              style="display: flex; align-items: center"
+            >
+              <a class="nav-link" href="https://www.iscm.ueh.edu.vn/contact">Contact</a>
+            </li>
+              
+            <li
+              class="nav-item dropdown align-self-lg-stretch"
+              style="display: flex; align-items: center"
+            >
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-toggle="dropdown"
+              >
+                Others
+              </a>
+              <div class="dropdown-menu">
+                
+                <a class="dropdown-item" href="https://www.iscm.ueh.edu.vn/partner"
+                  >Partner</a
+                >
+                
+                <a class="dropdown-item" href="https://iscm.notion.site/Job-Board-96512d630e1642698e921c64714594a6"
+                  >Recruitment</a
+                >
+                
+              </div>
+            </li>
+             
+          </ul>
+
+          
+          
+        </div>
+      </nav>
+    </div>
+  </div>
+</header>
+
+ 
+<section
+  class="page-title-section overlay"
+  style="background-image: url('/'),url('/images/backgrounds/page-title.jpg');"
+>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <ul class="list-inline custom-breadcrumb">
+          <li class="list-inline-item h2">
+            <a
+              class="text-white font-secondary"
+              href="https://www.iscm.ueh.edu.vn/"
+              >Home</a
+            >
+          </li>
+          <li class="list-inline-item h5">
+            <i class="ti-angle-right text-white"></i>
+          </li>
+          <li
+            class="list-inline-item text-white h3 font-secondary"
+            style="text-align: justify; word-break: keep-all"
+          >
+            Waterwoven Grids
+          </li>
+        </ul>
+        <p class="text-lighten" style="text-align: justify">
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+ 
+
+<section class="container py-8">
+  <h1 class="text-center">Waterwoven Grids</h1>
+  <div class="row mt-20" style="margin-top: 64px">
+    <div class="col-lg-5 col-12 h-full">
+      <div class="">
+        <span class="row">
+          <p class="underline font-weight-bold mb-0 col-12 col-md-6">Date:</p>
+          <p class="col-12 col-md-6">
+             <span>unknow</span> .
+          </p>
+        </span>
+        <span class="row">
+          <p class="underline font-weight-bold mb-0 col-12 col-md-6">
+            Location:
+          </p>
+          <p class="col-12 col-md-6">Thanh Da.</p>
+        </span>
+        <span>
+          <p class="underline font-weight-bold mb-0">Supervisor Team:</p>
+          <div class="flex flex-wrap">
+            
+            <p class="mb-2 w-1/2 text-center col-12 col-lg-6">Patrick Lenssen</p>
+            
+            <p class="mb-2 w-1/2 text-center col-12 col-lg-6">Frits van de Kerk</p>
+            
+            <p class="mb-2 w-1/2 text-center col-12 col-lg-6">Els van den Veyver</p>
+            
+            <p class="mb-2 w-1/2 text-center col-12 col-lg-6">Steven Hommersom</p>
+            
+            <p class="mb-2 w-1/2 text-center col-12 col-lg-6">Wil Mertens</p>
+            
+          </div>
+        </span>
+        <span>
+          <p class="underline font-weight-bold mb-0">Student List:</p>
+          <div class="flex flex-wrap row">
+            
+            <p class="mb-2 w-1/2 text-center col-12 col-lg-6">Lex Kalfsterman</p>
+            
+            <p class="mb-2 w-1/2 text-center col-12 col-lg-6">Véronique Vermue</p>
+            
+            <p class="mb-2 w-1/2 text-center col-12 col-lg-6">Sander in &#39;t Zandt</p>
+            
+            <p class="mb-2 w-1/2 text-center col-12 col-lg-6">Shannon Zwart</p>
+            
+          </div>
+        </span>
+        <span>
+          <p class="underline font-weight-bold mb-0">Description:</p>
+          <div class="flex flex-wrap row">
+            <p class="mb-2 pl-4 w-1/2 text-justify col-12">
+              The Thanh Da peninsula in Ho Chi Minh City faces significant challenges. The combination of climate change, flooding, urbanization, and the loss of green space threatens the livability of the area. Our multidisciplinary team proudly introduces the “Waterwoven Grid” project, an innovative master plan that integrates Dutch water management principles with Vietnamese culture. This plan offers a future-proof and holistic design that combines ecological sustainability, urban development, and cultural identity. Thanh Da is grappling with severe flooding issues due to heavy rainfall, rising sea levels, and inadequate infrastructure. Urbanization has reduced natural water absorption and fragmented green spaces. At the same time, there is a shortage of affordable housing and modern amenities for residents. This master plan provides solutions by combining water management with the redevelopment of urban and natural spaces. <br /> <br /> The meso area vision encompasses the entire Thanh Da peninsula. Here, the Dutch approach of “room for the river” is applied by designing flood zones along the edges of the peninsula. These wetlands serve as natural buffers against rising water, while dikes, sluices, and ‘groynes’ provide protection against erosion. By strategically designating areas for urban, agricultural, and natural functions, ecological balance is restored. The grid structure enhances connectivity between residential areas, agricultural land, and nature while preserving the existing qualities of Thanh Da. <br /> <br /> The micro area focuses on a specific neighborhood and illustrates how it can be redeveloped. Flood-prone areas are transformed into functional floodplains with raised walkways that provide access to nature and recreation. Residential areas are densified through infill development and the addition of new superblocks inspired by traditional Vietnamese architecture. Public amenities such as schools, parks, and healthcare facilities are expanded to support the growing population. The micro area not only offers protection against water but also creates a livable, sustainable, and inclusive urban environment. Islands have been introduced to protect the peninsula from erosion. <br /> <br /> The restaurant serves as the heart of the boulevard and is a unique meeting place for residents and tourists. Inspired by floating architecture, it adapts to changing water levels. The restaurant features local dishes with stalls run by residents, as well as recreational activities such as paddle-pong. Through its integration with the boulevard—functioning as a multifunctional dike and public space—the restaurant fosters social cohesion and economic growth. <br /> <br /> The vacation homes in the floodplains provide visitors with a unique experience of the Vietnamese landscape. Designed according to traditional Mekong Delta architecture, these houses vary in size and are built on elevated platforms to withstand flooding. The natural environment remains intact while visitors can enjoy a harmonious interaction with water and nature. These homes combine ecotourism with cultural heritage, making them both attractive and sustainable
+            </p>
+          </div>
+        </span>
+      </div>
+    </div>
+    <div class="col-1 d-lg-block d-none"></div>
+    <div class="col-lg-6 col-12">
+      <figure class="w-full mt-2 mt-lg-0 mb-5 mb-lg-0">
+        <img
+          src="/images/studiolab/collaboration/thanhda/waterwoven_grids/thumb.png"
+          alt="{para.id}"
+          width="{1000}"
+          height="{800}"
+          quality="{100}"
+          class="w-full h-full object-contain object-top"
+        />
+      </figure>
+      <div class="mt-3">
+        
+        <div
+          className="box w-full mb-[10px] break-inside-avoid overflow-hidden"
+          key="{item}"
+        >
+          <div className="flex justify-center w-full overflow-hidden">
+            <img class="mb-2 w-1/2 text-center w-full" src="/images/studiolab/collaboration/thanhda/waterwoven_grids/1.png" />
+          </div>
+        </div>
+        
+        <div
+          className="box w-full mb-[10px] break-inside-avoid overflow-hidden"
+          key="{item}"
+        >
+          <div className="flex justify-center w-full overflow-hidden">
+            <img class="mb-2 w-1/2 text-center w-full" src="/images/studiolab/collaboration/thanhda/waterwoven_grids/2.jpg" />
+          </div>
+        </div>
+        
+        <div
+          className="box w-full mb-[10px] break-inside-avoid overflow-hidden"
+          key="{item}"
+        >
+          <div className="flex justify-center w-full overflow-hidden">
+            <img class="mb-2 w-1/2 text-center w-full" src="/images/studiolab/collaboration/thanhda/waterwoven_grids/3.png" />
+          </div>
+        </div>
+        
+        <div
+          className="box w-full mb-[10px] break-inside-avoid overflow-hidden"
+          key="{item}"
+        >
+          <div className="flex justify-center w-full overflow-hidden">
+            <img class="mb-2 w-1/2 text-center w-full" src="/images/studiolab/collaboration/thanhda/waterwoven_grids/4.jpg" />
+          </div>
+        </div>
+        
+        <div
+          className="box w-full mb-[10px] break-inside-avoid overflow-hidden"
+          key="{item}"
+        >
+          <div className="flex justify-center w-full overflow-hidden">
+            <img class="mb-2 w-1/2 text-center w-full" src="/images/studiolab/collaboration/thanhda/waterwoven_grids/5.png" />
+          </div>
+        </div>
+        
+        <div
+          className="box w-full mb-[10px] break-inside-avoid overflow-hidden"
+          key="{item}"
+        >
+          <div className="flex justify-center w-full overflow-hidden">
+            <img class="mb-2 w-1/2 text-center w-full" src="/images/studiolab/collaboration/thanhda/waterwoven_grids/6.jpg" />
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<footer>
+  
+  
+  
+  <div class="footer bg-footer section border-bottom">
+    <div class="container">
+      <div class="slogan" style="margin-top: -15%; text-align: center; margin-bottom: 10%;" >
+        
+        <p style="font-size: 20pt; font-weight: bolder; color: whitesmoke;">SHAPING THE UNKNOWN FUTURE</p>
+        
+      </div>
+      <div class="row">
+        <div class="col-lg-4 col-sm-8 mb-5 mb-lg-0">
+          
+          <figure class="logo-footer"><img class="img-fluid mb-4" style="height: 70px" src="https://www.iscm.ueh.edu.vn/images/logoiscm.png" alt="Institute of Smart City &amp; Management"></figure>
+          <ul class="list-unstyled row footer__info">
+            <li class="mb-4 col-12">232/6 Vo Thi Sau Str, D.3, Ho Chi Minh City</li>
+            <li class="mb-4 col-12"><a href="mailto:iscm@ueh.edu.vn">iscm@ueh.edu.vn</a></li>
+            <li class="mb-4 col-12">+84 28 3930 9589</li>
+          </ul>
+
+          <style>
+            footer a:hover {
+              color: inherit
+            }
+          </style>
+          
+        </div>
+
+        
+        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
+          
+        </div>
+                
+        
+        <div class="col-lg-2 col-sm-3 col-6 mb-5 mb-md-0">
+          
+        </div>
+        
+
+        <div class="col-lg-4 col-sm-9 mb-5 mb-lg-0" style=" margin-top: -2%; text-align: right;">
+          
+          <figure class="logo-footer">
+            <img class="img-fluid mb-4" style="height:70px;" src="https://www.iscm.ueh.edu.vn/images/ueh-logo-std.png" alt="Institute of Smart City &amp; Management">
+          </figure>
+          <ul class="list-unstyled">
+            <li class="mb-4 col-12" style="font-size: 97%;">59C Nguyen Dinh Chieu Str, D.3, Ho Chi Minh City</li>
+            <li class="mb-4 col-12"><a href="mailto:info@ueh.edu.vn">info@ueh.edu.vn</a></li>
+            <li class="mb-4 col-12">+84-28-3829-5299/ +84-28-3829-5299</li>
+          </ul>
+          
+        </div>
+        
+
+        
+
+        
+
+
+        
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="bg-footer" style="width: auto; height: 100px; padding-top: 50px;">
+
+    <ul class="list-unstyled" style="text-align: center;"> 
+      
+      <li class="mb-4">
+        <a class="logo-footer" href="https://tuyensinh.ueh.edu.vn/">
+          <span class="logotext">Admission</span>  
+          <img class="img-fluid mb-4" style="height:50px; margin-right: 20px;" src="https://www.iscm.ueh.edu.vn/images/footer/recruitment.png" alt="Institute of Smart City &amp; Management">
+          </a>
+      </li>
+      <li class="mb-4">
+        <a class="logo-footer" href="https://future.ueh.edu.vn/">
+          <span class="logotext">UEH Giving</span>    
+          <img class="img-fluid mb-4" style="height:50px; margin-right: 20px; " src="https://www.iscm.ueh.edu.vn/images/footer/giving%20UEH-01.png" alt="Institute of Smart City &amp; Management">
+          </a>
+      </li>
+      <li class="mb-4">
+        <a class="logo-footer" href="https://global.ueh.edu.vn/">
+          <span class="logotext">UEH Global Learning</span>  
+          <img class="img-fluid mb-4" style="height:50px; margin-right: 20px;" src="https://www.iscm.ueh.edu.vn/images/footer/global.png" alt="Institute of Smart City &amp; Management">
+          </a>
+      </li>
+      <li class="mb-4">
+        <a class="logo-footer" href="https://lms.ueh.edu.vn/">
+          <span class="logotext">E-Learning</span>   
+          <img class="img-fluid mb-4" style="height:50px; margin-right: 20px" src="https://www.iscm.ueh.edu.vn/images/footer/elearning.png" alt="Institute of Smart City &amp; Management">
+          </a>
+      </li>
+      <li class="mb-4">
+        <a class="logo-footer" href="https://vieclam.ueh.edu.vn/">
+          <span class="logotext">UEH Career for Student</span>    
+          <img class="img-fluid mb-4" style="height:50px; margin-right: 20px" src="https://www.iscm.ueh.edu.vn/images/footer/job.png" alt="Institute of Smart City &amp; Management">
+          </a>
+      </li>
+      <li class="mb-4">
+        <a class="logo-footer" href="https://www.ueh.edu.vn">
+          <span class="logotext">UEH All in One</span>   
+          <img class="img-fluid mb-4" style="height:50px; margin-right: 20px" src="https://www.iscm.ueh.edu.vn/images/footer/information.png" alt="Institute of Smart City &amp; Management">
+          </a>
+      </li>
+      <li class="mb-4">
+        <a class="logo-footer" href="https://virtualtour.ueh.edu.vn/">
+          <span class="logotext">UEH Virtual Tour</span>    
+          <img class="img-fluid mb-4" style="height:50px; margin-right: 20px" src="https://www.iscm.ueh.edu.vn/images/footer/virtual.png" alt="Institute of Smart City &amp; Management">
+          </a>
+      </li>
+    </ul>
+
+  </div>
+  <div class="copyright py-4 bg-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-7 text-sm-left text-center">
+          <p class="mb-0"></p>
+        </div>
+        <div class="col-sm-5 text-sm-right text-center">
+          <ul class="list-inline">
+            
+            <li class="list-inline-item"><a class="d-inline-block p-2" href="https://www.linkedin.com/company/iscm-ueh"><i class="ti-linkedin text-primary"></i></a></li>
+            
+            <li class="list-inline-item"><a class="d-inline-block p-2" href="https://www.youtube.com/@instituteofsmartcityandman8501"><i class="ti-youtube text-primary"></i></a></li>
+            
+            <li class="list-inline-item"><a class="d-inline-block p-2" href="https://www.facebook.com/ISCM.UEH"><i class="ti-facebook text-primary"></i></a></li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+
+<!-- JS Plugins -->
+
+<script src="https://www.iscm.ueh.edu.vn/plugins/jQuery/jquery.min.js"></script>
+
+<script src="https://www.iscm.ueh.edu.vn/plugins/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://www.iscm.ueh.edu.vn/plugins/slick/slick.min.js"></script>
+
+<script src="https://www.iscm.ueh.edu.vn/plugins/venobox/venobox.min.js"></script>
+
+<script src="https://www.iscm.ueh.edu.vn/plugins/filterizr/jquery.filterizr.min.js"></script>
+
+<script src="https://www.iscm.ueh.edu.vn/plugins/google-map/gmap.js"></script>
+
+
+<!-- Main Script -->
+
+<script src="https://www.iscm.ueh.edu.vn/js/script.min.js"></script>
+
+
+<script>
+  
+</script>
+
+
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+<div id="js-cookie-box" class="cookie-box cookie-box-hide">
+	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-sm btn-outline-primary ml-2" style="background-color: rgba(255,255,255, 0.6) !important"> Accept </span>
+</div>
+<script>
+	(function ($) {
+		const cookieBox = document.getElementById('js-cookie-box');
+		const cookieButton = document.getElementById('js-cookie-button');
+		if (!Cookies.get('cookie-box')) {
+			cookieBox.classList.remove('cookie-box-hide');
+			cookieButton.onclick = function () {
+				Cookies.set('cookie-box', true, {
+					expires:  2 
+				});
+				cookieBox.classList.add('cookie-box-hide');
+			};
+		}
+	})(jQuery);
+</script>
+
+
+<style>
+.cookie-box {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 999;
+  padding: 1rem 2rem;
+  background: rgb(71, 71, 71);
+  transition: all .75s cubic-bezier(.19, 1, .22, 1);
+  color: #fdfdfd;
+}
+
+.cookie-box-hide {
+  display: none;
+}
+</style>
+
+</body>
+</html>

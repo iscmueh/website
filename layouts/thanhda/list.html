@@ -1,0 +1,39 @@
+{{ define "main" }}
+
+<section class="container py-5">
+  <h1 class="text-center">
+    Drowing minor cities / Urban Adaptation Scenarios for Thanh Da
+  </h1>
+  <div class="row min-h-[400px]" style="margin-top: 100px">
+    <div class="col-lg-5 col-12 mt-3 mt-lg-0 h-full">
+      <p class="text-justify">
+        Each year, ISCM has collaborated with international partners in order to
+        create interactive design studios between the local and global students
+        and experts. In these studios, we are all together trying to explore
+        alternative future scenarios for urban environments to contribute to
+        smart and sustainable cities.
+      </p>
+    </div>
+    <div class="col-lg-7 col-12 max-h-[450px]">
+      <figure class="w-full h-fit">
+        <img
+          src="/images/studiolab/collaboration/thanhda/thanhda.jpg"
+          alt=""
+          class="w-full h-full object-contain object-top"
+        />
+      </figure>
+    </div>
+  </div>
+  <div class="row gap-y-3 mt-24" style="margin-top: 150px">
+    {{ range .Data.Pages}}
+    <div
+      class="col-lg-4 col-12 flex justify-center"
+      style="margin-bottom: 64px"
+    >
+      {{ .Render "thanhda" }}
+    </div>
+    {{ end }}
+  </div>
+</section>
+
+{{ end }}

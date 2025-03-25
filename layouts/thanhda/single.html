@@ -1,0 +1,75 @@
+{{ define "main" }}
+
+<section class="container py-8">
+  <h1 class="text-center">{{.Title}}</h1>
+  <div class="row mt-20" style="margin-top: 64px">
+    <div class="col-lg-5 col-12 h-full">
+      <div class="">
+        <span class="row">
+          <p class="underline font-weight-bold mb-0 col-12 col-md-6">Date:</p>
+          <p class="col-12 col-md-6">
+            {{ if .Params.Date }}{{ .Params.Date.Format "Monday, January 2,2006"
+            }} {{else}} <span>unknow</span> {{end}}.
+          </p>
+        </span>
+        <span class="row">
+          <p class="underline font-weight-bold mb-0 col-12 col-md-6">
+            Location:
+          </p>
+          <p class="col-12 col-md-6">{{.Params.location}}.</p>
+        </span>
+        <span>
+          <p class="underline font-weight-bold mb-0">Supervisor Team:</p>
+          <div class="flex flex-wrap">
+            {{ range .Params.supervisor }}
+            <p class="mb-2 w-1/2 text-center col-12 col-lg-6">{{.}}</p>
+            {{ end }}
+          </div>
+        </span>
+        <span>
+          <p class="underline font-weight-bold mb-0">Student List:</p>
+          <div class="flex flex-wrap row">
+            {{ range .Params.members }}
+            <p class="mb-2 w-1/2 text-center col-12 col-lg-6">{{.}}</p>
+            {{ end }}
+          </div>
+        </span>
+        <span>
+          <p class="underline font-weight-bold mb-0">Description:</p>
+          <div class="flex flex-wrap row">
+            <p class="mb-2 pl-4 w-1/2 text-justify col-12">
+              {{.Params.descriptionn | safeHTML}}
+            </p>
+          </div>
+        </span>
+      </div>
+    </div>
+    <div class="col-1 d-lg-block d-none"></div>
+    <div class="col-lg-6 col-12">
+      <figure class="w-full mt-2 mt-lg-0 mb-5 mb-lg-0">
+        <img
+          src="{{.Params.thumbnail}}"
+          alt="{para.id}"
+          width="{1000}"
+          height="{800}"
+          quality="{100}"
+          class="w-full h-full object-contain object-top"
+        />
+      </figure>
+      <div class="mt-3">
+        {{ range .Params.gallery }}
+        <div
+          className="box w-full mb-[10px] break-inside-avoid overflow-hidden"
+          key="{item}"
+        >
+          <div className="flex justify-center w-full overflow-hidden">
+            <img class="mb-2 w-1/2 text-center w-full" src="{{. | relURL}}" />
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
