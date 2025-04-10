@@ -15,11 +15,13 @@
       class="card-text"
       style="
         display: -webkit-box;
-        -webkit-line-clamp: 2;
-        -webkit-box-orient: vertical;
+        --webkit-line-clamp: 2;
+        --webkit-box-orient: vertical;
         overflow: hidden;
         word-break: keep-all;
         text-overflow: ellipsis;
+        z-index: 99999;
+        position: relative;
       "
     >
       {{ .Summary | truncate 150 }}

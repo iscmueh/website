@@ -54,18 +54,22 @@
           href="{{ .Permalink }}"
           style="
             display: -webkit-box;
-            -webkit-line-clamp: 2;
-            -webkit-box-orient: vertical;
+            --webkit-line-clamp: 2;
+            --webkit-box-orient: vertical;
             overflow: hidden;
             word-break: keep-all;
             text-decoration: none;
             text-overflow: ellipsis;
+            z-index: 99999;
+            position: relative;
           "
           class="text-uppercase"
           >{{ .Params.post }}</a
         >
       </h4>
-      {{ if .Summary}}<p class="card-text mb-4">{{ .Summary | truncate 100 }}</p>{{end}}
+      {{ if .Summary}}
+      <p class="card-text mb-4">{{ .Summary | truncate 100 }}</p>
+      {{end}}
     </div>
     <a
       href="{{ .Permalink }}"
