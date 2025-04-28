@@ -11,7 +11,7 @@ image: "images/team/members/Lê Phúc Toàn 2.jpg"
 course: "Staff"
 position: ""
 # biograph
-bio: ""
+bio: "<b>Le Phuc Toan</b> is currently a Ph.D. candidate in the Integrated Science of Built Environment (ISBE) program at Thammasat Design School, Thammasat University, Thailand. He earned his Bachelor's degree in Urban and Regional Planning from Ton Duc Thang University, Vietnam, in 2020. His research interests focus on urban planning and design, low-income community development, informal settlements, and smart cities. In addition to his academic work, he is involved in smart city development research projects at the Institute of Smart City and Management (ISCM), UEH University. Previously, he had experience in urban residential architectural design in Ho Chi Minh City."
 
 # contact info
 contact:

@@ -1502,18 +1502,6 @@
                 href="https://www.iscm.ueh.edu.vn/vi/members/msc-tam-do/"
                 />
   </url><url>
-    <loc>https://www.iscm.ueh.edu.vn/vi/members/mar-steven/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.iscm.ueh.edu.vn/members/mar-steven/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vi"
-                href="https://www.iscm.ueh.edu.vn/vi/members/mar-steven/"
-                />
-  </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/network/dr.-nguyen-anh-tuan/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1779,7 +1767,7 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/</loc>
-    <lastmod>2025-04-04T21:30:00+00:00</lastmod>
+    <lastmod>2025-04-24T09:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -1792,7 +1780,7 @@
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/news/</loc>
-    <lastmod>2025-04-04T21:30:00+00:00</lastmod>
+    <lastmod>2025-04-24T09:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -1802,6 +1790,19 @@
                 rel="alternate"
                 hreflang="vi-vi"
                 href="https://www.iscm.ueh.edu.vn/vi/news/"
+                />
+  </url><url>
+    <loc>https://www.iscm.ueh.edu.vn/vi/news/ueh-recording-a-historic-milestone-top-136/</loc>
+    <lastmod>2025-04-24T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://www.iscm.ueh.edu.vn/news/ueh-recording-a-historic-milestone-top-136/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vi"
+                href="https://www.iscm.ueh.edu.vn/vi/news/ueh-recording-a-historic-milestone-top-136/"
                 />
   </url><url>
     <loc>https://www.iscm.ueh.edu.vn/vi/news/toadam_biueh/</loc>

@@ -41,7 +41,7 @@ weight: 8
 1. - Lecturer, Institute of Smart City and Management, University of Economics Ho Chi Minh City, Vietnam, present
 1. - Industry Lecturer, PSO MBA Program, International School of Business, University of Economics Ho Chi Minh City, Vietnam, 2023 - present
 1. - Head of Training and Development, Skills Bridge, 2022 - 2023
-1. - Supply Chain Analyst, CEL Consulting, 2021 - 2022
+1. - Supply Chain Analyst, CEL Consulting, 2020 - 2021
 1. - Lecturer, Ho Chi Minh City University of Transport, 2012 - 2020
 
 ### Other Activities
